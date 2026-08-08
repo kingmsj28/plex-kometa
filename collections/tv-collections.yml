@@ -119,5 +119,5 @@ collections:
     collection_mode: show_items
     collection_order: release
 
-    # url_poster:
+    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/tv-collections/WWE TV/WWETV.png
     # url_background:
