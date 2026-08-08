@@ -100,3 +100,24 @@ collections:
 
     url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/tv-collections/World-of-Ice-and-Fire.png
     # url_background:
+
+  ##################################################
+  # WWE Collection
+  ##################################################
+
+  WWE Collection:
+    sort_title: "!30 - Franchise"
+
+    tmdb_show:
+      - 4656      # WWE Raw (1993)
+      - 1549      # WWE SmackDown (1999)
+      - 31991     # WWE NXT (2010)
+      - 3894      # WWE ECW (2006)
+      - 289485    # WWE: Unreal (2025)
+
+    sync_mode: sync
+    collection_mode: show_items
+    collection_order: release
+
+    # url_poster:
+    # url_background:
