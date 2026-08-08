@@ -1102,7 +1102,7 @@ metadata:
   # WWE NXT (2010)
   ##################################################
 
-  205620: # TVDB id for WWE NXT
+  144541: # TVDB id for WWE NXT
     url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/tv-collections/WWE%20TV/NXT/WWE%20NXT%20%282010%29.png
     seasons:
       0:
