@@ -112,7 +112,6 @@ collections:
       - 4656      # WWE Raw (1993)
       - 1549      # WWE SmackDown (1999)
       - 31991     # WWE NXT (2010)
-      - 3894      # WWE ECW (2006)
       - 289485    # WWE: Unreal (2025)
 
     sync_mode: sync
