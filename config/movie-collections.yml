@@ -8,7 +8,7 @@ collections:
     sort_title: "!01 - 1910s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/1910s.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1910s.png
     plex_search:
       year.gte: 1910
       year.lte: 1919
@@ -17,7 +17,7 @@ collections:
     sort_title: "!02 - 1920s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/1920s.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1920s.png
     plex_search:
       year.gte: 1920
       year.lte: 1929
@@ -26,7 +26,7 @@ collections:
     sort_title: "!03 - 1930s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/1930s.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1930s.png
     plex_search:
       year.gte: 1930
       year.lte: 1939
@@ -35,7 +35,7 @@ collections:
     sort_title: "!04 - 1940s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/1940s.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1940s.png
     plex_search:
       year.gte: 1940
       year.lte: 1949
@@ -44,7 +44,7 @@ collections:
     sort_title: "!05 - 1950s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/1950s.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1950s.png
     plex_search:
       year.gte: 1950
       year.lte: 1959
@@ -53,7 +53,7 @@ collections:
     sort_title: "!06 - 1960s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/1960s.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1960s.png
     plex_search:
       year.gte: 1960
       year.lte: 1969
@@ -62,7 +62,7 @@ collections:
     sort_title: "!07 - 1970s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/1970s.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1970s.png
     plex_search:
       year.gte: 1970
       year.lte: 1979
@@ -71,7 +71,7 @@ collections:
     sort_title: "!08 - 1980s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/1980s.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1980s.png
     plex_search:
       year.gte: 1980
       year.lte: 1989
@@ -80,7 +80,7 @@ collections:
     sort_title: "!09 - 1990s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/1990s.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1990s.png
     plex_search:
       year.gte: 1990
       year.lte: 1999
@@ -89,7 +89,7 @@ collections:
     sort_title: "!10 - 2000s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/2000s.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/2000s.png
     plex_search:
       year.gte: 2000
       year.lte: 2009
@@ -98,7 +98,7 @@ collections:
     sort_title: "!11 - 2010s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/2010s.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/2010s.png
     plex_search:
       year.gte: 2010
       year.lte: 2019
@@ -107,7 +107,7 @@ collections:
     sort_title: "!12 - 2020s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/2020s.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/2020s.png
     plex_search:
       year.gte: 2020
       year.lte: 2029
@@ -116,7 +116,7 @@ collections:
     sort_title: "!13 - 2030s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Decades/2030s.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/2030s.png
     plex_search:
       year.gte: 2030
       year.lte: 2039
@@ -133,7 +133,7 @@ collections:
     collection_mode: show_items
     collection_order: release
     
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/MCU/poster.jpg
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-poster.jpg
     # url_background:
 
   Middle Earth:
@@ -149,7 +149,7 @@ collections:
     collection_mode: show_items
     collection_order: release
     
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/middle_earth/poster.jpeg
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/middle_earth/middle-earth-poster.jpeg
     # url_background: 
 
   Star Wars Universe:
@@ -216,5 +216,5 @@ collections:
     sync_mode: sync
     collection_mode: show_items
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Fast%20%26%20Furious/poster.jpg
-    url_background: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/Fast%20%26%20Furious/fanart.jpg
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/fast-and-furious/poster.jpg
+    url_background: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/fast-and-furious/fanart.jpg

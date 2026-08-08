@@ -22,7 +22,7 @@ collections:
     collection_mode: show_items
     collection_order: release
 
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/tv-collections/Marvel-Television.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/marvel-television.png
     # url_background:
 
   ##################################################
@@ -42,7 +42,7 @@ collections:
     collection_mode: show_items
     collection_order: release
 
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/tv-collections/Dexter-Collection.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/dexter-collection.png
     # url_background:
 
   ##################################################
@@ -60,7 +60,7 @@ collections:
     collection_mode: show_items
     collection_order: release
 
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/tv-collections/Breaking-Bad-Collection.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/breaking-bad-collection.png
     # url_background:
 
   ##################################################
@@ -79,7 +79,7 @@ collections:
     collection_mode: show_items
     collection_order: release
 
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/tv-collections/VCU.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/vcu.png
     # url_background:
 
 
@@ -98,7 +98,7 @@ collections:
     collection_mode: show_items
     collection_order: release
 
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/tv-collections/World-of-Ice-and-Fire.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/world-of-ice-and-fire.png
     # url_background:
 
   ##################################################
@@ -118,5 +118,5 @@ collections:
     collection_mode: show_items
     collection_order: release
 
-    url_poster: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/tv-collections/WWE TV/WWETV.png
-    url_background: https://raw.githubusercontent.com/kingmsj28/kometa-collections/main/assets/collections/tv-collections/WWE TV/WWETVfanart.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/wwe-tv-poster.png
+    url_background: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/wwe-tv-fanart.png
