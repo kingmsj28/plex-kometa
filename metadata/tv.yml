@@ -1080,3 +1080,20 @@ metadata:
             url_poster: https://api.mediux.pro/assets/f105fb58-ef94-415e-b054-e6853e1cf6f5
           8:
             url_poster: https://api.mediux.pro/assets/5d5fc7cf-c510-43f4-9325-d137a3cb73d1
+
+  ##################################################
+  # WWE: Unreal (2025)
+  ##################################################
+
+  462799: # TVDB id for WWE: Unreal
+    url_poster: https://api.mediux.pro/assets/4d9b2b2f-d30f-4ea5-961b-734318dc04ea
+
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a189ccca-8c77-45de-b289-7d0c74e47646
+
+      2:
+        url_poster: https://api.mediux.pro/assets/1753843b-ac3d-4606-8d1f-69d0bffe4537
+
+      3:
+        url_poster: https://api.mediux.pro/assets/6497c0fc-9ecf-4a24-8ac3-460adaa1040a
