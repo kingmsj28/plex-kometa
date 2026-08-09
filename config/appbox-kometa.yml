@@ -26,9 +26,11 @@ libraries:
         url_poster_131292: https://api.mediux.pro/assets/276ee4a9-875b-4324-a612-2a214a2e5d31 # Iron Man
         url_poster_726870: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/view_askewniverse/jay-and-silent-bob-poster.jpg # Jay and Silent Bob
         url_poster_119: https://api.mediux.pro/assets/0e957d39-59c6-4419-871b-fb250dc5ed77 # The Lord of the Rings
+        url_poster_295: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/potc/pirates-of-the-caribbean-collection.png # Pirates of the Caribbean
         url_poster_531241: https://api.mediux.pro/assets/c3d5982f-1baa-4959-b764-361f40342d8e # Spider-Man (Avengers)
         url_poster_121938: https://api.mediux.pro/assets/b8a558a5-b6fe-423b-92e9-649c25eaa5e7 # The Hobbit
         url_poster_131296: https://api.mediux.pro/assets/639ade15-6556-4a6b-ae24-84350574415a # Thor
+        url_poster_748: https://api.mediux.pro/assets/f69cb745-5117-49f4-bfc5-f8f84cd8aa35 # X-Men
         
     - default: universe
       template_variables:
