@@ -27,6 +27,7 @@ libraries:
     - default: franchise
       template_variables:
         collection_mode: hide
+        url_poster_422834: https://api.mediux.pro/assets/6e438cab-bba2-4431-b49d-f86b6cad2bc1 # Ant-Man
         
     - default: universe
       template_variables:
@@ -51,6 +52,7 @@ libraries:
     - default: franchise
       template_variables:
         collection_mode: hide
+        url_poster_422834: https://api.mediux.pro/assets/6e438cab-bba2-4431-b49d-f86b6cad2bc1 # Ant-Man
         
     - default: universe
       template_variables:
