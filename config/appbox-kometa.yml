@@ -33,8 +33,8 @@ libraries:
     metadata_files:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-metadata.yml
 
-    overlay_files:
-    - default: resolution
+    #overlay_files:
+    #- default: resolution
 
   MATT MOVIES - 1080p:
     operations:
@@ -54,8 +54,8 @@ libraries:
     metadata_files:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-metadata.yml
 
-    overlay_files:
-    - default: resolution
+    #overlay_files:
+    #- default: resolution
 
   MATT TV - 1080p:
     operations:
@@ -77,5 +77,5 @@ libraries:
     - default: resolution
 
   Stand Up Comedy:
-    overlay_files:
-    - default: resolution
+    #overlay_files:
+    #- default: resolution
