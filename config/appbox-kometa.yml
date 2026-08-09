@@ -35,6 +35,7 @@ libraries:
     - default: universe
       template_variables:
         collection_mode: hide
+        collection_order_star: release
         exclude:
           - fast
           - xmen
@@ -102,6 +103,7 @@ libraries:
     - default: universe
       template_variables:
         collection_mode: hide
+        collection_order_star: release
         exclude:
           - fast
           - xmen
