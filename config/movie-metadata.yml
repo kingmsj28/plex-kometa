@@ -362,3 +362,13 @@ metadata:
 
   320288: # Dark Phoenix (2019) Poster by willtong93 on MediUX
     url_poster: https://api.mediux.pro/assets/db3deca4-5d9b-4eb5-89b3-11e11ead0d11
+    
+  ########################################
+  # Standalone Movies
+  ########################################
+
+  1083381: # Backrooms (2026)
+    url_poster: https://api.mediux.pro/assets/6df3b67c-278d-4d87-b5e2-a1f3efe8b6bf
+
+  1339713: # Obsession (2026)
+    url_poster: https://api.mediux.pro/assets/3a0e96fd-e6d3-4b10-b871-c4751ef29bb2
