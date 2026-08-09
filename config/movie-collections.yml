@@ -264,3 +264,4 @@ collections:
     sort_title: "!050_Franchise Collections"
     blank_collection: true
     collection_mode: hide
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/separators/franchise-separator.png
