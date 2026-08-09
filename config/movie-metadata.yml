@@ -296,3 +296,22 @@ metadata:
 
   338953: # Fantastic Beasts: The Secrets of Dumbledore (2022) Poster by willtong93 on MediUX
     url_poster: https://api.mediux.pro/assets/82db0dae-a0e1-4b7d-b99f-fa5191d73dc0
+    
+  ########################################
+  # Pirates of the Caribbean
+  ########################################
+
+  22: # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-the-curse-of-the-black-pearl-2003.png
+
+  58: # Pirates of the Caribbean: Dead Man's Chest (2006)
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-dead-mans-chest-2006.png
+
+  285: # Pirates of the Caribbean: At World's End (2007)
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-at-worlds-end-2007.png
+
+  1865: # Pirates of the Caribbean: On Stranger Tides (2011)
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-on-stranger-tides-2011.png
+
+  166426: # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-dead-men-tell-no-tales-2017.png
