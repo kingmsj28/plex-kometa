@@ -16,7 +16,9 @@ libraries:
         url_poster_182813: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/view_askewniverse/clerks-poster.jpg # Clerks
         url_poster_435259: https://api.mediux.pro/assets/332dd54d-97ce-4ee2-818a-664182c65d78 # Fantastic Beasts
         url_poster_1241: https://api.mediux.pro/assets/fddb4374-62fa-4e29-b0bc-364215ef4280 # Harry Potter
-        url_poster_726871: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/view_askewniverse/jay-and-silent-bob-poster.jpg # Jay and Silent Bob
+        url_poster_121938: https://api.mediux.pro/assets/b8a558a5-b6fe-423b-92e9-649c25eaa5e7 # The Hobbit
+        url_poster_726870: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/view_askewniverse/jay-and-silent-bob-poster.jpg # Jay and Silent Bob
+        url_poster_119: https://api.mediux.pro/assets/0e957d39-59c6-4419-871b-fb250dc5ed77 # The Lord of the Rings
         
     - default: universe
       template_variables:
@@ -59,7 +61,9 @@ libraries:
         url_poster_182813: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/view_askewniverse/clerks-poster.jpg # Clerks
         url_poster_435259: https://api.mediux.pro/assets/332dd54d-97ce-4ee2-818a-664182c65d78 # Fantastic Beasts
         url_poster_1241: https://api.mediux.pro/assets/fddb4374-62fa-4e29-b0bc-364215ef4280 # Harry Potter
-        url_poster_726871: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/view_askewniverse/jay-and-silent-bob-poster.jpg # Jay and Silent Bob
+        url_poster_121938: https://api.mediux.pro/assets/b8a558a5-b6fe-423b-92e9-649c25eaa5e7 # The Hobbit
+        url_poster_726870: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/view_askewniverse/jay-and-silent-bob-poster.jpg # Jay and Silent Bob
+        url_poster_119: https://api.mediux.pro/assets/0e957d39-59c6-4419-871b-fb250dc5ed77 # The Lord of the Rings
         
     - default: universe
       template_variables:
