@@ -29,6 +29,9 @@ libraries:
         collection_mode: hide
         
     - default: universe
+      template_variables:
+        exclude:
+          - xmen
 
     metadata_files:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-metadata.yml
@@ -50,6 +53,9 @@ libraries:
         collection_mode: hide
         
     - default: universe
+      template_variables:
+        exclude:
+          - xmen
 
     metadata_files:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-metadata.yml
