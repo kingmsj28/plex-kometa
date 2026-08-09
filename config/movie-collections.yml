@@ -255,3 +255,12 @@ collections:
     #collection_order: release
     #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/fast-and-furious/poster.jpg
     #url_background: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/fast-and-furious/fanart.jpg
+
+  ##################################################
+  # Franchise Collections Separator
+  ##################################################
+
+  Franchise Collections:
+    sort_title: "!050_Franchise Collections"
+    blank_collection: true
+    collection_mode: hide
