@@ -200,7 +200,7 @@ collections:
     collection_mode: show_items
     collection_order: release
 
-    url_poster: url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/universe/wizard.jpg
+    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/universe/wizard.jpg
     # url_background:
 
   ##################################################
