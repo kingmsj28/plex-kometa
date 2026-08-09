@@ -1,0 +1,69 @@
+libraries:
+
+  MATT TV:
+    operations:
+      delete_collections:
+        configured: false
+        managed: true
+
+    collection_files:
+    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv-collections.yml
+
+    - default: network
+    - default: streaming
+
+    metadata_files:
+    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv-metadata.yml
+
+  MATT MOVIES:
+    operations:
+      delete_collections:
+        configured: false
+        managed: true
+
+    collection_files:
+    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-collections.yml
+
+    metadata_files:
+    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-metadata.yml
+
+    overlay_files:
+    - default: resolution
+
+  MATT MOVIES - 1080p:
+    operations:
+      delete_collections:
+        configured: false
+        managed: true
+
+    collection_files:
+    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-collections.yml
+
+    metadata_files:
+    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-metadata.yml
+
+    overlay_files:
+    - default: resolution
+
+  MATT TV - 1080p:
+    operations:
+      delete_collections:
+        configured: false
+        managed: true
+
+    collection_files:
+    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv-collections.yml
+
+    - default: network
+    - default: streaming
+
+    metadata_files:
+    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv-metadata.yml
+
+  WWE Events:
+    overlay_files:
+    - default: resolution
+
+  Stand Up Comedy:
+    overlay_files:
+    - default: resolution
