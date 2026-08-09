@@ -244,18 +244,6 @@ collections:
   # Franchises
   ##################################################
 
-  #Fast & Furious*:
-    #sort_title: "!050 - Franchise"
-    #tmdb_collection: 9485
-    #tmdb_movie:
-      #- 384018   # Fast & Furious Presents: Hobbs
-
-    #sync_mode: sync
-    #collection_mode: hide
-    #collection_order: release
-    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/fast-and-furious/poster.jpg
-    #url_background: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/fast-and-furious/fanart.jpg
-
   ##################################################
   # Franchise Collections Separator
   ##################################################
@@ -265,3 +253,13 @@ collections:
     blank_collection: true
     collection_mode: hide
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/separators/franchise-separator.png
+    
+  Wolverine*:
+    tmdb_movie:
+      - 2080    # X-Men Origins: Wolverine (2009)
+      - 76170   # The Wolverine (2013)
+      - 263115  # Logan (2017)
+    sync_mode: sync
+    collection_mode: hide
+    collection_order: release
+    url_poster: https://api.mediux.pro/assets/3d1d4040-97c0-4260-941c-590e817418d6
