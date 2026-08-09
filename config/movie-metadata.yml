@@ -315,3 +315,50 @@ metadata:
 
   166426: # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-dead-men-tell-no-tales-2017.png
+    
+  ########################################
+  # Deadpool
+  ########################################
+
+  293660: # Deadpool (2016) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/de0134e3-abb2-4f86-b321-c76041b221f1
+
+  383498: # Deadpool 2 (2018) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/2b0f39af-8e93-4609-9e50-33d4bbb21f63
+
+  533535: # Deadpool & Wolverine (2024) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/f27e2fcb-48bd-406a-8a7c-0b980672298f
+    
+  ########################################
+  # X-Men
+  ########################################
+
+  36657: # X-Men (2000) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/3a56ad21-44cb-4258-bfb0-827b2095207d
+
+  36658: # X2 (2003) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/82e8afcb-2736-4ea3-866a-8460e13c0b3d
+
+  36668: # X-Men: The Last Stand (2006) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/d7a4721e-75ce-4480-b3ba-0947e6b5d7f5
+
+  2080: # X-Men Origins: Wolverine (2009) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/bdc7f338-55a7-4aab-be04-a209661c1cbc
+
+  49538: # X-Men: First Class (2011) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/6ee29981-b083-4906-89ed-da1f0f94d114
+
+  76170: # The Wolverine (2013) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/800864b2-29e2-4c7b-a83f-83b078c0b23f
+
+  127585: # X-Men: Days of Future Past (2014) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/5edec11b-8972-4b1f-aa1b-9ffb81a2e903
+
+  246655: # X-Men: Apocalypse (2016) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/14cca66c-681a-4935-87d7-ac46221d31c7
+
+  263115: # Logan (2017) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/14c6a604-5fe6-4dd8-ac63-8b9703f7c2cb
+
+  320288: # Dark Phoenix (2019) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/db3deca4-5d9b-4eb5-89b3-11e11ead0d11
