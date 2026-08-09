@@ -1,20 +1,5 @@
 libraries:
 
-  MATT TV:
-    operations:
-      delete_collections:
-        configured: false
-        managed: true
-
-    collection_files:
-    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv-collections.yml
-
-    - default: network
-    - default: streaming
-
-    metadata_files:
-    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv-metadata.yml
-
   MATT MOVIES:
     operations:
       delete_collections:
@@ -43,6 +28,21 @@ libraries:
 
     #overlay_files:
     #- default: resolution
+
+  MATT TV:
+    operations:
+      delete_collections:
+        configured: false
+        managed: true
+
+    collection_files:
+    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv-collections.yml
+
+    - default: network
+    - default: streaming
+
+    metadata_files:
+    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv-metadata.yml
 
   MATT MOVIES - 1080p:
     operations:
