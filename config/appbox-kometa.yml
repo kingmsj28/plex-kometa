@@ -26,7 +26,7 @@ libraries:
         exclude:
           - xmen
           
-    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-collectionless.yml
+    #- url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-collectionless.yml
 
     metadata_files:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-metadata.yml
@@ -79,7 +79,7 @@ libraries:
         exclude:
           - xmen
           
-    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-collectionless.yml
+    #- url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-collectionless.yml
 
     metadata_files:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-metadata.yml
