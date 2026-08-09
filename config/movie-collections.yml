@@ -143,7 +143,7 @@ collections:
     #imdb_list:
       #list_id: ls539646485
     #sync_mode: sync
-    #collection_mode: show_items
+    #collection_mode: hide
     #collection_order: release
     
     #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-poster.jpg
@@ -159,7 +159,7 @@ collections:
       - 57158     # The Hobbit: The Desolation of Smaug (2013)
       - 122917    # The Hobbit: The Battle of the Five Armies (2014)
     sync_mode: sync
-    collection_mode: show_items
+    collection_mode: hide
     collection_order: release
     
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/universe/middle.jpg
@@ -170,7 +170,7 @@ collections:
     #imdb_list:
       #list_id: ls501373412
     #sync_mode: sync
-    #collection_mode: show_items
+    #collection_mode: hide
     #collection_order: release
 
     #url_poster: https://api.mediux.pro/assets/60209ad6-d0a8-4d55-a42a-ec0e9e1de3ae
@@ -189,7 +189,7 @@ collections:
       - 440762    # Jay and Silent Bob Reboot (2019)
       - 635891    # Clerks III (2022)
     sync_mode: sync
-    collection_mode: show_items
+    collection_mode: hide
     collection_order: release
 
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/universe/askew.jpg
@@ -210,7 +210,7 @@ collections:
       - 338952    # Fantastic Beasts: The Crimes of Grindelwald (2018)
       - 338953    # Fantastic Beasts: The Secrets of Dumbledore (2022)
     sync_mode: sync
-    collection_mode: show_items
+    collection_mode: hide
     collection_order: release
 
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/universe/wizard.jpg
@@ -234,7 +234,7 @@ collections:
       - 340102    # The New Mutants (2020)
       - 533535    # Deadpool & Wolverine (2024)
     sync_mode: sync
-    collection_mode: show_items
+    collection_mode: hide
     collection_order: release
 
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/universe/xmen.jpg
@@ -251,7 +251,7 @@ collections:
       #- 384018   # Fast & Furious Presents: Hobbs
 
     #sync_mode: sync
-    #collection_mode: show_items
+    #collection_mode: hide
     #collection_order: release
     #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/fast-and-furious/poster.jpg
     #url_background: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/fast-and-furious/fanart.jpg

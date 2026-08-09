@@ -19,7 +19,7 @@ collections:
       - 69088    # Agents of S.H.I.E.L.D.: Slingshot (2016)
 
     sync_mode: sync
-    collection_mode: show_items
+    collection_mode: hide
     collection_order: release
 
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/marvel-television.png
@@ -39,7 +39,7 @@ collections:
       - 259909    # Dexter: Resurrection (2025)
 
     sync_mode: sync
-    collection_mode: show_items
+    collection_mode: hide
     collection_order: release
 
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/dexter-collection.png
@@ -57,7 +57,7 @@ collections:
       - 60059     # Better Call Saul (2015)
 
     sync_mode: sync
-    collection_mode: show_items
+    collection_mode: hide
     collection_order: release
 
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/breaking-bad-collection.png
@@ -76,7 +76,7 @@ collections:
       - 119279    # The Boys Presents: Diabolical (2022)
 
     sync_mode: sync
-    collection_mode: show_items
+    collection_mode: hide
     collection_order: release
 
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/vcu.png
@@ -95,7 +95,7 @@ collections:
       - 94997     # House of the Dragon (2022)
 
     sync_mode: sync
-    collection_mode: show_items
+    collection_mode: hide
     collection_order: release
 
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/world-of-ice-and-fire.png
@@ -115,7 +115,7 @@ collections:
       - 289485    # WWE: Unreal (2025)
 
     sync_mode: sync
-    collection_mode: show_items
+    collection_mode: hide
     collection_order: release
 
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/wwe-tv-poster.png
