@@ -43,7 +43,12 @@ libraries:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv-collections.yml
 
     - default: network
+      template_variables:
+        collection_mode: hide
+
     - default: streaming
+      template_variables:
+        collection_mode: hide
 
     metadata_files:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv-metadata.yml
@@ -90,7 +95,12 @@ libraries:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv-collections.yml
 
     - default: network
+      template_variables:
+        collection_mode: hide
+
     - default: streaming
+      template_variables:
+        collection_mode: hide
 
     metadata_files:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv-metadata.yml
