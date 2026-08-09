@@ -37,7 +37,6 @@ metadata:
   385687: # Fast X (2023) Poster by willtong93 on MediUX
     url_poster: https://api.mediux.pro/assets/c489ee00-a90f-4e30-ad43-17b28f1b9953
 
-
   ##################################################
   # Marvel Cinematic Universe
   ##################################################
@@ -166,6 +165,28 @@ metadata:
     url_poster: https://api.mediux.pro/assets/22bb99c4-26a5-4b72-a389-e24701aeaacc
 
   ##################################################
+  # Middle Earth
+  ##################################################
+
+  120: # The Lord of the Rings: The Fellowship of the Ring (2001) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/cfe6ff63-a4ed-45bf-81f9-12ca0dbd61f3
+
+  121: # The Lord of the Rings: The Two Towers (2002) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/a06b7076-6724-4a70-abf0-64c74e4e3ac9
+
+  122: # The Lord of the Rings: The Return of the King (2003) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/c35a8b89-0758-4ef1-8ba2-f01e9c31303f
+
+  49051: # The Hobbit: An Unexpected Journey (2012) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/29e3c4c2-8699-409f-8cc6-73c2b0e5583a
+
+  57158: # The Hobbit: The Desolation of Smaug (2013) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/b7eb3267-be1e-4b31-8d25-d36672e0542a
+
+  122917: # The Hobbit: The Battle of the Five Armies (2014) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/afaa9a94-1f9c-40bb-8405-a06b13a25cd4
+
+  ##################################################
   # Star Wars Universe
   ##################################################
 
@@ -204,3 +225,6 @@ metadata:
 
   181812: # Star Wars: The Rise of Skywalker (2019) Poster by willtong93 on MediUX
     url_poster: https://api.mediux.pro/assets/c03b307d-c1c6-4a83-a0e2-d44e170bd14c
+
+  1228710: # The Mandalorian and Grogu (2026) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/cee8fc9a-0734-4cc5-a6c5-b8679221e46d
