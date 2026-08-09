@@ -138,6 +138,15 @@ collections:
   # Universes
   ##################################################
 
+  Marvel Cinematic Universe*:
+    sort_title: "!040_Marvel Cinematic Universe*"
+    imdb_list:
+      list_id: ls539646485
+    sync_mode: sync
+    collection_mode: hide
+    collection_order: release
+    #url_poster:
+
   Middle Earth*:
     sort_title: "!040_Middle Earth*"
     tmdb_movie:
