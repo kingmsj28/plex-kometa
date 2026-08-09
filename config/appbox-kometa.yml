@@ -20,6 +20,8 @@ libraries:
       delete_collections:
         configured: false
         managed: true
+        
+    remove_overlays: true
 
     collection_files:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-collections.yml
@@ -45,6 +47,8 @@ libraries:
       delete_collections:
         configured: false
         managed: true
+        
+    remove_overlays: true
 
     collection_files:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-collections.yml
@@ -84,6 +88,6 @@ libraries:
     overlay_files:
     - default: resolution
 
-  Stand Up Comedy:
+  #Stand Up Comedy:
     #overlay_files:
     #- default: resolution
