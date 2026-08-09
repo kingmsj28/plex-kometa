@@ -126,7 +126,7 @@ collections:
   ##################################################
 
   #Marvel Cinematic Universe (Manual):
-    #sort_title: "!20 - Universe"
+    #sort_title: "!040_Marvel Cinematic Universe (Manual)"
     #imdb_list:
       #list_id: ls539646485
     #sync_mode: sync
@@ -137,7 +137,7 @@ collections:
     # url_background:
 
   Middle Earth (Manual):
-    sort_title: "!20 - Universe"
+    sort_title: "!040_Middle Earth (Manual)"
     tmdb_movie:
       - 120       # The Lord of the Rings: The Fellowship of the Ring (2001)
       - 121       # The Lord of the Rings: The Two Towers (2002)
@@ -153,7 +153,7 @@ collections:
     # url_background: 
 
   #Star Wars Universe (Manual):
-    #sort_title: "!20 - Universe"
+    #sort_title: "!040_Star Wars Universe (Manual)"
     #imdb_list:
       #list_id: ls501373412
     #sync_mode: sync
@@ -164,7 +164,7 @@ collections:
     #url_background: https://api.mediux.pro/assets/a70c2519-7180-4b59-854b-742af7bf4ad2
 
   View Askewniverse (Manual):
-    sort_title: "!20 - Universe"
+    sort_title: "!040_View Askewniverse (Manual)"
     tmdb_movie:
       - 2292      # Clerks (1994)
       - 2293      # Mallrats (1995)
@@ -183,7 +183,7 @@ collections:
     # url_background:
 
   Wizarding World (Manual):
-    sort_title: "!20 - Universe"
+    sort_title: "!040_Wizarding World (Manual)"
     tmdb_movie:
       - 671       # Harry Potter and the Sorcerer's Stone (2001)
       - 672       # Harry Potter and the Chamber of Secrets (2002)
@@ -208,7 +208,7 @@ collections:
   ##################################################
 
   #Fast & Furious (Manual):
-    #sort_title: "!30 - Franchise"
+    #sort_title: "!050 - Franchise"
     #tmdb_collection: 9485
     #tmdb_movie:
       #- 384018   # Fast & Furious Presents: Hobbs
