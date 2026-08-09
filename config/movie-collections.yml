@@ -125,7 +125,7 @@ collections:
   # Universes
   ##################################################
 
-  Marvel Cinematic Universe:
+  Marvel Cinematic Universe (Manual):
     sort_title: "!20 - Universe"
     imdb_list:
       list_id: ls539646485
@@ -136,7 +136,7 @@ collections:
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-poster.jpg
     # url_background:
 
-  Middle Earth:
+  Middle Earth (Manual):
     sort_title: "!20 - Universe"
     tmdb_movie:
       - 120       # The Lord of the Rings: The Fellowship of the Ring (2001)
@@ -152,7 +152,7 @@ collections:
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/middle_earth/middle-earth-poster.jpeg
     # url_background: 
 
-  Star Wars Universe:
+  Star Wars Universe (Manual):
     sort_title: "!20 - Universe"
     imdb_list:
       list_id: ls501373412
@@ -163,7 +163,7 @@ collections:
     url_poster: https://api.mediux.pro/assets/60209ad6-d0a8-4d55-a42a-ec0e9e1de3ae
     url_background: https://api.mediux.pro/assets/a70c2519-7180-4b59-854b-742af7bf4ad2
 
-  View Askewniverse:
+  View Askewniverse (Manual):
     sort_title: "!20 - Universe"
     tmdb_movie:
       - 2292      # Clerks (1994)
@@ -182,7 +182,7 @@ collections:
     # url_poster:
     # url_background:
 
-  Wizarding World:
+  Wizarding World (Manual):
     sort_title: "!20 - Universe"
     tmdb_movie:
       - 671       # Harry Potter and the Sorcerer's Stone (2001)
@@ -207,7 +207,7 @@ collections:
   # Franchises
   ##################################################
 
-  Fast & Furious:
+  Fast & Furious (Manual):
     sort_title: "!30 - Franchise"
     tmdb_collection: 9485
     tmdb_movie:
