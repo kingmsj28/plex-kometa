@@ -36,6 +36,7 @@ libraries:
       template_variables:
         collection_mode: hide
         exclude:
+          - fast
           - xmen
           
     #- url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-collectionless.yml
@@ -102,6 +103,7 @@ libraries:
       template_variables:
         collection_mode: hide
         exclude:
+          - fast
           - xmen
           
     #- url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-collectionless.yml
