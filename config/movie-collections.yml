@@ -145,7 +145,7 @@ collections:
     sync_mode: sync
     collection_mode: hide
     collection_order: release
-    url_poster: url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-release.jpg
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-release.jpg
 
   Middle Earth*:
     sort_title: "!040_Middle Earth*"
