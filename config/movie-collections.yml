@@ -138,17 +138,6 @@ collections:
   # Universes
   ##################################################
 
-  #Marvel Cinematic Universe*:
-    #sort_title: "!040_Marvel Cinematic Universe*"
-    #imdb_list:
-      #list_id: ls539646485
-    #sync_mode: sync
-    #collection_mode: hide
-    #collection_order: release
-    
-    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-poster.jpg
-    # url_background:
-
   Middle Earth*:
     sort_title: "!040_Middle Earth*"
     tmdb_movie:
@@ -164,17 +153,6 @@ collections:
     
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/universe/middle.jpg
     # url_background: 
-
-  #Star Wars Universe*:
-    #sort_title: "!040_Star Wars Universe*"
-    #imdb_list:
-      #list_id: ls501373412
-    #sync_mode: sync
-    #collection_mode: hide
-    #collection_order: release
-
-    #url_poster: https://api.mediux.pro/assets/60209ad6-d0a8-4d55-a42a-ec0e9e1de3ae
-    #url_background: https://api.mediux.pro/assets/a70c2519-7180-4b59-854b-742af7bf4ad2
 
   View Askewniverse*:
     sort_title: "!040_View Askewniverse*"
