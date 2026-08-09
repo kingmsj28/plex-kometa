@@ -29,6 +29,8 @@ libraries:
         collection_mode: hide
         url_poster_422834: https://api.mediux.pro/assets/6e438cab-bba2-4431-b49d-f86b6cad2bc1 # Ant-Man
         url_poster_182813: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/view_askewniverse/clerks-poster.jpg # Clerks
+        url_poster_435259: https://api.mediux.pro/assets/332dd54d-97ce-4ee2-818a-664182c65d78 # Fantastic Beasts
+        url_poster_1241: https://api.mediux.pro/assets/fddb4374-62fa-4e29-b0bc-364215ef4280 # Harry Potter
         url_poster_726871: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/view_askewniverse/jay-and-silent-bob-poster.jpg # Jay and Silent Bob
         
     - default: universe
@@ -53,9 +55,10 @@ libraries:
     
     - default: franchise
       template_variables:
-        collection_mode: hide
         url_poster_422834: https://api.mediux.pro/assets/6e438cab-bba2-4431-b49d-f86b6cad2bc1 # Ant-Man
         url_poster_182813: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/view_askewniverse/clerks-poster.jpg # Clerks
+        url_poster_435259: https://api.mediux.pro/assets/332dd54d-97ce-4ee2-818a-664182c65d78 # Fantastic Beasts
+        url_poster_1241: https://api.mediux.pro/assets/fddb4374-62fa-4e29-b0bc-364215ef4280 # Harry Potter
         url_poster_726871: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/view_askewniverse/jay-and-silent-bob-poster.jpg # Jay and Silent Bob
         
     - default: universe

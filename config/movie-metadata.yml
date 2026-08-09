@@ -259,3 +259,40 @@ metadata:
 
   635891: # Clerks III (2022)
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/view_askewniverse/clerks-iii-2022.jpg
+    
+  ##################################################
+  # Wizarding World
+  ##################################################
+
+  671: # Harry Potter and the Philosopher's Stone (2001) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/599e8af2-c002-4f6e-9d35-bfb6e1618cea
+
+  672: # Harry Potter and the Chamber of Secrets (2002) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/8826754d-8a7c-4d29-9981-03903d3886bf
+
+  673: # Harry Potter and the Prisoner of Azkaban (2004) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/67c2106b-32b3-4be0-9c34-bd06b9bc282f
+
+  674: # Harry Potter and the Goblet of Fire (2005) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/626112c9-4d2d-48a1-9694-3b1e7b8bd642
+
+  675: # Harry Potter and the Order of the Phoenix (2007) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/44acab76-4b20-4a26-abef-d827ceea04a8
+
+  767: # Harry Potter and the Half-Blood Prince (2009) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/4fbfba5e-bf6e-42a3-be67-7636a7ed844a
+
+  12444: # Harry Potter and the Deathly Hallows: Part 1 (2010) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/6a2c4755-c2fb-47b5-a0ce-3fcc9c229937
+
+  12445: # Harry Potter and the Deathly Hallows: Part 2 (2011) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/7376d614-dd8c-412c-aae7-5930ce9ecacd
+
+  259316: # Fantastic Beasts and Where to Find Them (2016) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/99b6efba-ca48-492a-82ab-b92515b91540
+
+  338952: # Fantastic Beasts: The Crimes of Grindelwald (2018) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/e15205b9-b954-425e-a03c-a72ecb6c0cff
+
+  338953: # Fantastic Beasts: The Secrets of Dumbledore (2022) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/82db0dae-a0e1-4b7d-b99f-fa5191d73dc0
