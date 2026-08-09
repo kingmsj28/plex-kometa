@@ -23,6 +23,9 @@ libraries:
 
     collection_files:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-collections.yml
+    
+    - default: franchise
+    - default: universe
 
     metadata_files:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-metadata.yml
@@ -38,6 +41,9 @@ libraries:
 
     collection_files:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-collections.yml
+    
+    - default: franchise
+    - default: universe
 
     metadata_files:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-metadata.yml
