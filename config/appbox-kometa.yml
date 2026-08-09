@@ -36,6 +36,7 @@ libraries:
       template_variables:
         collection_mode: hide
         collection_order_star: release
+        url_poster_mcu: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-timeline.jpg
         exclude:
           - fast
           - xmen
@@ -104,6 +105,7 @@ libraries:
       template_variables:
         collection_mode: hide
         collection_order_star: release
+        url_poster_mcu: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-timeline.jpg
         exclude:
           - fast
           - xmen
