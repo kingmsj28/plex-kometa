@@ -1,5 +1,9 @@
 libraries:
 
+  ANIME:
+    metadata_files:
+    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime-metadata.yml
+
   MATT MOVIES:
     operations:
       delete_collections:
