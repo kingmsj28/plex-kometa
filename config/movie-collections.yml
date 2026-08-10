@@ -266,14 +266,14 @@ collections:
   # ThanksKilling
   ##################################################
 
-  ThanksKilling*:
-    tmdb_movie:
-      - 60366 # ThanksKilling (2008)
-      - 140750 # ThanksKilling 3 (2012)
-    sync_mode: sync
-    collection_order: release
-    collection_mode: hide
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/thankskilling/thankskilling-collection.jpg
+  #ThanksKilling*:
+    #tmdb_movie:
+      #- 60366 # ThanksKilling (2008)
+      #- 140750 # ThanksKilling 3 (2012)
+    #sync_mode: sync
+    #collection_order: release
+    #collection_mode: hide
+    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/thankskilling/thankskilling-collection.jpg
     
   ##################################################
   # Wolverine
