@@ -1,2 +1,19 @@
 metadata:
 
+  ##################################################
+  # Attack on Titan
+  ##################################################
+
+  267440: # Attack on Titan
+    url_poster: https://api.mediux.pro/assets/67edaaa3-c413-4859-b339-34e97696fde0
+    seasons:
+      0: # Specials
+        url_poster: https://api.mediux.pro/assets/7513e17d-29a3-4592-a585-cbe156802e4d
+      1:
+        url_poster: https://api.mediux.pro/assets/8945e871-808d-4dec-a49d-4ecee38ff28d
+      2:
+        url_poster: https://api.mediux.pro/assets/d09cc807-2a19-47f0-9d1a-355226caa6f9
+      3:
+        url_poster: https://api.mediux.pro/assets/f076aee1-bb1e-40e4-a1c8-4b527c61e8f2
+      4:
+        url_poster: https://api.mediux.pro/assets/e524e5c2-9e03-42d4-a2a3-e44993d4d315
