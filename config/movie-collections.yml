@@ -4,65 +4,65 @@ collections:
   # Decades
   ##################################################
 
-  1910s:
-    sort_title: "!01 - 1910s"
-    sync_mode: sync
-    collection_mode: hide
-    collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1910s.png
-    plex_search:
-      year.gte: 1910
-      year.lte: 1919
+  #1910s:
+    #sort_title: "!01 - 1910s"
+    #sync_mode: sync
+    #collection_mode: hide
+    #collection_order: release
+    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1910s.png
+    #plex_search:
+      #year.gte: 1910
+      #year.lte: 1919
 
-  1920s:
-    sort_title: "!02 - 1920s"
-    sync_mode: sync
-    collection_mode: hide
-    collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1920s.png
-    plex_search:
-      year.gte: 1920
-      year.lte: 1929
+  #1920s:
+    #sort_title: "!02 - 1920s"
+    #sync_mode: sync
+    #collection_mode: hide
+    #collection_order: release
+    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1920s.png
+    #plex_search:
+      #year.gte: 1920
+      #year.lte: 1929
 
-  1930s:
-    sort_title: "!03 - 1930s"
-    sync_mode: sync
-    collection_mode: hide
-    collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1930s.png
-    plex_search:
-      year.gte: 1930
-      year.lte: 1939
+  #1930s:
+    #sort_title: "!03 - 1930s"
+    #sync_mode: sync
+    #collection_mode: hide
+    #collection_order: release
+    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1930s.png
+    #plex_search:
+      #year.gte: 1930
+      #year.lte: 1939
 
-  1940s:
-    sort_title: "!04 - 1940s"
-    sync_mode: sync
-    collection_mode: hide
-    collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1940s.png
-    plex_search:
-      year.gte: 1940
-      year.lte: 1949
+  #1940s:
+    #sort_title: "!04 - 1940s"
+    #sync_mode: sync
+    #collection_mode: hide
+    #collection_order: release
+    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1940s.png
+    #plex_search:
+      #year.gte: 1940
+      #year.lte: 1949
 
-  1950s:
-    sort_title: "!05 - 1950s"
-    sync_mode: sync
-    collection_mode: hide
-    collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1950s.png
-    plex_search:
-      year.gte: 1950
-      year.lte: 1959
+  #1950s:
+    #sort_title: "!05 - 1950s"
+    #sync_mode: sync
+    #collection_mode: hide
+    #collection_order: release
+    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1950s.png
+    #plex_search:
+      #year.gte: 1950
+      #year.lte: 1959
 
-  1960s:
-    sort_title: "!06 - 1960s"
-    sync_mode: sync
-    collection_mode: hide
-    collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1960s.png
-    plex_search:
-      year.gte: 1960
-      year.lte: 1969
+  #1960s:
+    #sort_title: "!06 - 1960s"
+    #sync_mode: sync
+    #collection_mode: hide
+    #collection_order: release
+    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1960s.png
+    #plex_search:
+      #year.gte: 1960
+      #year.lte: 1969
 
   1970s:
     sort_title: "!07 - 1970s"
