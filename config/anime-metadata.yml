@@ -232,10 +232,16 @@ metadata:
         url_poster: https://api.mediux.pro/assets/bb3c8e07-8852-4741-a9cd-fa05c54ef3bd
         episodes:
           1:
+            title: Mish-Mash Blues
+            sort_title: Mish-Mash Blues
             url_poster: https://api.mediux.pro/assets/b62a74bc-f6b0-4866-8043-48e1b4bb19b2
           3:
+            title: Knockin' on Heaven's Door
+            sort_title: Knockin' on Heaven's Door
             url_poster: https://api.mediux.pro/assets/ee37395c-40f1-4d84-8cc1-94a0d6a5cb94
           4:
+            title: Ein's Summer Vacation
+            sort_title: Ein's Summer Vacation
             url_poster: https://api.mediux.pro/assets/65a1987d-59d6-4ae2-9589-fe921416cbb8
       1:
         url_poster: https://api.mediux.pro/assets/84d6d66c-08f0-459c-a830-293493681be5
