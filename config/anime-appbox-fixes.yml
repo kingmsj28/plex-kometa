@@ -1,0 +1,51 @@
+metadata:
+
+  ##################################################
+  # Cowboy Bebop
+  ##################################################
+  #
+  # APPBOX RELEASE-SPECIFIC METADATA FIX
+  #
+  # The AppBox release uses mixed TVDB ordering:
+  #   Season 1 = TVDB DVD Order
+  #   Specials = TVDB Aired Order
+  #
+  # Plex must use TVDB DVD Order so the 26 main
+  # episodes match the actual AppBox files.
+  #
+  # This causes Plex to assign incorrect metadata
+  # to the three Specials below, so these values
+  # explicitly correct the AppBox files.
+  #
+  # Verified AppBox files:
+  #   S00E01 = Mish-Mash Blues
+  #   S00E03 = Knockin' on Heaven's Door
+  #   S00E04 = Ein's Summer Vacation
+  #
+  # IMPORTANT:
+  # Re-verify these entries if AppBox ever replaces
+  # or renumbers the underlying Cowboy Bebop files.
+  #
+  ##################################################
+
+  76885: # Cowboy Bebop
+    seasons:
+      0:
+        episodes:
+          1: # Mish-Mash Blues
+            title: Mish-Mash Blues
+            sort_title: Mish-Mash Blues
+            originally_available: 1998-06-26
+            summary: "A retrospective clip-show special in which Spike, Jet, Faye, and Ed reflect on their lives and philosophies through footage from previously aired episodes."
+
+          3: # Knockin' on Heaven's Door / Cowboy Bebop: The Movie
+            title: Knockin' on Heaven's Door
+            sort_title: Knockin' on Heaven's Door
+            originally_available: 2001-09-01
+            summary: "After a terrorist attack releases a deadly biological agent on Mars, Spike and the Bebop crew pursue the enormous bounty on the mysterious man responsible."
+
+          4: # Ein's Summer Vacation
+            title: Ein's Summer Vacation
+            sort_title: Ein's Summer Vacation
+            originally_available: 2012-12-21
+            summary: "Ein enjoys a brief summer adventure in this short Cowboy Bebop special centered on the Bebop crew's unusually intelligent corgi."
