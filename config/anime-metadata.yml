@@ -226,7 +226,7 @@ metadata:
   ##################################################
 
   76885: # Cowboy Bebop
-    url_poster: https://api.mediux.pro/assets/c916e4f5-b4cb-4f9f-8410-fc5d07697970
+    url_poster: https://api.mediux.pro/assets/a0dbf36c-c41f-41f1-b172-9f19c2987f70
     seasons:
       0:
         url_poster: https://api.mediux.pro/assets/bb3c8e07-8852-4741-a9cd-fa05c54ef3bd
@@ -238,7 +238,7 @@ metadata:
           4:
             url_poster: https://api.mediux.pro/assets/65a1987d-59d6-4ae2-9589-fe921416cbb8
       1:
-        url_poster: https://api.mediux.pro/assets/5238fbb0-e932-4084-a3ae-57f042afa3f1
+        url_poster: https://api.mediux.pro/assets/84d6d66c-08f0-459c-a830-293493681be5
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/e2f364ca-bacf-42b4-b5e2-552714814bf8
