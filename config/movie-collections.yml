@@ -138,6 +138,10 @@ collections:
   # Universes
   ##################################################
 
+  ##################################################
+  # Marvel Cinematic Universe
+  ##################################################
+
   Marvel Cinematic Universe*:
     sort_title: "!040_Marvel Cinematic Universe*"
     imdb_list:
@@ -146,6 +150,10 @@ collections:
     collection_mode: hide
     collection_order: release
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-release.jpg
+
+  ##################################################
+  # Middle Earth
+  ##################################################
 
   Middle Earth*:
     sort_title: "!040_Middle Earth*"
@@ -162,6 +170,10 @@ collections:
     
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/universe/middle.jpg
     # url_background: 
+
+  ##################################################
+  # View Askewniverse
+  ##################################################
 
   View Askewniverse*:
     sort_title: "!040_View Askewniverse*"
@@ -181,6 +193,10 @@ collections:
 
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/universe/askew.jpg
     # url_background:
+
+  ##################################################
+  # Wizarding World
+  ##################################################
 
   Wizarding World*:
     sort_title: "!040_Wizarding World*"
@@ -203,6 +219,10 @@ collections:
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/universe/wizard.jpg
     # url_background:
     
+  ##################################################
+  # X-Men Universe
+  ##################################################
+
   X-Men Universe*:
     sort_title: "!040_X-Men Universe*"
     tmdb_movie:
@@ -227,6 +247,7 @@ collections:
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/universe/xmen.jpg
     # url_background:
 
+
   ##################################################
   # Franchises
   ##################################################
@@ -241,6 +262,23 @@ collections:
     collection_mode: hide
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/separators/franchise-separator.png
     
+  ##################################################
+  # ThanksKilling
+  ##################################################
+
+  ThanksKilling*:
+    tmdb_movie:
+      - 60366 # ThanksKilling (2008)
+      - 140750 # ThanksKilling 3 (2012)
+    sync_mode: sync
+    collection_order: release
+    collection_mode: hide
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/thankskilling/thankskilling-collection.jpg
+    
+  ##################################################
+  # Wolverine
+  ##################################################
+
   Wolverine*:
     tmdb_movie:
       - 2080    # X-Men Origins: Wolverine (2009)

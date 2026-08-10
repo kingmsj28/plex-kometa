@@ -83,17 +83,6 @@ metadata:
     url_poster: https://api.mediux.pro/assets/23458143-2392-4ac7-b9aa-f41a77d0fdeb
 
   ##################################################
-  # Deadpool
-  ##################################################
-
-  293660: # Deadpool (2016) Poster by willtong93 on MediUX
-    url_poster: https://api.mediux.pro/assets/de0134e3-abb2-4f86-b321-c76041b221f1
-
-  383498: # Deadpool 2 (2018) Poster by willtong93 on MediUX
-    url_poster: https://api.mediux.pro/assets/2b0f39af-8e93-4609-9e50-33d4bbb21f63
-    
-
-  ##################################################
   # Fast & Furious
   ##################################################
 
@@ -280,26 +269,6 @@ metadata:
     url_poster: https://api.mediux.pro/assets/afaa9a94-1f9c-40bb-8405-a06b13a25cd4
 
   ##################################################
-  # Pirates of the Caribbean
-  ##################################################
-
-  22: # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-the-curse-of-the-black-pearl-2003.png
-
-  58: # Pirates of the Caribbean: Dead Man's Chest (2006)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-dead-mans-chest-2006.png
-
-  285: # Pirates of the Caribbean: At World's End (2007)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-at-worlds-end-2007.png
-
-  1865: # Pirates of the Caribbean: On Stranger Tides (2011)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-on-stranger-tides-2011.png
-
-  166426: # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-dead-men-tell-no-tales-2017.png
-    
-
-  ##################################################
   # Star Wars Universe
   ##################################################
 
@@ -343,17 +312,6 @@ metadata:
     url_poster: https://api.mediux.pro/assets/cee8fc9a-0734-4cc5-a6c5-b8679221e46d
 
   ##################################################
-  # ThanksKilling
-  ##################################################
-
-  60366: # ThanksKilling (2008)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/thankskilling/thankskilling-2008.jpg
-
-  140750: # ThanksKilling 3 (2012)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/thankskilling/thankskilling-3-2012.jpg
-    
-
-  ##################################################
   # View Askewniverse
   ##################################################
 
@@ -384,7 +342,6 @@ metadata:
   635891: # Clerks III (2022)
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/view_askewniverse/clerks-iii-2022.jpg
     
-
   ##################################################
   # Wizarding World
   ##################################################
@@ -422,10 +379,48 @@ metadata:
   338953: # Fantastic Beasts: The Secrets of Dumbledore (2022) Poster by willtong93 on MediUX
     url_poster: https://api.mediux.pro/assets/82db0dae-a0e1-4b7d-b99f-fa5191d73dc0
     
+  ########################################
+  # Pirates of the Caribbean
+  ########################################
 
+  22: # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-the-curse-of-the-black-pearl-2003.png
+
+  58: # Pirates of the Caribbean: Dead Man's Chest (2006)
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-dead-mans-chest-2006.png
+
+  285: # Pirates of the Caribbean: At World's End (2007)
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-at-worlds-end-2007.png
+
+  1865: # Pirates of the Caribbean: On Stranger Tides (2011)
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-on-stranger-tides-2011.png
+
+  166426: # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-dead-men-tell-no-tales-2017.png
+    
+  ########################################
+  # Deadpool
+  ########################################
+
+  293660: # Deadpool (2016) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/de0134e3-abb2-4f86-b321-c76041b221f1
+
+  383498: # Deadpool 2 (2018) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/2b0f39af-8e93-4609-9e50-33d4bbb21f63
+    
   ##################################################
+  # ThanksKilling
+  ##################################################
+
+  60366: # ThanksKilling (2008)
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/thankskilling/thankskilling-2008.jpg
+
+  140750: # ThanksKilling 3 (2012)
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/thankskilling/thankskilling-3-2012.jpg
+    
+  ########################################
   # X-Men
-  ##################################################
+  ########################################
 
   36657: # X-Men (2000) Poster by willtong93 on MediUX
     url_poster: https://api.mediux.pro/assets/3a56ad21-44cb-4258-bfb0-827b2095207d
@@ -460,10 +455,9 @@ metadata:
   340102: # The New Mutants (2020) Poster by willtong93 on MediUX
     url_poster: https://api.mediux.pro/assets/8c876119-54d4-4897-ac66-f3f228c0dff2
     
-
-  ##################################################
+  ########################################
   # Standalone Movies
-  ##################################################
+  ########################################
 
   1083381: # Backrooms (2026)
     url_poster: https://api.mediux.pro/assets/6df3b67c-278d-4d87-b5e2-a1f3efe8b6bf
