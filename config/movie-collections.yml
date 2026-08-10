@@ -124,15 +124,15 @@ collections:
       year.gte: 2020
       year.lte: 2029
 
-  2030s:
-    sort_title: "!13 - 2030s"
-    sync_mode: sync
-    collection_mode: hide
-    collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/2030s.png
-    plex_search:
-      year.gte: 2030
-      year.lte: 2039
+  #2030s:
+    #sort_title: "!13 - 2030s"
+    #sync_mode: sync
+    #collection_mode: hide
+    #collection_order: release
+    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/2030s.png
+    #plex_search:
+      #year.gte: 2030
+      #year.lte: 2039
 
   ##################################################
   # Universes
