@@ -2,8 +2,8 @@ libraries:
 
   ANIME:
     metadata_files:
-    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime-metadata.yml
-    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime-appbox-fixes.yml
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime-metadata.yml
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/cowboy-bebop-fix.yml
 
   MATT MOVIES:
     operations:
