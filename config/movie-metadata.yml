@@ -1,6 +1,88 @@
 metadata:
 
   ##################################################
+  # Alien / Predator
+  ##################################################
+
+  ##################################################
+  # Alien
+  ##################################################
+
+  Alien (1979) - Theatrical:
+    match:
+      mapping_id: 348
+      blank_edition: true
+    url_poster: https://api.mediux.pro/assets/9a8e936c-ad0c-4140-8d70-7e2695605256 # Alien (1979) Theatrical - willtong93
+
+  Alien (1979) - Director's Cut:
+    match:
+      mapping_id: 348
+      edition: Director's Cut
+    url_poster: https://api.mediux.pro/assets/77d5d4fd-b051-4968-a438-a621cc65c7e7 # Alien (1979) Director's Cut - willtong93
+
+  679: # Aliens (1986) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/6041e74d-1c8d-49d8-af64-d76861508303
+
+  Alien³ (1992) - Theatrical:
+    match:
+      mapping_id: 8077
+      blank_edition: true
+    url_poster: https://api.mediux.pro/assets/1ed2b8fd-6a50-4fd5-b30b-1d73a5737881 # Alien³ (1992) Theatrical - willtong93
+
+  Alien³ (1992) - Assembly Cut:
+    match:
+      mapping_id: 8077
+      edition: Assembly Cut
+    url_poster: https://api.mediux.pro/assets/e070a197-5c9e-4787-9a31-679e123b2c05 # Alien³ (1992) Assembly Cut - willtong93
+
+  8078: # Alien Resurrection (1997) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/1cc4d029-7384-4fb6-a5e3-91def743bcfa
+
+  70981: # Prometheus (2012) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/3698485a-23da-4989-9db9-38d684ed7e83
+
+  126889: # Alien: Covenant (2017) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/fe87ab06-509a-4a6e-b56b-96bf59e0b1bf
+
+  945961: # Alien: Romulus (2024) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/7917de7c-3da6-4c75-a10e-a712e285ac23
+
+  ##################################################
+  # AVP
+  ##################################################
+
+  395: # AVP: Alien vs. Predator (2004) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/1ded833e-699d-421f-a299-667416584545
+
+  440: # Aliens vs. Predator: Requiem (2007) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/28c4d4b4-c006-4ba4-b14a-a8907677a054
+
+  ##################################################
+  # Predator
+  ##################################################
+
+  106: # Predator (1987) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/e60f26df-136a-412f-8e60-31242396b1c9
+
+  169: # Predator 2 (1990) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/63e51276-8c9d-420e-97cd-a7a2c51168d9
+
+  34851: # Predators (2010) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/df9f04c5-e345-42ff-b6f7-729d3300f1b2
+
+  346910: # The Predator (2018) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/7900ee0f-480c-460c-85ec-25a0540237b7
+
+  766507: # Prey (2022) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/f823a8e4-a029-458f-b345-7e370e2cb976
+
+  1376434: # Predator: Killer of Killers (2025) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/f4ebaf8c-0411-4c9e-839c-9eaa46b7b075
+
+  1242898: # Predator: Badlands (2025) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/23458143-2392-4ac7-b9aa-f41a77d0fdeb
+
+  ##################################################
   # Fast & Furious
   ##################################################
 
