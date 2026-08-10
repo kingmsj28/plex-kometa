@@ -92,7 +92,6 @@ metadata:
   383498: # Deadpool 2 (2018) Poster by willtong93 on MediUX
     url_poster: https://api.mediux.pro/assets/2b0f39af-8e93-4609-9e50-33d4bbb21f63
     
-
   ##################################################
   # Fast & Furious
   ##################################################
@@ -298,7 +297,6 @@ metadata:
   166426: # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-dead-men-tell-no-tales-2017.png
     
-
   ##################################################
   # Star Wars Universe
   ##################################################
@@ -352,7 +350,6 @@ metadata:
   140750: # ThanksKilling 3 (2012)
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/thankskilling/thankskilling-3-2012.jpg
     
-
   ##################################################
   # View Askewniverse
   ##################################################
@@ -384,7 +381,6 @@ metadata:
   635891: # Clerks III (2022)
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/view_askewniverse/clerks-iii-2022.jpg
     
-
   ##################################################
   # Wizarding World
   ##################################################
@@ -421,7 +417,6 @@ metadata:
 
   338953: # Fantastic Beasts: The Secrets of Dumbledore (2022) Poster by willtong93 on MediUX
     url_poster: https://api.mediux.pro/assets/82db0dae-a0e1-4b7d-b99f-fa5191d73dc0
-    
 
   ##################################################
   # X-Men
@@ -459,7 +454,6 @@ metadata:
     
   340102: # The New Mutants (2020) Poster by willtong93 on MediUX
     url_poster: https://api.mediux.pro/assets/8c876119-54d4-4897-ac66-f3f228c0dff2
-    
 
   ##################################################
   # Standalone Movies
