@@ -19,8 +19,10 @@ libraries:
           535790: "Godzilla (Anime)"
           507458: "ThanksKilling"
 
+        url_poster_8091: https://api.mediux.pro/assets/ed8f77d3-abbe-4b06-ac58-65c4ad43e060 # Alien
         url_poster_422834: https://api.mediux.pro/assets/6e438cab-bba2-4431-b49d-f86b6cad2bc1 # Ant-Man
         url_poster_86311: https://api.mediux.pro/assets/5128b262-d055-4b0f-a1ba-28280e35a022 # Avengers
+        url_poster_115762: https://api.mediux.pro/assets/faceebe9-15b0-4eff-9cc6-0a9bf3ecdc46 # AVP
         url_poster_529892: https://api.mediux.pro/assets/8b18bc52-9df1-4388-aedb-731d7b23aced # Black Panther
         url_poster_131295: https://api.mediux.pro/assets/c3860668-c1ed-41fa-9fa3-711a3fb6755d # Captain America
         url_poster_623911: https://api.mediux.pro/assets/77df6f32-e2aa-4cdf-9eed-ee10ec5f79d7 # Captain Marvel
@@ -35,6 +37,7 @@ libraries:
         url_poster_726870: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/view_askewniverse/jay-and-silent-bob-poster.jpg # Jay and Silent Bob
         url_poster_119: https://api.mediux.pro/assets/0e957d39-59c6-4419-871b-fb250dc5ed77 # The Lord of the Rings
         url_poster_295: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/potc/pirates-of-the-caribbean-collection.png # Pirates of the Caribbean
+        url_poster_399: https://api.mediux.pro/assets/eda7559c-c5ce-43a3-9f22-3664d60f89ab # Predator
         url_poster_531241: https://api.mediux.pro/assets/c3d5982f-1baa-4959-b764-361f40342d8e # Spider-Man (Avengers)
         url_poster_10: https://api.mediux.pro/assets/60209ad6-d0a8-4d55-a42a-ec0e9e1de3ae # Star Wars: Skywalker Saga
         url_poster_507458: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/thankskilling/thankskilling-collection.jpg # ThanksKilling
@@ -99,8 +102,10 @@ libraries:
           535790: "Godzilla (Anime)"
           507458: "ThanksKilling"
 
+        url_poster_8091: https://api.mediux.pro/assets/ed8f77d3-abbe-4b06-ac58-65c4ad43e060 # Alien
         url_poster_422834: https://api.mediux.pro/assets/6e438cab-bba2-4431-b49d-f86b6cad2bc1 # Ant-Man
         url_poster_86311: https://api.mediux.pro/assets/5128b262-d055-4b0f-a1ba-28280e35a022 # Avengers
+        url_poster_115762: https://api.mediux.pro/assets/faceebe9-15b0-4eff-9cc6-0a9bf3ecdc46 # AVP
         url_poster_529892: https://api.mediux.pro/assets/8b18bc52-9df1-4388-aedb-731d7b23aced # Black Panther
         url_poster_131295: https://api.mediux.pro/assets/c3860668-c1ed-41fa-9fa3-711a3fb6755d # Captain America
         url_poster_623911: https://api.mediux.pro/assets/77df6f32-e2aa-4cdf-9eed-ee10ec5f79d7 # Captain Marvel
@@ -115,6 +120,7 @@ libraries:
         url_poster_726870: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/view_askewniverse/jay-and-silent-bob-poster.jpg # Jay and Silent Bob
         url_poster_119: https://api.mediux.pro/assets/0e957d39-59c6-4419-871b-fb250dc5ed77 # The Lord of the Rings
         url_poster_295: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/potc/pirates-of-the-caribbean-collection.png # Pirates of the Caribbean
+        url_poster_399: https://api.mediux.pro/assets/eda7559c-c5ce-43a3-9f22-3664d60f89ab # Predator
         url_poster_531241: https://api.mediux.pro/assets/c3d5982f-1baa-4959-b764-361f40342d8e # Spider-Man (Avengers)
         url_poster_10: https://api.mediux.pro/assets/60209ad6-d0a8-4d55-a42a-ec0e9e1de3ae # Star Wars: Skywalker Saga
         url_poster_507458: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/thankskilling/thankskilling-collection.jpg # ThanksKilling
