@@ -22,7 +22,7 @@ libraries:
         managed: true
 
     collection_files:
-      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-collections.yml
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-collections.yml
 
       - default: franchise
         template_variables:
@@ -69,10 +69,8 @@ libraries:
             - fast
             - xmen
 
-    #- url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-collectionless.yml
-
     metadata_files:
-      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-metadata.yml
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-metadata.yml
 
     #overlay_files:
     #- default: resolution
@@ -84,7 +82,7 @@ libraries:
         managed: true
 
     collection_files:
-      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv-collections.yml
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-collections.yml
 
       - default: network
         template_variables:
@@ -95,7 +93,7 @@ libraries:
           collection_mode: hide
 
     metadata_files:
-      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv-metadata.yml
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-metadata.yml
 
   MATT MOVIES - 1080p:
     operations:
@@ -104,7 +102,7 @@ libraries:
         managed: true
 
     collection_files:
-      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-collections.yml
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-collections.yml
 
       - default: franchise
         template_variables:
@@ -151,10 +149,8 @@ libraries:
             - fast
             - xmen
 
-    #- url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-collectionless.yml
-
     metadata_files:
-      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie-metadata.yml
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-metadata.yml
 
     #overlay_files:
     #- default: resolution
@@ -166,7 +162,7 @@ libraries:
         managed: true
 
     collection_files:
-      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv-collections.yml
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-collections.yml
 
       - default: network
         template_variables:
@@ -177,7 +173,7 @@ libraries:
           collection_mode: hide
 
     metadata_files:
-      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv-metadata.yml
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-metadata.yml
 
   WWE Events:
     overlay_files:
