@@ -5,10 +5,21 @@ collections:
   ##################################################
 
   Chainsaw Man:
-    plex_search:
-      all:
-        title: "Chainsaw Man - The Movie: Reze Arc"
+    tmdb_movie:
+      - 1218925   # Chainsaw Man - The Movie: Reze Arc (2025)
     collection_mode: hide
     collection_order: release
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/567743
+    
+  ##################################################
+  # Cowboy Bebop
+  ##################################################
+
+  Cowboy Bebop:
+    tmdb_movie:
+      - 11299   # Cowboy Bebop: The Movie (2001)
+    collection_mode: hide
+    collection_order: release
+    sync_mode: sync
+    url_poster: https://api.mediux.pro/assets/a0dbf36c-c41f-41f1-b172-9f19c2987f70
