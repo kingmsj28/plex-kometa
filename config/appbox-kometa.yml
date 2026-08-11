@@ -2,8 +2,12 @@ libraries:
 
   ANIME:
     metadata_files:
-      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime-metadata.yml
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-metadata.yml
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/cowboy-bebop-fix.yml
+      
+  ANIME MOVIES:
+    metadata_files:
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-movies-metadata.yml
 
   MATT MOVIES:
     operations:

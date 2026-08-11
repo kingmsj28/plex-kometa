@@ -220,3 +220,15 @@ metadata:
             url_poster: https://api.mediux.pro/assets/8ec15923-f6f6-4cc7-aed9-c7c200b4f344
           30:
             url_poster: https://api.mediux.pro/assets/31f959e9-a917-47cf-8fae-88e0b35fe831
+            
+  ##################################################
+  # Chainsaw Man
+  ##################################################
+
+  397934: # Chainsaw Man
+    url_poster: https://theposterdb.com/api/assets/567743
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/567744
+      1:
+        url_poster: https://theposterdb.com/api/assets/567745
