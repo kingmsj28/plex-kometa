@@ -1,0 +1,14 @@
+collections:
+
+  ##################################################
+  # Chainsaw Man
+  ##################################################
+
+  Chainsaw Man:
+    plex_search:
+      all:
+        title: "Chainsaw Man - The Movie: Reze Arc"
+    collection_mode: hide
+    collection_order: release
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/567743
