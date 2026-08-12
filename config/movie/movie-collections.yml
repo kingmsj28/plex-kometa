@@ -1,11 +1,26 @@
 collections:
 
   ##################################################
+  # Random Unwatched Movies
+  ##################################################
+
+  Random Unwatched Movies:
+    plex_search:
+      all:
+        unplayed: true
+      sort_by: random
+      limit: 50
+    sync_mode: sync
+    collection_mode: hide
+    collection_order: custom
+    sort_title: "!015_Random Unwatched Movies"
+
+  ##################################################
   # Decades
   ##################################################
 
   #1910s:
-    #sort_title: "!01 - 1910s"
+    #sort_title: "!100_1910s"
     #sync_mode: sync
     #collection_mode: hide
     #collection_order: release
@@ -15,7 +30,7 @@ collections:
       #year.lte: 1919
 
   #1920s:
-    #sort_title: "!02 - 1920s"
+    #sort_title: "!100_1920s"
     #sync_mode: sync
     #collection_mode: hide
     #collection_order: release
@@ -25,7 +40,7 @@ collections:
       #year.lte: 1929
 
   #1930s:
-    #sort_title: "!03 - 1930s"
+    #sort_title: "!100_1930s"
     #sync_mode: sync
     #collection_mode: hide
     #collection_order: release
@@ -35,7 +50,7 @@ collections:
       #year.lte: 1939
 
   #1940s:
-    #sort_title: "!04 - 1940s"
+    #sort_title: "!100_1940s"
     #sync_mode: sync
     #collection_mode: hide
     #collection_order: release
@@ -45,7 +60,7 @@ collections:
       #year.lte: 1949
 
   #1950s:
-    #sort_title: "!05 - 1950s"
+    #sort_title: "!100_1950s"
     #sync_mode: sync
     #collection_mode: hide
     #collection_order: release
@@ -55,7 +70,7 @@ collections:
       #year.lte: 1959
 
   #1960s:
-    #sort_title: "!06 - 1960s"
+    #sort_title: "!100_1960s"
     #sync_mode: sync
     #collection_mode: hide
     #collection_order: release
@@ -65,7 +80,7 @@ collections:
       #year.lte: 1969
 
   1970s:
-    sort_title: "!07 - 1970s"
+    sort_title: "!100_1970s"
     sync_mode: sync
     collection_mode: hide
     collection_order: release
@@ -75,7 +90,7 @@ collections:
       year.lte: 1979
 
   1980s:
-    sort_title: "!08 - 1980s"
+    sort_title: "!100_1980s"
     sync_mode: sync
     collection_mode: hide
     collection_order: release
@@ -85,7 +100,7 @@ collections:
       year.lte: 1989
 
   1990s:
-    sort_title: "!09 - 1990s"
+    sort_title: "!100_1990s"
     sync_mode: sync
     collection_mode: hide
     collection_order: release
@@ -95,7 +110,7 @@ collections:
       year.lte: 1999
 
   2000s:
-    sort_title: "!10 - 2000s"
+    sort_title: "!100_2000s"
     sync_mode: sync
     collection_mode: hide
     collection_order: release
@@ -105,7 +120,7 @@ collections:
       year.lte: 2009
 
   2010s:
-    sort_title: "!11 - 2010s"
+    sort_title: "!100_2010s"
     sync_mode: sync
     collection_mode: hide
     collection_order: release
@@ -115,7 +130,7 @@ collections:
       year.lte: 2019
 
   2020s:
-    sort_title: "!12 - 2020s"
+    sort_title: "!100_2020s"
     sync_mode: sync
     collection_mode: hide
     collection_order: release
@@ -125,7 +140,7 @@ collections:
       year.lte: 2029
 
   #2030s:
-    #sort_title: "!13 - 2030s"
+    #sort_title: "!100_2030s"
     #sync_mode: sync
     #collection_mode: hide
     #collection_order: release
