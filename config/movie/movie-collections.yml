@@ -1,24 +1,4 @@
 collections:
-
-  ##################################################
-  # Franchise Poster Overrides
-  ##################################################
-
-  Anchorman:
-    blank_collection: true
-    url_poster: https://theposterdb.com/api/assets/17931
-
-  The Conjuring:
-    blank_collection: true
-    url_poster: https://api.mediux.pro/assets/1460d6aa-1a0a-45ee-a1b0-9a72b361c18a
-
-  Annabelle:
-    blank_collection: true
-    url_poster: https://api.mediux.pro/assets/7d098b79-d9f7-4362-be8e-aee951995b72
-
-  The Nun:
-    blank_collection: true
-    url_poster: https://api.mediux.pro/assets/c8db2a48-9180-46e8-8851-457148544ee0
     
   ##################################################
   # Random Unwatched Movies
@@ -364,6 +344,73 @@ collections:
     blank_collection: true
     collection_mode: hide
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/separators/franchise-separator.png
+    
+  ##################################################
+  # Austin Powers
+  ##################################################
+
+  816: # Austin Powers: International Man of Mystery (1997)
+    url_poster: https://api.mediux.pro/assets/a7363756-e010-4013-8426-4fea87212d66
+
+  817: # Austin Powers: The Spy Who Shagged Me (1999)
+    url_poster: https://api.mediux.pro/assets/2a6ad53c-43f1-46c5-99f8-5523d3a29db3
+
+  818: # Austin Powers in Goldmember (2002)
+    url_poster: https://api.mediux.pro/assets/26e365a8-f0d4-47ec-bbd4-321043bbfe0c  
+
+  ##################################################
+  # Aquaman
+  ##################################################
+
+  297802: # Aquaman (2018)
+    url_poster: https://api.mediux.pro/assets/96e23dd4-e516-43d7-bea5-5bebc214cb1c
+    url_background: https://api.mediux.pro/assets/196515b1-c4b1-4b6e-9bbe-165baeba6016
+
+  572802: # Aquaman and the Lost Kingdom (2023)
+    url_poster: https://api.mediux.pro/assets/e2d327fd-6992-4b35-9396-79b9354d55ad
+    url_background: https://api.mediux.pro/assets/765cf9ad-da33-4173-b456-e8e048b528b0    
+    
+  ##################################################
+  # Avatar
+  ##################################################
+
+  19995: # Avatar (2009)
+    url_poster: https://api.mediux.pro/assets/273caa2f-4390-47c0-a54e-a3ec44eba915
+
+  76600: # Avatar: The Way of Water (2022)
+    url_poster: https://api.mediux.pro/assets/7838a943-72db-4e83-8160-a8a1876867df
+
+  83533: # Avatar: Fire and Ash (2025)
+    url_poster: https://api.mediux.pro/assets/8fe9d811-7147-46c9-84f8-488800b1afb8
+    
+  ##################################################
+  # Back to the Future
+  ##################################################
+
+  105: # Back to the Future (1985)
+    url_poster: https://api.mediux.pro/assets/f0611c09-851a-446e-99a0-c7720bbac165
+
+  165: # Back to the Future Part II (1989)
+    url_poster: https://api.mediux.pro/assets/fdffe869-842d-49a3-a6dc-fa38a62c0e93
+
+  196: # Back to the Future Part III (1990)
+    url_poster: https://api.mediux.pro/assets/e2a1d574-c181-4c62-ba81-3afe024eaca7   
+
+  ##################################################
+  # Bad Boys
+  ##################################################
+
+  9737: # Bad Boys (1995)
+    url_poster: https://api.mediux.pro/assets/60fb3cea-e889-4540-a2ed-1081425e1553
+
+  8961: # Bad Boys II (2003)
+    url_poster: https://api.mediux.pro/assets/0e211dfa-0df5-4464-82ea-35a6208eb6c9
+
+  38700: # Bad Boys for Life (2020)
+    url_poster: https://api.mediux.pro/assets/9bd036d2-f74c-49ef-b04f-0fca4740e903
+
+  573435: # Bad Boys: Ride or Die (2024)
+    url_poster: https://api.mediux.pro/assets/55ff9bca-932d-4ab6-8876-32d97df7a2cc    
     
   ##################################################
   # Wolverine

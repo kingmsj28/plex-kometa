@@ -34,9 +34,16 @@ libraries:
             
           url_poster_8091: https://api.mediux.pro/assets/ed8f77d3-abbe-4b06-ac58-65c4ad43e060 # Alien
           url_poster_125574: https://api.mediux.pro/assets/5fcfb73d-edb7-4f69-a99c-194f60e8a81d # The Amazing Spider-Man
+          url_poster_402074: https://api.mediux.pro/assets/7d098b79-d9f7-4362-be8e-aee951995b72 # Annabelle
           url_poster_422834: https://api.mediux.pro/assets/6e438cab-bba2-4431-b49d-f86b6cad2bc1 # Ant-Man
+          url_poster_93791: https://theposterdb.com/api/assets/17931 # Anchorman
+          url_poster_573693: https://api.mediux.pro/assets/14d0dfb1-6de6-4029-88e2-bd25cc886be3 # Aquaman        
+          url_poster_1006: https://api.mediux.pro/assets/90c21044-6274-4b74-8886-71ebcd313085 # Austin Powers 
+          url_poster_87096: https://api.mediux.pro/assets/45555893-879e-41fe-a149-45b22405a153 # Avatar          
           url_poster_86311: https://api.mediux.pro/assets/5128b262-d055-4b0f-a1ba-28280e35a022 # Avengers
           url_poster_115762: https://api.mediux.pro/assets/faceebe9-15b0-4eff-9cc6-0a9bf3ecdc46 # AVP
+          url_poster_264: https://api.mediux.pro/assets/c9b374eb-79ad-4e4a-9d13-479f4685f2e7 # Back to the Future  
+          url_poster_14890: https://api.mediux.pro/assets/a2516782-50d5-46a2-80df-a6d6a396ca87 # Bad Boys          
           url_poster_529892: https://api.mediux.pro/assets/8b18bc52-9df1-4388-aedb-731d7b23aced # Black Panther
           url_poster_735: https://api.mediux.pro/assets/8847dd38-32c3-4862-8952-69b0772f4c04 # Blade
           url_poster_131295: https://api.mediux.pro/assets/c3860668-c1ed-41fa-9fa3-711a3fb6755d # Captain America
@@ -53,6 +60,7 @@ libraries:
           url_poster_131292: https://api.mediux.pro/assets/276ee4a9-875b-4324-a612-2a214a2e5d31 # Iron Man
           url_poster_726870: https://theposterdb.com/api/assets/97420 # Jay and Silent Bob
           url_poster_119: https://api.mediux.pro/assets/0e957d39-59c6-4419-871b-fb250dc5ed77 # The Lord of the Rings
+          url_poster_968052: https://api.mediux.pro/assets/c8db2a48-9180-46e8-8851-457148544ee0 # The Nun
           url_poster_295: https://theposterdb.com/api/assets/71934 # Pirates of the Caribbean
           url_poster_399: https://api.mediux.pro/assets/eda7559c-c5ce-43a3-9f22-3664d60f89ab # Predator
           url_poster_635362: https://api.mediux.pro/assets/6b063473-73f0-4b40-bebb-1e1f92a4e271 # The Punisher
@@ -61,6 +69,7 @@ libraries:
           url_poster_573436: https://api.mediux.pro/assets/f66d7082-fe88-4f2d-8175-b745843a44c7 # Spider-Verse
           url_poster_10: https://api.mediux.pro/assets/60209ad6-d0a8-4d55-a42a-ec0e9e1de3ae # Star Wars: Skywalker Saga
           url_poster_507458: https://theposterdb.com/api/assets/545477 # ThanksKilling
+          url_poster_313086: https://api.mediux.pro/assets/1460d6aa-1a0a-45ee-a1b0-9a72b361c18a # The Conjuring
           url_poster_121938: https://api.mediux.pro/assets/b8a558a5-b6fe-423b-92e9-649c25eaa5e7 # The Hobbit
           url_poster_131296: https://api.mediux.pro/assets/639ade15-6556-4a6b-ae24-84350574415a # Thor
           url_poster_558216: https://api.mediux.pro/assets/956c353c-91d2-40be-a713-4493f998a56a # Venom
@@ -126,9 +135,16 @@ libraries:
             
           url_poster_8091: https://api.mediux.pro/assets/ed8f77d3-abbe-4b06-ac58-65c4ad43e060 # Alien
           url_poster_125574: https://api.mediux.pro/assets/5fcfb73d-edb7-4f69-a99c-194f60e8a81d # The Amazing Spider-Man
+          url_poster_402074: https://api.mediux.pro/assets/7d098b79-d9f7-4362-be8e-aee951995b72 # Annabelle
           url_poster_422834: https://api.mediux.pro/assets/6e438cab-bba2-4431-b49d-f86b6cad2bc1 # Ant-Man
+          url_poster_93791: https://theposterdb.com/api/assets/17931 # Anchorman
+          url_poster_573693: https://api.mediux.pro/assets/14d0dfb1-6de6-4029-88e2-bd25cc886be3 # Aquaman        
+          url_poster_1006: https://api.mediux.pro/assets/90c21044-6274-4b74-8886-71ebcd313085 # Austin Powers 
+          url_poster_87096: https://api.mediux.pro/assets/45555893-879e-41fe-a149-45b22405a153 # Avatar          
           url_poster_86311: https://api.mediux.pro/assets/5128b262-d055-4b0f-a1ba-28280e35a022 # Avengers
           url_poster_115762: https://api.mediux.pro/assets/faceebe9-15b0-4eff-9cc6-0a9bf3ecdc46 # AVP
+          url_poster_264: https://api.mediux.pro/assets/c9b374eb-79ad-4e4a-9d13-479f4685f2e7 # Back to the Future  
+          url_poster_14890: https://api.mediux.pro/assets/a2516782-50d5-46a2-80df-a6d6a396ca87 # Bad Boys          
           url_poster_529892: https://api.mediux.pro/assets/8b18bc52-9df1-4388-aedb-731d7b23aced # Black Panther
           url_poster_735: https://api.mediux.pro/assets/8847dd38-32c3-4862-8952-69b0772f4c04 # Blade
           url_poster_131295: https://api.mediux.pro/assets/c3860668-c1ed-41fa-9fa3-711a3fb6755d # Captain America
@@ -145,6 +161,7 @@ libraries:
           url_poster_131292: https://api.mediux.pro/assets/276ee4a9-875b-4324-a612-2a214a2e5d31 # Iron Man
           url_poster_726870: https://theposterdb.com/api/assets/97420 # Jay and Silent Bob
           url_poster_119: https://api.mediux.pro/assets/0e957d39-59c6-4419-871b-fb250dc5ed77 # The Lord of the Rings
+          url_poster_968052: https://api.mediux.pro/assets/c8db2a48-9180-46e8-8851-457148544ee0 # The Nun
           url_poster_295: https://theposterdb.com/api/assets/71934 # Pirates of the Caribbean
           url_poster_399: https://api.mediux.pro/assets/eda7559c-c5ce-43a3-9f22-3664d60f89ab # Predator
           url_poster_635362: https://api.mediux.pro/assets/6b063473-73f0-4b40-bebb-1e1f92a4e271 # The Punisher
@@ -153,6 +170,7 @@ libraries:
           url_poster_573436: https://api.mediux.pro/assets/f66d7082-fe88-4f2d-8175-b745843a44c7 # Spider-Verse
           url_poster_10: https://api.mediux.pro/assets/60209ad6-d0a8-4d55-a42a-ec0e9e1de3ae # Star Wars: Skywalker Saga
           url_poster_507458: https://theposterdb.com/api/assets/545477 # ThanksKilling
+          url_poster_313086: https://api.mediux.pro/assets/1460d6aa-1a0a-45ee-a1b0-9a72b361c18a # The Conjuring
           url_poster_121938: https://api.mediux.pro/assets/b8a558a5-b6fe-423b-92e9-649c25eaa5e7 # The Hobbit
           url_poster_131296: https://api.mediux.pro/assets/639ade15-6556-4a6b-ae24-84350574415a # Thor
           url_poster_558216: https://api.mediux.pro/assets/956c353c-91d2-40be-a713-4493f998a56a # Venom
