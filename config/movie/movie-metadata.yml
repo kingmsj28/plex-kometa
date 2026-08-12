@@ -283,19 +283,19 @@ metadata:
   ##################################################
 
   22: # Pirates of the Caribbean: The Curse of the Black Pearl (2003)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-the-curse-of-the-black-pearl-2003.png
+    url_poster: https://theposterdb.com/api/assets/71935
 
   58: # Pirates of the Caribbean: Dead Man's Chest (2006)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-dead-mans-chest-2006.png
+    url_poster: https://theposterdb.com/api/assets/71936
 
   285: # Pirates of the Caribbean: At World's End (2007)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-at-worlds-end-2007.png
+    url_poster: https://theposterdb.com/api/assets/71937
 
   1865: # Pirates of the Caribbean: On Stranger Tides (2011)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-on-stranger-tides-2011.png
+    url_poster: https://theposterdb.com/api/assets/71938
 
   166426: # Pirates of the Caribbean: Dead Men Tell No Tales (2017)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/potc/pirates-of-the-caribbean-dead-men-tell-no-tales-2017.png
+    url_poster: https://theposterdb.com/api/assets/71939
     
   ##################################################
   # Star Wars Universe
@@ -345,41 +345,41 @@ metadata:
   ##################################################
 
   60366: # ThanksKilling (2008)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/thankskilling/thankskilling-2008.jpg
+    url_poster: https://theposterdb.com/api/assets/545480
 
   140750: # ThanksKilling 3 (2012)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/thankskilling/thankskilling-3-2012.jpg
+    url_poster: https://theposterdb.com/api/assets/545479
     
   ##################################################
   # View Askewniverse
   ##################################################
 
   2292: # Clerks (1994)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/view_askewniverse/clerks-1994.jpg
+    url_poster: https://theposterdb.com/api/assets/331269
 
   2293: # Mallrats (1995)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/view_askewniverse/mallrats-1995.jpg
+    url_poster: https://theposterdb.com/api/assets/331270
 
   2255: # Chasing Amy (1997)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/view_askewniverse/chasing-amy-1997.jpg
+    url_poster: https://theposterdb.com/api/assets/331271
 
   1832: # Dogma (1999)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/view_askewniverse/dogma-1999.jpg
+    url_poster: https://theposterdb.com/api/assets/101024
 
   2294: # Jay and Silent Bob Strike Back (2001)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/view_askewniverse/jay-and-silent-bob-strike-back-2001.jpg
+    url_poster: https://theposterdb.com/api/assets/331273
 
   2295: # Clerks II (2006)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/view_askewniverse/clerks-ii-2006.jpg
+    url_poster: https://theposterdb.com/api/assets/331276
 
   179267: # Jay and Silent Bob's Super Groovy Cartoon Movie! (2013)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/view_askewniverse/jay-and-silent-bobs-super-groovy-cartoon-movie-2013.jpg
+    url_poster: https://theposterdb.com/api/assets/61809
 
   440762: # Jay and Silent Bob Reboot (2019)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/view_askewniverse/jay-and-silent-bob-reboot-2019.jpg
+    url_poster: https://theposterdb.com/api/assets/331290
 
   635891: # Clerks III (2022)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/view_askewniverse/clerks-iii-2022.jpg
+    url_poster: https://theposterdb.com/api/assets/331276
     
   ##################################################
   # Wizarding World
@@ -466,4 +466,4 @@ metadata:
     url_poster: https://api.mediux.pro/assets/3a0e96fd-e6d3-4b10-b871-c4751ef29bb2  
 
   45649: # Rubber (2010)
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/movies/rubber-2010/rubber-2010.jpg
+    url_poster: https://theposterdb.com/api/assets/100990

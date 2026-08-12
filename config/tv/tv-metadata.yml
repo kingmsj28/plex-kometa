@@ -5,7 +5,7 @@ metadata:
   ##################################################
 
   273181: # TVDB id for Better Call Saul - MediUX set 13541 by willtong93
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/better-call-saul-2015/better-call-saul-2015-poster.png
+    url_poster: https://theposterdb.com/api/assets/123779
     url_background: https://api.mediux.pro/assets/5e5e4983-a090-4154-b65e-b9d3e6ae895c
 
     seasons:
@@ -1103,50 +1103,50 @@ metadata:
   ##################################################
 
   144541: # TVDB id for WWE NXT
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt.png
+    url_poster: https://theposterdb.com/api/assets/557947
     seasons:
       0:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-specials.jpg
+        url_poster: https://theposterdb.com/api/assets/617166
       1:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season01.jpg
+        url_poster: https://theposterdb.com/api/assets/617167
       2:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season02.jpg
+        url_poster: https://theposterdb.com/api/assets/617168
       3:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season03.jpg
+        url_poster: https://theposterdb.com/api/assets/617169
       4:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season04.jpg
+        url_poster: https://theposterdb.com/api/assets/617170
       5:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season05.jpg
+        url_poster: https://theposterdb.com/api/assets/617171
       6:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season06.jpg
+        url_poster: https://theposterdb.com/api/assets/617172
       7:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season07.jpg
+        url_poster: https://theposterdb.com/api/assets/617173
       8:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season08.jpg
+        url_poster: https://theposterdb.com/api/assets/617174
       9:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season09.jpg
+        url_poster: https://theposterdb.com/api/assets/617175
       10:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season10.jpg
+        url_poster: https://theposterdb.com/api/assets/617176
       11:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season11.jpg
+        url_poster: https://theposterdb.com/api/assets/617177
       12:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season12.jpg
+        url_poster: https://theposterdb.com/api/assets/617178
       13:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season13.jpg
+        url_poster: https://theposterdb.com/api/assets/617179
       14:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season14.jpg
+        url_poster: https://theposterdb.com/api/assets/617180
       15:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season15.jpg
+        url_poster: https://theposterdb.com/api/assets/617181
       16:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season16.jpg
+        url_poster: https://theposterdb.com/api/assets/617182
       17:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season17.jpg
+        url_poster: https://theposterdb.com/api/assets/617183
       18:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season18.jpg
+        url_poster: https://theposterdb.com/api/assets/617184
       19:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season19.jpg
+        url_poster: https://theposterdb.com/api/assets/617185
       20:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-nxt-2010/wwe-nxt-season20.jpg
+        url_poster: https://theposterdb.com/api/assets/680635
 
 
   ##################################################
@@ -1154,78 +1154,78 @@ metadata:
   ##################################################
 
   76779: # TVDB id for WWE Raw
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw.png
+    url_poster: https://theposterdb.com/api/assets/557942
     seasons:
       0:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-specials.jpg
+        url_poster: https://theposterdb.com/api/assets/617101
       1:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season01.jpg
+        url_poster: https://theposterdb.com/api/assets/617102
       2:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season02.jpg
+        url_poster: https://theposterdb.com/api/assets/617103
       3:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season03.jpg
+        url_poster: https://theposterdb.com/api/assets/617104
       4:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season04.jpg
+        url_poster: https://theposterdb.com/api/assets/617105
       5:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season05.jpg
+        url_poster: https://theposterdb.com/api/assets/617106
       6:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season06.jpg
+        url_poster: https://theposterdb.com/api/assets/617107
       7:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season07.jpg
+        url_poster: https://theposterdb.com/api/assets/617108
       8:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season08.jpg
+        url_poster: https://theposterdb.com/api/assets/617109
       9:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season09.jpg
+        url_poster: https://theposterdb.com/api/assets/617110
       10:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season10.jpg
+        url_poster: https://theposterdb.com/api/assets/617111
       11:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season11.jpg
+        url_poster: https://theposterdb.com/api/assets/617112
       12:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season12.jpg
+        url_poster: https://theposterdb.com/api/assets/617113
       13:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season13.jpg
+        url_poster: https://theposterdb.com/api/assets/617114
       14:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season14.jpg
+        url_poster: https://theposterdb.com/api/assets/617115
       15:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season15.jpg
+        url_poster: https://theposterdb.com/api/assets/617116
       16:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season16.jpg
+        url_poster: https://theposterdb.com/api/assets/617117
       17:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season17.jpg
+        url_poster: https://theposterdb.com/api/assets/617118
       18:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season18.jpg
+        url_poster: https://theposterdb.com/api/assets/617119
       19:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season19.jpg
+        url_poster: https://theposterdb.com/api/assets/617121
       20:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season20.jpg
+        url_poster: https://theposterdb.com/api/assets/617122
       21:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season21.jpg
+        url_poster: https://theposterdb.com/api/assets/617123
       22:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season22.jpg
+        url_poster: https://theposterdb.com/api/assets/617124
       23:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season23.jpg
+        url_poster: https://theposterdb.com/api/assets/617125
       24:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season24.jpg
+        url_poster: https://theposterdb.com/api/assets/617126
       25:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season25.jpg
+        url_poster: https://theposterdb.com/api/assets/617127
       26:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season26.jpg
+        url_poster: https://theposterdb.com/api/assets/617128
       27:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season27.jpg
+        url_poster: https://theposterdb.com/api/assets/617129
       28:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season28.jpg
+        url_poster: https://theposterdb.com/api/assets/617130
       29:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season29.jpg
+        url_poster: https://theposterdb.com/api/assets/617131
       30:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season30.jpg
+        url_poster: https://theposterdb.com/api/assets/617132
       31:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season31.jpg
+        url_poster: https://theposterdb.com/api/assets/617133
       32:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season32.jpg
+        url_poster: https://theposterdb.com/api/assets/617134
       33:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season33.jpg
+        url_poster: https://theposterdb.com/api/assets/617135
       34:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-raw-1993/wwe-raw-season34.jpg
+        url_poster: https://theposterdb.com/api/assets/680636
 
 
   ##################################################
@@ -1233,63 +1233,63 @@ metadata:
   ##################################################
 
   75640: # TVDB id for WWE Friday Night SmackDown
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown.png
+    url_poster: https://theposterdb.com/api/assets/557944
     seasons:
       0:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-specials.jpg
+        url_poster: https://theposterdb.com/api/assets/617137
       1:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season01.jpg
+        url_poster: https://theposterdb.com/api/assets/617138
       2:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season02.jpg
+        url_poster: https://theposterdb.com/api/assets/617139
       3:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season03.jpg
+        url_poster: https://theposterdb.com/api/assets/617140
       4:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season04.jpg
+        url_poster: https://theposterdb.com/api/assets/617141
       5:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season05.jpg
+        url_poster: https://theposterdb.com/api/assets/617142
       6:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season06.jpg
+        url_poster: https://theposterdb.com/api/assets/617143
       7:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season07.jpg
+        url_poster: https://theposterdb.com/api/assets/617144
       8:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season08.jpg
+        url_poster: https://theposterdb.com/api/assets/617145
       9:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season09.jpg
+        url_poster: https://theposterdb.com/api/assets/617146
       10:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season10.jpg
+        url_poster: https://theposterdb.com/api/assets/617147
       11:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season11.jpg
+        url_poster: https://theposterdb.com/api/assets/617148
       12:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season12.jpg
+        url_poster: https://theposterdb.com/api/assets/617149
       13:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season13.jpg
+        url_poster: https://theposterdb.com/api/assets/617150
       14:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season14.jpg
+        url_poster: https://theposterdb.com/api/assets/617151
       15:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season15.jpg
+        url_poster: https://theposterdb.com/api/assets/617152
       16:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season16.jpg
+        url_poster: https://theposterdb.com/api/assets/617153
       17:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season17.jpg
+        url_poster: https://theposterdb.com/api/assets/617154
       18:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season18.jpg
+        url_poster: https://theposterdb.com/api/assets/617155
       19:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season19.jpg
+        url_poster: https://theposterdb.com/api/assets/617156
       20:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season20.jpg
+        url_poster: https://theposterdb.com/api/assets/617157
       21:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season21.jpg
+        url_poster: https://theposterdb.com/api/assets/617158
       22:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season22.jpg
+        url_poster: https://theposterdb.com/api/assets/617159
       23:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season23.jpg
+        url_poster: https://theposterdb.com/api/assets/617160
       24:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season24.jpg
+        url_poster: https://theposterdb.com/api/assets/617161
       25:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season25.jpg
+        url_poster: https://theposterdb.com/api/assets/617162
       26:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season26.jpg
+        url_poster: https://theposterdb.com/api/assets/617163
       27:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season27.jpg
+        url_poster: https://theposterdb.com/api/assets/617164
       28:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/wwe-tv/wwe-smackdown-1999/wwe-smackdown-season28.jpg
+        url_poster: https://theposterdb.com/api/assets/681612

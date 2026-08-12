@@ -22,7 +22,7 @@ collections:
     collection_mode: hide
     collection_order: release
 
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/marvel-television.png
+    url_poster: https://theposterdb.com/api/assets/593225
     # url_background:
 
   ##################################################
@@ -42,7 +42,7 @@ collections:
     collection_mode: hide
     collection_order: release
 
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/dexter-collection.png
+    url_poster: https://theposterdb.com/api/assets/618994
     # url_background:
 
   ##################################################
@@ -60,7 +60,7 @@ collections:
     collection_mode: hide
     collection_order: release
 
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/breaking-bad-collection.png
+    url_poster: https://theposterdb.com/api/assets/378220
     # url_background:
 
   ##################################################
@@ -79,7 +79,7 @@ collections:
     collection_mode: hide
     collection_order: release
 
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/vcu.png
+    url_poster: https://theposterdb.com/api/assets/486938
     # url_background:
 
 
@@ -98,7 +98,7 @@ collections:
     collection_mode: hide
     collection_order: release
 
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/world-of-ice-and-fire.png
+    url_poster: https://theposterdb.com/api/assets/501041
     # url_background:
 
   ##################################################
