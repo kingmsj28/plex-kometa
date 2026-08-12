@@ -5,15 +5,19 @@ collections:
   ##################################################
 
   Anchorman:
+    blank_collection: true
     url_poster: https://theposterdb.com/api/assets/17931
 
   The Conjuring:
+    blank_collection: true
     url_poster: https://api.mediux.pro/assets/1460d6aa-1a0a-45ee-a1b0-9a72b361c18a
 
   Annabelle:
+    blank_collection: true
     url_poster: https://api.mediux.pro/assets/7d098b79-d9f7-4362-be8e-aee951995b72
 
   The Nun:
+    blank_collection: true
     url_poster: https://api.mediux.pro/assets/c8db2a48-9180-46e8-8851-457148544ee0
     
   ##################################################
