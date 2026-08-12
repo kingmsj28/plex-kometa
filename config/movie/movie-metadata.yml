@@ -128,6 +128,140 @@ metadata:
 
   385687: # Fast X (2023) Poster by willtong93 on MediUX
     url_poster: https://api.mediux.pro/assets/c489ee00-a90f-4e30-ad43-17b28f1b9953
+    
+  ##################################################
+  # In Association with Marvel
+  ##################################################
+
+  ##################################################
+  # Blade
+  ##################################################
+
+  36647: # Blade (1998) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/b0e3f795-9aff-44d9-8ac8-3a154025dfd0
+  36586: # Blade II (2002) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/4e98f06d-063d-461d-9e39-4407cafa2c36
+  36648: # Blade: Trinity (2004) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/2383c7e6-a3f3-45e9-8777-f156c9ab65e8
+
+
+  ##################################################
+  # Daredevil / Elektra
+  ##################################################
+
+  9480: # Daredevil (2003) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/2b62dc7e-98b2-4244-a020-814a9f93bb01
+  9947: # Elektra (2005) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/e5319884-67fe-46a0-b740-98ccf52861d9
+
+
+  ##################################################
+  # Fantastic Four
+  ##################################################
+
+  9738: # Fantastic Four (2005) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/d8763a4e-3ea4-4446-b250-a6e31167fad6
+  1979: # Fantastic Four: Rise of the Silver Surfer (2007) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/2d79978c-3785-4f2d-9ed7-478e26c0d46c
+  166424: # Fantastic Four (2015) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/4d90e340-b623-477a-9404-803018dc0082
+
+
+  ##################################################
+  # Ghost Rider
+  ##################################################
+
+  1250: # Ghost Rider (2007) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/1bc2e283-b59c-4b98-98ec-0ab9ecab46c2
+  71676: # Ghost Rider: Spirit of Vengeance (2011) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/b69d6dc3-6164-495c-b5d2-0308598ae915
+
+
+  ##################################################
+  # Howard the Duck
+  ##################################################
+
+  10658: # Howard the Duck (1986) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/8163651e-0c26-4fa8-8ca4-6630cd8e6f18
+
+
+  ##################################################
+  # Hulk
+  ##################################################
+
+  1927: # Hulk (2003) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/79a36ad4-0a4a-49c1-be5f-eb0f87cadbd0
+
+
+  ##################################################
+  # Punisher
+  ##################################################
+
+  8867: # The Punisher (1989) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/ff6b9c52-d232-44b5-9f69-feb593fa7439
+  7220: # The Punisher (2004) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/3375a489-d624-4681-b2a4-151235e7c8fe
+  13056: # Punisher: War Zone (2008) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/19b87759-0c62-4a0c-9507-0c87dd7d0867
+
+
+  ##################################################
+  # Spider-Man
+  ##################################################
+
+  557: # Spider-Man (2002) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/5315b341-46a9-4088-8935-b56917b833af
+  558: # Spider-Man 2 (2004) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/e3ec6e0d-c0ad-4494-b37e-e64cccf9b001
+  559: # Spider-Man 3 (2007) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/6fae2655-b735-4fe6-baac-0f68f14bc0b1
+
+
+  ##################################################
+  # The Amazing Spider-Man
+  ##################################################
+
+  1930: # The Amazing Spider-Man (2012) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/e8b839d5-62d1-43a3-b985-295c1409bc2a
+  102382: # The Amazing Spider-Man 2 (2014) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/2a1e3e59-425d-4d21-a32e-36d890bb6f03
+
+
+  ##################################################
+  # Spider-Verse
+  ##################################################
+
+  324857: # Spider-Man: Into the Spider-Verse (2018) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/3ae60cf9-ad99-449c-971f-5d7c6eaba02f
+  569094: # Spider-Man: Across the Spider-Verse (2023) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/aa12cd8a-08ab-4c47-b82f-df370047d654
+
+
+  ##################################################
+  # Sony's Spider-Man Universe
+  ##################################################
+
+  335983: # Venom (2018) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/dfed1f6d-6e0f-4af7-8644-d8369cc6d917
+  580489: # Venom: Let There Be Carnage (2021) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/ba63c787-c042-4487-b08a-e4619e88166e
+  526896: # Morbius (2022) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/fe79e314-2741-4432-a6dc-f4344de78b8d
+  634492: # Madame Web (2024) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/80dfceae-661c-4c2c-a448-6178675ac7b6
+  912649: # Venom: The Last Dance (2024) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/394585ec-2869-44b1-9b45-9a47d682d1f8
+  539972: # Kraven the Hunter (2024) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/47a521da-d6e3-4685-962a-817a145d2a13
+    url_background: https://api.mediux.pro/assets/3043d07d-b3c4-4285-b1ac-5d388d950a5f
+
+
+  ##################################################
+  # Big Hero 6
+  ##################################################
+
+  177572: # Big Hero 6 (2014) Poster by willtong93 on MediUX
+    url_poster: https://api.mediux.pro/assets/e59399d5-e0bf-4336-8924-bf7810d73a1a
 
   ##################################################
   # Marvel Cinematic Universe

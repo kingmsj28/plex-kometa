@@ -5,15 +5,16 @@ collections:
   ##################################################
 
   Random Unwatched Movies:
+    sort_title: "!015_Random Unwatched Movies"
     plex_search:
       all:
         unplayed: true
       sort_by: random
-      limit: 50
+      limit: 100
     sync_mode: sync
     collection_mode: hide
     collection_order: custom
-    sort_title: "!015_Random Unwatched Movies"
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/random-unwatched-movies.png
 
   ##################################################
   # Decades
@@ -24,7 +25,7 @@ collections:
     #sync_mode: sync
     #collection_mode: hide
     #collection_order: release
-    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1910s.png
+    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1910s.png
     #plex_search:
       #year.gte: 1910
       #year.lte: 1919
@@ -34,7 +35,7 @@ collections:
     #sync_mode: sync
     #collection_mode: hide
     #collection_order: release
-    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1920s.png
+    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1920s.png
     #plex_search:
       #year.gte: 1920
       #year.lte: 1929
@@ -44,7 +45,7 @@ collections:
     #sync_mode: sync
     #collection_mode: hide
     #collection_order: release
-    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1930s.png
+    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1930s.png
     #plex_search:
       #year.gte: 1930
       #year.lte: 1939
@@ -54,7 +55,7 @@ collections:
     #sync_mode: sync
     #collection_mode: hide
     #collection_order: release
-    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1940s.png
+    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1940s.png
     #plex_search:
       #year.gte: 1940
       #year.lte: 1949
@@ -64,7 +65,7 @@ collections:
     #sync_mode: sync
     #collection_mode: hide
     #collection_order: release
-    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1950s.png
+    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1950s.png
     #plex_search:
       #year.gte: 1950
       #year.lte: 1959
@@ -74,7 +75,7 @@ collections:
     #sync_mode: sync
     #collection_mode: hide
     #collection_order: release
-    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1960s.png
+    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1960s.png
     #plex_search:
       #year.gte: 1960
       #year.lte: 1969
@@ -84,7 +85,7 @@ collections:
     sync_mode: sync
     collection_mode: hide
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1970s.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1970s.png
     plex_search:
       year.gte: 1970
       year.lte: 1979
@@ -94,7 +95,7 @@ collections:
     sync_mode: sync
     collection_mode: hide
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1980s.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1980s.png
     plex_search:
       year.gte: 1980
       year.lte: 1989
@@ -104,7 +105,7 @@ collections:
     sync_mode: sync
     collection_mode: hide
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/1990s.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1990s.png
     plex_search:
       year.gte: 1990
       year.lte: 1999
@@ -114,7 +115,7 @@ collections:
     sync_mode: sync
     collection_mode: hide
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/2000s.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/2000s.png
     plex_search:
       year.gte: 2000
       year.lte: 2009
@@ -124,7 +125,7 @@ collections:
     sync_mode: sync
     collection_mode: hide
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/2010s.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/2010s.png
     plex_search:
       year.gte: 2010
       year.lte: 2019
@@ -134,7 +135,7 @@ collections:
     sync_mode: sync
     collection_mode: hide
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/2020s.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/2020s.png
     plex_search:
       year.gte: 2020
       year.lte: 2029
@@ -144,7 +145,7 @@ collections:
     #sync_mode: sync
     #collection_mode: hide
     #collection_order: release
-    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/decades/2030s.png
+    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/2030s.png
     #plex_search:
       #year.gte: 2030
       #year.lte: 2039
@@ -152,6 +153,73 @@ collections:
   ##################################################
   # Universes
   ##################################################
+
+  ##################################################
+  # In Association with Marvel
+  ##################################################
+
+  In Association with Marvel*:
+    sort_title: "!040_In Association with Marvel"
+
+    tmdb_movie:
+      - 36647  # Blade (1998)
+      - 36586  # Blade II (2002)
+      - 36648  # Blade: Trinity (2004)
+
+      - 9480   # Daredevil (2003)
+      - 9947   # Elektra (2005)
+
+      - 9738   # Fantastic Four (2005)
+      - 1979   # Fantastic Four: Rise of the Silver Surfer (2007)
+      - 166424 # Fantastic Four (2015)
+
+      - 1250   # Ghost Rider (2007)
+      - 71676  # Ghost Rider: Spirit of Vengeance (2011)
+
+      - 10658  # Howard the Duck (1986)
+
+      - 1927   # Hulk (2003)
+
+      - 8867   # The Punisher (1989)
+      - 7220   # The Punisher (2004)
+      - 13056  # Punisher: War Zone (2008)
+
+      - 557    # Spider-Man (2002)
+      - 558    # Spider-Man 2 (2004)
+      - 559    # Spider-Man 3 (2007)
+
+      - 1930   # The Amazing Spider-Man (2012)
+      - 102382 # The Amazing Spider-Man 2 (2014)
+
+      - 324857 # Spider-Man: Into the Spider-Verse (2018)
+      - 569094 # Spider-Man: Across the Spider-Verse (2023)
+
+      - 335983 # Venom (2018)
+      - 580489 # Venom: Let There Be Carnage (2021)
+      - 526896 # Morbius (2022)
+      - 634492 # Madame Web (2024)
+      - 912649 # Venom: The Last Dance (2024)
+      - 539972 # Kraven the Hunter (2024)
+
+      - 36657  # X-Men (2000)
+      - 36658  # X2: X-Men United (2003)
+      - 36668  # X-Men: The Last Stand (2006)
+      - 2080   # X-Men Origins: Wolverine (2009)
+      - 49538  # X-Men: First Class (2011)
+      - 76170  # The Wolverine (2013)
+      - 127585 # X-Men: Days of Future Past (2014)
+      - 293660 # Deadpool (2016)
+      - 246655 # X-Men: Apocalypse (2016)
+      - 263115 # Logan (2017)
+      - 383498 # Deadpool 2 (2018)
+      - 320288 # Dark Phoenix (2019)
+      - 340102 # The New Mutants (2020)
+
+      - 177572 # Big Hero 6 (2014)
+
+    sync_mode: sync
+    collection_mode: hide
+    collection_order: custom
 
   ##################################################
   # Marvel Cinematic Universe
