@@ -1,10 +1,26 @@
 collections:
 
   ##################################################
+  # Franchise Poster Overrides
+  ##################################################
+
+  Anchorman:
+    url_poster: https://theposterdb.com/api/assets/17931
+
+  The Conjuring:
+    url_poster: https://api.mediux.pro/assets/1460d6aa-1a0a-45ee-a1b0-9a72b361c18a
+
+  Annabelle:
+    url_poster: https://api.mediux.pro/assets/7d098b79-d9f7-4362-be8e-aee951995b72
+
+  The Nun:
+    url_poster: https://api.mediux.pro/assets/c8db2a48-9180-46e8-8851-457148544ee0
+    
+  ##################################################
   # Random Unwatched Movies
   ##################################################
 
-  Random Unwatched Movies:
+  Random Unwatched Movies*:
     sort_title: "!015_Random Unwatched Movies"
     plex_search:
       all:

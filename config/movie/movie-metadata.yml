@@ -48,6 +48,51 @@ metadata:
     url_poster: https://api.mediux.pro/assets/7917de7c-3da6-4c75-a10e-a712e285ac23
 
   ##################################################
+  # Anchorman
+  ##################################################
+
+  8699: # Anchorman: The Legend of Ron Burgundy (2004)
+    url_poster: https://theposterdb.com/api/assets/17932
+
+  109443: # Anchorman 2: The Legend Continues (2013)
+    url_poster: https://theposterdb.com/api/assets/17933
+
+
+  ##################################################
+  # The Conjuring Universe
+  ##################################################
+
+  138843: # The Conjuring (2013)
+    url_poster: https://api.mediux.pro/assets/f21ce789-bc4c-43c7-adec-6b57b1adbcde
+
+  259693: # The Conjuring 2 (2016)
+    url_poster: https://api.mediux.pro/assets/3f01b0f7-63a3-4789-8978-287a1a481473
+
+  423108: # The Conjuring: The Devil Made Me Do It (2021)
+    url_poster: https://api.mediux.pro/assets/eb78cc8f-3cab-459a-b7d7-153927dc4f93
+
+  1038392: # The Conjuring: Last Rites (2025)
+    url_poster: https://api.mediux.pro/assets/f8f24004-2b29-4ee4-b9ef-21c43742ee62
+
+  250546: # Annabelle (2014)
+    url_poster: https://api.mediux.pro/assets/965d4fbd-ff37-49a7-822e-911692ead18f
+
+  396422: # Annabelle: Creation (2017)
+    url_poster: https://api.mediux.pro/assets/9582dc48-b3a2-471e-b4ed-759b8025fc48
+
+  521029: # Annabelle Comes Home (2019)
+    url_poster: https://api.mediux.pro/assets/d06cb40c-f677-4fb9-b91f-5a9e1b8540c5
+
+  439079: # The Nun (2018)
+    url_poster: https://api.mediux.pro/assets/a8730e9d-83b9-4619-81b6-382c90070c59
+
+  968051: # The Nun II (2023)
+    url_poster: https://api.mediux.pro/assets/7109b46d-8863-4f35-a5f6-f7b69f3b734a
+
+  480414: # The Curse of La Llorona (2019)
+    url_poster: https://api.mediux.pro/assets/1a859c81-6b35-4382-9064-3a3f7c49c288
+
+  ##################################################
   # AVP
   ##################################################
 
