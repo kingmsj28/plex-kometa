@@ -5,7 +5,7 @@ collections:
   ##################################################
 
   Marvel Cinematic Universe:
-    sort_title: "!20 - Universe"
+    sort_title: "!040_Marvel Cinematic Universe"
 
     imdb_list:
       list_id: ls539646485
@@ -30,7 +30,7 @@ collections:
   ##################################################
 
   Dexter Collection:
-    sort_title: "!30 - Franchise"
+    sort_title: "!040_Dexter Collection"
 
     tmdb_show:
       - 1405      # Dexter (2006)
@@ -50,7 +50,7 @@ collections:
   ##################################################
 
   Breaking Bad Collection:
-    sort_title: "!30 - Franchise"
+    sort_title: "!040_Breaking Bad Collection"
 
     tmdb_show:
       - 1396      # Breaking Bad (2008)
@@ -68,7 +68,7 @@ collections:
   ##################################################
 
   Vought Cinematic Universe:
-    sort_title: "!20 - Universe"
+    sort_title: "!040_Vought Cinematic Universe"
 
     tmdb_show:
       - 76479     # The Boys (2019)
@@ -88,7 +88,7 @@ collections:
   ##################################################
 
   World of Ice and Fire:
-    sort_title: "!30 - Franchise"
+    sort_title: "!040_World of Ice and Fire"
 
     tmdb_show:
       - 1399      # Game of Thrones (2011)
@@ -106,7 +106,7 @@ collections:
   ##################################################
 
   WWE Television:
-    sort_title: "!30 - Franchise"
+    sort_title: "!040_WWE Television"
 
     tmdb_show:
       - 4656      # WWE Raw (1993)
