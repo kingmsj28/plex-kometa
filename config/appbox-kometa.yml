@@ -17,9 +17,9 @@ libraries:
 
   MATT MOVIES:
     operations:
-      delete_collections:
-        configured: false
-        managed: true
+      #delete_collections:
+        #configured: false
+        #managed: true
 
     collection_files:
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-collections.yml
@@ -82,9 +82,9 @@ libraries:
 
   MATT TV:
     operations:
-      delete_collections:
-        configured: false
-        managed: true
+      #delete_collections:
+        #configured: false
+        #managed: true
 
     collection_files:
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-collections.yml
@@ -98,9 +98,9 @@ libraries:
 
   MATT MOVIES - 1080p:
     operations:
-      delete_collections:
-        configured: false
-        managed: true
+      #delete_collections:
+        #configured: false
+        #managed: true
 
     collection_files:
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-collections.yml
@@ -162,10 +162,10 @@ libraries:
     #- default: resolution
 
   MATT TV - 1080p:
-    operations:
-      delete_collections:
-        configured: false
-        managed: true
+    #operations:
+      #delete_collections:
+        #configured: false
+        #managed: true
 
     collection_files:
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-collections.yml
