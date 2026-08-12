@@ -16,6 +16,7 @@ libraries:
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-movies-metadata.yml
 
   MATT MOVIES:
+    collection_files:
     #operations:
       #delete_collections:
         #configured: false
@@ -31,21 +32,6 @@ libraries:
             535790: "Godzilla (Anime)"
             507458: "ThanksKilling"
             
-      - default: universe
-        template_variables:
-          collection_mode: hide
-          collection_order_star: release
-          collection_order_avp: release
-          url_poster_mcu: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-timeline.jpg
-          exclude:
-            - fast
-            - xmen
-
-      - default: streaming
-        template_variables:
-          collection_mode: hide
-          minimum_items: 10
-
           url_poster_8091: https://api.mediux.pro/assets/ed8f77d3-abbe-4b06-ac58-65c4ad43e060 # Alien
           url_poster_125574: https://api.mediux.pro/assets/5fcfb73d-edb7-4f69-a99c-194f60e8a81d # The Amazing Spider-Man
           url_poster_422834: https://api.mediux.pro/assets/6e438cab-bba2-4431-b49d-f86b6cad2bc1 # Ant-Man
@@ -78,8 +64,24 @@ libraries:
           url_poster_131296: https://api.mediux.pro/assets/639ade15-6556-4a6b-ae24-84350574415a # Thor
           url_poster_558216: https://api.mediux.pro/assets/956c353c-91d2-40be-a713-4493f998a56a # Venom
           url_poster_748: https://api.mediux.pro/assets/f69cb745-5117-49f4-bfc5-f8f84cd8aa35 # X-Men
+
+      - default: universe
+        template_variables:
+          collection_mode: hide
+          collection_order_star: release
+          collection_order_avp: release
+          url_poster_mcu: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-timeline.jpg
+          exclude:
+            - fast
+            - xmen
+
+      - default: streaming
+        template_variables:
+          collection_mode: hide
+          minimum_items: 10
           
-    collection_files:
+          
+    #My Collection Overides
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-collections.yml          
           
     metadata_files:
@@ -105,6 +107,7 @@ libraries:
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-metadata.yml
 
   MATT MOVIES - 1080p:
+    collection_files:
     #operations:
       #delete_collections:
         #configured: false
@@ -120,21 +123,6 @@ libraries:
             535790: "Godzilla (Anime)"
             507458: "ThanksKilling"
             
-      - default: universe
-        template_variables:
-          collection_mode: hide
-          collection_order_star: release
-          collection_order_avp: release
-          url_poster_mcu: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-timeline.jpg
-          exclude:
-            - fast
-            - xmen
-
-      - default: streaming
-        template_variables:
-          collection_mode: hide
-          minimum_items: 10
-
           url_poster_8091: https://api.mediux.pro/assets/ed8f77d3-abbe-4b06-ac58-65c4ad43e060 # Alien
           url_poster_125574: https://api.mediux.pro/assets/5fcfb73d-edb7-4f69-a99c-194f60e8a81d # The Amazing Spider-Man
           url_poster_422834: https://api.mediux.pro/assets/6e438cab-bba2-4431-b49d-f86b6cad2bc1 # Ant-Man
@@ -167,8 +155,24 @@ libraries:
           url_poster_131296: https://api.mediux.pro/assets/639ade15-6556-4a6b-ae24-84350574415a # Thor
           url_poster_558216: https://api.mediux.pro/assets/956c353c-91d2-40be-a713-4493f998a56a # Venom
           url_poster_748: https://api.mediux.pro/assets/f69cb745-5117-49f4-bfc5-f8f84cd8aa35 # X-Men
+
+      - default: universe
+        template_variables:
+          collection_mode: hide
+          collection_order_star: release
+          collection_order_avp: release
+          url_poster_mcu: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-timeline.jpg
+          exclude:
+            - fast
+            - xmen
+
+      - default: streaming
+        template_variables:
+          collection_mode: hide
+          minimum_items: 10
           
-    collection_files:
+          
+    #My Collection Overides
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-collections.yml          
           
     metadata_files:
