@@ -89,10 +89,6 @@ libraries:
     collection_files:
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-collections.yml
 
-      - default: network
-        template_variables:
-          collection_mode: hide
-
       - default: streaming
         template_variables:
           collection_mode: hide
@@ -173,10 +169,6 @@ libraries:
 
     collection_files:
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-collections.yml
-
-      - default: network
-        template_variables:
-          collection_mode: hide
 
       - default: streaming
         template_variables:
