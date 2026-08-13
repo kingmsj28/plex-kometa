@@ -410,7 +410,152 @@ collections:
     url_poster: https://api.mediux.pro/assets/9bd036d2-f74c-49ef-b04f-0fca4740e903
 
   573435: # Bad Boys: Ride or Die (2024)
-    url_poster: https://api.mediux.pro/assets/55ff9bca-932d-4ab6-8876-32d97df7a2cc    
+    url_poster: https://api.mediux.pro/assets/55ff9bca-932d-4ab6-8876-32d97df7a2cc   
+
+  ##################################################
+  # The Dark Knight Trilogy
+  ##################################################
+
+  272: # Batman Begins (2005)
+    url_poster: https://api.mediux.pro/assets/e09d1394-86f5-42cc-a97c-f3e9f72662b5
+    url_background: https://api.mediux.pro/assets/110d9280-711f-47aa-b1bb-357502f66314
+
+  155: # The Dark Knight (2008)
+    url_poster: https://api.mediux.pro/assets/0dfc0571-1d3e-43e7-8b1f-9da2dd4747aa
+    url_background: https://api.mediux.pro/assets/ffdf287d-fe79-47d8-bac9-d46eb4243c20
+
+  49026: # The Dark Knight Rises (2012)
+    url_poster: https://api.mediux.pro/assets/ff8ba228-bf7f-4b30-9102-dc994b9b7a5d
+    url_background: https://api.mediux.pro/assets/e6b360d4-1f87-40ac-90d8-ced455102343   
+
+  ##################################################
+  # Man of Steel
+  ##################################################
+
+  49521: # Man of Steel (2013)
+    url_poster: https://api.mediux.pro/assets/2d22ecf8-c70a-41c0-9b34-f248e53412c8
+    url_background: https://api.mediux.pro/assets/06e18e92-ff59-40b9-91db-48061cc8cc4e
+
+  209112: # Batman v Superman: Dawn of Justice (2016)
+    url_poster: https://api.mediux.pro/assets/1386ee4a-973a-4189-a56b-8163537044c5
+    url_background: https://api.mediux.pro/assets/657fadc8-e886-4f4f-adbe-07e50df76403    
+    
+  ##################################################
+  # Black Adam
+  ##################################################
+
+  436270: # Black Adam (2022)
+    url_poster: https://api.mediux.pro/assets/39052c6b-c6d8-4cdb-9433-00e2705f2418
+    url_background: https://api.mediux.pro/assets/9cd9ebb0-4270-405f-9b8d-7a1421ceb41e
+
+  ##################################################
+  # The Flash
+  ##################################################
+
+  298618: # The Flash (2023)
+    url_poster: https://api.mediux.pro/assets/804f9866-3ec1-47f2-bb75-03af5d09ceb6
+    url_background: https://api.mediux.pro/assets/a0fcefcd-540f-4798-ab04-0300771bbf9e
+    
+  ##################################################
+  # Shazam!
+  ##################################################
+
+  287947: # Shazam! (2019)
+    url_poster: https://api.mediux.pro/assets/b96d46c5-7f79-450a-b6cc-499fca931574
+    url_background: https://api.mediux.pro/assets/5c9761ca-85df-441d-b165-30a04c5a0df0
+
+  594767: # Shazam! Fury of the Gods (2023)
+    url_poster: https://api.mediux.pro/assets/c50cc276-dae8-4de5-94c5-b3ca4063fb03
+    url_background: https://api.mediux.pro/assets/d23b28e7-6a3d-4325-bfbd-f8fabbd37cb6  
+    
+  ##################################################
+  # Wonder Woman
+  ##################################################
+
+  297762: # Wonder Woman (2017)
+    url_poster: https://api.mediux.pro/assets/f367868f-7fde-41a5-a97b-f44c89b1d069
+    url_background: https://api.mediux.pro/assets/80cbcb5a-ac24-4c1d-888e-ca6cddff5c37
+
+  464052: # Wonder Woman 1984 (2020)
+    url_poster: https://api.mediux.pro/assets/d98abad8-561f-42e4-81fc-1dbe04423c7f
+    url_background: https://api.mediux.pro/assets/be2bcefd-6c08-4610-8e45-d85b512c9573
+    
+  ##################################################
+  # Blue Beetle
+  ##################################################
+
+  565770: # Blue Beetle (2023)
+    url_poster: https://api.mediux.pro/assets/a1b302b1-879e-46ca-867f-cc509d1b555e
+    url_background: https://api.mediux.pro/assets/d9bf27f7-6ad4-45eb-a2a2-7a875f5c1e38
+
+  ##################################################
+  # Justice League
+  ##################################################
+
+  141052: # Justice League (2017)
+    url_poster: https://api.mediux.pro/assets/78e73c2d-7be1-4a36-9e82-025f54c1b0d7
+    url_background: https://api.mediux.pro/assets/ed7e67c9-ee88-4c37-a31f-0617a23fc3a6
+    
+  ##################################################
+  # Zack Snyder's Justice League
+  ##################################################
+
+  791373: # Zack Snyder's Justice League (2021)
+    url_poster: https://api.mediux.pro/assets/857dad9f-7e6c-4d87-8a64-eff1844fc751
+    url_background: https://api.mediux.pro/assets/15911c8e-1150-4c58-942c-7d7cde0f530b
+
+  ##################################################
+  # The Suicide Squad
+  ##################################################
+
+  436969: # The Suicide Squad (2021)
+    url_poster: https://api.mediux.pro/assets/9892be18-fdaa-4f27-8065-7c12413510ed
+    url_background: https://api.mediux.pro/assets/2f8807a1-4b8e-48bd-b7df-6e433c908652
+
+  ##################################################
+  # Suicide Squad
+  ##################################################
+
+  297761: # Suicide Squad (2016)
+    url_poster: https://api.mediux.pro/assets/f808bb4b-f02b-45da-b823-50c2297da7ac
+    url_background: https://api.mediux.pro/assets/534b0d02-d96a-49d5-9ba5-167a97e11636
+
+  495764: # Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)
+    url_poster: https://api.mediux.pro/assets/55eb5ae4-f510-45c6-abdd-6825bc076ca2
+    url_background: https://api.mediux.pro/assets/7ea49852-0385-4ca9-a097-74973297a6c6
+    
+  ##################################################
+  # Beetlejuice
+  ##################################################
+
+  4011: # Beetlejuice (1988)
+    url_poster: https://api.mediux.pro/assets/cdb637c6-50fd-4004-9de3-3ee0fd375f1c
+
+  917496: # Beetlejuice Beetlejuice (2024)
+    url_poster: https://api.mediux.pro/assets/558da460-27c6-42b3-8b01-d8b22a32d192
+
+  ##################################################
+  # Bill & Ted
+  ##################################################
+
+  1648: # Bill & Ted's Excellent Adventure (1989)
+    url_poster: https://api.mediux.pro/assets/c62804a8-fef4-489c-87cc-85beb9edf54b
+
+  1649: # Bill & Ted's Bogus Journey (1991)
+    url_poster: https://api.mediux.pro/assets/972978a0-fdda-42f5-8f06-721fcd9187d5
+
+  501979: # Bill & Ted Face the Music (2020)
+    url_poster: https://api.mediux.pro/assets/5403a7c0-a070-4163-950f-9349539d4d6b
+
+  ##################################################
+  # Borat
+  ##################################################
+
+  496: # Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006)
+    url_poster: https://api.mediux.pro/assets/bba1dbb8-99b3-4528-8f14-cbd94ef0aa1e
+
+  740985: # Borat Subsequent Moviefilm (2020)
+    url_poster: https://api.mediux.pro/assets/9cb3b9a5-5ae4-4d7d-9065-8bd6e92ea107
     
   ##################################################
   # Wolverine
