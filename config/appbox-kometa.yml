@@ -17,14 +17,17 @@ libraries:
 
   MATT MOVIES:
     collection_files:
-    #operations:
-      #delete_collections:
-        #configured: false
-        #managed: true
+    operations:
+      delete_collections:
+        configured: false
+        managed: true
 
       - default: franchise
         template_variables:
           collection_mode: hide
+          addons:
+            9735:
+              - 6467 # Friday the 13th (2009)
 
           title_override:
             10: "Star Wars: Skywalker Saga"
@@ -90,6 +93,11 @@ libraries:
           url_poster_9735: https://theposterdb.com/api/assets/565556 # Friday the 13th
           url_poster_91361: https://theposterdb.com/api/assets/570281 # Halloween
           url_poster_8581: https://theposterdb.com/api/assets/565545 # A Nightmare on Elm Street
+          url_poster_645: https://api.mediux.pro/assets/10aa2060-d1f5-46c4-ad29-f98cd68fe3da # James Bond
+          url_poster_1575: https://theposterdb.com/api/assets/463084 # Rocky
+          url_poster_4246: https://api.mediux.pro/assets/a485e904-b154-4225-b52b-f545028bda62 # Scary Movie
+          url_poster_2602: https://api.mediux.pro/assets/2c3e2587-0618-46bf-8b72-69c01ec5fadf # Scream
+          url_poster_531242: https://theposterdb.com/api/assets/639094 # Suicide Squad
 
       - default: universe
         template_variables:
@@ -117,10 +125,10 @@ libraries:
     #- default: resolution
 
   MATT TV:
-    #operations:
-     # delete_collections:
-      #  configured: false
-      #  managed: true
+    operations:
+      delete_collections:
+        configured: false
+        managed: true
 
     collection_files:
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-collections.yml
@@ -134,14 +142,17 @@ libraries:
 
   MATT MOVIES - 1080p:
     collection_files:
-    #operations:
-      #delete_collections:
-        #configured: false
-        #managed: true
+    operations:
+      delete_collections:
+        configured: false
+        managed: true
 
       - default: franchise
         template_variables:
           collection_mode: hide
+          addons:
+            9735:
+              - 6467 # Friday the 13th (2009)
 
           title_override:
             10: "Star Wars: Skywalker Saga"
@@ -207,6 +218,11 @@ libraries:
           url_poster_9735: https://theposterdb.com/api/assets/565556 # Friday the 13th
           url_poster_91361: https://theposterdb.com/api/assets/570281 # Halloween
           url_poster_8581: https://theposterdb.com/api/assets/565545 # A Nightmare on Elm Street
+          url_poster_645: https://api.mediux.pro/assets/10aa2060-d1f5-46c4-ad29-f98cd68fe3da # James Bond
+          url_poster_1575: https://theposterdb.com/api/assets/463084 # Rocky
+          url_poster_4246: https://api.mediux.pro/assets/a485e904-b154-4225-b52b-f545028bda62 # Scary Movie
+          url_poster_2602: https://api.mediux.pro/assets/2c3e2587-0618-46bf-8b72-69c01ec5fadf # Scream
+          url_poster_531242: https://theposterdb.com/api/assets/639094 # Suicide Squad
 
       - default: universe
         template_variables:
@@ -234,10 +250,10 @@ libraries:
     #- default: resolution
 
   MATT TV - 1080p:
-    #operations:
-     # delete_collections:
-     #   configured: false
-      #  managed: true
+    operations:
+      delete_collections:
+        configured: false
+        managed: true
 
     collection_files:
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-collections.yml

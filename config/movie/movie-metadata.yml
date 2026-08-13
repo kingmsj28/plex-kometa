@@ -877,10 +877,10 @@ metadata:
   11470: # Jason X (2001)
     url_poster: https://theposterdb.com/api/assets/583251
 
-  6467: # Freddy vs. Jason (2003)
+  6466: # Freddy vs. Jason (2003)
     url_poster: https://theposterdb.com/api/assets/565557
 
-  6466: # Friday the 13th (2009)
+  6467: # Friday the 13th (2009)
     url_poster: https://theposterdb.com/api/assets/583250
     
   ##################################################
@@ -954,7 +954,7 @@ metadata:
   ##################################################
 
   2082: # Halloween (2007)
-    url_poster: https://theposterdb.com/api/assets/58793
+    url_poster: https://theposterdb.com/api/assets/587930
 
   24150: # Halloween II (2009)
     url_poster: https://theposterdb.com/api/assets/587929
@@ -1051,6 +1051,160 @@ metadata:
 
   677179: # Creed III (2023)
     url_poster: https://api.mediux.pro/assets/6de50352-246e-4316-8b72-5083d0aebf37
+    
+  ##################################################
+  # James Bond
+  ##################################################
+
+  646: # Dr. No (1962)
+    url_poster: https://api.mediux.pro/assets/62dd8e56-9845-466a-9e7f-5bee4f6f87a6
+
+  657: # From Russia with Love (1963)
+    url_poster: https://api.mediux.pro/assets/fddec999-0455-4312-b46d-aad772f66b38
+
+  658: # Goldfinger (1964)
+    url_poster: https://api.mediux.pro/assets/f968fd95-4bd0-4fce-a9f6-1fad93edf4d7
+
+  660: # Thunderball (1965)
+    url_poster: https://api.mediux.pro/assets/6b48ad0f-c7e6-4bca-81ee-20d07132e317
+
+  667: # You Only Live Twice (1967)
+    url_poster: https://api.mediux.pro/assets/de1369a1-b754-470b-a370-41238dc2b9f8
+
+  668: # On Her Majesty's Secret Service (1969)
+    url_poster: https://api.mediux.pro/assets/891d68c2-1faf-40d6-908c-9c7cc0c3a7c2
+
+  681: # Diamonds Are Forever (1971)
+    url_poster: https://api.mediux.pro/assets/4c8eb1a0-028f-42b7-9d8c-19932fa41fa5
+
+  253: # Live and Let Die (1973)
+    url_poster: https://api.mediux.pro/assets/3d8c2096-08de-4c2f-a686-fb4827a20301
+
+  682: # The Man with the Golden Gun (1974)
+    url_poster: https://api.mediux.pro/assets/78c59521-b938-4c6a-aadd-dd01fbc3c229
+
+  691: # The Spy Who Loved Me (1977)
+    url_poster: https://api.mediux.pro/assets/50b3e82a-1cba-40e7-98ba-c63083a33d3d
+
+  698: # Moonraker (1979)
+    url_poster: https://api.mediux.pro/assets/9c8f530b-59d4-40f6-83a8-dbb8bb6ea7ed
+
+  699: # For Your Eyes Only (1981)
+    url_poster: https://api.mediux.pro/assets/324b741d-a0ad-4d2d-97f9-cb27ac51971c
+
+  700: # Octopussy (1983)
+    url_poster: https://api.mediux.pro/assets/b45b112d-9aa3-4160-b421-cfb7ad1476f7
+
+  36670: # Never Say Never Again (1983)
+    url_poster: https://api.mediux.pro/assets/12d90649-2c3e-4cdd-ad78-90144b62ac7d
+
+  707: # A View to a Kill (1985)
+    url_poster: https://api.mediux.pro/assets/1b2af878-6be9-4928-bdb2-f19b90012f80
+
+  708: # The Living Daylights (1987)
+    url_poster: https://api.mediux.pro/assets/b4236b45-ab6c-47d2-bf24-326018b5e0db
+
+  709: # Licence to Kill (1989)
+    url_poster: https://api.mediux.pro/assets/d2cf6acc-7f22-4913-a224-a68c88962d94
+
+  710: # GoldenEye (1995)
+    url_poster: https://api.mediux.pro/assets/6a4801fe-49b5-4bb0-923a-b89867e06ca1
+
+  714: # Tomorrow Never Dies (1997)
+    url_poster: https://api.mediux.pro/assets/5679009d-54bb-4412-a645-1c1b3987651b
+
+  36643: # The World Is Not Enough (1999)
+    url_poster: https://api.mediux.pro/assets/aaf738b8-1b65-4906-8f12-b90f0e989dd0
+
+  36669: # Die Another Day (2002)
+    url_poster: https://api.mediux.pro/assets/25b91eb9-f049-4bdf-b551-bcaf4534e144
+
+  36557: # Casino Royale (2006)
+    url_poster: https://api.mediux.pro/assets/64734a17-0e51-4c7c-ba4c-2085479f4b13
+
+  10764: # Quantum of Solace (2008)
+    url_poster: https://api.mediux.pro/assets/f8accd18-89f1-454f-8308-234a95380a3b
+
+  37724: # Skyfall (2012)
+    url_poster: https://api.mediux.pro/assets/2a8d2abd-4a11-4145-8727-d5a06dfb24f7
+
+  206647: # Spectre (2015)
+    url_poster: https://api.mediux.pro/assets/02c53e6c-952c-4b74-b378-c18ad51d45eb
+
+  370172: # No Time to Die (2021)
+    url_poster: https://api.mediux.pro/assets/49f14522-4542-4f6a-b710-b17e1012a108
+    
+  12208: # Casino Royale (1967)
+    url_poster: https://api.mediux.pro/assets/5139cfa4-e835-4d00-b488-ca8c57ce3e14
+  
+  ##################################################
+  # Scary Movie
+  ##################################################
+
+  4247: # Scary Movie (2000)
+    url_poster: https://api.mediux.pro/assets/64ff4388-4163-4e5a-a22a-b68a194c0187
+
+  4248: # Scary Movie 2 (2001)
+    url_poster: https://api.mediux.pro/assets/6bfb5f0b-89e5-4dd7-9206-f000a98eebcb
+
+  4256: # Scary Movie 3 (2003)
+    url_poster: https://api.mediux.pro/assets/42023625-e123-465e-b265-885eb22cb7f5
+
+  4257: # Scary Movie 4 (2006)
+    url_poster: https://api.mediux.pro/assets/3f170ce0-fe14-4af6-9cbb-60243003db16
+
+  4258: # Scary Movie 5 (2013)
+    url_poster: https://api.mediux.pro/assets/40afe317-ecfb-44b5-b96a-8ea02d81c4b4
+
+  1273221: # Scary Movie (2026)
+    url_poster: https://api.mediux.pro/assets/8b6d3a51-5d10-4a93-98ab-41ae40def1bd
+    
+  ##################################################
+  # Scream
+  ##################################################
+
+  4232: # Scream (1996)
+    url_poster: https://api.mediux.pro/assets/cea2bb0b-3c95-4849-8c29-a352cb569c98
+
+  4233: # Scream 2 (1997)
+    url_poster: https://api.mediux.pro/assets/5d9cf349-3157-4f84-a355-d2d85e32ac72
+
+  4234: # Scream 3 (2000)
+    url_poster: https://api.mediux.pro/assets/23a8278a-d9ad-4976-b054-0848231d303e
+
+  41446: # Scream 4 (2011)
+    url_poster: https://api.mediux.pro/assets/fcaf09cb-f84e-4130-b8a8-dba912172cf4
+
+  646385: # Scream (2022)
+    url_poster: https://api.mediux.pro/assets/0fa6b670-59cc-44b9-a1cc-d4d916362aca
+
+  934433: # Scream VI (2023)
+    url_poster: https://api.mediux.pro/assets/09cbd717-0b6e-4096-8660-073ee2ff52a3
+
+  1159559: # Scream 7 (2026)
+    url_poster: https://api.mediux.pro/assets/edc0b6de-1589-4d88-acbe-d0467466bdd3
+    
+  ##################################################
+  # Rocky
+  ##################################################
+
+  1366: # Rocky (1976)
+    url_poster: https://theposterdb.com/api/assets/463090
+
+  1367: # Rocky II (1979)
+    url_poster: https://theposterdb.com/api/assets/463089
+
+  1371: # Rocky III (1982)
+    url_poster: https://theposterdb.com/api/assets/463088
+
+  1374: # Rocky IV (1985)
+    url_poster: https://theposterdb.com/api/assets/463087
+
+  1375: # Rocky V (1990)
+    url_poster: https://theposterdb.com/api/assets/463086
+
+  1246: # Rocky Balboa (2006)
+    url_poster: https://theposterdb.com/api/assets/463085
     
   ##################################################
   # Standalone Movies
