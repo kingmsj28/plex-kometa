@@ -105,7 +105,8 @@ libraries:
           url_poster_726870: https://theposterdb.com/api/assets/97420 # Jay and Silent Bob
           url_poster_645: https://api.mediux.pro/assets/10aa2060-d1f5-46c4-ad29-f98cd68fe3da # James Bond
           url_poster_119: https://api.mediux.pro/assets/0e957d39-59c6-4419-871b-fb250dc5ed77 # The Lord of the Rings
-          url_poster_209131: https://api.mediux.pro/assets/1d476fee-1e28-433e-994f-de32c456af39 # Man of Steel
+          url_poster_209131: https://theposterdb.com/api/assets/131540 # Man of Steel ALT
+          #url_poster_209131: https://api.mediux.pro/assets/1d476fee-1e28-433e-994f-de32c456af39 # Man of Steel
           url_poster_8581: https://theposterdb.com/api/assets/565545 # A Nightmare on Elm Street
           url_poster_968052: https://api.mediux.pro/assets/c8db2a48-9180-46e8-8851-457148544ee0 # The Nun
           url_poster_295: https://theposterdb.com/api/assets/71934 # Pirates of the Caribbean
