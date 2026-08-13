@@ -212,15 +212,15 @@ collections:
   # Marvel Cinematic Universe
   ##################################################
 
-  Marvel Cinematic Universe*:
-    sort_title: "!040_Marvel Cinematic Universe*"
-    imdb_list:
-      list_id: ls539646485
-    sync_mode: sync
-    collection_mode: show_items
-    collection_order: release
+  #Marvel Cinematic Universe*:
+    #sort_title: "!040_Marvel Cinematic Universe*"
+    #imdb_list:
+    #  list_id: ls539646485
+    #sync_mode: sync
+   # collection_mode: show_items
+   # collection_order: release
     #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-release.jpg
-    url_poster: https://theposterdb.com/api/assets/143466
+   # url_poster: https://theposterdb.com/api/assets/143466
 
   ##################################################
   # Middle Earth
@@ -315,23 +315,14 @@ collections:
     collection_mode: show_items
     collection_order: release
 
-    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/universe/xmen.jpg
+    url_poster: https://theposterdb.com/api/assets/143883
     # url_background:
 
 
   ##################################################
   # Franchises
   ##################################################
-
-  ##################################################
-  # Franchise Collections Separator
-  ##################################################
-
-  #Franchise Collections:
-   # sort_title: "!050_Franchise Collections"
-   # blank_collection: true
-   # collection_mode: show_items
-   # url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/separators/franchise-separator.png 
+ 
     
   ##################################################
   # Cornetto Trilogy
