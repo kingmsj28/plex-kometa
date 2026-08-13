@@ -206,6 +206,7 @@ collections:
     sync_mode: sync
     collection_mode: show_items
     collection_order: release
+    url_poster: https://theposterdb.com/api/assets/125372
 
   ##################################################
   # Marvel Cinematic Universe
