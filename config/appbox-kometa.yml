@@ -2,6 +2,7 @@ libraries:
 
   ANIME:
     collection_files:
+    
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-collections.yml
 
     metadata_files:
@@ -10,18 +11,20 @@ libraries:
 
   ANIME MOVIES:
     collection_files:
+ 
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-movie-collections.yml
 
     metadata_files:
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-movies-metadata.yml
 
   MATT MOVIES:
-    collection_files:
     operations:
       delete_collections:
         configured: false
-        managed: true
-
+        managed: true  
+  
+    collection_files:
+ 
       - default: franchise
         template_variables:
           collection_mode: hide
@@ -131,22 +134,24 @@ libraries:
         managed: true
 
     collection_files:
-      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-collections.yml
-
+    
       - default: streaming
         template_variables:
-          collection_mode: hide
+          collection_mode: hide    
+    
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-collections.yml
 
     metadata_files:
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-metadata.yml
 
   MATT MOVIES - 1080p:
-    collection_files:
     operations:
       delete_collections:
         configured: false
-        managed: true
-
+        managed: true  
+  
+    collection_files:
+ 
       - default: franchise
         template_variables:
           collection_mode: hide
@@ -256,11 +261,12 @@ libraries:
         managed: true
 
     collection_files:
-      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-collections.yml
-
+    
       - default: streaming
         template_variables:
-          collection_mode: hide
+          collection_mode: hide    
+    
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-collections.yml
 
     metadata_files:
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-metadata.yml
