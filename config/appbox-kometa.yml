@@ -53,7 +53,8 @@ libraries:
           url_poster_93791: https://theposterdb.com/api/assets/17931 # Anchorman
           url_poster_422834: https://theposterdb.com/api/assets/295036 # Ant-Man ALT
           #url_poster_422834: https://api.mediux.pro/assets/6e438cab-bba2-4431-b49d-f86b6cad2bc1 # Ant-Man
-          url_poster_573693: https://api.mediux.pro/assets/14d0dfb1-6de6-4029-88e2-bd25cc886be3 # Aquaman
+          url_poster_573693: https://theposterdb.com/api/assets/349724 # Aquaman ALT
+          #url_poster_573693: https://api.mediux.pro/assets/14d0dfb1-6de6-4029-88e2-bd25cc886be3 # Aquaman
           url_poster_1006: https://api.mediux.pro/assets/90c21044-6274-4b74-8886-71ebcd313085 # Austin Powers
           url_poster_87096: https://api.mediux.pro/assets/45555893-879e-41fe-a149-45b22405a153 # Avatar
           url_poster_86311: https://theposterdb.com/api/assets/114054 # Avengers ALT
@@ -77,7 +78,8 @@ libraries:
           url_poster_313086: https://api.mediux.pro/assets/1460d6aa-1a0a-45ee-a1b0-9a72b361c18a # The Conjuring
           url_poster_553717: https://api.mediux.pro/assets/f0006f17-3b26-4d79-9040-3ea3d5e3c905 # Creed
           url_poster_64751: https://theposterdb.com/api/assets/168168 # Crank
-          url_poster_263: https://api.mediux.pro/assets/3060365a-13b1-4e7e-b4bd-d2b9947149de # The Dark Knight
+          url_poster_263: https://theposterdb.com/api/assets/141711 # The Dark Knight ALT
+          #url_poster_263: https://api.mediux.pro/assets/3060365a-13b1-4e7e-b4bd-d2b9947149de # The Dark Knight
           url_poster_448150: https://theposterdb.com/api/assets/135778 # Deadpool ALT
           #url_poster_448150: https://api.mediux.pro/assets/4f6abbaf-8b26-436c-9501-82638ea4f287 # Deadpool
           url_poster_95664: https://theposterdb.com/api/assets/640088 # Deuce Bigalow
@@ -113,7 +115,8 @@ libraries:
           url_poster_1575: https://theposterdb.com/api/assets/463084 # Rocky
           url_poster_4246: https://api.mediux.pro/assets/a485e904-b154-4225-b52b-f545028bda62 # Scary Movie
           url_poster_2602: https://api.mediux.pro/assets/2c3e2587-0618-46bf-8b72-69c01ec5fadf # Scream
-          url_poster_724848: https://api.mediux.pro/assets/0dd45a18-6add-4c47-9eb4-84fecae46a85 # Shazam!
+          url_poster_724848: https://theposterdb.com/api/assets/313308 # Shazam! ALT
+          #url_poster_724848: https://api.mediux.pro/assets/0dd45a18-6add-4c47-9eb4-84fecae46a85 # Shazam!
           url_poster_531241: https://theposterdb.com/api/assets/287939 # Spider-Man (Avengers) ALT
           #url_poster_531241: https://api.mediux.pro/assets/c3d5982f-1baa-4959-b764-361f40342d8e # Spider-Man (Avengers)
           url_poster_556: https://theposterdb.com/api/assets/132628 # Spider-Man (Trilogy) ALT
@@ -121,7 +124,8 @@ libraries:
           url_poster_573436: https://theposterdb.com/api/assets/132635 # Spider-Verse ALT
           #url_poster_573436: https://api.mediux.pro/assets/f66d7082-fe88-4f2d-8175-b745843a44c7 # Spider-Verse
           url_poster_10: https://api.mediux.pro/assets/60209ad6-d0a8-4d55-a42a-ec0e9e1de3ae # Star Wars: Skywalker Saga
-          url_poster_531242: https://theposterdb.com/api/assets/639094 # Suicide Squad
+          url_poster_531242: https://theposterdb.com/api/assets/139024 # Suicide Squad ALT
+          #url_poster_531242: https://theposterdb.com/api/assets/639094 # Suicide Squad
           url_poster_507458: https://theposterdb.com/api/assets/545477 # ThanksKilling
           url_poster_131296: https://theposterdb.com/api/assets/249712 # Thor ALT
           #url_poster_131296: https://api.mediux.pro/assets/639ade15-6556-4a6b-ae24-84350574415a # Thor
@@ -129,7 +133,8 @@ libraries:
           #url_poster_558216: https://api.mediux.pro/assets/956c353c-91d2-40be-a713-4493f998a56a # Venom
           url_poster_453993: https://theposterdb.com/api/assets/152048 # The Wolverine ALT
           #url_poster_453993: https://api.mediux.pro/assets/3d1d4040-97c0-4260-941c-590e817418d6 # The Wolverine
-          url_poster_468552: https://api.mediux.pro/assets/39fdb347-ba7e-441f-8d93-0e8bdd9ee8e4 # Wonder Woman
+          url_poster_468552: https://theposterdb.com/api/assets/128646 # Wonder Woman ALT
+          #url_poster_468552: https://api.mediux.pro/assets/39fdb347-ba7e-441f-8d93-0e8bdd9ee8e4 # Wonder Woman
           url_poster_748: https://theposterdb.com/api/assets/143883 # X-Men ALT
           #url_poster_748: https://api.mediux.pro/assets/f69cb745-5117-49f4-bfc5-f8f84cd8aa35 # X-Men      
 
@@ -139,6 +144,7 @@ libraries:
           collection_order_star: release
           collection_order_avp: release
           url_poster_mcu: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-timeline.jpg
+          url_poster_dceu: https://theposterdb.com/api/assets/128645 # DC Universe ALT
           exclude:
             - fast
             - xmen
