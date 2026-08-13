@@ -27,7 +27,7 @@ libraries:
  
       - default: franchise
         template_variables:
-          collection_mode: hide
+          collection_mode: show_items
 
           addons:
             9735:
@@ -123,7 +123,7 @@ libraries:
 
       - default: universe
         template_variables:
-          collection_mode: hide
+          collection_mode: show_items
           collection_order_star: release
           collection_order_avp: release
           url_poster_mcu: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-timeline.jpg
@@ -133,7 +133,7 @@ libraries:
 
       - default: streaming
         template_variables:
-          collection_mode: hide
+          collection_mode: show_items
           minimum_items: 10
           
           
