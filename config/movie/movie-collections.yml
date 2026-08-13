@@ -233,7 +233,7 @@ collections:
     collection_mode: hide
     collection_order: release
     #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-release.jpg
-    url poster: https://theposterdb.com/api/assets/143466
+    url_poster: https://theposterdb.com/api/assets/143466
 
   ##################################################
   # Middle Earth
