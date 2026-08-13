@@ -147,9 +147,9 @@ libraries:
           collection_order_mcu: release
           url_poster_mcu: https://theposterdb.com/api/assets/143466 #MCU
           url_poster_dcu: https://theposterdb.com/api/assets/128645 # DC Universe
-          url_poster_wizard: https://theposterdb.com/api/assets/1269 # Wizarding World
-          url_poster_askew: https://theposterdb.com/api/assets/171375 # View Askewniverse
-          url_poster_middle: https://theposterdb.com/api/assets/264226 # Middle Earth
+          #url_poster_wizard: https://theposterdb.com/api/assets/1269 # Wizarding World
+          #url_poster_askew: https://theposterdb.com/api/assets/171375 # View Askewniverse
+          #url_poster_middle: https://theposterdb.com/api/assets/264226 # Middle Earth
           url_poster_star: https://theposterdb.com/api/assets/133720 # Star Wars
           url_poster_conjuring: https://api.mediux.pro/assets/2f19f71f-b856-4f41-82d8-02ddb7ab6353 # Conjuring Universe
           url_poster_avp: https://theposterdb.com/api/assets/146111 # Alien / Predator Universe
