@@ -842,6 +842,122 @@ metadata:
   436969: # The Suicide Squad (2021)
     url_poster: https://api.mediux.pro/assets/9892be18-fdaa-4f27-8065-7c12413510ed
     url_background: https://api.mediux.pro/assets/2f8807a1-4b8e-48bd-b7df-6e433c908652
+    
+  ##################################################
+  # Friday the 13th
+  ##################################################
+
+  4488: # Friday the 13th (1980)
+    url_poster: https://theposterdb.com/api/assets/565562
+
+  9725: # Friday the 13th Part 2 (1981)
+    url_poster: https://theposterdb.com/api/assets/583259
+
+  9728: # Friday the 13th Part III (1982)
+    url_poster: https://theposterdb.com/api/assets/583258
+
+  9730: # Friday the 13th: The Final Chapter (1984)
+    url_poster: https://theposterdb.com/api/assets/583257
+
+  9731: # Friday the 13th: A New Beginning (1985)
+    url_poster: https://theposterdb.com/api/assets/583256
+
+  10225: # Jason Lives: Friday the 13th Part VI (1986)
+    url_poster: https://theposterdb.com/api/assets/583255
+
+  10281: # Friday the 13th Part VII: The New Blood (1988)
+    url_poster: https://theposterdb.com/api/assets/583254
+
+  10283: # Friday the 13th Part VIII: Jason Takes Manhattan (1989)
+    url_poster: https://theposterdb.com/api/assets/583253
+
+  10285: # Jason Goes to Hell: The Final Friday (1993)
+    url_poster: https://theposterdb.com/api/assets/583252
+
+  11470: # Jason X (2001)
+    url_poster: https://theposterdb.com/api/assets/583251
+
+  6467: # Freddy vs. Jason (2003)
+    url_poster: https://theposterdb.com/api/assets/565557
+
+  6466: # Friday the 13th (2009)
+    url_poster: https://theposterdb.com/api/assets/583250
+    
+  ##################################################
+  # A Nightmare on Elm Street
+  ##################################################
+
+  377: # A Nightmare on Elm Street (1984)
+    url_poster: https://theposterdb.com/api/assets/565544
+
+  10014: # A Nightmare on Elm Street Part 2: Freddy's Revenge (1985)
+    url_poster: https://theposterdb.com/api/assets/587898
+
+  10072: # A Nightmare on Elm Street 3: Dream Warriors (1987)
+    url_poster: https://theposterdb.com/api/assets/565543
+
+  10131: # A Nightmare on Elm Street 4: The Dream Master (1988)
+    url_poster: https://theposterdb.com/api/assets/587897
+
+  10160: # A Nightmare on Elm Street: The Dream Child (1989)
+    url_poster: https://theposterdb.com/api/assets/587896
+
+  11284: # Freddy's Dead: The Final Nightmare (1991)
+    url_poster: https://theposterdb.com/api/assets/587895
+
+  11596: # Wes Craven's New Nightmare (1994)
+    url_poster: https://theposterdb.com/api/assets/587894
+
+  23437: # A Nightmare on Elm Street (2010)
+    url_poster: https://theposterdb.com/api/assets/587893
+
+  ##################################################
+  # Halloween
+  ##################################################
+
+  948: # Halloween (1978)
+    url_poster: https://theposterdb.com/api/assets/570286
+
+  11281: # Halloween II (1981)
+    url_poster: https://theposterdb.com/api/assets/570285
+
+  10676: # Halloween III: Season of the Witch (1982)
+    url_poster: https://theposterdb.com/api/assets/570284
+
+  11357: # Halloween 4: The Return of Michael Myers (1988)
+    url_poster: https://theposterdb.com/api/assets/587927
+
+  11361: # Halloween 5: The Revenge of Michael Myers (1989)
+    url_poster: https://theposterdb.com/api/assets/587926
+
+  10987: # Halloween: The Curse of Michael Myers (1995)
+    url_poster: https://theposterdb.com/api/assets/587925
+
+  11675: # Halloween H20: 20 Years Later (1998)
+    url_poster: https://theposterdb.com/api/assets/570283
+
+  11442: # Halloween: Resurrection (2002)
+    url_poster: https://theposterdb.com/api/assets/587924
+
+  424139: # Halloween (2018)
+    url_poster: https://theposterdb.com/api/assets/570282
+
+  610253: # Halloween Kills (2021)
+    url_poster: https://theposterdb.com/api/assets/587923
+
+  616820: # Halloween Ends (2022)
+    url_poster: https://theposterdb.com/api/assets/587922
+
+
+  ##################################################
+  # Halloween - Rob Zombie
+  ##################################################
+
+  2082: # Halloween (2007)
+    url_poster: https://theposterdb.com/api/assets/58793
+
+  24150: # Halloween II (2009)
+    url_poster: https://theposterdb.com/api/assets/587929
 
   ##################################################
   # Suicide Squad

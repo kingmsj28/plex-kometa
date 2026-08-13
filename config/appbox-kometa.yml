@@ -87,6 +87,9 @@ libraries:
           url_poster_558216: https://api.mediux.pro/assets/956c353c-91d2-40be-a713-4493f998a56a # Venom
           url_poster_468552: https://api.mediux.pro/assets/39fdb347-ba7e-441f-8d93-0e8bdd9ee8e4 # Wonder Woman  
           url_poster_748: https://api.mediux.pro/assets/f69cb745-5117-49f4-bfc5-f8f84cd8aa35 # X-Men
+          url_poster_9735: https://theposterdb.com/api/assets/565556 # Friday the 13th
+          url_poster_91361: https://theposterdb.com/api/assets/570281 # Halloween
+          url_poster_8581: https://theposterdb.com/api/assets/565545 # A Nightmare on Elm Street
 
       - default: universe
         template_variables:
@@ -201,6 +204,9 @@ libraries:
           url_poster_558216: https://api.mediux.pro/assets/956c353c-91d2-40be-a713-4493f998a56a # Venom
           url_poster_468552: https://api.mediux.pro/assets/39fdb347-ba7e-441f-8d93-0e8bdd9ee8e4 # Wonder Woman  
           url_poster_748: https://api.mediux.pro/assets/f69cb745-5117-49f4-bfc5-f8f84cd8aa35 # X-Men
+          url_poster_9735: https://theposterdb.com/api/assets/565556 # Friday the 13th
+          url_poster_91361: https://theposterdb.com/api/assets/570281 # Halloween
+          url_poster_8581: https://theposterdb.com/api/assets/565545 # A Nightmare on Elm Street
 
       - default: universe
         template_variables:
