@@ -159,7 +159,7 @@ collections:
   ##################################################
 
   In Association with Marvel*:
-    sort_title: "!040_In Association with Marvel"
+    sort_title: "!040_In Association with Marvel*"
 
     tmdb_movie:
       - 36647  # Blade (1998)
