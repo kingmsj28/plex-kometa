@@ -232,7 +232,8 @@ collections:
     sync_mode: sync
     collection_mode: hide
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-release.jpg
+    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-release.jpg
+    url poster: https://theposterdb.com/api/assets/143466
 
   ##################################################
   # Middle Earth
@@ -350,7 +351,6 @@ collections:
   ##################################################
 
   Cornetto Trilogy*:
-    sort_title: "!050_Cornetto Trilogy"
     collection_mode: hide
     collection_order: release
     sync_mode: sync
@@ -364,12 +364,12 @@ collections:
   # Wolverine
   ##################################################
 
-  Wolverine*:
-    tmdb_movie:
-      - 2080    # X-Men Origins: Wolverine (2009)
-      - 76170   # The Wolverine (2013)
-      - 263115  # Logan (2017)
-    sync_mode: sync
-    collection_mode: hide
-    collection_order: release
-    url_poster: https://api.mediux.pro/assets/3d1d4040-97c0-4260-941c-590e817418d6
+  #Wolverine*:
+    #tmdb_movie:
+   #   - 2080    # X-Men Origins: Wolverine (2009)
+   #   - 76170   # The Wolverine (2013)
+  #    - 263115  # Logan (2017)
+  #  sync_mode: sync
+  #  collection_mode: hide
+   # collection_order: release
+  #  url_poster: https://api.mediux.pro/assets/3d1d4040-97c0-4260-941c-590e817418d6
