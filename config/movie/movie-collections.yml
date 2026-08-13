@@ -205,7 +205,7 @@ collections:
       - 177572 # Big Hero 6 (2014)
     sync_mode: sync
     collection_mode: show_items
-    collection_order: custom
+    collection_order: release
 
   ##################################################
   # Marvel Cinematic Universe
