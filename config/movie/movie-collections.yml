@@ -160,47 +160,35 @@ collections:
 
   In Association with Marvel*:
     sort_title: "!040_In Association with Marvel*"
-
     tmdb_movie:
       - 36647  # Blade (1998)
       - 36586  # Blade II (2002)
       - 36648  # Blade: Trinity (2004)
-
       - 9480   # Daredevil (2003)
       - 9947   # Elektra (2005)
-
       - 9738   # Fantastic Four (2005)
       - 1979   # Fantastic Four: Rise of the Silver Surfer (2007)
       - 166424 # Fantastic Four (2015)
-
       - 1250   # Ghost Rider (2007)
       - 71676  # Ghost Rider: Spirit of Vengeance (2011)
-
       - 10658  # Howard the Duck (1986)
-
       - 1927   # Hulk (2003)
-
       - 8867   # The Punisher (1989)
       - 7220   # The Punisher (2004)
       - 13056  # Punisher: War Zone (2008)
-
       - 557    # Spider-Man (2002)
       - 558    # Spider-Man 2 (2004)
       - 559    # Spider-Man 3 (2007)
-
       - 1930   # The Amazing Spider-Man (2012)
       - 102382 # The Amazing Spider-Man 2 (2014)
-
       - 324857 # Spider-Man: Into the Spider-Verse (2018)
       - 569094 # Spider-Man: Across the Spider-Verse (2023)
-
       - 335983 # Venom (2018)
       - 580489 # Venom: Let There Be Carnage (2021)
       - 526896 # Morbius (2022)
       - 634492 # Madame Web (2024)
       - 912649 # Venom: The Last Dance (2024)
       - 539972 # Kraven the Hunter (2024)
-
       - 36657  # X-Men (2000)
       - 36658  # X2: X-Men United (2003)
       - 36668  # X-Men: The Last Stand (2006)
@@ -214,9 +202,7 @@ collections:
       - 383498 # Deadpool 2 (2018)
       - 320288 # Dark Phoenix (2019)
       - 340102 # The New Mutants (2020)
-
       - 177572 # Big Hero 6 (2014)
-
     sync_mode: sync
     collection_mode: show_items
     collection_order: custom
