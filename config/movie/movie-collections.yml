@@ -346,6 +346,21 @@ collections:
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/separators/franchise-separator.png 
     
   ##################################################
+  # Cornetto Trilogy
+  ##################################################
+
+  Cornetto Trilogy*:
+    sort_title: "!050_Cornetto Trilogy"
+    collection_mode: hide
+    collection_order: release
+    sync_mode: sync
+    tmdb_movie:
+      - 747 # Shaun of the Dead (2004)
+      - 4638 # Hot Fuzz (2007)
+      - 107985 # The World's End (2013)
+    url_poster: https://theposterdb.com/api/assets/284240
+    
+  ##################################################
   # Wolverine
   ##################################################
 

@@ -1185,6 +1185,19 @@ metadata:
     url_poster: https://api.mediux.pro/assets/edc0b6de-1589-4d88-acbe-d0467466bdd3
     
   ##################################################
+  # Cornetto Trilogy
+  ##################################################
+
+  747: # Shaun of the Dead (2004)
+    url_poster: https://theposterdb.com/api/assets/7935
+
+  4638: # Hot Fuzz (2007)
+    url_poster: https://theposterdb.com/api/assets/7936
+
+  107985: # The World's End (2013)
+    url_poster: https://theposterdb.com/api/assets/7937
+    
+  ##################################################
   # Rocky
   ##################################################
 
