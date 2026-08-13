@@ -633,6 +633,48 @@ metadata:
     
   340102: # The New Mutants (2020) Poster by willtong93 on MediUX
     url_poster: https://api.mediux.pro/assets/8c876119-54d4-4897-ac66-f3f228c0dff2
+    
+  ##################################################
+  # Deuce Bigalow
+  ##################################################
+
+  10402: # Deuce Bigalow: Male Gigolo (1999)
+    url_poster: https://theposterdb.com/api/assets/640090
+
+  11453: # Deuce Bigalow: European Gigolo (2005)
+    url_poster: https://theposterdb.com/api/assets/640089
+
+  ##################################################
+  # Die Hard
+  ##################################################
+
+  562: # Die Hard (1988)
+    url_poster: https://api.mediux.pro/assets/47ce41fd-8e30-48e0-9a1d-aa20bc3f11b3
+
+  1573: # Die Hard 2 (1990)
+    url_poster: https://api.mediux.pro/assets/d128cf29-5de0-47ee-aa1a-67a01a832489
+
+  1572: # Die Hard: With a Vengeance (1995)
+    url_poster: https://api.mediux.pro/assets/49504e71-84d7-4a52-a064-25a99688c981
+
+  1571: # Live Free or Die Hard (2007)
+    url_poster: https://api.mediux.pro/assets/69cd72af-5078-4a29-a16d-2dd1db37313e
+
+  47964: # A Good Day to Die Hard (2013)
+    url_poster: https://api.mediux.pro/assets/1cb4c6b6-10b2-4c40-9b4b-075eaeb76e7a
+
+  ##################################################
+  # Dumb and Dumber
+  ##################################################
+
+  8467: # Dumb and Dumber (1994)
+    url_poster: https://theposterdb.com/api/assets/646945
+
+  10152: # Dumb and Dumberer: When Harry Met Lloyd (2003)
+    url_poster: https://theposterdb.com/api/assets/646944
+
+  100042: # Dumb and Dumber To (2014)
+    url_poster: https://theposterdb.com/api/assets/646943
 
   ##################################################
   # Standalone Movies
@@ -649,3 +691,263 @@ metadata:
     
   3989: # Team America: World Police (2004)
     url_poster: https://theposterdb.com/api/assets/156811
+    
+  ##################################################
+  # Austin Powers
+  ##################################################
+
+  816: # Austin Powers: International Man of Mystery (1997)
+    url_poster: https://api.mediux.pro/assets/a7363756-e010-4013-8426-4fea87212d66
+
+  817: # Austin Powers: The Spy Who Shagged Me (1999)
+    url_poster: https://api.mediux.pro/assets/2a6ad53c-43f1-46c5-99f8-5523d3a29db3
+
+  818: # Austin Powers in Goldmember (2002)
+    url_poster: https://api.mediux.pro/assets/26e365a8-f0d4-47ec-bbd4-321043bbfe0c  
+
+  ##################################################
+  # Aquaman
+  ##################################################
+
+  297802: # Aquaman (2018)
+    url_poster: https://api.mediux.pro/assets/96e23dd4-e516-43d7-bea5-5bebc214cb1c
+    url_background: https://api.mediux.pro/assets/196515b1-c4b1-4b6e-9bbe-165baeba6016
+
+  572802: # Aquaman and the Lost Kingdom (2023)
+    url_poster: https://api.mediux.pro/assets/e2d327fd-6992-4b35-9396-79b9354d55ad
+    url_background: https://api.mediux.pro/assets/765cf9ad-da33-4173-b456-e8e048b528b0    
+    
+  ##################################################
+  # Avatar
+  ##################################################
+
+  19995: # Avatar (2009)
+    url_poster: https://api.mediux.pro/assets/273caa2f-4390-47c0-a54e-a3ec44eba915
+
+  76600: # Avatar: The Way of Water (2022)
+    url_poster: https://api.mediux.pro/assets/7838a943-72db-4e83-8160-a8a1876867df
+
+  83533: # Avatar: Fire and Ash (2025)
+    url_poster: https://api.mediux.pro/assets/8fe9d811-7147-46c9-84f8-488800b1afb8
+    
+  ##################################################
+  # Back to the Future
+  ##################################################
+
+  105: # Back to the Future (1985)
+    url_poster: https://api.mediux.pro/assets/f0611c09-851a-446e-99a0-c7720bbac165
+
+  165: # Back to the Future Part II (1989)
+    url_poster: https://api.mediux.pro/assets/fdffe869-842d-49a3-a6dc-fa38a62c0e93
+
+  196: # Back to the Future Part III (1990)
+    url_poster: https://api.mediux.pro/assets/e2a1d574-c181-4c62-ba81-3afe024eaca7   
+
+  ##################################################
+  # Bad Boys
+  ##################################################
+
+  9737: # Bad Boys (1995)
+    url_poster: https://api.mediux.pro/assets/60fb3cea-e889-4540-a2ed-1081425e1553
+
+  8961: # Bad Boys II (2003)
+    url_poster: https://api.mediux.pro/assets/0e211dfa-0df5-4464-82ea-35a6208eb6c9
+
+  38700: # Bad Boys for Life (2020)
+    url_poster: https://api.mediux.pro/assets/9bd036d2-f74c-49ef-b04f-0fca4740e903
+
+  573435: # Bad Boys: Ride or Die (2024)
+    url_poster: https://api.mediux.pro/assets/55ff9bca-932d-4ab6-8876-32d97df7a2cc   
+
+  ##################################################
+  # The Dark Knight Trilogy
+  ##################################################
+
+  272: # Batman Begins (2005)
+    url_poster: https://api.mediux.pro/assets/e09d1394-86f5-42cc-a97c-f3e9f72662b5
+    url_background: https://api.mediux.pro/assets/110d9280-711f-47aa-b1bb-357502f66314
+
+  155: # The Dark Knight (2008)
+    url_poster: https://api.mediux.pro/assets/0dfc0571-1d3e-43e7-8b1f-9da2dd4747aa
+    url_background: https://api.mediux.pro/assets/ffdf287d-fe79-47d8-bac9-d46eb4243c20
+
+  49026: # The Dark Knight Rises (2012)
+    url_poster: https://api.mediux.pro/assets/ff8ba228-bf7f-4b30-9102-dc994b9b7a5d
+    url_background: https://api.mediux.pro/assets/e6b360d4-1f87-40ac-90d8-ced455102343   
+
+  ##################################################
+  # Man of Steel
+  ##################################################
+
+  49521: # Man of Steel (2013)
+    url_poster: https://api.mediux.pro/assets/2d22ecf8-c70a-41c0-9b34-f248e53412c8
+    url_background: https://api.mediux.pro/assets/06e18e92-ff59-40b9-91db-48061cc8cc4e
+
+  209112: # Batman v Superman: Dawn of Justice (2016)
+    url_poster: https://api.mediux.pro/assets/1386ee4a-973a-4189-a56b-8163537044c5
+    url_background: https://api.mediux.pro/assets/657fadc8-e886-4f4f-adbe-07e50df76403    
+    
+  ##################################################
+  # Black Adam
+  ##################################################
+
+  436270: # Black Adam (2022)
+    url_poster: https://api.mediux.pro/assets/39052c6b-c6d8-4cdb-9433-00e2705f2418
+    url_background: https://api.mediux.pro/assets/9cd9ebb0-4270-405f-9b8d-7a1421ceb41e
+
+  ##################################################
+  # The Flash
+  ##################################################
+
+  298618: # The Flash (2023)
+    url_poster: https://api.mediux.pro/assets/804f9866-3ec1-47f2-bb75-03af5d09ceb6
+    url_background: https://api.mediux.pro/assets/a0fcefcd-540f-4798-ab04-0300771bbf9e
+    
+  ##################################################
+  # Shazam!
+  ##################################################
+
+  287947: # Shazam! (2019)
+    url_poster: https://api.mediux.pro/assets/b96d46c5-7f79-450a-b6cc-499fca931574
+    url_background: https://api.mediux.pro/assets/5c9761ca-85df-441d-b165-30a04c5a0df0
+
+  594767: # Shazam! Fury of the Gods (2023)
+    url_poster: https://api.mediux.pro/assets/c50cc276-dae8-4de5-94c5-b3ca4063fb03
+    url_background: https://api.mediux.pro/assets/d23b28e7-6a3d-4325-bfbd-f8fabbd37cb6  
+    
+  ##################################################
+  # Wonder Woman
+  ##################################################
+
+  297762: # Wonder Woman (2017)
+    url_poster: https://api.mediux.pro/assets/f367868f-7fde-41a5-a97b-f44c89b1d069
+    url_background: https://api.mediux.pro/assets/80cbcb5a-ac24-4c1d-888e-ca6cddff5c37
+
+  464052: # Wonder Woman 1984 (2020)
+    url_poster: https://api.mediux.pro/assets/d98abad8-561f-42e4-81fc-1dbe04423c7f
+    url_background: https://api.mediux.pro/assets/be2bcefd-6c08-4610-8e45-d85b512c9573
+    
+  ##################################################
+  # Blue Beetle
+  ##################################################
+
+  565770: # Blue Beetle (2023)
+    url_poster: https://api.mediux.pro/assets/a1b302b1-879e-46ca-867f-cc509d1b555e
+    url_background: https://api.mediux.pro/assets/d9bf27f7-6ad4-45eb-a2a2-7a875f5c1e38
+
+  ##################################################
+  # Justice League
+  ##################################################
+
+  141052: # Justice League (2017)
+    url_poster: https://api.mediux.pro/assets/78e73c2d-7be1-4a36-9e82-025f54c1b0d7
+    url_background: https://api.mediux.pro/assets/ed7e67c9-ee88-4c37-a31f-0617a23fc3a6
+    
+  ##################################################
+  # Zack Snyder's Justice League
+  ##################################################
+
+  791373: # Zack Snyder's Justice League (2021)
+    url_poster: https://api.mediux.pro/assets/857dad9f-7e6c-4d87-8a64-eff1844fc751
+    url_background: https://api.mediux.pro/assets/15911c8e-1150-4c58-942c-7d7cde0f530b
+
+  ##################################################
+  # The Suicide Squad
+  ##################################################
+
+  436969: # The Suicide Squad (2021)
+    url_poster: https://api.mediux.pro/assets/9892be18-fdaa-4f27-8065-7c12413510ed
+    url_background: https://api.mediux.pro/assets/2f8807a1-4b8e-48bd-b7df-6e433c908652
+
+  ##################################################
+  # Suicide Squad
+  ##################################################
+
+  297761: # Suicide Squad (2016)
+    url_poster: https://api.mediux.pro/assets/f808bb4b-f02b-45da-b823-50c2297da7ac
+    url_background: https://api.mediux.pro/assets/534b0d02-d96a-49d5-9ba5-167a97e11636
+
+  495764: # Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)
+    url_poster: https://api.mediux.pro/assets/55eb5ae4-f510-45c6-abdd-6825bc076ca2
+    url_background: https://api.mediux.pro/assets/7ea49852-0385-4ca9-a097-74973297a6c6
+    
+  ##################################################
+  # Beetlejuice
+  ##################################################
+
+  4011: # Beetlejuice (1988)
+    url_poster: https://api.mediux.pro/assets/cdb637c6-50fd-4004-9de3-3ee0fd375f1c
+
+  917496: # Beetlejuice Beetlejuice (2024)
+    url_poster: https://api.mediux.pro/assets/558da460-27c6-42b3-8b01-d8b22a32d192
+
+  ##################################################
+  # Bill & Ted
+  ##################################################
+
+  1648: # Bill & Ted's Excellent Adventure (1989)
+    url_poster: https://api.mediux.pro/assets/c62804a8-fef4-489c-87cc-85beb9edf54b
+
+  1649: # Bill & Ted's Bogus Journey (1991)
+    url_poster: https://api.mediux.pro/assets/972978a0-fdda-42f5-8f06-721fcd9187d5
+
+  501979: # Bill & Ted Face the Music (2020)
+    url_poster: https://api.mediux.pro/assets/5403a7c0-a070-4163-950f-9349539d4d6b
+
+  ##################################################
+  # Borat
+  ##################################################
+
+  496: # Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006)
+    url_poster: https://api.mediux.pro/assets/bba1dbb8-99b3-4528-8f14-cbd94ef0aa1e
+
+  740985: # Borat Subsequent Moviefilm (2020)
+    url_poster: https://api.mediux.pro/assets/9cb3b9a5-5ae4-4d7d-9065-8bd6e92ea107
+    
+  ##################################################
+  # Chucky
+  ##################################################
+
+  10585: # Child's Play (1988)
+    url_poster: https://api.mediux.pro/assets/5bc5e3e7-e728-4016-a920-f3e042362434
+
+  11186: # Child's Play 2 (1990)
+    url_poster: https://api.mediux.pro/assets/36087c9b-836c-4e28-8d91-c47cb04ed7cd
+
+  11187: # Child's Play 3 (1991)
+    url_poster: https://api.mediux.pro/assets/3c2c890d-b60e-4023-b5f5-255efe83e8c9
+
+  11932: # Bride of Chucky (1998)
+    url_poster: https://api.mediux.pro/assets/77a547d2-42e0-4ddf-9c08-641eb77cabe4
+
+  11249: # Seed of Chucky (2004)
+    url_poster: https://api.mediux.pro/assets/0ac68c27-c0e3-4f5b-b438-a7b805f9f370
+
+  167032: # Curse of Chucky (2013)
+    url_poster: https://api.mediux.pro/assets/19c1804c-1134-4b4d-8c6a-9614c8c4a7c3
+
+  393345: # Cult of Chucky (2017)
+    url_poster: https://api.mediux.pro/assets/d4c1b7ba-2a85-4cdb-9e51-bed60e32811b
+
+  ##################################################
+  # Crank
+  ##################################################
+
+  1948: # Crank (2006)
+    url_poster: https://theposterdb.com/api/assets/168169
+
+  15092: # Crank: High Voltage (2009)
+    url_poster: https://theposterdb.com/api/assets/168170
+
+  ##################################################
+  # Creed
+  ##################################################
+
+  312221: # Creed (2015)
+    url_poster: https://api.mediux.pro/assets/6bddbcca-ccda-4d18-b58a-a6ab9d774cba
+
+  480530: # Creed II (2018)
+    url_poster: https://api.mediux.pro/assets/d68b7c4c-fe89-46d6-85f5-819c27b01290
+
+  677179: # Creed III (2023)
+    url_poster: https://api.mediux.pro/assets/6de50352-246e-4316-8b72-5083d0aebf37
