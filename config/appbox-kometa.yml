@@ -51,6 +51,9 @@ libraries:
           url_poster_735: https://api.mediux.pro/assets/8847dd38-32c3-4862-8952-69b0772f4c04 # Blade
           url_poster_131295: https://api.mediux.pro/assets/c3860668-c1ed-41fa-9fa3-711a3fb6755d # Captain America
           url_poster_623911: https://api.mediux.pro/assets/77df6f32-e2aa-4cdf-9eed-ee10ec5f79d7 # Captain Marvel
+          url_poster_10455: https://api.mediux.pro/assets/2a6d345e-fe8f-4265-9c17-cce03b1a868c # Chucky
+          url_poster_64751: https://theposterdb.com/api/assets/168168 # Crank
+          url_poster_553717: https://api.mediux.pro/assets/f0006f17-3b26-4d79-9040-3ea3d5e3c905 # Creed
           url_poster_182813: https://theposterdb.com/api/assets/275336 # Clerks
           url_poster_263: https://api.mediux.pro/assets/3060365a-13b1-4e7e-b4bd-d2b9947149de # The Dark Knight  
           url_poster_448150: https://api.mediux.pro/assets/4f6abbaf-8b26-436c-9501-82638ea4f287 # Deadpool
@@ -159,6 +162,9 @@ libraries:
           url_poster_735: https://api.mediux.pro/assets/8847dd38-32c3-4862-8952-69b0772f4c04 # Blade
           url_poster_131295: https://api.mediux.pro/assets/c3860668-c1ed-41fa-9fa3-711a3fb6755d # Captain America
           url_poster_623911: https://api.mediux.pro/assets/77df6f32-e2aa-4cdf-9eed-ee10ec5f79d7 # Captain Marvel
+          url_poster_10455: https://api.mediux.pro/assets/2a6d345e-fe8f-4265-9c17-cce03b1a868c # Chucky
+          url_poster_64751: https://theposterdb.com/api/assets/168168 # Crank
+          url_poster_553717: https://api.mediux.pro/assets/f0006f17-3b26-4d79-9040-3ea3d5e3c905 # Creed
           url_poster_182813: https://theposterdb.com/api/assets/275336 # Clerks
           url_poster_263: https://api.mediux.pro/assets/3060365a-13b1-4e7e-b4bd-d2b9947149de # The Dark Knight  
           url_poster_448150: https://api.mediux.pro/assets/4f6abbaf-8b26-436c-9501-82638ea4f287 # Deadpool
