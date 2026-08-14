@@ -73,6 +73,7 @@ libraries:
           url_poster_313086: https://theposterdb.com/api/assets/2906 # The Conjuring
           url_poster_553717: https://theposterdb.com/api/assets/2908 # Creed
           url_poster_64751: https://theposterdb.com/api/assets/2907 # Crank
+          url_poster_178106: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/darko/darko-collection.png # Darko
           url_poster_263: https://theposterdb.com/api/assets/141711 # The Dark Knight
           url_poster_448150: https://theposterdb.com/api/assets/135778 # Deadpool
           url_poster_95664: https://theposterdb.com/api/assets/640088 # Deuce Bigalow
