@@ -29,7 +29,8 @@ libraries:
         collection_mode: show_items
 
         movie_9735:
-        - 6467     # Friday the 13th (2009)
+        - 6466      # Freddy vs. Jason
+        - 6467      # Friday the 13th (2009)
 
         movie_10:
         - 12180     # Star Wars: The Clone Wars
@@ -193,7 +194,8 @@ libraries:
         collection_mode: show_items
 
         movie_9735:
-        - 6467     # Friday the 13th (2009)
+        - 6466      # Freddy vs. Jason
+        - 6467      # Friday the 13th (2009)
 
         movie_10:
         - 12180     # Star Wars: The Clone Wars
