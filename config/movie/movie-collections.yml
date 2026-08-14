@@ -12,7 +12,6 @@ collections:
       sort_by: random
       limit: 100
     sync_mode: sync
-    collection_mode: <<collection_mode>>
     collection_order: custom
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/random-unwatched-movies.png
 
@@ -23,7 +22,6 @@ collections:
   #1910s:
     #sort_title: "!100_1910s"
     #sync_mode: sync
-    #collection_mode: hide
     #collection_order: release
     #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1910s.png
     #plex_search:
@@ -33,7 +31,6 @@ collections:
   #1920s:
     #sort_title: "!100_1920s"
     #sync_mode: sync
-    #collection_mode: hide
     #collection_order: release
     #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1920s.png
     #plex_search:
@@ -43,7 +40,6 @@ collections:
   #1930s:
     #sort_title: "!100_1930s"
     #sync_mode: sync
-    #collection_mode: hide
     #collection_order: release
     #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1930s.png
     #plex_search:
@@ -53,7 +49,6 @@ collections:
   #1940s:
     #sort_title: "!100_1940s"
     #sync_mode: sync
-    #collection_mode: hide
     #collection_order: release
     #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1940s.png
     #plex_search:
@@ -63,7 +58,6 @@ collections:
   #1950s:
     #sort_title: "!100_1950s"
     #sync_mode: sync
-    #collection_mode: hide
     #collection_order: release
     #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1950s.png
     #plex_search:
@@ -73,7 +67,6 @@ collections:
   1960s:
     sort_title: "!100_1960s"
     sync_mode: sync
-    collection_mode: <<collection_mode>>
     collection_order: release
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1960s.png
     plex_search:
@@ -83,7 +76,6 @@ collections:
   1970s:
     sort_title: "!100_1970s"
     sync_mode: sync
-    collection_mode: <<collection_mode>>
     collection_order: release
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1970s.png
     plex_search:
@@ -93,7 +85,6 @@ collections:
   1980s:
     sort_title: "!100_1980s"
     sync_mode: sync
-    collection_mode: <<collection_mode>>
     collection_order: release
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1980s.png
     plex_search:
@@ -103,7 +94,6 @@ collections:
   1990s:
     sort_title: "!100_1990s"
     sync_mode: sync
-    collection_mode: <<collection_mode>>
     collection_order: release
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1990s.png
     plex_search:
@@ -113,7 +103,6 @@ collections:
   2000s:
     sort_title: "!100_2000s"
     sync_mode: sync
-    collection_mode: <<collection_mode>>
     collection_order: release
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/2000s.png
     plex_search:
@@ -123,7 +112,6 @@ collections:
   2010s:
     sort_title: "!100_2010s"
     sync_mode: sync
-    collection_mode: <<collection_mode>>
     collection_order: release
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/2010s.png
     plex_search:
@@ -133,7 +121,6 @@ collections:
   2020s:
     sort_title: "!100_2020s"
     sync_mode: sync
-    collection_mode: <<collection_mode>>
     collection_order: release
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/2020s.png
     plex_search:
@@ -143,7 +130,6 @@ collections:
   #2030s:
     #sort_title: "!100_2030s"
     #sync_mode: sync
-    #collection_mode: <<collection_mode>>
     #collection_order: release
     #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/2030s.png
     #plex_search:
@@ -204,23 +190,8 @@ collections:
       - 340102 # The New Mutants (2020)
       - 177572 # Big Hero 6 (2014)
     sync_mode: sync
-    collection_mode: <<collection_mode>>
     collection_order: release
     url_poster: https://theposterdb.com/api/assets/125372
-
-  ##################################################
-  # Marvel Cinematic Universe
-  ##################################################
-
-  #Marvel Cinematic Universe*:
-    #sort_title: "!040_Marvel Cinematic Universe*"
-    #imdb_list:
-    #  list_id: ls539646485
-    #sync_mode: sync
-   # collection_mode: <<collection_mode>>
-   # collection_order: release
-    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/mcu/mcu-release.jpg
-   # url_poster: https://theposterdb.com/api/assets/143466
 
   ##################################################
   # Middle Earth
@@ -236,7 +207,6 @@ collections:
       - 57158     # The Hobbit: The Desolation of Smaug (2013)
       - 122917    # The Hobbit: The Battle of the Five Armies (2014)
     sync_mode: sync
-    collection_mode: <<collection_mode>>
     collection_order: release
     
     url_poster: https://theposterdb.com/api/assets/264226
@@ -259,7 +229,6 @@ collections:
       - 440762    # Jay and Silent Bob Reboot (2019)
       - 635891    # Clerks III (2022)
     sync_mode: sync
-    collection_mode: <<collection_mode>>
     collection_order: release
 
     url_poster: https://theposterdb.com/api/assets/171375
@@ -284,7 +253,6 @@ collections:
       - 338952    # Fantastic Beasts: The Crimes of Grindelwald (2018)
       - 338953    # Fantastic Beasts: The Secrets of Dumbledore (2022)
     sync_mode: sync
-    collection_mode: <<collection_mode>>
     collection_order: release
 
     url_poster: https://theposterdb.com/api/assets/1269
@@ -312,7 +280,6 @@ collections:
       - 340102    # The New Mutants (2020)
       - 533535    # Deadpool & Wolverine (2024)
     sync_mode: sync
-    collection_mode: <<collection_mode>>
     collection_order: release
 
     url_poster: https://theposterdb.com/api/assets/143883
@@ -329,7 +296,6 @@ collections:
   ##################################################
 
   Cornetto Trilogy*:
-    collection_mode: <<collection_mode>>
     collection_order: release
     sync_mode: sync
     tmdb_movie:
