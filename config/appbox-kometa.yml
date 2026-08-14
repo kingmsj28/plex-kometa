@@ -21,6 +21,7 @@ libraries:
         - collections
         - metadata
         - operations
+        - overlays
 
     collection_files:
     - default: franchise
@@ -184,6 +185,7 @@ libraries:
         - collections
         - metadata
         - operations
+        - overlays
 
     collection_files:
     - default: franchise
