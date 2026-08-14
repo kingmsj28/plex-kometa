@@ -43,11 +43,11 @@ libraries:
           8091:
           - 135416     # Prometheus -> Alien
 
-          remove_addons:
-            91361:
-              - 126209 # Halloween (Rob Zombie Series)
-            748:
-              - 453993 # The Wolverine
+        remove_addons:
+          91361:
+          - 126209     # Halloween (Rob Zombie Series)
+          748:
+          - 453993     # The Wolverine
 
         title_override:
           10: 'Star Wars: Skywalker Saga'
