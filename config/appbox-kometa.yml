@@ -35,6 +35,7 @@ libraries:
 
           exclude:
             - 135416 # Prometheus
+            - 1149208 # Commando
 
           append_addons:
             8091:
@@ -46,36 +47,32 @@ libraries:
             535790: "Godzilla (Anime)"
             507458: "ThanksKilling"
             
+          sort_title_115762: "Aliens vs. Predator 00"
+            
           url_poster_125574: https://theposterdb.com/api/assets/132632 # The Amazing Spider-Man
           url_poster_8091: https://theposterdb.com/api/assets/2876 # Alien
-          #url_poster_402074: https://api.mediux.pro/assets/7d098b79-d9f7-4362-be8e-aee951995b72 # Annabelle
-          url_poster_402074: https://theposterdb.com/api/assets/13880 # Annabelle ALT
-          url_poster_93791: https://theposterdb.com/api/assets/13973 # Anchorman
+          url_poster_402074: https://theposterdb.com/api/assets/13880 # Annabelle
+          url_poster_93791: https://theposterdb.com/api/assets/11053 # Anchorman
           url_poster_422834: https://theposterdb.com/api/assets/295036 # Ant-Man
           url_poster_573693: https://theposterdb.com/api/assets/349724 # Aquaman
-          #url_poster_1006: https://api.mediux.pro/assets/90c21044-6274-4b74-8886-71ebcd313085 # Austin Powers
-          url_poster_1006: https://theposterdb.com/api/assets/2883 # Austin Powers ALT
-          #url_poster_87096: https://api.mediux.pro/assets/45555893-879e-41fe-a149-45b22405a153 # Avatar
-          url_poster_87096: https://theposterdb.com/api/assets/348246 # Avatar ALT
+          url_poster_1006: https://theposterdb.com/api/assets/2883 # Austin Powers
+          url_poster_87096: https://theposterdb.com/api/assets/348246 # Avatar
           url_poster_86311: https://theposterdb.com/api/assets/114054 # Avengers
-          #url_poster_115762: https://api.mediux.pro/assets/faceebe9-15b0-4eff-9cc6-0a9bf3ecdc46 # AVP
-          url_poster_115762: https://theposterdb.com/api/assets/13908 # AVP ALT
-          #url_poster_264: https://api.mediux.pro/assets/c9b374eb-79ad-4e4a-9d13-479f4685f2e7 # Back to the Future
-          url_poster_264: https://theposterdb.com/api/assets/14631 # Back to the Future ALT
-          #url_poster_14890: https://api.mediux.pro/assets/a2516782-50d5-46a2-80df-a6d6a396ca87 # Bad Boys
-          url_poster_14890: https://theposterdb.com/api/assets/2887 # Bad Boys ALT
-          url_poster_945475: https://api.mediux.pro/assets/1eba2d41-5341-4915-acec-679bfc0ca9aa # Beetlejuice
-          url_poster_91746: https://api.mediux.pro/assets/50c3a0c5-54ec-49f5-a677-eab6e682ea7f # Bill & Ted
+          url_poster_115762: https://theposterdb.com/api/assets/13908 # AVP
+          url_poster_264: https://theposterdb.com/api/assets/14631 # Back to the Future
+          url_poster_14890: https://theposterdb.com/api/assets/2887 # Bad Boys
+          url_poster_945475: https://theposterdb.com/api/assets/536944 # Beetlejuice
+          url_poster_91746: https://theposterdb.com/api/assets/2891 # Bill & Ted
           url_poster_529892: https://theposterdb.com/api/assets/282450 # Black Panther
           url_poster_735: https://theposterdb.com/api/assets/139554 # Blade
-          url_poster_747168: https://api.mediux.pro/assets/282ae74e-87ad-4295-8fda-2dfb57a92645 # Borat
+          url_poster_747168: https://theposterdb.com/api/assets/133008 # Borat
           url_poster_131295: https://theposterdb.com/api/assets/114048 # Captain America
           url_poster_623911: https://theposterdb.com/api/assets/114049 # Captain Marvel
-          url_poster_10455: https://api.mediux.pro/assets/2a6d345e-fe8f-4265-9c17-cce03b1a868c # Chucky
-          url_poster_182813: https://theposterdb.com/api/assets/275336 # Clerks
-          url_poster_313086: https://api.mediux.pro/assets/1460d6aa-1a0a-45ee-a1b0-9a72b361c18a # The Conjuring
-          url_poster_553717: https://api.mediux.pro/assets/f0006f17-3b26-4d79-9040-3ea3d5e3c905 # Creed
-          url_poster_64751: https://theposterdb.com/api/assets/168168 # Crank
+          url_poster_10455: https://theposterdb.com/api/assets/2903 # Chucky
+          url_poster_182813: https://theposterdb.com/api/assets/68723 # Clerks
+          url_poster_313086: https://theposterdb.com/api/assets/2906 # The Conjuring
+          url_poster_553717: https://theposterdb.com/api/assets/2908 # Creed
+          url_poster_64751: https://theposterdb.com/api/assets/2907 # Crank
           url_poster_263: https://theposterdb.com/api/assets/141711 # The Dark Knight
           url_poster_448150: https://theposterdb.com/api/assets/135778 # Deadpool
           url_poster_95664: https://theposterdb.com/api/assets/640088 # Deuce Bigalow
@@ -102,10 +99,8 @@ libraries:
           url_poster_295: https://theposterdb.com/api/assets/71934 # Pirates of the Caribbean
           url_poster_399: https://api.mediux.pro/assets/eda7559c-c5ce-43a3-9f22-3664d60f89ab # Predator
           url_poster_635362: https://theposterdb.com/api/assets/151892 # The Punisher
-          #url_poster_1575: https://theposterdb.com/api/assets/463084 # Rocky
-          url_poster_1575: https://theposterdb.com/api/assets/3071 # Rocky ALT
-          #url_poster_4246: https://api.mediux.pro/assets/a485e904-b154-4225-b52b-f545028bda62 # Scary Movie
-          url_poster_4246: https://theposterdb.com/api/assets/3075 # Scary Movie ALT
+          url_poster_1575: https://theposterdb.com/api/assets/3071 # Rocky
+          url_poster_4246: https://theposterdb.com/api/assets/3075 # Scary Movie
           url_poster_2602: https://api.mediux.pro/assets/2c3e2587-0618-46bf-8b72-69c01ec5fadf # Scream
           url_poster_724848: https://theposterdb.com/api/assets/313308 # Shazam!
           url_poster_531241: https://theposterdb.com/api/assets/287939 # Spider-Man (Avengers)
