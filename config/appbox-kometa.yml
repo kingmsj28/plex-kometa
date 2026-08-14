@@ -326,8 +326,6 @@ libraries:
         configured: false
         managed: true
 
-      mass_collection_mode: hide
-
     #overlay_files:
     #- default: resolution
 
