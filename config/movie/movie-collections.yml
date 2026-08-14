@@ -295,11 +295,11 @@ collections:
   # Cornetto Trilogy
   ##################################################
 
-  #Cornetto Trilogy*:
-   # collection_order: release
-    #sync_mode: sync
-    #tmdb_movie:
-     # - 747 # Shaun of the Dead (2004)
-      #- 4638 # Hot Fuzz (2007)
-      #- 107985 # The World's End (2013)
-    #url_poster: https://theposterdb.com/api/assets/284240
+  Cornetto Trilogy*:
+    collection_order: release
+    sync_mode: sync
+    tmdb_movie:
+      - 747 # Shaun of the Dead (2004)
+      - 4638 # Hot Fuzz (2007)
+      - 107985 # The World's End (2013)
+    url_poster: https://theposterdb.com/api/assets/284240

@@ -141,7 +141,14 @@ libraries:
     - default: streaming
       template_variables:
         minimum_items: 10
-
+        
+    - default: studio
+      template_variables:
+        include:
+          - Walt Disney Animation Studios
+          - Pixar
+          - DreamWorks Studios
+          - Illumination Entertainment
 
     #My Collection Overides
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-collections.yml
@@ -297,6 +304,14 @@ libraries:
     - default: streaming
       template_variables:
         minimum_items: 10
+        
+    - default: studio
+      template_variables:
+        include:
+          - Walt Disney Animation Studios
+          - Pixar
+          - DreamWorks Studios
+          - Illumination Entertainment
 
     #My Collection Overides
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-collections.yml
