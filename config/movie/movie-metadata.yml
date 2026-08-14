@@ -480,43 +480,56 @@ metadata:
   # Star Wars Universe
   ##################################################
 
-  11: # Star Wars (1977) Poster by willtong93 on MediUX
+  11: # Star Wars (1977)
+    sort_title: "Star Wars 07"
     url_poster: https://api.mediux.pro/assets/b3f2bf44-ee52-48b6-abd0-d892eb07cf7a
 
-  1891: # The Empire Strikes Back (1980) Poster by willtong93 on MediUX
+  1891: # The Empire Strikes Back (1980)
+    sort_title: "Star Wars 08"
     url_poster: https://api.mediux.pro/assets/46da41cc-88a3-41c0-abd4-fbe6d71e5450
 
-  1892: # Return of the Jedi (1983) Poster by willtong93 on MediUX
+  1892: # Return of the Jedi (1983)
+    sort_title: "Star Wars 09"
     url_poster: https://api.mediux.pro/assets/02e0bbd2-1ec4-4608-b478-f83c2a005a2c
 
-  1893: # Star Wars: Episode I - The Phantom Menace (1999) Poster by willtong93 on MediUX
+  1893: # Star Wars: Episode I - The Phantom Menace (1999)
+    sort_title: "Star Wars 01"
     url_poster: https://api.mediux.pro/assets/84e4a561-4581-482f-99af-8fea09a26b77
 
-  1894: # Star Wars: Episode II - Attack of the Clones (2002) Poster by willtong93 on MediUX
+  1894: # Star Wars: Episode II - Attack of the Clones (2002)
+    sort_title: "Star Wars 02"
     url_poster: https://api.mediux.pro/assets/28078899-424b-4528-8ffc-134996cb2a57
 
-  1895: # Star Wars: Episode III - Revenge of the Sith (2005) Poster by willtong93 on MediUX
+  1895: # Star Wars: Episode III - Revenge of the Sith (2005)
+    sort_title: "Star Wars 04"
     url_poster: https://api.mediux.pro/assets/b7d5b210-5706-4ebd-a56d-0351a1dd194a
 
-  12180: # Star Wars: The Clone Wars (2008) Poster by willtong93 on MediUX
+  12180: # Star Wars: The Clone Wars (2008)
+    sort_title: "Star Wars 03"
     url_poster: https://api.mediux.pro/assets/3dedf8fb-42d8-4731-9864-2a8061e5050d
 
-  140607: # Star Wars: The Force Awakens (2015) Poster by willtong93 on MediUX
+  140607: # Star Wars: The Force Awakens (2015)
+    sort_title: "Star Wars 11"
     url_poster: https://api.mediux.pro/assets/7dd0b9f4-6129-4011-a387-5b7e30f18ffa
 
-  330459: # Rogue One: A Star Wars Story (2016) Poster by willtong93 on MediUX
+  330459: # Rogue One: A Star Wars Story (2016)
+    sort_title: "Star Wars 06"
     url_poster: https://api.mediux.pro/assets/d785fc55-6419-4275-b669-ad90012a76ae
 
-  181808: # Star Wars: The Last Jedi (2017) Poster by willtong93 on MediUX
+  181808: # Star Wars: The Last Jedi (2017)
+    sort_title: "Star Wars 12"
     url_poster: https://api.mediux.pro/assets/6a02c972-6dbf-4e99-a410-21ac38961b35
 
-  348350: # Solo: A Star Wars Story (2018) Poster by willtong93 on MediUX
+  348350: # Solo: A Star Wars Story (2018)
+    sort_title: "Star Wars 05"
     url_poster: https://api.mediux.pro/assets/e25262d0-22aa-415f-95a1-f3820ad30b82
 
-  181812: # Star Wars: The Rise of Skywalker (2019) Poster by willtong93 on MediUX
+  181812: # Star Wars: The Rise of Skywalker (2019)
+    sort_title: "Star Wars 13"
     url_poster: https://api.mediux.pro/assets/c03b307d-c1c6-4a83-a0e2-d44e170bd14c
 
-  1228710: # The Mandalorian and Grogu (2026) Poster by willtong93 on MediUX
+  1228710: # The Mandalorian and Grogu (2026)
+    sort_title: "Star Wars 10"
     url_poster: https://api.mediux.pro/assets/cee8fc9a-0734-4cc5-a6c5-b8679221e46d
 
   ##################################################

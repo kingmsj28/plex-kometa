@@ -18,10 +18,10 @@ libraries:
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-movies-metadata.yml
 
   MATT MOVIES:
-    operations:
-      delete_collections:
-        configured: false
-        managed: true  
+    #operations:
+      #delete_collections:
+        #configured: false
+        #managed: true  
   
     collection_files:
  
@@ -46,8 +46,11 @@ libraries:
             535313: "Godzilla (MonsterVerse)"
             535790: "Godzilla (Anime)"
             507458: "ThanksKilling"
+          
+          imdb_list_10: https://www.imdb.com/list/ls501373412/
             
           sort_title_115762: "Aliens vs. Predator 00"
+          sort_title_10: "Star Wars 00"
             
           url_poster_125574: https://theposterdb.com/api/assets/132632 # The Amazing Spider-Man
           url_poster_8091: https://theposterdb.com/api/assets/2876 # Alien
@@ -97,19 +100,19 @@ libraries:
           url_poster_209131: https://theposterdb.com/api/assets/131540 # Man of Steel
           url_poster_8581: https://theposterdb.com/api/assets/3027 # A Nightmare on Elm Street
           url_poster_968052: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/thenun.png # The Nun
-          url_poster_295: https://theposterdb.com/api/assets/71934 # Pirates of the Caribbean
-          url_poster_399: https://api.mediux.pro/assets/eda7559c-c5ce-43a3-9f22-3664d60f89ab # Predator
+          url_poster_295: https://theposterdb.com/api/assets/3034 # Pirates of the Caribbean
+          url_poster_399: https://theposterdb.com/api/assets/3050 # Predator
           url_poster_635362: https://theposterdb.com/api/assets/151892 # The Punisher
           url_poster_1575: https://theposterdb.com/api/assets/3071 # Rocky
           url_poster_4246: https://theposterdb.com/api/assets/3075 # Scary Movie
-          url_poster_2602: https://api.mediux.pro/assets/2c3e2587-0618-46bf-8b72-69c01ec5fadf # Scream
+          url_poster_2602: https://theposterdb.com/api/assets/3077 # Scream
           url_poster_724848: https://theposterdb.com/api/assets/313308 # Shazam!
           url_poster_531241: https://theposterdb.com/api/assets/287939 # Spider-Man (Avengers)
           url_poster_556: https://theposterdb.com/api/assets/132628 # Spider-Man (Trilogy)
           url_poster_573436: https://theposterdb.com/api/assets/132635 # Spider-Verse
-          url_poster_10: https://api.mediux.pro/assets/60209ad6-d0a8-4d55-a42a-ec0e9e1de3ae # Star Wars: Skywalker Saga
+          url_poster_10: https://theposterdb.com/api/assets/13223 # Star Wars
           url_poster_531242: https://theposterdb.com/api/assets/139024 # Suicide Squad
-          url_poster_507458: https://theposterdb.com/api/assets/545477 # ThanksKilling
+          url_poster_507458: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/thankskillingpng # ThanksKilling
           url_poster_131296: https://theposterdb.com/api/assets/249712 # Thor
           url_poster_558216: https://theposterdb.com/api/assets/153723 # Venom
           url_poster_453993: https://theposterdb.com/api/assets/152048 # The Wolverine
