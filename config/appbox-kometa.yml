@@ -95,8 +95,8 @@ libraries:
           url_poster_645: https://theposterdb.com/api/assets/2864 # James Bond
           url_poster_119: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/lotr/lotr.png # The Lord of the Rings
           url_poster_209131: https://theposterdb.com/api/assets/131540 # Man of Steel
-          url_poster_8581: https://theposterdb.com/api/assets/565545 # A Nightmare on Elm Street
-          url_poster_968052: https://api.mediux.pro/assets/c8db2a48-9180-46e8-8851-457148544ee0 # The Nun
+          url_poster_8581: https://theposterdb.com/api/assets/3027 # A Nightmare on Elm Street
+          url_poster_968052: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/thenun.png # The Nun
           url_poster_295: https://theposterdb.com/api/assets/71934 # Pirates of the Caribbean
           url_poster_399: https://api.mediux.pro/assets/eda7559c-c5ce-43a3-9f22-3664d60f89ab # Predator
           url_poster_635362: https://theposterdb.com/api/assets/151892 # The Punisher
