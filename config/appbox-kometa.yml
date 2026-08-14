@@ -16,13 +16,6 @@ libraries:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-movies-metadata.yml
 
   MATT MOVIES:
-    settings:
-      run_order:
-        - collections
-        - metadata
-        - operations
-        - overlays
-
     collection_files:
     - default: franchise
       template_variables:
@@ -57,8 +50,10 @@ libraries:
           535313: Godzilla (MonsterVerse)
           535790: Godzilla (Anime)
           507458: ThanksKilling
+          
         sort_title_115762: Alien vs. Predator 00
         sort_title_10: Star Wars 00
+        
         url_poster_125574: https://theposterdb.com/api/assets/132632   # The Amazing Spider-Man
         url_poster_8091: https://theposterdb.com/api/assets/2876   # Alien
         url_poster_402074: https://theposterdb.com/api/assets/13880   # Annabelle
@@ -125,7 +120,8 @@ libraries:
         url_poster_453993: https://theposterdb.com/api/assets/152048   # The Wolverine
         url_poster_468552: https://theposterdb.com/api/assets/128646   # Wonder Woman
         url_poster_748: https://theposterdb.com/api/assets/143883   # X-Men 
-        url_poster_86119: https://theposterdb.com/api/assets/6975   # The Hangover        
+        url_poster_86119: https://theposterdb.com/api/assets/6975   # The Hangover   
+        
     - default: universe
       template_variables:
         collection_mode: show_items
@@ -181,17 +177,10 @@ libraries:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-metadata.yml
 
   MATT MOVIES - 1080p:
-    settings:
-      run_order:
-        - collections
-        - metadata
-        - operations
-        - overlays
-
     collection_files:
     - default: franchise
       template_variables:
-        collection_mode: show_items
+        collection_mode: hide
 
         movie_9735:
         - 6466      # Freddy vs. Jason
@@ -222,8 +211,10 @@ libraries:
           535313: Godzilla (MonsterVerse)
           535790: Godzilla (Anime)
           507458: ThanksKilling
+          
         sort_title_115762: Alien vs. Predator 00
         sort_title_10: Star Wars 00
+        
         url_poster_125574: https://theposterdb.com/api/assets/132632   # The Amazing Spider-Man
         url_poster_8091: https://theposterdb.com/api/assets/2876   # Alien
         url_poster_402074: https://theposterdb.com/api/assets/13880   # Annabelle
@@ -290,10 +281,11 @@ libraries:
         url_poster_453993: https://theposterdb.com/api/assets/152048   # The Wolverine
         url_poster_468552: https://theposterdb.com/api/assets/128646   # Wonder Woman
         url_poster_748: https://theposterdb.com/api/assets/143883   # X-Men 
-        url_poster_86119: https://theposterdb.com/api/assets/6975   # The Hangover        
+        url_poster_86119: https://theposterdb.com/api/assets/6975   # The Hangover   
+        
     - default: universe
       template_variables:
-        collection_mode: show_items
+        collection_mode: hide
         collection_order_star: release
         collection_order_avp: release
         collection_order_mcu: release
@@ -311,7 +303,7 @@ libraries:
 
     - default: streaming
       template_variables:
-        collection_mode: show_items
+        collection_mode: hide
         minimum_items: 10
 
 
