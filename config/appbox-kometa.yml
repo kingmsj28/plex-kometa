@@ -16,10 +16,11 @@ libraries:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-movies-metadata.yml
 
   MATT MOVIES:
-    operations:
-      delete_collections:
-        configured: false
-        managed: true
+    settings:
+      run_order:
+        - collections
+        - metadata
+        - operations
 
     collection_files:
     - default: franchise
@@ -153,6 +154,11 @@ libraries:
     metadata_files:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-metadata.yml
 
+    operations:
+      delete_collections:
+        configured: false
+        managed: true
+
     #overlay_files:
     #- default: resolution
 
@@ -173,14 +179,11 @@ libraries:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-metadata.yml
 
   MATT MOVIES - 1080p:
-    operations:
-      delete_collections:
-        configured: false
-        managed: true
-
-      mass_metadata_update:
-        collections:
-          mode: hide
+    settings:
+      run_order:
+        - collections
+        - metadata
+        - operations
 
     collection_files:
     - default: franchise
@@ -203,6 +206,12 @@ libraries:
         append_addons:
           8091:
           - 135416     # Prometheus -> Alien
+
+        remove_addons:
+          91361:
+          - 126209     # Halloween (Rob Zombie Series)
+          748:
+          - 453993     # The Wolverine
 
         title_override:
           10: 'Star Wars: Skywalker Saga'
@@ -307,6 +316,15 @@ libraries:
 
     metadata_files:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-metadata.yml
+
+    operations:
+      delete_collections:
+        configured: false
+        managed: true
+
+      mass_metadata_update:
+        collections:
+          mode: hide
 
     #overlay_files:
     #- default: resolution
