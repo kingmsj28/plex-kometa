@@ -326,9 +326,7 @@ libraries:
         configured: false
         managed: true
 
-      mass_metadata_update:
-        collections:
-          mode: hide
+      mass_collection_mode: hide
 
     #overlay_files:
     #- default: resolution
