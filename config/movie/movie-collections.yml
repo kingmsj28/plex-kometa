@@ -304,3 +304,18 @@ collections:
       - 4638 # Hot Fuzz (2007)
       - 107985 # The World's End (2013)
     url_poster: https://theposterdb.com/api/assets/284240
+
+  ##################################################
+  # Collectionless
+  ##################################################
+
+  Collectionless*:
+    sort_title: "!999_Collectionless*"
+    plex_collectionless:
+      exclude_prefix:
+        - "!015_"   # Random Unwatched Movies
+        - "!030_"   # Streaming
+        - "!070_"   # Studios
+        - "!100_"   # Decades
+    sync_mode: sync
+    collection_order: alpha
