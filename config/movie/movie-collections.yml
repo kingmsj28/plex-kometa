@@ -264,6 +264,9 @@ collections:
 
   X-Men Universe*:
     sort_title: "!040_X-Men Universe*"
+    sync_mode: sync
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/143883
     tmdb_movie:
       - 36657     # X-Men (2000)
       - 36658     # X2: X-Men United (2003)
@@ -279,11 +282,6 @@ collections:
       - 320288    # Dark Phoenix (2019)
       - 340102    # The New Mutants (2020)
       - 533535    # Deadpool & Wolverine (2024)
-    sync_mode: sync
-    collection_order: release
-
-    url_poster: https://theposterdb.com/api/assets/143883
-    # url_background:
 
   ##################################################
   # Studios
@@ -297,6 +295,7 @@ collections:
     sort_title: "!070_DreamWorks Animation"
     collection_order: release.desc
     sync_mode: sync
+    url poster: https://theposterdb.com/api/assets/531052
     tmdb_movie:
       - 8916      # Antz (1998)
       - 9837      # The Prince of Egypt (1998)

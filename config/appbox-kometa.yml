@@ -266,6 +266,8 @@ libraries:
         url_poster_489724: https://theposterdb.com/api/assets/61551   # Trolls
         url_poster_9518: https://theposterdb.com/api/assets/3136   # Transporter
         url_poster_105625: https://theposterdb.com/api/assets/109245   # Firefly
+        url_poster_124949: https://theposterdb.com/api/assets/13881   # Almighty
+        url_poster_2806: https://theposterdb.com/api/assets/11052 # American Pie
         
     - default: universe
       template_variables:

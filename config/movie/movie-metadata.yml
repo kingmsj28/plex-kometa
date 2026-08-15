@@ -1591,10 +1591,12 @@ metadata:
 
   64688: # 21 Jump Street (2012)
     label: Art*
+    sort_title: "21 Jump Street 01"
     url_poster: https://api.mediux.pro/assets/8aa38042-5a82-4790-ad60-9742d90ad5e5
 
   187017: # 22 Jump Street (2014)
     label: Art*
+    sort_title: "21 Jump Street 02"
     url_poster: https://api.mediux.pro/assets/2974c16a-24ee-407a-8f3e-0aa06adce18d
     
   ##################################################
@@ -1667,12 +1669,10 @@ metadata:
 
   1271: # 300 (2007)
     label: Art*
-    sort_title: "21 Jump Street 01"
     url_poster: https://api.mediux.pro/assets/ec6e68f6-cba9-472e-9185-100c791807b0
 
   53182: # 300: Rise of an Empire (2014)
     label: Art*
-    sort_title: "21 Jump Street 02"
     url_poster: https://api.mediux.pro/assets/7a2246cf-f285-47f5-a379-db6aba4ba1f5
     
   ##################################################
@@ -1912,8 +1912,133 @@ metadata:
     url_poster: https://api.mediux.pro/assets/160cbcf9-a7a1-4ab3-bde2-a7d7cebee592
     
   ##################################################
+  # Ace Ventura
+  ##################################################
+
+  3049: # Ace Ventura: Pet Detective (1994)
+    label: Art*
+    url_poster: https://api.mediux.pro/assets/41c13b40-8c40-4955-aafd-64de8aac1e89
+
+  9273: # Ace Ventura: When Nature Calls (1995)
+    label: Art*
+    url_poster: https://api.mediux.pro/assets/90c6fb95-8550-4b6c-b7a1-677c992b7021
+    
+  ##################################################
+  # The Addams Family - Animated
+  ##################################################
+
+  481084: # The Addams Family (2019)
+    label: Art*
+    sort_title: "Addams Family (Animated) 01"
+    url_poster: https://api.mediux.pro/assets/3684a56f-5553-40f7-8951-b375a50ff36b
+
+  639721: # The Addams Family 2 (2021)
+    label: Art*
+    sort_title: "Addams Family (Animated) 02"
+    url_poster: https://api.mediux.pro/assets/cfb12edd-4252-40aa-8a39-cae4b485b1bd 
+
+  ##################################################
+  # Almighty
+  ##################################################
+
+  310: # Bruce Almighty (2003)
+    label: Art*
+    sort_title: "Almighty 01"
+    url_poster: https://theposterdb.com/api/assets/51451
+
+  2698: # Evan Almighty (2007)
+    label: Art*
+    sort_title: "Almighty 02"
+    url_poster: https://theposterdb.com/api/assets/51452  
+
+  ##################################################
+  # American Pie
+  ##################################################
+
+  2105: # American Pie (1999)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/106939
+
+  2770: # American Pie 2 (2001)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/106940
+
+  8273: # American Wedding (2003)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/106941
+
+  71552: # American Reunion (2012)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/106942
+
+  8274: # American Pie Presents: Band Camp (2005)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/106934
+
+  8275: # American Pie Presents: The Naked Mile (2006)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/106935
+
+  8277: # American Pie Presents: Beta House (2007)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/106936
+
+  26123: # American Pie Presents: The Book of Love (2009)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/106937   
+
+  ##################################################
+  # Anaconda
+  ##################################################
+
+  9360: # Anaconda (1997)
+    label: Art*
+    sort_title: "Anaconda 01"
+    url_poster: https://theposterdb.com/api/assets/644401
+
+  11237: # Anacondas: The Hunt for the Blood Orchid (2004)
+    label: Art*
+    sort_title: "Anaconda 02"
+    url_poster: https://theposterdb.com/api/assets/644400
+
+  14863: # Anaconda 3: Offspring (2008)
+    label: Art*
+    sort_title: "Anaconda 03"
+    url_poster: https://theposterdb.com/api/assets/644399
+
+  19543: # Anacondas: Trail of Blood (2009)
+    label: Art*
+    sort_title: "Anaconda 04"
+    url_poster: https://theposterdb.com/api/assets/644398
+
+  1234731: # Anaconda (2025)
+    label: Art*
+    sort_title: "Anaconda 06"
+    url_poster: https://theposterdb.com/api/assets/644396    
+    
+  ##################################################
   # Standalone Movies
   ##################################################
+
+  39957: # Alita: Battle Angel (2019)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/22662
+
+  4982: # American Gangster (2007)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/39057
+
+  73: # American History X (1998)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/34690
+
+  8202: # Æon Flux (2005)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/24279
+
+  9772: # Air Force One (1997)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/23856
 
   65: # 8 Mile (2002)
     label: Art*
@@ -1966,3 +2091,7 @@ metadata:
   9788: # Accepted (2006)
     label: Art*
     url_poster: https://theposterdb.com/api/assets/259222
+    
+  454619: # Action Point (2018)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/166478
