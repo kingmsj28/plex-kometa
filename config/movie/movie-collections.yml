@@ -385,6 +385,7 @@ collections:
 
   Needs Artwork*:
     sort_title: "!999_Needs Artwork"
+    collection_mode: hide
     plex_search:
       all:
         label.not: Art*
