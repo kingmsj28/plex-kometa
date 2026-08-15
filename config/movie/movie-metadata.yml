@@ -1676,18 +1676,6 @@ metadata:
     url_poster: https://api.mediux.pro/assets/7a2246cf-f285-47f5-a379-db6aba4ba1f5
     
   ##################################################
-  # 30 Days of Night
-  ##################################################
-
-  14359: # 30 Days of Night (2007)
-    label: Art*
-    url_poster: https://theposterdb.com/api/assets/22181
-
-  42941: # 30 Days of Night: Dark Days (2010)
-    label: Art*
-    url_poster: https://theposterdb.com/api/assets/22182
-    
-  ##################################################
   # DreamWorks
   ##################################################
 
