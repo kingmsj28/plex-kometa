@@ -52,6 +52,8 @@ libraries:
           
         sort_title_115762: Alien vs. Predator 00
         sort_title_10: Star Wars 00
+        sort_title_212562: 20 Jump Street
+        sort_title_105625: "!055_Firefly Collection"
         
         url_poster_125574: https://theposterdb.com/api/assets/132632   # The Amazing Spider-Man
         url_poster_8091: https://theposterdb.com/api/assets/2876   # Alien
@@ -263,6 +265,7 @@ libraries:
         url_poster_1062948: https://theposterdb.com/api/assets/536946   # Twister
         url_poster_489724: https://theposterdb.com/api/assets/61551   # Trolls
         url_poster_9518: https://theposterdb.com/api/assets/3136   # Transporter
+        url_poster_105625: https://theposterdb.com/api/assets/109245   # Firefly
         
     - default: universe
       template_variables:

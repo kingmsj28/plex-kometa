@@ -296,6 +296,7 @@ collections:
   ##################################################
 
   Cornetto Trilogy*:
+    sort_title: "!055_Cornetto Trilogy"
     collection_order: release
     sync_mode: sync
     tmdb_movie:

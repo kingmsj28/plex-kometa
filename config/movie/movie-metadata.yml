@@ -1249,6 +1249,15 @@ metadata:
   # Standalone Movies
   ##################################################
 
+  65: # 8 Mile (2002)
+    url_poster: https://api.mediux.pro/assets/fbb000cc-8550-40b6-8388-64c80bccb4a0
+
+  12244: # 9 (2009)
+    url_poster: https://api.mediux.pro/assets/ec1423c2-5f8e-4760-b2cb-d4933e951a85
+
+  535292: # 21 Bridges (2019)
+    url_poster: https://api.mediux.pro/assets/03ced2d7-be87-4579-a2ab-7c873d009b81
+
   1083381: # Backrooms (2026)
     url_poster: https://api.mediux.pro/assets/6df3b67c-278d-4d87-b5e2-a1f3efe8b6bf
 
@@ -1266,3 +1275,87 @@ metadata:
     
   115: # The Big Lebowski (1998)
     url_poster: https://theposterdb.com/api/assets/153953
+    
+  ##################################################
+  # 28 Days/Weeks/Years Later
+  ##################################################
+  
+  170: # 28 Days Later (2002)
+    sort_title: "28 Days/Weeks/Years Later 01"
+    url_poster: https://api.mediux.pro/assets/eed1b7e0-59d3-47db-bcc0-f9b6bc62519e
+
+  1562: # 28 Weeks Later (2007)
+    sort_title: "28 Days/Weeks/Years Later 02"
+    url_poster: https://api.mediux.pro/assets/649e61db-7762-49e3-afd5-bff7c2fcc38c
+
+  1100988: # 28 Years Later (2025)
+    sort_title: "28 Days/Weeks/Years Later 03"
+    url_poster: https://api.mediux.pro/assets/9547d452-64a2-4a5e-8132-11fce9482c9f
+
+  1272837: # 28 Years Later: The Bone Temple (2026)
+    sort_title: "28 Days/Weeks/Years Later 04"
+    url_poster: https://api.mediux.pro/assets/5f1d2cb5-765b-416d-9ee7-25fd47637404
+    
+  ##################################################
+  # Jump Street
+  ##################################################
+
+  64688: # 21 Jump Street (2012)
+    url_poster: https://api.mediux.pro/assets/8aa38042-5a82-4790-ad60-9742d90ad5e5
+
+  187017: # 22 Jump Street (2014)
+    url_poster: https://api.mediux.pro/assets/2974c16a-24ee-407a-8f3e-0aa06adce18d
+    
+  ##################################################
+  # Firefly Trilogy
+  ##################################################
+
+  2662: # House of 1000 Corpses (2003)
+    url_poster: https://theposterdb.com/api/assets/19888
+
+  1696: # The Devil's Rejects (2005)
+    url_poster: https://theposterdb.com/api/assets/19889
+
+  489064: # 3 from Hell (2019)
+    url_poster: https://theposterdb.com/api/assets/19890
+    
+  ##################################################
+  # 30 Days of Night
+  ##################################################
+
+  14359: # 30 Days of Night (2007)
+    url_poster: https://theposterdb.com/api/assets/22181
+
+  42941: # 30 Days of Night: Dark Days (2010)
+    url_poster: https://theposterdb.com/api/assets/22182
+    
+  ##################################################
+  # 31
+  ##################################################
+
+  284564: # 31 (2016)
+    url_poster: https://theposterdb.com/api/assets/708766
+    
+  ##################################################
+  # 101 Dalmatians (Animated)
+  ##################################################
+
+  12230: # One Hundred and One Dalmatians (1961)
+    url_poster: https://api.mediux.pro/assets/95c00497-b034-4c27-a227-3a263950a609
+    sort_title: "101 Dalmatians (Animated) 01"
+
+  13654: # 101 Dalmatians II: Patch's London Adventure (2003)
+    url_poster: https://api.mediux.pro/assets/b60b67a3-47c8-4c05-9721-15fe4bae5a50
+    sort_title: "101 Dalmatians (Animated) 01"
+
+  ##################################################
+  # 101 Dalmatians (Live Action)
+  ##################################################
+
+  11674: # 101 Dalmatians (1996)
+    url_poster: https://api.mediux.pro/assets/ee00296d-d48d-424e-8bd1-5d30a8efbe29
+    sort_title: "101 Dalmatians (Live-Action) 01"
+
+  10481: # 102 Dalmatians (2000)
+    url_poster: https://api.mediux.pro/assets/7ae5c1af-0aa9-4fb1-83b6-b011d61161d7
+    sort_title: "101 Dalmatians (Live-Action) 01"
