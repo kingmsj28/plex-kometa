@@ -306,16 +306,13 @@ collections:
     url_poster: https://theposterdb.com/api/assets/284240
 
   ##################################################
-  # Collectionless
+  # Needs Artwork
   ##################################################
 
-  Collectionless*:
-    sort_title: "!999_Collectionless*"
-    plex_collectionless:
-      exclude_prefix:
-        - "!015_"   # Random Unwatched Movies
-        - "!030_"   # Streaming
-        - "!070_"   # Studios
-        - "!100_"   # Decades
+  Needs Artwork*:
+    sort_title: "!999_Needs Artwork"
+    plex_search:
+      all:
+        label.not: Art*
     sync_mode: sync
     collection_order: alpha

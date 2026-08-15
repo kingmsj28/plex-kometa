@@ -302,45 +302,37 @@ libraries:
     metadata_files: &movie_metadata_files
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-metadata.yml
 
-    #operations:
-      #delete_collections:
-        #configured: false
-        #managed: true
+    operations: &movie_operations
+      delete_collections:
+        configured: false
+        managed: true
 
     #overlay_files:
     #- default: resolution
 
   MATT TV:
-    operations:
+    operations: &tv_operations
       delete_collections:
         configured: false
         managed: true
 
-    collection_files:
+    collection_files: &tv_collection_files
     - default: streaming
 
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-collections.yml
 
-    metadata_files:
+    metadata_files: &tv_metadata_files
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-metadata.yml
 
   MATT MOVIES - 1080p:
     collection_files: *movie_collection_files
     metadata_files: *movie_metadata_files
+    operations: *movie_operations
 
   MATT TV - 1080p:
-    operations:
-      delete_collections:
-        configured: false
-        managed: true
-
-    collection_files:
-    - default: streaming
-
-    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-collections.yml
-
-    metadata_files:
-    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-metadata.yml
+    operations: *tv_operations
+    collection_files: *tv_collection_files
+    metadata_files: *tv_metadata_files
 
   WWE Events:
     overlay_files:
