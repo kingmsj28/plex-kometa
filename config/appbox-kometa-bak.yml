@@ -16,7 +16,7 @@ libraries:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-movies-metadata.yml
 
   MATT MOVIES:
-    collection_files: &movie_collection_files
+    collection_files:
     - default: franchise
       template_variables:
 
@@ -299,7 +299,7 @@ libraries:
     #My Collection Overides
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-collections.yml
 
-    metadata_files: &movie_metadata_files
+    metadata_files:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-metadata.yml
 
     #operations:
@@ -325,8 +325,299 @@ libraries:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-metadata.yml
 
   MATT MOVIES - 1080p:
-    collection_files: *movie_collection_files
-    metadata_files: *movie_metadata_files
+    collection_files:
+    - default: franchise
+      template_variables:
+
+        movie_9735:
+        - 6466      # Freddy vs. Jason
+        - 13207     # Friday the 13th (2009)
+
+        movie_10:
+        - 12180     # Star Wars: The Clone Wars
+        - 330459     # Rogue One: A Star Wars Story
+        - 348350     # Solo: A Star Wars Story
+        - 1228710     # The Mandalorian and Grogu)
+
+        exclude:
+        - 135416     # Prometheus
+        - 1149208     # Commando
+
+        append_addons:
+          8091:
+          - 135416     # Prometheus -> Alien
+
+        remove_addons:
+          91361:
+          - 126209     # Halloween (Rob Zombie Series)
+          748:
+          - 453993     # The Wolverine
+
+        title_override:
+          10: 'Star Wars: Skywalker Saga'
+          535313: Godzilla (MonsterVerse)
+          535790: Godzilla (Anime)
+          507458: ThanksKilling
+          
+        sort_title_115762: Alien vs. Predator 00
+        sort_title_10: Star Wars 00
+        sort_title_212562: 20 Jump Street
+        sort_title_105625: "!055_Firefly Collection"
+        
+        url_poster_125574: https://theposterdb.com/api/assets/132632   # The Amazing Spider-Man
+        url_poster_8091: https://theposterdb.com/api/assets/2876   # Alien
+        url_poster_402074: https://theposterdb.com/api/assets/13880   # Annabelle
+        url_poster_93791: https://theposterdb.com/api/assets/11053   # Anchorman
+        url_poster_422834: https://theposterdb.com/api/assets/295036   # Ant-Man
+        url_poster_573693: https://theposterdb.com/api/assets/349724   # Aquaman
+        url_poster_1006: https://theposterdb.com/api/assets/2883   # Austin Powers
+        url_poster_87096: https://theposterdb.com/api/assets/348246   # Avatar
+        url_poster_86311: https://theposterdb.com/api/assets/114054   # Avengers
+        url_poster_115762: https://theposterdb.com/api/assets/13908   # AVP
+        url_poster_264: https://theposterdb.com/api/assets/14631   # Back to the Future
+        url_poster_14890: https://theposterdb.com/api/assets/2887   # Bad Boys
+        url_poster_945475: https://theposterdb.com/api/assets/536944   # Beetlejuice
+        url_poster_91746: https://theposterdb.com/api/assets/2891   # Bill & Ted
+        url_poster_529892: https://theposterdb.com/api/assets/282450   # Black Panther
+        url_poster_735: https://theposterdb.com/api/assets/139554   # Blade
+        url_poster_747168: https://theposterdb.com/api/assets/133008   # Borat
+        url_poster_131295: https://theposterdb.com/api/assets/114048   # Captain America
+        url_poster_623911: https://theposterdb.com/api/assets/114049   # Captain Marvel
+        url_poster_10455: https://theposterdb.com/api/assets/2903   # Chucky
+        url_poster_182813: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/clerks-collection.png   # Clerks
+        url_poster_313086: https://theposterdb.com/api/assets/2906   # The Conjuring
+        url_poster_553717: https://theposterdb.com/api/assets/2908   # Creed
+        url_poster_64751: https://theposterdb.com/api/assets/2907   # Crank
+        url_poster_178106: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/darko-collection.png   # Darko
+        url_poster_263: https://theposterdb.com/api/assets/141711   # The Dark Knight
+        url_poster_448150: https://theposterdb.com/api/assets/135778   # Deadpool
+        url_poster_95664: https://theposterdb.com/api/assets/68721   # Deuce Bigalow
+        url_poster_1570: https://theposterdb.com/api/assets/2919   # Die Hard
+        url_poster_618529: https://theposterdb.com/api/assets/114050   # Doctor Strange
+        url_poster_96665: https://theposterdb.com/api/assets/144837   # Dumb and Dumber
+        url_poster_435259: https://theposterdb.com/api/assets/2928   # Fantastic Beasts
+        url_poster_9744: https://theposterdb.com/api/assets/151994   # Fantastic Four
+        url_poster_9485: https://theposterdb.com/api/assets/6421   # Fast & Furious
+        url_poster_9735: https://theposterdb.com/api/assets/2945   # Friday the 13th
+        url_poster_90306: https://theposterdb.com/api/assets/152105   # Ghost Rider
+        url_poster_284433: https://theposterdb.com/api/assets/291146   # Guardians of the Galaxy
+        url_poster_91361: https://theposterdb.com/api/assets/2957   # Halloween
+        url_poster_126209: https://theposterdb.com/api/assets/2956   # Halloween (Rob Zombie)
+        url_poster_1241: https://theposterdb.com/api/assets/2960   # Harry Potter
+        url_poster_121938: https://theposterdb.com/api/assets/2964   # The Hobbit
+        url_poster_131292: https://theposterdb.com/api/assets/114052   # Iron Man
+        url_poster_726870: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/jay-and-silent-bob.png   # Jay and Silent Bob
+        url_poster_645: https://theposterdb.com/api/assets/2864   # James Bond
+        url_poster_119: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/lotr.png   # The Lord of the Rings
+        url_poster_209131: https://theposterdb.com/api/assets/131540   # Man of Steel
+        url_poster_8581: https://theposterdb.com/api/assets/3027   # A Nightmare on Elm Street
+        url_poster_968052: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/thenun.png   # The Nun
+        url_poster_295: https://theposterdb.com/api/assets/3034   # Pirates of the Caribbean
+        url_poster_399: https://theposterdb.com/api/assets/3050   # Predator
+        url_poster_635362: https://theposterdb.com/api/assets/151892   # The Punisher
+        url_poster_1575: https://theposterdb.com/api/assets/3071   # Rocky
+        url_poster_4246: https://theposterdb.com/api/assets/3075   # Scary Movie
+        url_poster_2602: https://theposterdb.com/api/assets/3077   # Scream
+        url_poster_724848: https://theposterdb.com/api/assets/313308   # Shazam!
+        url_poster_531241: https://theposterdb.com/api/assets/287939   # Spider-Man (Avengers)
+        url_poster_556: https://theposterdb.com/api/assets/132628   # Spider-Man (Trilogy)
+        url_poster_573436: https://theposterdb.com/api/assets/132635   # Spider-Verse
+        url_poster_10: https://theposterdb.com/api/assets/13223   # Star Wars
+        url_poster_531242: https://theposterdb.com/api/assets/139024   # Suicide Squad
+        url_poster_507458: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/thankskilling.png   # ThanksKilling
+        url_poster_131296: https://theposterdb.com/api/assets/249712   # Thor
+        url_poster_558216: https://theposterdb.com/api/assets/153723   # Venom
+        url_poster_453993: https://theposterdb.com/api/assets/152048   # The Wolverine
+        url_poster_468552: https://theposterdb.com/api/assets/128646   # Wonder Woman
+        url_poster_748: https://theposterdb.com/api/assets/143883   # X-Men 
+        url_poster_86119: https://theposterdb.com/api/assets/6975   # The Hangover   
+        url_poster_1565: https://theposterdb.com/api/assets/2865   # 28 Days Later
+        url_poster_91660: https://theposterdb.com/api/assets/2867   # 30 Days of Night
+        url_poster_124916: https://theposterdb.com/api/assets/75948   # 101 Dalmatians (Live Action)
+        url_poster_100693: https://theposterdb.com/api/assets/75949   # 101 Dalmatians (Animated)
+        url_poster_125570: https://theposterdb.com/api/assets/2871   # 300
+        url_poster_3167: https://theposterdb.com/api/assets/12772   # Ace Ventura
+        url_poster_750822: https://theposterdb.com/api/assets/179338   # The Addams Family (Animated)
+        url_poster_86027: https://theposterdb.com/api/assets/12773   # Aladdin
+        url_poster_261307: https://theposterdb.com/api/assets/2875   # Alice in Wonderland
+        url_poster_105995: https://theposterdb.com/api/assets/49246   # Anaconda
+        url_poster_87250: https://theposterdb.com/api/assets/15291   # Bambi
+        url_poster_176097: https://theposterdb.com/api/assets/78597   # Barbershop
+        url_poster_120794: https://theposterdb.com/api/assets/82856   # Batman
+        url_poster_422837: https://theposterdb.com/api/assets/2893   # Blade Runner
+        url_poster_64750: https://theposterdb.com/api/assets/49546   # Blair Witch
+        url_poster_112636: https://theposterdb.com/api/assets/49547   # The Blues Brothers
+        url_poster_87186: https://theposterdb.com/api/assets/214631   # The Boondock Saints
+        url_poster_519457: https://theposterdb.com/api/assets/27615   # The Boss Baby
+        url_poster_31562: https://theposterdb.com/api/assets/2979   # Bourne
+        url_poster_104847: https://theposterdb.com/api/assets/2897   # Caddyshack
+        url_poster_87118: https://theposterdb.com/api/assets/2901   # Cars
+        url_poster_86029: https://theposterdb.com/api/assets/2902   # Charlie's Angels
+        url_poster_86780: https://theposterdb.com/api/assets/15272   # Clash of the Titans
+        url_poster_647077: https://theposterdb.com/api/assets/136250   # Coming to America
+        url_poster_464577: https://theposterdb.com/api/assets/139461   # The Croods
+        url_poster_473971: https://theposterdb.com/api/assets/13904   # Daddy's Home
+        url_poster_86116: https://theposterdb.com/api/assets/2916   # Death Race
+        url_poster_86066: https://theposterdb.com/api/assets/2918   # Despicable Me
+        url_poster_726871: https://theposterdb.com/api/assets/202986   # Dune
+        url_poster_523855: https://theposterdb.com/api/assets/11360   # The Equalizer
+        url_poster_1960: https://theposterdb.com/api/assets/2924   # Evil Dead
+        url_poster_126125: https://theposterdb.com/api/assets/2925   # The Expendables
+        url_poster_344830: https://theposterdb.com/api/assets/2943   # Fifty Shades
+        url_poster_8864: https://theposterdb.com/api/assets/2944   # Final Destination
+        url_poster_137697: https://theposterdb.com/api/assets/13902   # Finding Nemo
+        url_poster_43563: https://theposterdb.com/api/assets/70209   # Friday
+        url_poster_386382: https://theposterdb.com/api/assets/14432   # Frozen
+        url_poster_126221: https://theposterdb.com/api/assets/202629   # George of the Jungle
+        url_poster_2980: https://theposterdb.com/api/assets/2949   # Ghostbusters
+        url_poster_230: https://theposterdb.com/api/assets/2952   # The Godfather
+        url_poster_86083: https://theposterdb.com/api/assets/2953   # Grease
+        url_poster_180546: https://theposterdb.com/api/assets/14693   # Grown Ups
+        url_poster_1974: https://theposterdb.com/api/assets/214633   # The Grudge
+        url_poster_1263259: https://theposterdb.com/api/assets/723196   # Happy Gilmore
+        url_poster_30663: https://theposterdb.com/api/assets/68717   # Harold & Kumar
+        url_poster_386534: https://theposterdb.com/api/assets/2926   # Has Fallen
+        url_poster_251937: https://theposterdb.com/api/assets/75059   # A Haunted House
+        url_poster_17235: https://theposterdb.com/api/assets/2961   # Hellboy
+        url_poster_8917: https://theposterdb.com/api/assets/2962   # Hellraiser
+        url_poster_267922: https://theposterdb.com/api/assets/149162   # The Hills Have Eyes (Original)
+        url_poster_751156: https://theposterdb.com/api/assets/203085   # Hocus Pocus
+        url_poster_9888: https://theposterdb.com/api/assets/13898   # Home Alone
+        url_poster_280588: https://theposterdb.com/api/assets/13176   # Horrible Bosses
+        url_poster_89137: https://theposterdb.com/api/assets/2969   # How to Train Your Dragon
+        url_poster_468222: https://theposterdb.com/api/assets/13885   # The Incredibles
+        url_poster_131635: https://theposterdb.com/api/assets/2970   # The Hunger Games
+        url_poster_8354: https://theposterdb.com/api/assets/2971   # Ice Age
+        url_poster_17178: https://theposterdb.com/api/assets/148360   # Jackass
+        url_poster_477962: https://theposterdb.com/api/assets/2976   # It
+        url_poster_403374: https://theposterdb.com/api/assets/2977   # Jack Reacher
+        url_poster_1022790: https://theposterdb.com/api/assets/63127   # Inside Out
+        url_poster_84: https://theposterdb.com/api/assets/2973   # Indiana Jones
+        url_poster_987044: https://theposterdb.com/api/assets/546713   # Joker
+        url_poster_353325: https://theposterdb.com/api/assets/68735   # Joe Dirt
+        url_poster_404609: https://theposterdb.com/api/assets/2982   # John Wick
+        url_poster_94899: https://theposterdb.com/api/assets/2981   # Jeepers Creepers
+        url_poster_2366: https://theposterdb.com/api/assets/2980   # Jaws
+        url_poster_86024: https://theposterdb.com/api/assets/2989   # Legally Blonde
+        url_poster_97768: https://theposterdb.com/api/assets/13893   # Lake Placid
+        url_poster_97460: https://theposterdb.com/api/assets/13894   # Lady and the Tramp
+        url_poster_77816: https://theposterdb.com/api/assets/11023   # Kung Fu Panda
+        url_poster_391860: https://theposterdb.com/api/assets/6974   # Kingsman
+        url_poster_722971: https://theposterdb.com/api/assets/203093   # Knives Out
+        url_poster_179892: https://theposterdb.com/api/assets/13895   # Kick-Ass
+        url_poster_328: https://theposterdb.com/api/assets/2984   # Jurassic Park
+        url_poster_97459: https://theposterdb.com/api/assets/75971   # The Jungle Book
+        url_poster_212562: https://theposterdb.com/api/assets/13877   # Jump Street
+        url_poster_495527: https://theposterdb.com/api/assets/2983   # Jumanji
+        url_poster_51509: https://theposterdb.com/api/assets/13891   # Meet the Parents
+        url_poster_2344: https://theposterdb.com/api/assets/3001   # The Matrix
+        url_poster_328372: https://theposterdb.com/api/assets/20282   # Paul Blart: Mall Cop
+        url_poster_531331: https://theposterdb.com/api/assets/41451   # Maleficent
+        url_poster_14740: https://theposterdb.com/api/assets/2994   # Madagascar
+        url_poster_8945: https://theposterdb.com/api/assets/2993   # Mad Max
+        url_poster_261590: https://theposterdb.com/api/assets/3030   # Living Dead
+        url_poster_33085: https://theposterdb.com/api/assets/48144   # The Little Mermaid
+        url_poster_94032: https://theposterdb.com/api/assets/11027   # The Lion King
+        url_poster_19285: https://theposterdb.com/api/assets/59952   # Leprechaun
+        url_poster_325470: https://theposterdb.com/api/assets/11026   # The Lego Movie
+        url_poster_382685: https://theposterdb.com/api/assets/3028   # Now You See Me
+        url_poster_400700: https://theposterdb.com/api/assets/13889   # Neighbors
+        url_poster_85943: https://theposterdb.com/api/assets/3026   # Night at the Museum
+        url_poster_52984: https://theposterdb.com/api/assets/3024   # National Treasure
+        url_poster_108693: https://theposterdb.com/api/assets/149180   # National Lampoon's Vacation
+        url_poster_1733: https://theposterdb.com/api/assets/3015   # The Mummy
+        url_poster_9818: https://theposterdb.com/api/assets/12774   # Mortal Kombat
+        url_poster_137696: https://theposterdb.com/api/assets/13890   # Monsters, Inc.
+        url_poster_87359: https://theposterdb.com/api/assets/3013   # Mission: Impossible
+        url_poster_86055: https://theposterdb.com/api/assets/3008   # Men in Black
+        url_poster_1709: https://theposterdb.com/api/assets/3037   # Planet of the Apes (Original)
+        url_poster_173710: https://theposterdb.com/api/assets/3041   # Planet of the Apes (Reboot)
+        url_poster_270252: https://theposterdb.com/api/assets/69180   # Planes
+        url_poster_306031: https://theposterdb.com/api/assets/3035   # Pitch Perfect
+        url_poster_55422: https://theposterdb.com/api/assets/75963   # Peter Pan
+        url_poster_10789: https://theposterdb.com/api/assets/656386   # Pet Sematary
+        url_poster_363369: https://theposterdb.com/api/assets/3031   # Pacific Rim
+        url_poster_304: https://theposterdb.com/api/assets/3029   # Ocean's
+        url_poster_90863: https://theposterdb.com/api/assets/3073   # Rush Hour
+        url_poster_5547: https://theposterdb.com/api/assets/3070   # RoboCop
+        url_poster_229932: https://theposterdb.com/api/assets/15278   # Rio
+        url_poster_376650: https://theposterdb.com/api/assets/15288   # Ride Along
+        url_poster_17255: https://theposterdb.com/api/assets/3060   # Resident Evil
+        url_poster_163902: https://theposterdb.com/api/assets/3058   # RED
+        url_poster_57971: https://theposterdb.com/api/assets/13884   # The Rescuers
+        url_poster_5039: https://theposterdb.com/api/assets/3056   # Rambo
+        url_poster_521226: https://theposterdb.com/api/assets/69182   # A Quiet Place
+        url_poster_94602: https://theposterdb.com/api/assets/202650   # Puss in Boots
+        url_poster_256322: https://theposterdb.com/api/assets/3055   # The Purge
+        url_poster_722961: https://theposterdb.com/api/assets/166035   # Space Jam
+        url_poster_2150: https://theposterdb.com/api/assets/3081   # Shrek
+        url_poster_102322: https://theposterdb.com/api/assets/3079   # Sherlock Holmes
+        url_poster_59567: https://theposterdb.com/api/assets/27632   # Shanghai Noon
+        url_poster_495: https://theposterdb.com/api/assets/15279   # Shaft
+        url_poster_427084: https://theposterdb.com/api/assets/167674   # The Secret Life of Pets
+        url_poster_116669: https://theposterdb.com/api/assets/3076   # The Scorpion King
+        url_poster_656: https://theposterdb.com/api/assets/3074   # Saw
+        url_poster_10194: https://theposterdb.com/api/assets/3129   # Toy Story
+        url_poster_528: https://theposterdb.com/api/assets/3124   # The Terminator
+        url_poster_266672: https://theposterdb.com/api/assets/15270   # Ted
+        url_poster_135483: https://theposterdb.com/api/assets/3117   # Taken
+        url_poster_449462: https://theposterdb.com/api/assets/60537   # Super Troopers
+        url_poster_275402: https://theposterdb.com/api/assets/76973   # SpongeBob
+        url_poster_352789: https://theposterdb.com/api/assets/58222   # Zoolander
+        url_poster_537982: https://theposterdb.com/api/assets/58223   # Zombieland
+        url_poster_52785: https://theposterdb.com/api/assets/3157   # xXx
+        url_poster_404825: https://theposterdb.com/api/assets/11361   # Wreck-It Ralph
+        url_poster_118221: https://theposterdb.com/api/assets/3148   # Weekend at Bernie's
+        url_poster_8979: https://theposterdb.com/api/assets/3143   # Wayne's World
+        url_poster_2326: https://theposterdb.com/api/assets/3141   # Underworld
+        url_poster_286948: https://theposterdb.com/api/assets/43880   # Ultimate Avengers
+        url_poster_1062948: https://theposterdb.com/api/assets/536946   # Twister
+        url_poster_489724: https://theposterdb.com/api/assets/61551   # Trolls
+        url_poster_9518: https://theposterdb.com/api/assets/3136   # Transporter
+        url_poster_105625: https://theposterdb.com/api/assets/109245   # Firefly
+        
+    - default: universe
+      template_variables:
+        collection_order_star: release
+        collection_order_avp: release
+        collection_order_mcu: release
+        url_poster_mcu: https://theposterdb.com/api/assets/143466   #MCU
+        url_poster_dcu: https://theposterdb.com/api/assets/128645   # DC Universe
+          #url_poster_wizard: https://theposterdb.com/api/assets/1269 # Wizarding World
+          #url_poster_askew: https://theposterdb.com/api/assets/171375 # View Askewniverse
+          #url_poster_middle: https://theposterdb.com/api/assets/264226 # Middle Earth
+        url_poster_star: https://theposterdb.com/api/assets/133720   # Star Wars
+        url_poster_conjuring: https://api.mediux.pro/assets/2f19f71f-b856-4f41-82d8-02ddb7ab6353   # Conjuring Universe
+        url_poster_avp: https://theposterdb.com/api/assets/576790   # Alien / Predator Universe
+        exclude:
+        - fast
+        - xmen
+
+    - default: streaming
+      template_variables:
+        minimum_items: 10
+        
+    - default: studio
+      template_variables:
+        include:
+          - Walt Disney Animation Studios
+          - Pixar
+          - DreamWorks Studios
+          - Illumination Entertainment
+
+    #My Collection Overides
+    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-collections.yml
+
+    metadata_files:
+    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-metadata.yml
+
+    #operations:
+      #delete_collections:
+        #configured: false
+        #managed: true
+
+    #overlay_files:
+    #- default: resolution
 
   MATT TV - 1080p:
     operations:
