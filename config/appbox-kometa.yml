@@ -52,7 +52,7 @@ libraries:
           
         sort_title_115762: Alien vs. Predator 00
         sort_title_10: Star Wars 00
-        sort_title_212562: 20 Jump Street
+        sort_title_212562: 21 Jump Street 00
         sort_title_105625: "!055_Firefly Collection"
         
         url_poster_125574: https://theposterdb.com/api/assets/132632   # The Amazing Spider-Man
@@ -125,7 +125,7 @@ libraries:
         url_poster_1565: https://theposterdb.com/api/assets/2865   # 28 Days Later
         url_poster_91660: https://theposterdb.com/api/assets/2867   # 30 Days of Night
         url_poster_124916: https://theposterdb.com/api/assets/75948   # 101 Dalmatians (Live Action)
-        url_poster_100693: https://theposterdb.com/api/assets/75949   # 101 Dalmatians (Animated)
+        url_poster_100693: https://theposterdb.com/api/assets/48150   # 101 Dalmatians (Animated)
         url_poster_125570: https://theposterdb.com/api/assets/2871   # 300
         url_poster_3167: https://theposterdb.com/api/assets/12772   # Ace Ventura
         url_poster_750822: https://theposterdb.com/api/assets/179338   # The Addams Family (Animated)
@@ -286,15 +286,7 @@ libraries:
 
     - default: streaming
       template_variables:
-        minimum_items: 10
-        
-    - default: studio
-      template_variables:
-        include:
-          - Walt Disney Animation Studios
-          - Pixar
-          - DreamWorks Studios
-          - Illumination Entertainment
+        minimum_items: 10    
 
     #My Collection Overides
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-collections.yml

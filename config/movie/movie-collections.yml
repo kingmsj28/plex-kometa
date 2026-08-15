@@ -285,6 +285,80 @@ collections:
     url_poster: https://theposterdb.com/api/assets/143883
     # url_background:
 
+  ##################################################
+  # Studios
+  ##################################################
+
+  ##################################################
+  # DreamWorks Animation
+  ##################################################
+
+  DreamWorks Animation*:
+    sort_title: "!070_DreamWorks Animation"
+    collection_order: release.desc
+    sync_mode: sync
+    tmdb_movie:
+      - 8916      # Antz (1998)
+      - 9837      # The Prince of Egypt (1998)
+      - 10501     # The Road to El Dorado (2000)
+      - 7443      # Chicken Run (2000)
+      - 16366     # Joseph: King of Dreams (2000)
+      - 808       # Shrek (2001)
+      - 9023      # Spirit: Stallion of the Cimarron (2002)
+      - 14411     # Sinbad: Legend of the Seven Seas (2003)
+      - 809       # Shrek 2 (2004)
+      - 10555     # Shark Tale (2004)
+      - 953       # Madagascar (2005)
+      - 533       # Wallace & Gromit: The Curse of the Were-Rabbit (2005)
+      - 7518      # Over the Hedge (2006)
+      - 11619     # Flushed Away (2006)
+      - 810       # Shrek the Third (2007)
+      - 5559      # Bee Movie (2007)
+      - 9502      # Kung Fu Panda (2008)
+      - 10527     # Madagascar: Escape 2 Africa (2008)
+      - 15512     # Monsters vs Aliens (2009)
+      - 10191     # How to Train Your Dragon (2010)
+      - 10192     # Shrek Forever After (2010)
+      - 38055     # Megamind (2010)
+      - 49444     # Kung Fu Panda 2 (2011)
+      - 417859    # Puss in Boots (2011)
+      - 80321     # Madagascar 3: Europe's Most Wanted (2012)
+      - 81188     # Rise of the Guardians (2012)
+      - 49519     # The Croods (2013)
+      - 77950     # Turbo (2013)
+      - 82703     # Mr. Peabody & Sherman (2014)
+      - 82702     # How to Train Your Dragon 2 (2014)
+      - 270946    # Penguins of Madagascar (2014)
+      - 228161    # Home (2015)
+      - 140300    # Kung Fu Panda 3 (2016)
+      - 136799    # Trolls (2016)
+      - 295693    # The Boss Baby (2017)
+      - 268531    # Captain Underpants: The First Epic Movie (2017)
+      - 166428    # How to Train Your Dragon: The Hidden World (2019)
+      - 431580    # Abominable (2019)
+      - 446893    # Trolls World Tour (2020)
+      - 529203    # The Croods: A New Age (2020)
+      - 637693    # Spirit Untamed (2021)
+      - 459151    # The Boss Baby: Family Business (2021)
+      - 629542    # The Bad Guys (2022)
+      - 315162    # Puss in Boots: The Last Wish (2022)
+      - 1040148   # Ruby Gillman, Teenage Kraken (2023)
+      - 901362    # Trolls Band Together (2023)
+      - 1139829   # Orion and the Dark (2024)
+      - 1011985   # Kung Fu Panda 4 (2024)
+      - 1184918   # The Wild Robot (2024)
+      - 774370    # Dog Man (2025)
+      - 1087192   # How to Train Your Dragon (2025)
+      - 1175942   # The Bad Guys 2 (2025)
+      - 1280282   # Gabby's Dollhouse: The Movie (2025)
+      
+      - 1087192   # How to Train Your Dragon (2025)
+
+      # DreamWorks-Adjacent Related Productions
+      - 730840    # Trollhunters: Rise of the Titans (2021)
+      - 520758    # Chicken Run: Dawn of the Nugget (2023)
+      - 1239251   # Megamind vs. the Doom Syndicate (2024)
+      - 929204    # Wallace & Gromit: Vengeance Most Fowl (2024)
 
   ##################################################
   # Franchises
