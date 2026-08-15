@@ -1619,7 +1619,7 @@ metadata:
   # 30 Days of Night
   ##################################################
 
-  14359: # 30 Days of Night (2007)
+  4513: # 30 Days of Night (2007)
     label: Art*
     url_poster: https://theposterdb.com/api/assets/22181
 
@@ -2020,7 +2020,7 @@ metadata:
   # Standalone Movies
   ##################################################
 
-  39957: # Alita: Battle Angel (2019)
+  399579: # Alita: Battle Angel (2019)
     label: Art*
     url_poster: https://theposterdb.com/api/assets/22662
 
@@ -2092,6 +2092,6 @@ metadata:
     label: Art*
     url_poster: https://theposterdb.com/api/assets/259222
     
-  454619: # Action Point (2018)
+  454283: # Action Point (2018)
     label: Art*
     url_poster: https://theposterdb.com/api/assets/166478

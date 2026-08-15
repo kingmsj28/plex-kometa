@@ -295,7 +295,7 @@ collections:
     sort_title: "!070_DreamWorks Animation"
     collection_order: release.desc
     sync_mode: sync
-    url poster: https://theposterdb.com/api/assets/531052
+    url_poster: https://theposterdb.com/api/assets/531052
     tmdb_movie:
       - 8916      # Antz (1998)
       - 9837      # The Prince of Egypt (1998)
