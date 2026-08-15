@@ -1359,3 +1359,13 @@ metadata:
   10481: # 102 Dalmatians (2000)
     url_poster: https://api.mediux.pro/assets/7ae5c1af-0aa9-4fb1-83b6-b011d61161d7
     sort_title: "101 Dalmatians (Live-Action) 01"
+    
+  ##################################################
+  # 300
+  ##################################################
+
+  1271: # 300 (2007)
+    url_poster: https://api.mediux.pro/assets/ec6e68f6-cba9-472e-9185-100c791807b0
+
+  53182: # 300: Rise of an Empire (2014)
+    url_poster: https://api.mediux.pro/assets/7a2246cf-f285-47f5-a379-db6aba4ba1f5
