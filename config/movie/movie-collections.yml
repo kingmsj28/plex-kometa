@@ -23,7 +23,7 @@ collections:
     #sort_title: "!100_1910s"
     #sync_mode: sync
     #collection_order: release
-    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1910s.png
+    #url_poster: https://theposterdb.com/api/assets/213578
     #plex_search:
       #year.gte: 1910
       #year.lte: 1919
@@ -32,7 +32,7 @@ collections:
     #sort_title: "!100_1920s"
     #sync_mode: sync
     #collection_order: release
-    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1920s.png
+    #url_poster: https://theposterdb.com/api/assets/213579
     #plex_search:
       #year.gte: 1920
       #year.lte: 1929
@@ -41,7 +41,7 @@ collections:
     sort_title: "!100_1930s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1930s.png
+    url_poster: https://theposterdb.com/api/assets/213580
     plex_search:
       year.gte: 1930
       year.lte: 1939
@@ -50,7 +50,7 @@ collections:
     sort_title: "!100_1940s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1940s.png
+    url_poster: https://theposterdb.com/api/assets/213581
     plex_search:
       year.gte: 1940
       year.lte: 1949
@@ -59,7 +59,7 @@ collections:
     sort_title: "!100_1950s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1950s.png
+    url_poster: https://theposterdb.com/api/assets/213582
     plex_search:
       year.gte: 1950
       year.lte: 1959
@@ -68,7 +68,7 @@ collections:
     sort_title: "!100_1960s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1960s.png
+    url_poster: https://theposterdb.com/api/assets/213583
     plex_search:
       year.gte: 1960
       year.lte: 1969
@@ -77,7 +77,7 @@ collections:
     sort_title: "!100_1970s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1970s.png
+    url_poster: https://theposterdb.com/api/assets/213584
     plex_search:
       year.gte: 1970
       year.lte: 1979
@@ -86,7 +86,7 @@ collections:
     sort_title: "!100_1980s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1980s.png
+    url_poster: https://theposterdb.com/api/assets/213585
     plex_search:
       year.gte: 1980
       year.lte: 1989
@@ -95,7 +95,7 @@ collections:
     sort_title: "!100_1990s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1990s.png
+    url_poster: https://theposterdb.com/api/assets/213586
     plex_search:
       year.gte: 1990
       year.lte: 1999
@@ -104,7 +104,7 @@ collections:
     sort_title: "!100_2000s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/2000s.png
+    url_poster: https://theposterdb.com/api/assets/213587
     plex_search:
       year.gte: 2000
       year.lte: 2009
@@ -113,7 +113,7 @@ collections:
     sort_title: "!100_2010s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/2010s.png
+    url_poster: https://theposterdb.com/api/assets/213588
     plex_search:
       year.gte: 2010
       year.lte: 2019
@@ -122,7 +122,7 @@ collections:
     sort_title: "!100_2020s"
     sync_mode: sync
     collection_order: release
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/2020s.png
+    url_poster: https://theposterdb.com/api/assets/213589
     plex_search:
       year.gte: 2020
       year.lte: 2029
@@ -131,7 +131,7 @@ collections:
     #sort_title: "!100_2030s"
     #sync_mode: sync
     #collection_order: release
-    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/2030s.png
+    #url_poster: https://theposterdb.com/api/assets/213590
     #plex_search:
       #year.gte: 2030
       #year.lte: 2039
