@@ -310,6 +310,17 @@ collections:
       list_id: ls051452524
 
   ##################################################
+  # Disney Live Action
+  ##################################################
+
+  Disney Live Action*:
+    sort_title: "!070_Disney Live Action"
+    collection_order: release.desc
+    sync_mode: sync
+    imdb_list:
+      list_id: ls549040566
+
+  ##################################################
   # DreamWorks Animation
   ##################################################
 
