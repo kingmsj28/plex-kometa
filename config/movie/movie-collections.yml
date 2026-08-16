@@ -37,32 +37,32 @@ collections:
       #year.gte: 1920
       #year.lte: 1929
 
-  #1930s:
-    #sort_title: "!100_1930s"
-    #sync_mode: sync
-    #collection_order: release
-    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1930s.png
-    #plex_search:
-      #year.gte: 1930
-      #year.lte: 1939
+  1930s:
+    sort_title: "!100_1930s"
+    sync_mode: sync
+    collection_order: release
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1930s.png
+    plex_search:
+      year.gte: 1930
+      year.lte: 1939
 
-  #1940s:
-    #sort_title: "!100_1940s"
-    #sync_mode: sync
-    #collection_order: release
-    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1940s.png
-    #plex_search:
-      #year.gte: 1940
-      #year.lte: 1949
+  1940s:
+    sort_title: "!100_1940s"
+    sync_mode: sync
+    collection_order: release
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1940s.png
+    plex_search:
+      year.gte: 1940
+      year.lte: 1949
 
-  #1950s:
-    #sort_title: "!100_1950s"
-    #sync_mode: sync
-    #collection_order: release
-    #url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1950s.png
-    #plex_search:
-      #year.gte: 1950
-      #year.lte: 1959
+  1950s:
+    sort_title: "!100_1950s"
+    sync_mode: sync
+    collection_order: release
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/decades/1950s.png
+    plex_search:
+      year.gte: 1950
+      year.lte: 1959
 
   1960s:
     sort_title: "!100_1960s"
@@ -286,6 +286,17 @@ collections:
   ##################################################
   # Studios
   ##################################################
+
+  ##################################################
+  # Walt Disney Animation Studios
+  ##################################################
+
+  Walt Disney Animation*:
+    sort_title: "!070_Walt Disney Animation Studios"
+    collection_order: release.desc
+    sync_mode: sync
+    imdb_list:
+      list_id: ls051452524
 
   ##################################################
   # DreamWorks Animation
