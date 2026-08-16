@@ -1,8 +1,8 @@
 collections:
     
-  ##################################################
-  # Art Label Reset — MAINTENANCE ONLY
-  ##################################################
+ ##################################################
+ # Art Label Reset — MAINTENANCE ONLY
+ ##################################################
 
 #  Art Label Reset:
 #    build_collection: false
@@ -37,9 +37,9 @@ collections:
     collection_order: custom
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/random-unwatched-movies.png
 
-  ##################################################
-  # Decades
-  ##################################################
+ ##################################################
+ # Decades
+ ##################################################
 
   #1910s:
     #sort_title: "!100_1910s"
@@ -158,9 +158,9 @@ collections:
       #year.gte: 2030
       #year.lte: 2039
 
-  ##################################################
-  # Universes
-  ##################################################
+ ##################################################
+ # Universes
+ ##################################################
 
   ##################################################
   # In Association with Marvel
@@ -305,9 +305,14 @@ collections:
       - 340102    # The New Mutants (2020)
       - 533535    # Deadpool & Wolverine (2024)
 
-  ##################################################
-  # Studios
-  ##################################################
+ ##################################################
+ # Studios
+ ##################################################
+
+  Studio Collections:
+    sort_title: "!070_!Studio Collections"
+    blank_collection: true
+    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/separators/orig/studio.jpg
 
   ##################################################
   # Pixar
@@ -317,6 +322,7 @@ collections:
     sort_title: "!070_Pixar"
     collection_order: release.desc
     sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/532233
     imdb_list:
       list_id: ls525761865
 
@@ -328,6 +334,7 @@ collections:
     sort_title: "!070_Walt Disney Animation Studios"
     collection_order: release.desc
     sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/532946
     imdb_list:
       list_id: ls051452524
 
@@ -339,6 +346,7 @@ collections:
     sort_title: "!070_Disney Live Action"
     collection_order: release.desc
     sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/536979
     imdb_list:
       list_id: ls549040566
 
@@ -354,17 +362,21 @@ collections:
     imdb_list:
       list_id: ls4117290871
 
-  ##################################################
-  # Franchises
-  ##################################################
- 
-    
+ ##################################################
+ # Special Collections
+ ##################################################
+
+  Special Collections:
+    sort_title: "!115_!Special Collections"
+    blank_collection: true
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/special-collections.png
+
   ##################################################
   # Cornetto Trilogy
   ##################################################
 
   Cornetto Trilogy*:
-    sort_title: "!055_Cornetto Trilogy"
+    sort_title: "!115_Cornetto Trilogy"
     collection_order: release
     sync_mode: sync
     tmdb_movie:
@@ -372,4 +384,21 @@ collections:
       - 4638 # Hot Fuzz (2007)
       - 107985 # The World's End (2013)
     url_poster: https://theposterdb.com/api/assets/284240
-  
+    
+  ##################################################
+  # Broken Lizard
+  ##################################################
+
+  Broken Lizard*:
+    sort_title: "!115_Broken Lizard"
+    sync_mode: sync
+    collection_order: release
+    tmdb_movie:
+      - 13563  # Puddle Cruiser (1996)
+      - 39939  # Super Troopers (2001)
+      - 11217  # Club Dread (2004)
+      - 9988   # Beerfest (2006)
+      - 34423  # The Slammin' Salmon (2009)
+      - 50022  # Super Troopers 2 (2018)
+      - 893752 # Quasi (2023)
+      - 675871 # Super Troopers 3 (2026)
