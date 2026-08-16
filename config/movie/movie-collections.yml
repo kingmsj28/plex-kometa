@@ -1,6 +1,28 @@
 collections:
     
   ##################################################
+  # Art Label Reset — MAINTENANCE ONLY
+  ##################################################
+
+#  Art Label Reset:
+#    build_collection: false
+#    plex_all: true
+#    item_label.remove: Art*
+
+  ##################################################
+  # Needs Artwork
+  ##################################################
+
+  Needs Artwork*:
+    sort_title: "!999_Needs Artwork"
+    collection_mode: hide
+    plex_search:
+      all:
+        label.not: Art*
+    sync_mode: sync
+    collection_order: alpha
+
+  ##################################################
   # Random Unwatched Movies
   ##################################################
 
@@ -350,16 +372,4 @@ collections:
       - 4638 # Hot Fuzz (2007)
       - 107985 # The World's End (2013)
     url_poster: https://theposterdb.com/api/assets/284240
-
-  ##################################################
-  # Needs Artwork
-  ##################################################
-
-  Needs Artwork*:
-    sort_title: "!999_Needs Artwork"
-    collection_mode: hide
-    plex_search:
-      all:
-        label.not: Art*
-    sync_mode: sync
-    collection_order: alpha
+  
