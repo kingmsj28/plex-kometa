@@ -41,6 +41,11 @@ collections:
  # Decades
  ##################################################
 
+  Decade Collections:
+    sort_title: "!100_!Decade Collections"
+    blank_collection: true
+    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/separators/orig/decade.jpg
+
   #1910s:
     #sort_title: "!100_1910s"
     #sync_mode: sync
