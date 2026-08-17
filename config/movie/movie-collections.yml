@@ -417,3 +417,43 @@ collections:
       - 50022  # Super Troopers 2 (2018)
       - 893752 # Quasi (2023)
       - 675871 # Super Troopers 3 (2026)
+      
+  ##################################################
+  # Stand Up Comedy
+  ##################################################
+
+  Stand Up Comedy*:
+    sort_title: "!016_Stand Up Comedy"
+    plex_search:
+      all:
+        label: Stand Up
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/213081
+    collection_order: release.desc
+
+  Gabriel Iglesias*:
+    sort_title: "Gabriel Iglesias 00"
+    plex_search:
+      all:
+        label: Gabriel Iglesias
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/385080
+    collection_order: release
+
+  Jo Koy*:
+    sort_title: "Jo Koy 00"
+    plex_search:
+      all:
+        label: Jo Koy
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/307148
+    collection_order: release
+
+  Kevin Hart*:
+    sort_title: "Kevin Hart 00"
+    plex_search:
+      all:
+        label: Kevin Hart
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/259467
+    collection_order: release

@@ -292,6 +292,7 @@ libraries:
 
     metadata_files: &movie_metadata_files
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-metadata.yml
+    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/stand-up-metadata.yml
 
     operations: &movie_operations
       delete_collections:
@@ -328,7 +329,3 @@ libraries:
   WWE Events:
     overlay_files:
     - default: resolution
-
-  #Stand Up Comedy:
-    #overlay_files:
-    #- default: resolution

@@ -1,0 +1,205 @@
+metadata:
+
+  ##################################################
+  # Gabriel Iglesias
+  ##################################################
+
+  20720: # Gabriel Iglesias: Hot and Fluffy (2007)
+    sort_title: "Gabriel Iglesias 01"
+    label:
+      - Art*
+      - Stand Up
+      - Gabriel Iglesias
+    url_poster: https://theposterdb.com/api/assets/439739
+
+  27169: # Gabriel Iglesias: I'm Not Fat... I'm Fluffy (2009)
+    sort_title: "Gabriel Iglesias 02"
+    label:
+      - Art*
+      - Stand Up
+      - Gabriel Iglesias
+    url_poster: https://theposterdb.com/api/assets/439741
+
+  185440: # Gabriel Iglesias: Aloha Fluffy (2013)
+    sort_title: "Gabriel Iglesias 03"
+    label:
+      - Art*
+      - Stand Up
+      - Gabriel Iglesias
+    url_poster: https://theposterdb.com/api/assets/439738
+
+  256273: # The Fluffy Movie: Unity Through Laughter (2014)
+    sort_title: "Gabriel Iglesias 04"
+    label:
+      - Art*
+      - Stand Up
+      - Gabriel Iglesias
+    url_poster: https://theposterdb.com/api/assets/447394
+
+  429801: # Gabriel Iglesias: I'm Sorry for What I Said When I Was Hungry (2016)
+    sort_title: "Gabriel Iglesias 05"
+    label:
+      - Art*
+      - Stand Up
+      - Gabriel Iglesias
+    url_poster: https://theposterdb.com/api/assets/439742
+
+  573911: # Gabriel "Fluffy" Iglesias: One Show Fits All (2019)
+    sort_title: "Gabriel Iglesias 06"
+    label:
+      - Art*
+      - Stand Up
+      - Gabriel Iglesias
+    url_poster: https://theposterdb.com/api/assets/439743
+
+  1011579: # Gabriel Iglesias: Stadium Fluffy (2022)
+    sort_title: "Gabriel Iglesias 07"
+    label:
+      - Art*
+      - Stand Up
+      - Gabriel Iglesias
+    url_poster: https://theposterdb.com/api/assets/439740
+
+  1404382: # Gabriel Iglesias: Legend of Fluffy (2025)
+    sort_title: "Gabriel Iglesias 08"
+    label:
+      - Art*
+      - Stand Up
+      - Gabriel Iglesias
+    url_poster: https://theposterdb.com/api/assets/559901
+
+  ##################################################
+  # Jo Koy
+  ##################################################
+
+  35585: # Jo Koy: Don't Make Him Angry (2009)
+    sort_title: "Jo Koy 01"
+    label:
+      - Art*
+      - Stand Up
+      - Jo Koy
+    url_poster: https://theposterdb.com/api/assets/438267
+
+  97102: # Jo Koy: Lights Out (2012)
+    sort_title: "Jo Koy 02"
+    label:
+      - Art*
+      - Stand Up
+      - Jo Koy
+    url_poster: https://theposterdb.com/api/assets/438269
+
+  449359: # Jo Koy: Live from Seattle (2017)
+    sort_title: "Jo Koy 03"
+    label:
+      - Art*
+      - Stand Up
+      - Jo Koy
+    url_poster: https://theposterdb.com/api/assets/438266
+
+  604130: # Jo Koy: Comin' in Hot (2019)
+    sort_title: "Jo Koy 04"
+    label:
+      - Art*
+      - Stand Up
+      - Jo Koy
+    url_poster: https://theposterdb.com/api/assets/424915
+
+  706345: # Jo Koy: In His Elements (2020)
+    sort_title: "Jo Koy 05"
+    label:
+      - Art*
+      - Stand Up
+      - Jo Koy
+    url_poster: https://theposterdb.com/api/assets/438268
+
+  1013842: # Jo Koy: Live from the Los Angeles Forum (2022)
+    sort_title: "Jo Koy 06"
+    label:
+      - Art*
+      - Stand Up
+      - Jo Koy
+    url_poster: https://theposterdb.com/api/assets/438265
+
+  1294122: # Jo Koy: Live from Brooklyn (2024)
+    sort_title: "Jo Koy 07"
+    label:
+      - Art*
+      - Stand Up
+      - Jo Koy
+    url_poster: https://theposterdb.com/api/assets/714724
+
+  ##################################################
+  # Kevin Hart
+  ##################################################
+
+  27866: # Kevin Hart: I'm a Grown Little Man (2009)
+    sort_title: "Kevin Hart 01"
+    label:
+      - Art*
+      - Stand Up
+      - Kevin Hart
+    url_poster: https://theposterdb.com/api/assets/470856
+
+  42189: # Kevin Hart: Seriously Funny (2010)
+    sort_title: "Kevin Hart 02"
+    label:
+      - Art*
+      - Stand Up
+      - Kevin Hart
+    url_poster: https://theposterdb.com/api/assets/239304
+
+  74510: # Kevin Hart: Laugh at My Pain (2011)
+    sort_title: "Kevin Hart 03"
+    label:
+      - Art*
+      - Stand Up
+      - Kevin Hart
+    url_poster: https://theposterdb.com/api/assets/397474
+
+  181330: # Kevin Hart: Let Me Explain (2013)
+    sort_title: "Kevin Hart 04"
+    label:
+      - Art*
+      - Stand Up
+      - Kevin Hart
+    url_poster: https://theposterdb.com/api/assets/470854
+
+  339927: # Kevin Hart: What Now All Access (2016)
+    sort_title: "Kevin Hart 05"
+    label:
+      - Art*
+      - Stand Up
+      - Kevin Hart
+    url_poster: https://theposterdb.com/api/assets/470852
+
+  592136: # Kevin Hart: Irresponsible (2019)
+    sort_title: "Kevin Hart 06"
+    label:
+      - Art*
+      - Stand Up
+      - Kevin Hart
+    url_poster: https://theposterdb.com/api/assets/470855
+
+  762511: # Kevin Hart: Zero F**ks Given (2020)
+    sort_title: "Kevin Hart 07"
+    label:
+      - Art*
+      - Stand Up
+      - Kevin Hart
+    url_poster: https://theposterdb.com/api/assets/433505
+
+  1143747: # Kevin Hart: Reality Check (2023)
+    sort_title: "Kevin Hart 08"
+    label:
+      - Art*
+      - Stand Up
+      - Kevin Hart
+    url_poster: https://theposterdb.com/api/assets/394218
+
+  1581099: # Kevin Hart: Acting My Age (2025)
+    sort_title: "Kevin Hart 09"
+    label:
+      - Art*
+      - Stand Up
+      - Kevin Hart
+    url_poster: https://theposterdb.com/api/assets/667829
