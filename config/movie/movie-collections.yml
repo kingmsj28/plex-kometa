@@ -1,5 +1,14 @@
 collections:
     
+  ##################################################
+  # Movie Library
+  ##################################################
+
+  Movie Library:
+    sort_title: "!999_!Movie Library"
+    blank_collection: true
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/separators/movie-library.png    
+    
  ##################################################
  # Art Label Reset — MAINTENANCE ONLY
  ##################################################
@@ -14,7 +23,7 @@ collections:
   ##################################################
 
   Needs Artwork*:
-    sort_title: "!999_Needs Artwork"
+    sort_title: "!998_Needs Artwork"
     collection_mode: hide
     plex_search:
       all:
@@ -396,8 +405,9 @@ collections:
 
   Broken Lizard*:
     sort_title: "!115_Broken Lizard"
-    sync_mode: sync
     collection_order: release
+    sync_mode: sync
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/broken-lizard.png
     tmdb_movie:
       - 13563  # Puddle Cruiser (1996)
       - 39939  # Super Troopers (2001)

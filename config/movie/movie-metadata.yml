@@ -378,7 +378,7 @@ metadata:
 
   177572: # Big Hero 6 (2014) Poster by willtong93 on MediUX
     label: Art*
-    url_poster: https://api.mediux.pro/assets/e59399d5-e0bf-4336-8924-bf7810d73a1a
+    url_poster: https://api.mediux.pro/assets/f3d1be45-30d0-47ba-9455-c0d02d5bf6f5
 
   ##################################################
   # Marvel Cinematic Universe
@@ -2016,6 +2016,870 @@ metadata:
     sort_title: "Anaconda 06"
     url_poster: https://theposterdb.com/api/assets/644396    
     
+  ##################################################
+  # Disney Animation
+  ################################################## 
+    
+metadata:
+
+  ##################################################
+  # 101 Dalmatians
+  ##################################################
+
+  12230: # One Hundred and One Dalmatians (1961)
+    url_poster: https://api.mediux.pro/assets/95c00497-b034-4c27-a227-3a263950a609
+    label: Art*
+
+  13654: # 101 Dalmatians II: Patch's London Adventure (2003)
+    url_poster: https://api.mediux.pro/assets/b60b67a3-47c8-4c05-9721-15fe4bae5a50
+    label: Art*
+
+  ##################################################
+  # Aladdin
+  ##################################################
+
+  812: # Aladdin (1992)
+    url_poster: https://api.mediux.pro/assets/0ef0a6b8-a31f-4eb0-b109-c349da3dfb27
+    label: Art*
+
+  15969: # The Return of Jafar (1994)
+    url_poster: https://api.mediux.pro/assets/fcba2c36-db3a-4c2c-995a-1893b532d37b
+    label: Art*
+
+  11238: # Aladdin and the King of Thieves (1996)
+    url_poster: https://api.mediux.pro/assets/c8816b3c-a5b1-4707-89ee-43c9d88cd4a2
+    label: Art*
+
+  ##################################################
+  # Alice in Wonderland
+  ##################################################
+
+  12092: # Alice in Wonderland (1951)
+    url_poster: https://api.mediux.pro/assets/1abc3849-dc67-4912-9df3-c59eaabfc491
+    label: Art*
+
+  ##################################################
+  # The Aristocats
+  ##################################################
+
+  10112: # The Aristocats (1970)
+    url_poster: https://api.mediux.pro/assets/cf50283a-42f8-42de-adae-8a0b1402b242
+    label: Art*
+
+  ##################################################
+  # Atlantis
+  ##################################################
+
+  10865: # Atlantis: The Lost Empire (2001)
+    url_poster: https://api.mediux.pro/assets/e2c7a6a0-c307-488a-84d9-229c1e42898d
+    label: Art*
+
+  8965: # Atlantis: Milo's Return (2003)
+    url_poster: https://api.mediux.pro/assets/8f989967-e463-432e-ae4d-e7cee55cc76d
+    label: Art*
+
+  ##################################################
+  # Bambi
+  ##################################################
+
+  3170: # Bambi (1942)
+    url_poster: https://api.mediux.pro/assets/a1f7ae5f-f89c-49ec-a3c9-86dddd125ce0
+    label: Art*
+
+  13205: # Bambi II (2006)
+    url_poster: https://api.mediux.pro/assets/dd2371ef-b575-41f4-a3d1-15b4b2c4734e
+    label: Art*
+
+  ##################################################
+  # Beauty and the Beast
+  ##################################################
+
+  10020: # Beauty and the Beast (1991)
+    url_poster: https://api.mediux.pro/assets/1fd4cd8a-c016-41fd-b35a-faf0a5209e5e
+    label: Art*
+
+  13313: # Beauty and the Beast: The Enchanted Christmas (1997)
+    url_poster: https://api.mediux.pro/assets/82a45f7c-655c-4397-9dd2-25a4e48d1f12
+    label: Art*
+
+  20235: # Belle's Magical World (1998)
+    url_poster: https://api.mediux.pro/assets/ac5e11e5-e20b-48f6-979b-fcd7a10cdb38
+    label: Art*
+
+  ##################################################
+  # Bolt
+  ##################################################
+
+  13053: # Bolt (2008)
+    url_poster: https://api.mediux.pro/assets/57886b2c-21d0-4f75-ad44-b55701c3a386
+    label: Art*
+
+  ##################################################
+  # Brother Bear
+  ##################################################
+
+  10009: # Brother Bear (2003)
+    url_poster: https://api.mediux.pro/assets/a9abd765-6542-4631-99e6-7a69bb13c827
+    label: Art*
+
+  10010: # Brother Bear 2 (2006)
+    url_poster: https://api.mediux.pro/assets/6d1a1d3f-bae0-44ab-ae95-bdbc25c5431e
+    label: Art*
+
+  ##################################################
+  # Chicken Little
+  ##################################################
+
+  9982: # Chicken Little (2005)
+    url_poster: https://api.mediux.pro/assets/2c1aebe5-1c57-4f1b-9927-74fb0ac8bb51
+    label: Art*
+
+  ##################################################
+  # Cinderella
+  ##################################################
+
+  11224: # Cinderella (1950)
+    url_poster: https://api.mediux.pro/assets/34f2ed16-0b33-47d2-9d4b-de368de98088
+    label: Art*
+
+  14128: # Cinderella II: Dreams Come True (2002)
+    url_poster: https://api.mediux.pro/assets/1626b259-d724-44ee-a01d-d2981ff9108c
+    label: Art*
+
+  16119: # Cinderella III: A Twist in Time (2007)
+    url_poster: https://api.mediux.pro/assets/f84a9600-e658-4777-a4b6-af5cc4bd39a7
+    label: Art*
+
+  ##################################################
+  # Dumbo
+  ##################################################
+
+  11360: # Dumbo (1941)
+    url_poster: https://api.mediux.pro/assets/df5cd6dd-c04a-4e71-a81e-16871e825017
+    label: Art*
+
+  ##################################################
+  # Fantasia
+  ##################################################
+
+  756: # Fantasia (1940)
+    url_poster: https://api.mediux.pro/assets/3f77b309-cf65-4bf4-9c64-8a801f746bc4
+    label: Art*
+
+  49948: # Fantasia 2000 (1999)
+    url_poster: https://api.mediux.pro/assets/27e55e66-f45d-4011-b4e2-32092d244729
+    label: Art*
+
+  ##################################################
+  # The Fox and the Hound
+  ##################################################
+
+  10948: # The Fox and the Hound (1981)
+    url_poster: https://api.mediux.pro/assets/e94e742d-a274-4609-9690-52735b50f15b
+    label: Art*
+
+  9948: # The Fox and the Hound 2 (2006)
+    url_poster: https://api.mediux.pro/assets/00ef9b3c-999c-43ab-aa01-d1507dd58af2
+    label: Art*
+
+  ##################################################
+  # Frozen
+  ##################################################
+
+  109445: # Frozen (2013)
+    url_poster: https://api.mediux.pro/assets/4bedf7a1-d7ce-40dd-a4bc-a8348a468acd
+    url_background: https://api.mediux.pro/assets/d22c8f8d-7a9c-48ca-b55f-c79ef3dedff9
+    label: Art*
+
+  330457: # Frozen II (2019)
+    url_poster: https://api.mediux.pro/assets/be7fd718-89d7-48ab-9a7f-36e347299c5f
+    url_background: https://api.mediux.pro/assets/ba9dedee-822a-4cd9-8a32-eb21e22c84cc
+    label: Art*
+
+  ##################################################
+  # The Great Mouse Detective
+  ##################################################
+
+  9994: # The Great Mouse Detective (1986)
+    url_poster: https://api.mediux.pro/assets/eb4b06c6-e0cf-4609-a026-19d295bda111
+    label: Art*
+
+  ##################################################
+  # Hercules
+  ##################################################
+
+  11970: # Hercules (1997)
+    url_poster: https://api.mediux.pro/assets/a1baa592-ffe0-4bb7-a326-cb5434e758ea
+    label: Art*
+
+  153609: # Hercules: Zero to Hero (1999)
+    url_poster: https://api.mediux.pro/assets/38dfedf3-7c14-4007-bfcd-07901bd90f87
+    label: Art*
+
+  ##################################################
+  # The Hunchback of Notre Dame
+  ##################################################
+
+  10545: # The Hunchback of Notre Dame (1996)
+    url_poster: https://api.mediux.pro/assets/1920c1fa-844c-42f8-a065-eeeff0d1b393
+    label: Art*
+
+  12448: # The Hunchback of Notre Dame II (2002)
+    url_poster: https://api.mediux.pro/assets/5fa0ab01-e0c6-47a8-9f76-b0a30ddb56c4
+    label: Art*
+
+  ##################################################
+  # The Jungle Book
+  ##################################################
+
+  9325: # The Jungle Book (1967)
+    url_poster: https://api.mediux.pro/assets/360e1e93-317e-4d64-a7a2-29e276c39359
+    label: Art*
+
+  14873: # The Jungle Book 2 (2003)
+    url_poster: https://api.mediux.pro/assets/69988f0d-b664-4c68-92c5-b337e1d645de
+    label: Art*
+
+  ##################################################
+  # Lady and the Tramp
+  ##################################################
+
+  10340: # Lady and the Tramp (1955)
+    url_poster: https://api.mediux.pro/assets/6c8aec07-89e8-4f0d-a971-83f80121b12d
+    label: Art*
+
+  18269: # Lady and the Tramp II: Scamp's Adventure (2001)
+    url_poster: https://api.mediux.pro/assets/f0ac9a09-0d3c-4be4-a34c-1a207284fd5c
+    label: Art*
+
+  ##################################################
+  # Lilo & Stitch
+  ##################################################
+
+  11544: # Lilo & Stitch (2002)
+    url_poster: https://api.mediux.pro/assets/30e2faa9-5cf9-4427-af15-986349ac591b
+    label: Art*
+
+  15567: # Stitch! The Movie (2003)
+    url_poster: https://api.mediux.pro/assets/167b1913-cdd6-4292-ac32-4c4c040d2e78
+    label: Art*
+
+  20760: # Lilo & Stitch 2: Stitch Has a Glitch (2005)
+    url_poster: https://api.mediux.pro/assets/a2804517-6d99-4fa9-88e6-17f46dd5fa63
+    label: Art*
+
+  21316: # Leroy & Stitch (2006)
+    url_poster: https://api.mediux.pro/assets/080ec2a2-2fb4-466d-9615-9c402c795c75
+    label: Art*
+
+  ##################################################
+  # The Lion King
+  ##################################################
+
+  8587: # The Lion King (1994)
+    url_poster: https://api.mediux.pro/assets/66b84688-305a-409f-a43e-36da4528e10c
+    label: Art*
+
+  9732: # The Lion King II: Simba's Pride (1998)
+    url_poster: https://api.mediux.pro/assets/f7178ff8-3d09-488a-9f7d-af1b6cb61f75
+    label: Art*
+
+  11430: # The Lion King 1½ (2004)
+    url_poster: https://api.mediux.pro/assets/42eb273f-dd1e-4ef8-bc57-20390eba9f4b
+    label: Art*
+
+  ##################################################
+  # The Little Mermaid
+  ##################################################
+
+  10144: # The Little Mermaid (1989)
+    url_poster: https://api.mediux.pro/assets/efd43a68-a1a0-47da-bc8e-16f0c6f0d316
+    label: Art*
+
+  10898: # The Little Mermaid II: Return to the Sea (2000)
+    url_poster: https://api.mediux.pro/assets/1f55f8f0-6db2-4db9-93f3-acc5b101c151
+    label: Art*
+
+  13676: # The Little Mermaid: Ariel's Beginning (2008)
+    url_poster: https://api.mediux.pro/assets/a7fdfd33-7165-4ca1-8d4e-57c0cac4cdda
+    label: Art*
+
+  ##################################################
+  # Moana
+  ##################################################
+
+  277834: # Moana (2016)
+    url_poster: https://api.mediux.pro/assets/fe9acd9d-b834-4df9-9475-b597b7b3cf5a
+    label: Art*
+
+  1241982: # Moana 2 (2024)
+    url_poster: https://api.mediux.pro/assets/02deaec2-4151-4a4c-9b43-4cf525367161
+    label: Art*
+
+  ##################################################
+  # Mulan
+  ##################################################
+
+  10674: # Mulan (1998)
+    url_poster: https://api.mediux.pro/assets/706bce7c-40d2-427a-abb3-2d0da62515ae
+    label: Art*
+
+  12242: # Mulan II (2004)
+    url_poster: https://api.mediux.pro/assets/10fe1728-9729-433b-b9b7-627f5f5d35ec
+    label: Art*
+
+  ##################################################
+  # Peter Pan
+  ##################################################
+
+  10693: # Peter Pan (1953)
+    url_poster: https://api.mediux.pro/assets/1d68644d-25ac-4a3e-b7f9-980447c46cfa
+    label: Art*
+
+  16690: # Return to Never Land (2002)
+    url_poster: https://api.mediux.pro/assets/a32d86e0-d733-4e55-81a1-5d72431d1aa8
+    label: Art*
+
+  ##################################################
+  # Pinocchio
+  ##################################################
+
+  10895: # Pinocchio (1940)
+    url_poster: https://api.mediux.pro/assets/1dea1b93-5df7-4b17-b068-07e64f86d4d7
+    label: Art*
+
+  ##################################################
+  # Pocahontas
+  ##################################################
+
+  10530: # Pocahontas (1995)
+    url_poster: https://api.mediux.pro/assets/5f55660d-c6d5-4cdc-b1a8-ae7f128b286c
+    label: Art*
+
+  13761: # Pocahontas II: Journey to a New World (1998)
+    url_poster: https://api.mediux.pro/assets/3902b0bd-7486-4996-8b67-1ecca816a138
+    label: Art*
+
+  ##################################################
+  # The Princess and the Frog
+  ##################################################
+
+  10198: # The Princess and the Frog (2009)
+    url_poster: https://api.mediux.pro/assets/7e46b5e7-50da-48de-a677-893566aa89d0
+    label: Art*
+
+  ##################################################
+  # Raya and the Last Dragon
+  ##################################################
+
+  527774: # Raya and the Last Dragon (2021)
+    url_poster: https://api.mediux.pro/assets/d9b54fa4-e7f2-4928-9b42-ae4c04a26f3b
+    label: Art*
+
+  ##################################################
+  # The Rescuers
+  ##################################################
+
+  11319: # The Rescuers (1977)
+    url_poster: https://api.mediux.pro/assets/07ffd66f-4288-4a5e-82e4-c588f0ad6a2c
+    label: Art*
+
+  11135: # The Rescuers Down Under (1990)
+    url_poster: https://api.mediux.pro/assets/51ae03de-333f-40a5-ab75-e5d222747a0d
+    label: Art*
+
+  ##################################################
+  # Robin Hood
+  ##################################################
+
+  11886: # Robin Hood (1973)
+    url_poster: https://api.mediux.pro/assets/06bb2eb3-b8e9-4e5e-bbf8-0e2280c84a24
+    label: Art*
+
+  ##################################################
+  # Sleeping Beauty
+  ##################################################
+
+  10882: # Sleeping Beauty (1959)
+    url_poster: https://api.mediux.pro/assets/1cd44afe-3faf-4c2a-9bf9-e61760078322
+    label: Art*
+
+  ##################################################
+  # Snow White and the Seven Dwarfs
+  ##################################################
+
+  408: # Snow White and the Seven Dwarfs (1938)
+    url_poster: https://api.mediux.pro/assets/98f8d593-2da9-446c-b189-64344c233f5c
+    label: Art*
+
+  ##################################################
+  # Strange World
+  ##################################################
+
+  877269: # Strange World (2022)
+    url_poster: https://api.mediux.pro/assets/f7af8f46-6dab-43a7-ac44-0cb0537a6a52
+    label: Art*
+
+  ##################################################
+  # Tangled
+  ##################################################
+
+  38757: # Tangled (2010)
+    url_poster: https://api.mediux.pro/assets/92484afb-02b8-495c-9886-1b23649c7506
+    label: Art*
+
+  ##################################################
+  # Tarzan
+  ##################################################
+
+  37135: # Tarzan (1999)
+    url_poster: https://api.mediux.pro/assets/3df376c7-4ebc-4037-9d57-648aa933f573
+    label: Art*
+
+  13683: # Tarzan & Jane (2002)
+    url_poster: https://api.mediux.pro/assets/ee083df3-dfd6-400d-8e26-f2961bdf6196
+    label: Art*
+
+  15657: # Tarzan II (2005)
+    url_poster: https://api.mediux.pro/assets/cc82c6fa-32bb-4994-b357-0ab75bc1d80b
+    label: Art*
+
+  ##################################################
+  # Winnie the Pooh
+  ##################################################
+
+  250480: # The Many Adventures of Winnie the Pooh (1977)
+    url_poster: https://api.mediux.pro/assets/2429bf7a-1d04-4cf8-99f8-3ce1484f9509
+    label: Art*
+
+  51162: # Winnie the Pooh (2011)
+    url_poster: https://api.mediux.pro/assets/e1df2e5c-2360-4322-9934-df2ba1b19024
+    label: Art*
+
+  ##################################################
+  # Wish
+  ##################################################
+
+  1022796: # Wish (2023)
+    url_poster: https://api.mediux.pro/assets/6254e030-bd0c-4d02-b6b9-24f01a5474a9
+    label: Art*
+
+  ##################################################
+  # Wreck-It Ralph
+  ##################################################
+
+  82690: # Wreck-It Ralph (2012)
+    url_poster: https://api.mediux.pro/assets/7b2d657b-a6c5-4cd2-b70a-e0aee43c7889
+    label: Art*
+
+  404368: # Ralph Breaks the Internet (2018)
+    url_poster: https://api.mediux.pro/assets/96ae75a8-37c7-4ba9-b479-e3fb24f96aa2
+    label: Art*
+
+  ##################################################
+  # Zootopia
+  ##################################################
+
+  269149: # Zootopia (2016)
+    url_poster: https://api.mediux.pro/assets/a3fec880-af15-49bc-b131-b3c72ade70e2
+    label: Art*
+
+  1084242: # Zootopia 2 (2025)
+    url_poster: https://api.mediux.pro/assets/da52d9da-7e5a-4090-999a-12cb381dde5a
+    label: Art* 
+   
+  ##################################################
+  # Disney Live Action
+  ##################################################   
+   
+ metadata:
+
+  ##################################################
+  # Aladdin
+  ##################################################
+
+  420817: # Aladdin (2019)
+    url_poster: https://api.mediux.pro/assets/e71838d5-8003-4ef9-8dfb-d96551fd3441
+    label: Art*
+
+  ##################################################
+  # Alice in Wonderland
+  ##################################################
+
+  12155: # Alice in Wonderland (2010)
+    url_poster: https://api.mediux.pro/assets/d86ae843-22ca-443d-ad9e-41ba6f9c7c21
+    label: Art*
+
+  241259: # Alice Through the Looking Glass (2016)
+    url_poster: https://api.mediux.pro/assets/a2e672f9-2177-4352-9c24-48b7f7111817
+    label: Art*
+
+  ##################################################
+  # Beauty and the Beast
+  ##################################################
+
+  321612: # Beauty and the Beast (2017)
+    url_poster: https://api.mediux.pro/assets/2eca485c-cfeb-4d16-af13-a56b2ac24302
+    label: Art*
+
+  ##################################################
+  # Christopher Robin
+  ##################################################
+
+  420814: # Christopher Robin (2018)
+    url_poster: https://api.mediux.pro/assets/908045b5-0eaf-43a9-a201-1961d8045674
+    label: Art*
+
+  ##################################################
+  # Cinderella
+  ##################################################
+
+  150689: # Cinderella (2015)
+    url_poster: https://api.mediux.pro/assets/7d037fac-86c0-4397-b8d3-8e1e55b79caa
+    label: Art*
+
+  ##################################################
+  # Cruella
+  ##################################################
+
+  337404: # Cruella (2021)
+    url_poster: https://api.mediux.pro/assets/59dac195-8ede-4533-8642-c2593a3efab5
+    label: Art*
+
+  ##################################################
+  # Dumbo
+  ##################################################
+
+  329996: # Dumbo (2019)
+    url_poster: https://api.mediux.pro/assets/9c297383-dead-445b-9fc0-f27d10f25ad3
+    label: Art*
+
+  ##################################################
+  # The Jungle Book
+  ##################################################
+
+  10714: # The Jungle Book (1994)
+    url_poster: https://api.mediux.pro/assets/01377469-f501-451a-bdf6-77968ffef962
+    label: Art*
+
+  278927: # The Jungle Book (2016)
+    url_poster: https://api.mediux.pro/assets/80dd70af-565f-48aa-94b9-2568d8a32b37
+    label: Art*
+
+  ##################################################
+  # Lady and the Tramp
+  ##################################################
+
+  512895: # Lady and the Tramp (2019)
+    url_poster: https://api.mediux.pro/assets/5c0865ff-3d1f-48a0-a7b9-c837cd7a91db
+    label: Art*
+
+  ##################################################
+  # Lilo & Stitch
+  ##################################################
+
+  552524: # Lilo & Stitch (2025)
+    url_poster: https://api.mediux.pro/assets/42aeb87b-0987-4e59-a285-c081d9b148ee
+    url_background: https://api.mediux.pro/assets/0abee1e9-bf87-4f92-b5d0-cf43dd20e3d3
+    label: Art*
+
+  ##################################################
+  # The Lion King
+  ##################################################
+
+  420818: # The Lion King (2019)
+    url_poster: https://api.mediux.pro/assets/15ada75f-f6ce-45a9-9c90-3ef99aeb7b99
+    label: Art*
+
+  762509: # Mufasa: The Lion King (2024)
+    url_poster: https://api.mediux.pro/assets/d257dd0d-77a8-4c82-b043-5e72003bfb03
+    label: Art*
+
+  ##################################################
+  # The Little Mermaid
+  ##################################################
+
+  447277: # The Little Mermaid (2023)
+    url_poster: https://api.mediux.pro/assets/b3a83847-8b7b-48c2-b1e0-dc3c19af2a9e
+    label: Art*
+
+  ##################################################
+  # Maleficent
+  ##################################################
+
+  102651: # Maleficent (2014)
+    url_poster: https://api.mediux.pro/assets/e9c30e51-cac7-4abb-ade6-0ffb5ee75342
+    label: Art*
+
+  420809: # Maleficent: Mistress of Evil (2019)
+    url_poster: https://api.mediux.pro/assets/9c996945-50ab-4026-a3c6-f4f35f684e4d
+    label: Art*
+
+  ##################################################
+  # Mulan
+  ##################################################
+
+  337401: # Mulan (2020)
+    url_poster: https://api.mediux.pro/assets/e6053cd1-4e54-4ed3-a4be-ce2169023436
+    label: Art*
+
+  ##################################################
+  # Pete's Dragon
+  ##################################################
+
+  294272: # Pete's Dragon (2016)
+    url_poster: https://api.mediux.pro/assets/4f26e93e-891e-44ac-a4ed-6943997ef8f6
+    label: Art*
+
+  ##################################################
+  # Peter Pan
+  ##################################################
+
+  420808: # Peter Pan & Wendy (2023)
+    url_poster: https://api.mediux.pro/assets/9b7b83c7-bed8-4d44-a937-9393ec53cea6
+    label: Art*
+
+  ##################################################
+  # Pinocchio
+  ##################################################
+
+  532639: # Pinocchio (2022)
+    url_poster: https://api.mediux.pro/assets/95552c85-6911-4b81-99ce-d23200266a23
+    label: Art*
+
+  ##################################################
+  # Snow White
+  ##################################################
+
+  447273: # Snow White (2025)
+    url_poster: https://api.mediux.pro/assets/e87c0c30-f918-4cff-aed1-a649b317931c
+    url_background: https://api.mediux.pro/assets/19574543-f681-4286-9989-0a50407ec41e
+    label: Art*
+
+  ##################################################
+  # The Sorcerer's Apprentice
+  ##################################################
+
+  27022: # The Sorcerer's Apprentice (2010)
+    url_poster: https://api.mediux.pro/assets/5558e48b-c223-4534-9677-1b6d9f1eb22b
+    label: Art*
+   
+  ##################################################
+  # Pixar
+  ##################################################   
+   
+metadata:
+
+  ##################################################
+  # A Bug's Life
+  ##################################################
+
+  9487: # A Bug's Life (1998)
+    url_poster: https://api.mediux.pro/assets/f36df378-31ce-4d45-9278-528071fbb33f
+    label: Art*
+
+  ##################################################
+  # Brave
+  ##################################################
+
+  62177: # Brave (2012)
+    url_poster: https://api.mediux.pro/assets/2a47725f-d425-4838-9d5f-7ce09aeb024f
+    label: Art*
+
+  ##################################################
+  # Cars
+  ##################################################
+
+  920: # Cars (2006)
+    url_poster: https://api.mediux.pro/assets/f14266a0-e44c-4aaa-ae06-51bb04199b7c
+    label: Art*
+
+  49013: # Cars 2 (2011)
+    url_poster: https://api.mediux.pro/assets/3150ffb7-0141-49c6-9296-0316b0b2b98f
+    label: Art*
+
+  260514: # Cars 3 (2017)
+    url_poster: https://api.mediux.pro/assets/085c2af4-e7fb-4c36-ae2d-8a8a1b918ef8
+    label: Art*
+
+  ##################################################
+  # Coco
+  ##################################################
+
+  354912: # Coco (2017)
+    url_poster: https://api.mediux.pro/assets/db6777e7-95b3-4753-b3e3-1af3ab6208fe
+    label: Art*
+
+  ##################################################
+  # Elemental
+  ##################################################
+
+  976573: # Elemental (2023)
+    url_poster: https://api.mediux.pro/assets/e2fbcc0b-44c4-43a4-905d-dfdb6161d673
+    label: Art*
+
+  ##################################################
+  # Elio
+  ##################################################
+
+  1022787: # Elio (2025)
+    url_poster: https://api.mediux.pro/assets/d38ac5c0-0ce5-4d0b-a2f8-e7eaf116c3e4
+    url_background: https://api.mediux.pro/assets/22ea3b7c-9829-45af-ab32-e454a4d30947
+    label: Art*
+
+  ##################################################
+  # Finding Nemo
+  ##################################################
+
+  12: # Finding Nemo (2003)
+    url_poster: https://api.mediux.pro/assets/ffe8539f-0965-4a59-a1a7-eaa3afcb7edf
+    label: Art*
+
+  127380: # Finding Dory (2016)
+    url_poster: https://api.mediux.pro/assets/0385e543-f4d7-4659-a5b9-4978133db538
+    label: Art*
+
+  ##################################################
+  # The Good Dinosaur
+  ##################################################
+
+  105864: # The Good Dinosaur (2015)
+    url_poster: https://api.mediux.pro/assets/b7aefe85-e2cc-4c2a-a3c5-5c33bd4258a7
+    label: Art*
+
+  ##################################################
+  # Hoppers
+  ##################################################
+
+  1327819: # Hoppers (2026)
+    url_poster: https://api.mediux.pro/assets/9b17da14-621b-405a-9d3d-9de6b2bd0966
+    url_background: https://api.mediux.pro/assets/ab493797-4cf0-40ca-bbee-a2041ad35965
+    label: Art*
+
+  ##################################################
+  # The Incredibles
+  ##################################################
+
+  9806: # The Incredibles (2004)
+    url_poster: https://api.mediux.pro/assets/5ef67fed-f12e-442c-ba76-8a4f9096509f
+    label: Art*
+
+  260513: # Incredibles 2 (2018)
+    url_poster: https://api.mediux.pro/assets/86f4cfe3-b457-4f58-9c69-b480cd4e69ea
+    label: Art*
+
+  ##################################################
+  # Inside Out
+  ##################################################
+
+  150540: # Inside Out (2015)
+    url_poster: https://api.mediux.pro/assets/d2b58625-67fe-41bf-9d7d-df8fde471091
+    label: Art*
+
+  1022789: # Inside Out 2 (2024)
+    url_poster: https://api.mediux.pro/assets/a268a264-14c6-4181-a9b9-4b086d03b6f4
+    label: Art*
+
+  ##################################################
+  # Lightyear
+  ##################################################
+
+  718789: # Lightyear (2022)
+    url_poster: https://api.mediux.pro/assets/c1071745-f59b-46de-95c0-57a423c133f2
+    label: Art*
+
+  ##################################################
+  # Luca
+  ##################################################
+
+  508943: # Luca (2021)
+    url_poster: https://api.mediux.pro/assets/a856f201-3afb-4296-bcac-efbb3ac67f6a
+    label: Art*
+
+  ##################################################
+  # Monsters, Inc.
+  ##################################################
+
+  585: # Monsters, Inc. (2001)
+    url_poster: https://api.mediux.pro/assets/b845094b-0d86-4d71-aa81-f027a01a10a7
+    label: Art*
+
+  62211: # Monsters University (2013)
+    url_poster: https://api.mediux.pro/assets/e418bd4b-f286-4295-a38a-b92b62b28165
+    label: Art*
+
+  ##################################################
+  # Onward
+  ##################################################
+
+  508439: # Onward (2020)
+    url_poster: https://api.mediux.pro/assets/91a9855f-a958-49a6-9857-ee7098239882
+    label: Art*
+
+  ##################################################
+  # Ratatouille
+  ##################################################
+
+  2062: # Ratatouille (2007)
+    url_poster: https://api.mediux.pro/assets/00401787-2a9c-43fd-846b-f16c6ac5fc98
+    label: Art*
+
+  ##################################################
+  # Soul
+  ##################################################
+
+  508442: # Soul (2020)
+    url_poster: https://api.mediux.pro/assets/08bb2bc5-801c-4f72-8ee3-e27aa5c6bb99
+    label: Art*
+
+  ##################################################
+  # Toy Story
+  ##################################################
+
+  862: # Toy Story (1995)
+    url_poster: https://api.mediux.pro/assets/c0f10a03-c0fc-465e-87b2-fd7e359884b3
+    label: Art*
+
+  863: # Toy Story 2 (1999)
+    url_poster: https://api.mediux.pro/assets/dc82348f-9f5c-4e7b-ab05-0c68e8a66b28
+    label: Art*
+
+  10193: # Toy Story 3 (2010)
+    url_poster: https://api.mediux.pro/assets/8a38a632-9d01-43ac-baea-c47d74f99647
+    label: Art*
+
+  301528: # Toy Story 4 (2019)
+    url_poster: https://api.mediux.pro/assets/b0d72036-6f73-4c02-9f72-6f755d6169f8
+    label: Art*
+
+  1084244: # Toy Story 5 (2026)
+    url_poster: https://api.mediux.pro/assets/9393957b-f8bb-4f4b-a06b-7d654162211e
+    label: Art*
+
+  ##################################################
+  # Turning Red
+  ##################################################
+
+  508947: # Turning Red (2022)
+    url_poster: https://api.mediux.pro/assets/5d88558c-4576-4efc-acd7-337acfd529e4
+    label: Art*
+
+  ##################################################
+  # Up
+  ##################################################
+
+  14160: # Up (2009)
+    url_poster: https://api.mediux.pro/assets/a5b498f0-0bac-4dee-8b80-3e2fe649a672
+    label: Art*
+
+  ##################################################
+  # WALL·E
+  ##################################################
+
+  10681: # WALL·E (2008)
+    url_poster: https://api.mediux.pro/assets/da5682ca-b952-4fa4-835f-57b270e9bbc5
+    label: Art*   
+   
   ##################################################
   # Standalone Movies
   ##################################################
