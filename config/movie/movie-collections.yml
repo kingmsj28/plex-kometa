@@ -332,11 +332,11 @@ collections:
       list_id: ls525761865
 
   ##################################################
-  # Walt Disney Animation Studios
+  # Disney Animation Studios
   ##################################################
 
-  Walt Disney Animation*:
-    sort_title: "!070_Walt Disney Animation Studios"
+  Disney Animation*:
+    sort_title: "!070_Disney Animation Studios"
     collection_order: release.desc
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/532946
