@@ -204,3 +204,87 @@ metadata:
       - Stand Up
       - Kevin Hart
     url_poster: https://theposterdb.com/api/assets/667829
+    
+  ##################################################
+  # Dave Chappelle
+  ##################################################
+
+  16275: # Dave Chappelle: Killin' Them Softly (2000)
+    sort_title: "Dave Chappelle 01"
+    label:
+      - Art*
+      - Stand Up
+      - Dave Chappelle
+    url_poster: https://theposterdb.com/api/assets/578349
+
+  20147: # Dave Chappelle: For What It's Worth (2004)
+    sort_title: "Dave Chappelle 02"
+    label:
+      - Art*
+      - Stand Up
+      - Dave Chappelle
+    url_poster: https://theposterdb.com/api/assets/578350
+
+  444705: # The Age of Spin: Dave Chappelle Live at the Hollywood Palladium (2017)
+    sort_title: "Dave Chappelle 03"
+    label:
+      - Art*
+      - Stand Up
+      - Dave Chappelle
+    url_poster: https://theposterdb.com/api/assets/578348
+
+  444706: # Deep in the Heart of Texas: Dave Chappelle Live at Austin City Limits (2017)
+    sort_title: "Dave Chappelle 04"
+    label:
+      - Art*
+      - Stand Up
+      - Dave Chappelle
+    url_poster: https://theposterdb.com/api/assets/578347
+
+  488223: # Dave Chappelle: Equanimity (2017)
+    sort_title: "Dave Chappelle 05"
+    label:
+      - Art*
+      - Stand Up
+      - Dave Chappelle
+    url_poster: https://theposterdb.com/api/assets/578343
+
+  494368: # Dave Chappelle: The Bird Revelation (2017)
+    sort_title: "Dave Chappelle 06"
+    label:
+      - Art*
+      - Stand Up
+      - Dave Chappelle
+    url_poster: https://theposterdb.com/api/assets/578346
+
+  624932: # Dave Chappelle: Sticks & Stones (2019)
+    sort_title: "Dave Chappelle 07"
+    label:
+      - Art*
+      - Stand Up
+      - Dave Chappelle
+    url_poster: https://theposterdb.com/api/assets/578345
+
+  879540: # Dave Chappelle: The Closer (2021)
+    sort_title: "Dave Chappelle 08"
+    label:
+      - Art*
+      - Stand Up
+      - Dave Chappelle
+    url_poster: https://theposterdb.com/api/assets/578344
+
+  1215439: # Dave Chappelle: The Dreamer (2023)
+    sort_title: "Dave Chappelle 09"
+    label:
+      - Art*
+      - Stand Up
+      - Dave Chappelle
+    url_poster: https://theposterdb.com/api/assets/578342
+
+  1601195: # Dave Chappelle: The Unstoppable (2025)
+    sort_title: "Dave Chappelle 10"
+    label:
+      - Art*
+      - Stand Up
+      - Dave Chappelle
+    url_poster: https://theposterdb.com/api/assets/676092

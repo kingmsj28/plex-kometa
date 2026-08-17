@@ -457,3 +457,12 @@ collections:
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/259467
     collection_order: release
+    
+  Dave Chappelle*:
+    sort_title: "Dave Chappelle 00"
+    plex_search:
+      all:
+        label: Dave Chappelle
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/391639
+    collection_order: release
