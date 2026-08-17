@@ -1634,34 +1634,7 @@ metadata:
   284564: # 31 (2016)
     label: Art*
     url_poster: https://theposterdb.com/api/assets/708766
-    
-  ##################################################
-  # 101 Dalmatians (Animated)
-  ##################################################
 
-  12230: # One Hundred and One Dalmatians (1961)
-    label: Art*
-    url_poster: https://api.mediux.pro/assets/95c00497-b034-4c27-a227-3a263950a609
-    sort_title: "101 Dalmatians (Animated) 01"
-
-  13654: # 101 Dalmatians II: Patch's London Adventure (2003)
-    label: Art*
-    url_poster: https://api.mediux.pro/assets/b60b67a3-47c8-4c05-9721-15fe4bae5a50
-    sort_title: "101 Dalmatians (Animated) 01"
-
-  ##################################################
-  # 101 Dalmatians (Live Action)
-  ##################################################
-
-  11674: # 101 Dalmatians (1996)
-    label: Art*
-    url_poster: https://api.mediux.pro/assets/ee00296d-d48d-424e-8bd1-5d30a8efbe29
-    sort_title: "101 Dalmatians (Live-Action) 01"
-
-  10481: # 102 Dalmatians (2000)
-    label: Art*
-    url_poster: https://api.mediux.pro/assets/7ae5c1af-0aa9-4fb1-83b6-b011d61161d7
-    sort_title: "101 Dalmatians (Live-Action) 01"
     
   ##################################################
   # 300
@@ -2021,16 +1994,18 @@ metadata:
   ################################################## 
 
   ##################################################
-  # 101 Dalmatians
+  # 101 Dalmatians (Animated)
   ##################################################
 
   12230: # One Hundred and One Dalmatians (1961)
-    url_poster: https://api.mediux.pro/assets/95c00497-b034-4c27-a227-3a263950a609
     label: Art*
+    url_poster: https://api.mediux.pro/assets/95c00497-b034-4c27-a227-3a263950a609
+    sort_title: "101 Dalmatians (Animated) 01"
 
   13654: # 101 Dalmatians II: Patch's London Adventure (2003)
-    url_poster: https://api.mediux.pro/assets/b60b67a3-47c8-4c05-9721-15fe4bae5a50
     label: Art*
+    url_poster: https://api.mediux.pro/assets/b60b67a3-47c8-4c05-9721-15fe4bae5a50
+    sort_title: "101 Dalmatians (Animated) 01"
 
   ##################################################
   # Aladdin
@@ -2489,6 +2464,20 @@ metadata:
   ##################################################
   # Disney Live Action
   ##################################################   
+
+  ##################################################
+  # 101 Dalmatians (Live Action)
+  ##################################################
+
+  11674: # 101 Dalmatians (1996)
+    label: Art*
+    url_poster: https://api.mediux.pro/assets/ee00296d-d48d-424e-8bd1-5d30a8efbe29
+    sort_title: "101 Dalmatians (Live-Action) 01"
+
+  10481: # 102 Dalmatians (2000)
+    label: Art*
+    url_poster: https://api.mediux.pro/assets/7ae5c1af-0aa9-4fb1-83b6-b011d61161d7
+    sort_title: "101 Dalmatians (Live-Action) 01"
 
   ##################################################
   # Aladdin
