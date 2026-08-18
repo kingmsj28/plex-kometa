@@ -322,6 +322,8 @@ collections:
  ##################################################
  # Studios
  ##################################################
+ 
+ 
 
   Studio Collections:
     sort_title: "!070_!Studio Collections"
@@ -339,6 +341,18 @@ collections:
     url_poster: https://theposterdb.com/api/assets/532233
     imdb_list:
       list_id: ls525761865
+     
+  ##################################################
+  # Illumination Entertainment
+  ##################################################
+
+  Illumination Entertainment*:
+    sort_title: "!070_Illumination Entertainment"
+    collection_order: release.desc
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/531342
+    imdb_list:
+      list_id: ls4117914193
 
   ##################################################
   # Disney Animation Studios

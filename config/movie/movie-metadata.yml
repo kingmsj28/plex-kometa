@@ -2308,3 +2308,64 @@ metadata:
   9016: # Treasure Planet (2002)
     url_poster: https://api.mediux.pro/assets/25cb5c75-2341-40a3-80bf-44bcf0b18995
     label: Art*
+
+  117263: # Olympus Has Fallen (2013)
+    sort_title: "Has Fallen 01"
+    url_poster: https://api.mediux.pro/assets/33d8e631-a602-472a-aa52-0ab36535d8f6
+    label: Art*
+
+  267860: # London Has Fallen (2016)
+    sort_title: "Has Fallen 02"
+    url_poster: https://api.mediux.pro/assets/1327d202-df10-4b90-bf27-0f8459c30156
+    label: Art*
+
+  423204: # Angel Has Fallen (2019)
+    sort_title: "Has Fallen 03"
+    url_poster: https://api.mediux.pro/assets/557f896e-3bb3-49d8-9d2d-fb0f79d22056
+    label: Art*'
+
+  9506: # Anger Management (2003)
+    url_poster: https://theposterdb.com/api/assets/42507
+    label: Art*
+
+  300668: # Annihilation (2018)
+    url_poster: https://theposterdb.com/api/assets/10249
+    label: Art*
+
+  1064213: # Anora (2024)
+    url_poster: https://theposterdb.com/api/assets/525935
+    label: Art*
+
+  95: # Armageddon (1998)
+    url_poster: https://theposterdb.com/api/assets/6815
+    label: Art*
+    
+  764: # The Evil Dead (1981)
+    sort_title: "Evil Dead 01"
+    url_poster: https://api.mediux.pro/assets/b80b878a-7067-4058-b26e-5a5c4fff58ff
+    label: Art*
+
+  765: # Evil Dead II (1987)
+    sort_title: "Evil Dead 02"
+    url_poster: https://api.mediux.pro/assets/4812e542-fe33-4bdd-9249-8b34f8a2299b
+    label: Art*
+
+  766: # Army of Darkness (1992)
+    sort_title: "Evil Dead 03"
+    url_poster: https://api.mediux.pro/assets/f57800d7-85e3-4f1e-89e7-a5f03edc7dab
+    label: Art*
+    
+  109428: # Evil Dead (2013)
+    sort_title: "Evil Dead 04"
+    url_poster: https://api.mediux.pro/assets/b37e0474-c22e-4ef0-8997-172948d5dc76
+    label: Art*
+
+  713704: # Evil Dead Rise (2023)
+    sort_title: "Evil Dead 05"
+    url_poster: https://api.mediux.pro/assets/10b4bfe3-169e-4edb-a285-9b0619ca16bb
+    label: Art*
+
+  1212763: # Evil Dead Burn (2026)
+    sort_title: "Evil Dead 06"
+    url_poster: https://api.mediux.pro/assets/e63d7581-23ca-4e9c-8869-3fd244b536ab
+    label: Art*
