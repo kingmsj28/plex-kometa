@@ -1689,6 +1689,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/8f89b4fb-cf4d-4706-a766-da729e262a0a
 
   443358: # Eyes of Wakanda
+    label: Art*
     url_poster: https://api.mediux.pro/assets/97c3aeef-2ae7-415f-bda5-52054f3e06c6
     url_background: https://api.mediux.pro/assets/aa119124-f885-4157-8657-5734f6d88454
     seasons:
@@ -3827,6 +3828,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/1d9d3798-30c9-481b-b698-b0d8af9c5e3b
 
   428629: # Wonder Man
+    label: Art*
     url_poster: https://api.mediux.pro/assets/7131599d-7866-434d-be1b-c0abf973b9fa
     seasons:
       1:
