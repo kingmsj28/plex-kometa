@@ -1,6 +1,7 @@
 metadata:
 
   73141: # American Dad!
+    label: Art*
     url_poster: https://api.mediux.pro/assets/e1c70451-8a75-4dd9-9b15-25f8688c9f50
     url_background: https://api.mediux.pro/assets/27bf90ed-a896-42cb-9b0c-1a7656ad490a
     seasons:
@@ -2348,6 +2349,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e7e5df06-e011-42bb-8f54-1fec5bae6437
 
   412428: # Marvel Zombies
+    label: Art*
     url_poster: https://api.mediux.pro/assets/92ec6728-79a9-406d-a989-aa68fb2a88a9
     url_background: https://api.mediux.pro/assets/185f9fd6-05f8-406d-a83d-8525ac740f1d
     seasons:
