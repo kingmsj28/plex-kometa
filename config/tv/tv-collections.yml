@@ -1,5 +1,22 @@
 collections:
 
+  Needs Artwork*:
+    sort_title: "!998_Needs Artwork"
+    collection_mode: hide
+    plex_search:
+      all:
+        label.not: Art*
+    sync_mode: sync
+    collection_order: alpha
+    
+  Adult Animation*:
+    sort_title: "!060_Adult Animation"
+    collection_order: alpha
+    collection_mode: show_items
+    sync_mode: sync
+    imdb_list:
+      list_id: ls4117985634
+
   ##################################################
   # Marvel Television Universe
   ##################################################
@@ -73,7 +90,7 @@ collections:
     tmdb_show:
       - 76479     # The Boys (2019)
       - 205715    # Gen V (2023)
-      - 119279    # The Boys Presents: Diabolical (2022)
+      - 152483    # The Boys Presents: Diabolical (2022)
 
     sync_mode: sync
     collection_mode: hide
