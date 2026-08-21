@@ -8601,6 +8601,7 @@ metadata:
   82438: # Flashpoint (2008)
     label: Art*
     url_poster: https://theposterdb.com/api/assets/134835
+    url_background: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/flashpoint-2008/flashpoint-2008.jp
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/134836
