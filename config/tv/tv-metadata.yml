@@ -5654,7 +5654,7 @@ metadata:
       
   80193: # Rob & Big (2006)
     label: Art*
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/rob-and-big/rob-and-big.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/rob-and-big-2006/rob-and-big.png
 
   73244: # The Office
     label: Art*
@@ -7782,6 +7782,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/edebaa00-94e9-4282-9c18-3b53796f14d7
 
   77992: # Dexter's Laboratory
+    label: Art*
     url_poster: https://api.mediux.pro/assets/23bc713e-5765-4b41-97d1-aa67d44f1873
     seasons:
       0:
@@ -7795,3 +7796,16 @@ metadata:
       4:
         url_poster: https://api.mediux.pro/assets/e854537b-7a80-4c44-ae2a-511685114ef0
 
+  172381: # Silent Library
+    label: Art*
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/silent-library-2006/silent-library.jpg
+    seasons:
+      1:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/silent-library-2006/silent-library-s1.png
+      2:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/silent-library-2006/silent-library-s2.png
+      3:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/silent-library-2006/silent-library-s3.png
+      4:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/silent-library-2006/silent-library-s4.png
+        
