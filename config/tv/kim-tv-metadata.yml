@@ -3580,31 +3580,6 @@ metadata:
           18:
             url_poster: https://api.mediux.pro/assets/0a378b3a-461b-4656-8f70-c55c81a04802
 
-  465690: # Scrubs
-    url_poster: https://api.mediux.pro/assets/dd3ee764-fe51-4a07-b9ce-82e25193fd3e
-    url_background: https://api.mediux.pro/assets/62aa0bde-7528-42d8-99b3-40cc1de07bbe
-    seasons:
-      1:
-        url_poster: https://api.mediux.pro/assets/71863834-b56b-40f0-b794-2407832855a8
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/7dd3f30f-a8e8-4787-8724-70572ff4f5f4
-          2:
-            url_poster: https://api.mediux.pro/assets/0278ebba-624c-434d-8aef-8f54e84a1a94
-          3:
-            url_poster: https://api.mediux.pro/assets/98bdc8b6-9d51-4e57-aa1d-26c918a141e4
-          4:
-            url_poster: https://api.mediux.pro/assets/b4543b4c-18e6-47f1-b50d-ef3b8d25d623
-          5:
-            url_poster: https://api.mediux.pro/assets/f03822f8-8d6e-4dcf-b95e-31b4b7fe4f01
-          6:
-            url_poster: https://api.mediux.pro/assets/337228d7-b593-455b-bd0a-5deee45e861b
-          7:
-            url_poster: https://api.mediux.pro/assets/d39223f1-e694-40bb-a624-dfed365572ed
-          8:
-            url_poster: https://api.mediux.pro/assets/b290d619-8aeb-43d6-b666-c74309598fa8
-          9:
-            url_poster: https://api.mediux.pro/assets/696c7945-287c-409f-8a68-3f6b574cdbb3
 
   449708: # Sheriff Country
     url_poster: https://api.mediux.pro/assets/3b3bc4ce-8c42-4007-991e-6c50fa700c80
