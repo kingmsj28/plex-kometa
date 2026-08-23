@@ -4467,6 +4467,12 @@ metadata:
             url_poster: https://api.mediux.pro/assets/584fa03b-2fd0-4b00-ab7e-30ff187b5942
           9:
             url_poster: https://api.mediux.pro/assets/4d47ff5b-902a-40f5-8a21-27d736a5883c
+          10:
+            title: Into the Cold (2)
+            url_poster: https://api.mediux.pro/assets/4d47ff5b-902a-40f5-8a21-27d736a5883c
+          11:
+            title: Into the Cold (3)
+            url_poster: https://api.mediux.pro/assets/4d47ff5b-902a-40f5-8a21-27d736a5883c
             
   296295: # Ash vs Evil Dead
     label: Art*
@@ -6500,15 +6506,7 @@ metadata:
     url_background: https://api.mediux.pro/assets/95442f47-bf5e-435f-ad6c-6c08d64a5504
     seasons:
       0:
-        url_poster: https://api.mediux.pro/assets/edb21644-0139-4dd8-8244-e0ef8e40caea
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/6d4a9863-61e7-415e-98df-cb0f28fa4a01
-          2:
-            url_poster: https://api.mediux.pro/assets/b9642adf-81d7-4cd6-ab50-4c16db2c6938
-          3:
-            url_poster: https://api.mediux.pro/assets/74f38ccd-c419-4107-b128-38542db524d5
-
+        url_poster: https://api.mediux.pro/assets/234e1861-5ad2-4cc2-9d62-13978775d737
       1:
         url_poster: https://api.mediux.pro/assets/aaf87660-f134-4ee8-a0e5-383d23063eb2
         episodes:
@@ -6843,7 +6841,9 @@ metadata:
           8:
             url_poster: https://api.mediux.pro/assets/808e1e64-c56d-4cc9-b9bb-3b6e32283843
           9:
-            url_poster: https://api.mediux.pro/assets/0102f58c-3e07-40e7-8ef0-faabf5668bbd
+            url_poster: https://api.mediux.pro/assets/6d4a9863-61e7-415e-98df-cb0f28fa4a01
+          10:
+            url_poster: https://api.mediux.pro/assets/b9642adf-81d7-4cd6-ab50-4c16db2c6938
             
   76168: # Batman: The Animated Series
     label: Art*
@@ -7674,14 +7674,24 @@ metadata:
           10:
             url_poster: https://api.mediux.pro/assets/6c348896-3a6b-41c7-9971-43c859bf0ec8
           11:
+            title: "Pins, Spins and Fins!"
+            summary: "When Rallo starts getting a big head over his bowling prowess, Donna tells him little kids don't have skills; Cleveland, Lester, Holt and Terry try to spice up their friendship."
             url_poster: https://api.mediux.pro/assets/b04bbeab-4ce8-46da-a42e-5abeb0b3bc49
+
           12:
+            title: "Brownsized"
+            summary: "Cleveland struggles to tell Donna that he took a severance offer and quit his job; Rallo finds a new man for Roberta."
             url_poster: https://api.mediux.pro/assets/8a1bfd19-fd5e-4c5e-aad4-b353a7b78bd0
           13:
             url_poster: https://api.mediux.pro/assets/8c163293-6868-4a8a-b94f-a56172b8cda7
           14:
+            title: "California Dreamin' (All the Cleves Are Brown)"
+            summary: "When the Browns move to Los Angeles, Cleveland pursues his dream of becoming a major league baseball scout; Donna and the kids become enamoured with L.A.'s glitzy lifestyle."
             url_poster: https://api.mediux.pro/assets/a2ee6fde-be3f-4638-8b11-e2d77dee1364
+
           15:
+            title: "The Hangover Part Tubbs"
+            summary: "Donna tries to keep Cleveland out of her campaign as she runs for a spot on the school board; Junior learns he is an incredible diver, but is afraid of wearing the school's uniform -- a tiny bathing suit."
             url_poster: https://api.mediux.pro/assets/e20ef00b-8e6c-4bec-8528-b0b84ac874f9
           16:
             url_poster: https://api.mediux.pro/assets/446baf86-b7e3-40e0-a6f1-6e82424b30a7
@@ -7692,8 +7702,13 @@ metadata:
           19:
             url_poster: https://api.mediux.pro/assets/7f8959a8-67a9-43f1-8a46-3f6413cddb75
           20:
+            title: "Mr. & Mrs. Brown"
+            summary: "Donna is unhappy when Cleveland and Cookie are mistaken for a couple; when Rallo steals a candy bar, he tries to pin the crime on Junior."
             url_poster: https://api.mediux.pro/assets/e526a59f-57f8-4634-ba82-2bcd19db251e
+
           21:
+            title: "Of Lice and Men"
+            summary: "A lice outbreak at school forces Rallo to cut his hair; Cleveland watches Freight Train and Cookie's house for a weekend."
             url_poster: https://api.mediux.pro/assets/16cb1428-7f99-429c-bdc5-e33494f999a5
           22:
             url_poster: https://api.mediux.pro/assets/c954b23c-731d-453d-8d7c-a47a3b7f9109

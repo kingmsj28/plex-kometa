@@ -321,7 +321,7 @@ libraries:
     metadata_files: &tv_metadata_files
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-metadata.yml
     
-    overlay_files:
+    overlay_files: &tv_overlay_files
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-status-overlays.yml
 
   MATT MOVIES - 1080p:
@@ -333,6 +333,14 @@ libraries:
     operations: *tv_operations
     collection_files: *tv_collection_files
     metadata_files: *tv_metadata_files
+    
+  Kim TV:
+    operations: *tv_operations
+    collection_files: *tv_collection_files
+    overlay_files: *tv_overlay_files
+
+    metadata_files:
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/kim-tv-metadata.yml
 
   WWE Events:
     overlay_files:
