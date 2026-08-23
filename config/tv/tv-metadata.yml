@@ -8809,6 +8809,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/689233
       9:
         url_poster: https://theposterdb.com/api/assets/689234
+      10:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/punkd-2003/punkd-s10.jpg
         
   161511: # Shameless
     label: Art*
@@ -11850,26 +11852,16 @@ metadata:
       0:
         url_poster: https://api.mediux.pro/assets/4bd6c68f-8ee7-4db0-ac36-13818d3ffb9d
         episodes:
-          3:
-            url_poster: https://api.mediux.pro/assets/fae3d7dd-fc18-4636-b7a7-165b1ecdf764
-          8:
-            url_poster: https://api.mediux.pro/assets/d44b1458-1e42-4e39-8a87-5dcb731aad76
-          11:
-            url_poster: https://api.mediux.pro/assets/f5c62ee8-0e0d-496e-8fac-5137ab6609da
-          19:
-            url_poster: https://api.mediux.pro/assets/34a48f87-ff46-4960-bfd8-c223775e3e4e
-          21:
-            url_poster: https://api.mediux.pro/assets/5edc089e-8350-4612-b2e4-238c7ebd4ca4
-          22:
-            url_poster: https://api.mediux.pro/assets/eb141b64-55a6-4167-b2b8-b093bae9fcfe
-          24:
-            url_poster: https://api.mediux.pro/assets/574005f2-2d12-4083-8570-2c4cbbaeb5cb
-          25:
-            url_poster: https://api.mediux.pro/assets/250b9597-4231-47f5-b677-3997ab58326c
-          26:
-            url_poster: https://api.mediux.pro/assets/47d4b56b-83a9-4fe3-918e-9296d1d935e5
-          27:
-            url_poster: https://api.mediux.pro/assets/9a97a50a-dc60-4b38-a579-c34413c76d3d
+          1:
+            url_poster: https://api.mediux.pro/assets/cd21ce0f-5798-4f71-8d7d-371f15f300ec
+          20:
+            url_poster: https://api.mediux.pro/assets/af574ca6-07e5-46f9-aae4-65f2a0d15e9a
+          60:
+            url_poster: https://api.mediux.pro/assets/dd0b5212-2225-4c78-8736-7de8d8ed48ce
+          61:
+            url_poster: https://api.mediux.pro/assets/adb531dc-979d-4f5c-8dbf-8651d2df6fd2
+          63:
+            url_poster: https://api.mediux.pro/assets/05079dc4-8af4-41e2-8965-c45159395842
       1:
         url_poster: https://api.mediux.pro/assets/a9b6e658-5f62-4c48-b3a2-6325f8b41640
         episodes:
@@ -12186,6 +12178,8 @@ metadata:
             url_poster: https://api.mediux.pro/assets/67c5ea97-12c4-48ea-a774-6f5c5d1c4f65
           20:
             url_poster: https://api.mediux.pro/assets/d4bec3b5-f42e-46ad-8aa1-5d85c196669f
+          21:
+            url_poster: https://api.mediux.pro/assets/9bfc086f-8442-4874-8da3-d5a8b6cf3923
       9:
         url_poster: https://api.mediux.pro/assets/2a92cf8b-e5d7-4f7f-861d-094ee135c2a4
         episodes:
@@ -12863,11 +12857,11 @@ metadata:
         url_poster: https://api.mediux.pro/assets/1e15e123-6595-47aa-9cef-f3cf7474ff99
         episodes:
           1:
+            url_poster: https://api.mediux.pro/assets/4ecd4465-2a1e-4ef4-961e-d446e824b68e
+          2:
             url_poster: https://api.mediux.pro/assets/c015e1dd-619e-4a53-abac-ef6cf2f5a538
           3:
             url_poster: https://api.mediux.pro/assets/f1fe5441-0c50-420e-9892-84787c5fd9eb
-          28:
-            url_poster: https://api.mediux.pro/assets/4ecd4465-2a1e-4ef4-961e-d446e824b68e
       1:
         url_poster: https://api.mediux.pro/assets/635c9ea4-3b33-440e-b027-a84b9c8bd1f0
         episodes:
@@ -13698,7 +13692,7 @@ metadata:
       38:
         url_poster: https://api.mediux.pro/assets/8125d199-b29b-4a5e-9d58-2472856f4433
 
-  80236: # 1000 Ways to Die (2009)
+  82083: # 1000 Ways to Die (2008)
     label: Art*
     url_poster: https://theposterdb.com/api/assets/119434
     seasons:
