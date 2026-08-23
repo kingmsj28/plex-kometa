@@ -322,8 +322,8 @@ libraries:
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-metadata.yml
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/kim-tv-metadata.yml
     
-    #overlay_files: &tv_overlay_files
-      #- url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-status-overlays.yml
+    overlay_files: &tv_overlay_files
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-status-overlays.yml
 
   MATT MOVIES - 1080p:
     collection_files: *movie_collection_files
