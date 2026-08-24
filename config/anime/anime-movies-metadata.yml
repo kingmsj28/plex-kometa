@@ -1,15 +1,13 @@
 metadata:
 
-  ##################################################
-  # Chainsaw Man
-  ##################################################
-
   1218925: # Chainsaw Man - The Movie: Reze Arc (2025)
     url_poster: https://theposterdb.com/api/assets/567746
-    
-  ##################################################
-  # Cowboy Bebop
-  ##################################################
 
   11299: # Cowboy Bebop: The Movie (2001)
     url_poster: https://theposterdb.com/api/assets/520221
+
+  635302: # Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train (2020)
+    url_poster: https://api.mediux.pro/assets/7ff14245-a01a-40c2-898d-be7cc8112e10
+
+  1311031: # Demon Slayer: Kimetsu no Yaiba Infinity Castle (2025)
+    url_poster: https://api.mediux.pro/assets/5de16038-e414-4b1d-84c3-b7b133b374f1

@@ -23,3 +23,16 @@ collections:
     collection_order: release
     sync_mode: sync
     url_poster: https://api.mediux.pro/assets/a0dbf36c-c41f-41f1-b172-9f19c2987f70
+    
+  ##################################################
+  # Demon Slayer
+  ##################################################
+
+  Demon Slayer:
+    tmdb_movie:
+      - 635302    # Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train (2020)
+      - 1311031   # Demon Slayer: Kimetsu no Yaiba Infinity Castle (2025)
+    collection_mode: hide
+    collection_order: release
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/31955

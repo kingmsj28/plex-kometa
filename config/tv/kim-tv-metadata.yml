@@ -1,6 +1,7 @@
 metadata:
   
   337907: # 9-1-1
+    label: Art*
     url_poster: https://api.mediux.pro/assets/9beb2bfa-249b-4fba-9f7b-16f21b107c13
     url_background: https://api.mediux.pro/assets/7a539d46-8d9e-44a1-9f1c-dee6c016d78d
     seasons:
@@ -317,6 +318,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/37a15da5-d2ef-4cd2-8568-ad9d75de136c
 
   364080: # 9-1-1: Lone Star
+    label: Art*
     url_poster: https://api.mediux.pro/assets/85a44b19-b83b-45cc-9577-05f23e2f051d
     url_background: https://api.mediux.pro/assets/558c3b0d-9d8b-4733-9a08-965ed2d4bd6d
     seasons:
@@ -481,6 +483,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/3837607b-fd55-4e33-b0b4-f9631f925f15
 
   460463: # 9-1-1: Nashville
+    label: Art*
     url_poster: https://api.mediux.pro/assets/66394432-03eb-4a3f-9213-7310a70e815b
     url_background: https://api.mediux.pro/assets/dc6aa72d-cbc1-4bcf-9524-6b6a6034d756
     seasons:
@@ -525,6 +528,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/ebc0d85c-a112-4c36-97a7-8070887132cf
 
   402811: # Below Deck Down Under
+    label: Art*
     url_poster: https://api.mediux.pro/assets/ea913aa7-5a14-4dfa-92bc-f6b41646c3dc
     url_background: https://api.mediux.pro/assets/e4470771-1051-4d06-bb67-40dc5c31a4fb
     seasons:
@@ -658,6 +662,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/55732603-449e-40c5-993b-1d703020ba1d
 
   305621: # Below Deck Mediterranean
+    label: Art*
     url_poster: https://api.mediux.pro/assets/43b6f4ab-60aa-4525-b4db-fc9f1b9571fc
     seasons:
       1:
@@ -684,6 +689,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/d4ba76ee-dc0d-422e-a35e-891f20a987b5
 
   460392: # Boston Blue
+    label: Art*
     url_poster: https://api.mediux.pro/assets/e203ad73-6dd7-4e2a-81a4-fc2d73262779
     url_background: https://api.mediux.pro/assets/860d88d2-b9c7-4546-9104-01c62d9dd5ea
     seasons:
@@ -732,6 +738,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/2dd6d00c-5fad-4402-b581-9dd30642c880
 
   258541: # Chicago Fire
+    label: Art*
     url_poster: https://api.mediux.pro/assets/8150fd75-8bab-4908-a22a-d6520ee9e68c
     url_background: https://api.mediux.pro/assets/d3f3e123-c190-4417-a95f-2254949aee51
     seasons:
@@ -1371,6 +1378,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/b8cb1127-1080-4ebf-9c3e-9a17dfbe6588
 
   295640: # Chicago Med
+    label: Art*
     url_poster: https://api.mediux.pro/assets/ad699e65-026c-4de4-bc4e-a266a5ff00b5
     url_background: https://api.mediux.pro/assets/37db9e83-4cd9-4d4f-8a89-ddb9e45b7e21
     seasons:
@@ -1847,6 +1855,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/ddaba5cc-d49b-4f8e-8c18-ce448b93b1b3
 
   269641: # Chicago P.D.
+    label: Art*
     url_poster: https://api.mediux.pro/assets/9749f5bb-afe3-4c71-9af6-cf18324cd479
     url_background: https://api.mediux.pro/assets/204011e6-d19f-42ee-bd74-d13acacfbc25
     seasons:
@@ -2419,6 +2428,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/5312b446-ac1c-4418-ac06-dbe24404dd5b
             
   78957: # Deadliest Catch
+    label: Art*
     url_poster: https://api.mediux.pro/assets/99038b33-ced3-4add-aa20-375b05899d0f
     seasons:
       0:
@@ -2469,6 +2479,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/00f031a9-8551-46ee-be7c-e630d8d7f34d
 
   462862: # DMV
+    label: Art*
     url_poster: https://api.mediux.pro/assets/9a8fa4d2-8d31-4c9b-ae3d-3ef960c5b0ef
     url_background: https://api.mediux.pro/assets/d28ff9c5-e74f-4fa4-ac33-837b44d2143e
     seasons:
@@ -2517,6 +2528,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/3fbe73f9-8b04-4753-aabb-baf96d383de5
 
   447900: # Doctor Odyssey
+    label: Art*
     url_poster: https://api.mediux.pro/assets/172a3607-dff1-4c73-91f6-05451eab6ea7
     url_background: https://api.mediux.pro/assets/e6f2a7b1-4405-47ed-98a2-6e1abda2ccc5
     seasons:
@@ -2561,6 +2573,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/1375fe63-2d57-4f7d-bee7-27614583579a
 
   420064: # East New York
+    label: Art*
     url_poster: https://api.mediux.pro/assets/09dd4483-bdd8-43e2-b1e5-52d2c8a069f0
     url_background: https://api.mediux.pro/assets/d555d426-48bb-47d7-9fcd-c80747acea70
     seasons:
@@ -2568,6 +2581,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/da24916a-4408-4f5b-bc56-36806848d795
 
   430543: # Elsbeth
+    label: Art*
     url_poster: https://api.mediux.pro/assets/ff945332-a79b-4830-9a84-bf43de3d6071
     url_background: https://api.mediux.pro/assets/25c4e99a-1d06-4fbc-b944-6e2d04ae78ee
     seasons:
@@ -2682,6 +2696,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/8d0215a2-a08a-413c-a879-87f438b890e2
 
   382327: # The Equalizer
+    label: Art*
     url_poster: https://api.mediux.pro/assets/3c73d3c3-a33a-4bda-9438-828818414ce0
     seasons:
       1:
@@ -2696,6 +2711,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/74f27443-b537-493a-a0ef-d98e24167f4c
 
   420063: # Fire Country
+    label: Art*
     url_poster: https://api.mediux.pro/assets/ec8c141a-8526-484e-86e0-80bfe8a3f69e
     url_background: https://api.mediux.pro/assets/fe935f0c-0f5f-4e5e-8216-147f42709cc7
     seasons:
@@ -2857,6 +2873,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e366a7d3-f4d7-4538-9629-c47a3a5d8d30
 
   400267: # Ghosts
+    label: Art*
     url_poster: https://api.mediux.pro/assets/711fc29a-5abd-41a0-bd84-c993236c5626
     seasons:
       1:
@@ -2871,6 +2888,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/87baf488-059c-48f5-84a4-11fe54a4cd64
 
   73762: # Grey's Anatomy
+    label: Art*
     url_poster: https://api.mediux.pro/assets/fd1663b8-e8a5-4231-a1ba-fc1579239e8f
     seasons:
       0:
@@ -2921,6 +2939,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/13fa5513-78cf-407d-be96-3bf5e3157463
 
   434988: # High Potential
+    label: Art*
     url_poster: https://api.mediux.pro/assets/1c64149e-b9da-45ad-b2cb-40542ca010d1
     seasons:
       1:
@@ -2929,6 +2948,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/15ac0ae5-18fe-4917-a70d-6e51cc9b6b84
 
   451286: # In the Eye of the Storm (2024)
+    label: Art*
     url_poster: https://theposterdb.com/api/assets/681208
     seasons:
       1:
@@ -2941,6 +2961,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/728102
         
   397424: # Landman
+    label: Art*
     url_poster: https://api.mediux.pro/assets/a9eed2f5-d47f-4d27-a4a7-61fd36d05c02
     url_background: https://api.mediux.pro/assets/80554560-f765-4294-b04a-a7ef96de99c5
     seasons:
@@ -2992,6 +3013,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/b675d020-da72-4add-b70c-65a57398d78f
 
   463433: # Marshals
+    label: Art*
     url_poster: https://api.mediux.pro/assets/e63f6a97-0115-4b87-ba7a-56d001546e8c
     url_background: https://api.mediux.pro/assets/60f0eb9f-3f03-4f8c-bb96-14a898541c62
     seasons:
@@ -3026,6 +3048,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/1d175cc0-a389-4be5-a2d2-78f4c91a198a
 
   434780: # Matlock
+    label: Art*
     url_poster: https://api.mediux.pro/assets/4546092e-983e-4dbd-a0ac-68f7d074e7a4
     url_background: https://api.mediux.pro/assets/447ccf78-59e5-490a-8fc0-40c1f2b4c7fc
     seasons:
@@ -3107,6 +3130,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/42665f2e-95d1-4afe-8560-c332d8f35191
 
   72108: # NCIS
+    label: Art*
     url_poster: https://api.mediux.pro/assets/57824ef3-3dd2-4cf7-8bbb-e40f137ce16e
     url_background: https://api.mediux.pro/assets/3b894272-98a1-4147-a798-9dcff2359171
     seasons:
@@ -3160,6 +3184,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/b8c677b0-e36a-4e57-b04a-22671336d74c
 
   448176: # The Pitt
+    label: Art*
     url_poster: https://api.mediux.pro/assets/74f6e679-eb82-42f2-980a-3fb14b37307a
     url_background: https://api.mediux.pro/assets/5a1d3e62-c1d2-42b8-aabb-3e1510885538
     seasons:
@@ -3231,6 +3256,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/47c5f2f9-63ac-4857-b2fe-6d8dad05b858
 
   434779: # Poppa's House
+    label: Art*
     url_poster: https://api.mediux.pro/assets/999c1c3a-16f2-4df3-b1be-75ea721ea92c
     url_background: https://api.mediux.pro/assets/2cbdc982-a9c7-4cee-a5da-dac4dffd0e66
     seasons:
@@ -3238,6 +3264,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/120a3417-7f88-4e9a-8807-36b980088863
         
   466025: # R.J. Decker
+    label: Art*
     url_poster: https://api.mediux.pro/assets/182252b2-71cd-4cfd-9866-65f8fba4310f
     url_background: https://api.mediux.pro/assets/0916eb21-a4ef-4ea2-9689-8724ff271f7d
     seasons:
@@ -3264,6 +3291,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/2668673f-e858-43e4-9774-37c3dcbdf21a
 
   350665: # The Rookie
+    label: Art*
     url_poster: https://api.mediux.pro/assets/ba381f45-b506-48e0-a3b7-a956ef913e30
     url_background: https://api.mediux.pro/assets/3dbd2840-1efc-44ed-8180-9de217a4369b
     seasons:
@@ -3582,6 +3610,7 @@ metadata:
 
 
   449708: # Sheriff Country
+    label: Art*
     url_poster: https://api.mediux.pro/assets/3b3bc4ce-8c42-4007-991e-6c50fa700c80
     url_background: https://api.mediux.pro/assets/36d8f86d-21af-4415-a6db-100f02a8b62f
     seasons:
@@ -3630,12 +3659,14 @@ metadata:
             url_poster: https://api.mediux.pro/assets/dc67c9ef-2eba-4b10-9d1d-d1a4d1fc2095
 
   464755: # Stumble
+    label: Art*
     url_poster: https://api.mediux.pro/assets/34fd62bf-3d58-46ef-a4ab-f0a0d75053ab
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/cea4f00f-a866-43bc-9244-53c5eed2a24c
 
   428433: # Tracker
+    label: Art*
     url_poster: https://api.mediux.pro/assets/dcf377c6-59fa-494e-b8b9-2142551ccf9c
     url_background: https://api.mediux.pro/assets/bd15a44b-f558-4e3c-ba51-97036925a061
     seasons:
@@ -3760,6 +3791,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/6b1fc328-5e12-4439-be04-b41ebdc07e26
 
   419879: # Will Trent
+    label: Art*
     url_poster: https://api.mediux.pro/assets/5b3e8f9a-53ba-416d-9aca-c0bba8b855a2
     url_background: https://api.mediux.pro/assets/33cb5c41-72a4-4597-9a29-ec3d4cc1b852
     seasons:

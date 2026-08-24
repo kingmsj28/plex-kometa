@@ -1,10 +1,7 @@
 metadata:
 
-  ##################################################
-  # Attack on Titan
-  ##################################################
-
   267440: # Attack on Titan
+    label: Art*
     url_poster: https://api.mediux.pro/assets/67edaaa3-c413-4859-b339-34e97696fde0
     seasons:
       0: # Specials
@@ -221,11 +218,8 @@ metadata:
           30:
             url_poster: https://api.mediux.pro/assets/31f959e9-a917-47cf-8fae-88e0b35fe831
             
-  ##################################################
-  # Chainsaw Man
-  ##################################################
-
   397934: # Chainsaw Man
+    label: Art*
     url_poster: https://theposterdb.com/api/assets/567743
     seasons:
       0:
@@ -257,3 +251,162 @@ metadata:
             url_poster: https://api.mediux.pro/assets/fc650ae2-540d-4ba3-92fc-b0026bae1f60
           12:
             url_poster: https://api.mediux.pro/assets/3e20d1d1-bd71-4a05-8da5-b70b818194ec
+                   
+  348545: # Demon Slayer: Kimetsu no Yaiba (2019)
+    label: Art*
+    url_poster: https://api.mediux.pro/assets/b1aa898d-ebce-44c6-8a9a-b00c3f3c419d
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/afc16df6-4fcb-43ca-b162-9694e9a9d0ee
+
+      1:
+        title: "Tanjiro Kamado, Unwavering Resolve Arc"
+        url_poster: https://api.mediux.pro/assets/23d711dd-fdfb-4372-b4a2-03e92efdb45a
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/78417bdb-400c-405e-8fcc-8e9c19105e42
+          2:
+            url_poster: https://api.mediux.pro/assets/6406291c-f420-49a5-9c12-5182e85646a7
+          3:
+            url_poster: https://api.mediux.pro/assets/bf85e2a2-ab89-4e32-aee8-3c5d943d1b7b
+          4:
+            url_poster: https://api.mediux.pro/assets/fa85c6e9-d753-4b59-bb9b-97f6a8b53bd3
+          5:
+            url_poster: https://api.mediux.pro/assets/6e255705-e1bc-45e2-9a4f-cf27900e86c6
+          6:
+            url_poster: https://api.mediux.pro/assets/58ba1903-6772-48ca-b4cf-baf6b50ddb9b
+          7:
+            url_poster: https://api.mediux.pro/assets/d520fb77-56a4-4e2f-a72f-964c8c164e5f
+          8:
+            url_poster: https://api.mediux.pro/assets/73ce4968-f2ef-48f9-841f-41d273251b14
+          9:
+            url_poster: https://api.mediux.pro/assets/a6a70fbd-bbc0-44db-8d50-883657485939
+          10:
+            url_poster: https://api.mediux.pro/assets/d729ae40-4238-4c9c-beec-07641208b12a
+          11:
+            url_poster: https://api.mediux.pro/assets/48d88326-29a0-48c6-a70d-a65912336980
+          12:
+            url_poster: https://api.mediux.pro/assets/5fa95436-0ee0-455f-9a3e-11d04dd1a060
+          13:
+            url_poster: https://api.mediux.pro/assets/7e924595-89ce-42c3-b343-e76c80d9af6d
+          14:
+            url_poster: https://api.mediux.pro/assets/94414e1d-3203-414d-be09-d4967bbdcec7
+          15:
+            url_poster: https://api.mediux.pro/assets/7568c430-e968-443c-9228-e4cda429a07f
+          16:
+            url_poster: https://api.mediux.pro/assets/b8043d42-7f5e-4f7a-80f9-a552ac095cf3
+          17:
+            url_poster: https://api.mediux.pro/assets/27d871b6-7fbd-4f61-a208-a95c4cf62b34
+          18:
+            url_poster: https://api.mediux.pro/assets/cb8376f5-f958-45ea-a776-569c5d52d260
+          19:
+            url_poster: https://api.mediux.pro/assets/2e1de153-8e1e-43b1-b906-d1619c3adcb8
+          20:
+            url_poster: https://api.mediux.pro/assets/f663ce35-432d-4d9e-bed5-8363ba43a1ad
+          21:
+            url_poster: https://api.mediux.pro/assets/df49a30b-5532-4e1a-afaf-caa2b8a18cba
+          22:
+            url_poster: https://api.mediux.pro/assets/02a4120b-e11c-475e-b7f5-ff1fe5fd9392
+          23:
+            url_poster: https://api.mediux.pro/assets/0548c132-bf1b-44cd-8e3f-0f04583200d3
+          24:
+            url_poster: https://api.mediux.pro/assets/cf2e606e-c091-4f91-bdd9-3e6cf86c10a7
+          25:
+            url_poster: https://api.mediux.pro/assets/30fdc0ad-a8a5-4fb1-9778-4dfcc8578a6d
+          26:
+            url_poster: https://api.mediux.pro/assets/e5c6b405-7b5e-4cbc-ae98-a21b51fcda11
+
+      2:
+        title: "Mugen Train Arc"
+        url_poster: https://api.mediux.pro/assets/9e0fa2e9-e3d0-481e-96d6-ffd93a58b078
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/e617fcfc-6d5d-4003-becb-3a66e8778244
+          2:
+            url_poster: https://api.mediux.pro/assets/3e475885-2ed6-45a3-9203-b08ad867eb1d
+          3:
+            url_poster: https://api.mediux.pro/assets/f1d8482a-73cc-402a-86de-6ede754eff44
+          4:
+            url_poster: https://api.mediux.pro/assets/5b8d97f5-f429-425f-a356-01c5d1f94e08
+          5:
+            url_poster: https://api.mediux.pro/assets/4de6821c-3499-435f-a1f8-cc44c4897931
+          6:
+            url_poster: https://api.mediux.pro/assets/aeed2829-848b-449b-9b67-39277bace23c
+          7:
+            url_poster: https://api.mediux.pro/assets/2adbce8d-e611-4443-92b0-d9285c0b47f1
+
+      3:
+        title: "Entertainment District Arc"
+        url_poster: https://api.mediux.pro/assets/154f1440-c984-495a-b5da-836baea33249
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/01d412a5-a5fd-4832-b961-0c82f203595a
+          2:
+            url_poster: https://api.mediux.pro/assets/7b114ca4-c20f-4a3d-b233-96f90b64cbf3
+          3:
+            url_poster: https://api.mediux.pro/assets/6628cb13-94f8-4cb6-a23f-c288cb8d00e3
+          4:
+            url_poster: https://api.mediux.pro/assets/d52c2733-2a01-49e9-a609-b51ca2a16182
+          5:
+            url_poster: https://api.mediux.pro/assets/8165ca85-a988-44bf-8f13-9e3056a7cb9c
+          6:
+            url_poster: https://api.mediux.pro/assets/907e22a8-bc42-4f8d-9ccf-05e5978f7e79
+          7:
+            url_poster: https://api.mediux.pro/assets/5a68ff2f-a938-400c-96cb-f6483a1aec42
+          8:
+            url_poster: https://api.mediux.pro/assets/6f495cdd-9e68-4882-9929-2e514f553380
+          9:
+            url_poster: https://api.mediux.pro/assets/8be2d0e3-55ed-4ac1-837e-e826ba11bf42
+          10:
+            url_poster: https://api.mediux.pro/assets/89595199-fecd-4c04-9d68-2127e85fc08e
+          11:
+            url_poster: https://api.mediux.pro/assets/24e20d9b-0c3f-46f5-9a72-39f4829ae6ac
+
+      4:
+        title: "Swordsmith Village Arc"
+        url_poster: https://api.mediux.pro/assets/42f1a7ff-f0e7-4707-992b-c1d684c34d7d
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/6f239f6f-a9ca-4111-a03f-d822828f0e9f
+          2:
+            url_poster: https://api.mediux.pro/assets/cd8d9758-3002-44d3-8a60-98ae00e3662e
+          3:
+            url_poster: https://api.mediux.pro/assets/f5c541e3-706a-4d60-bf1d-d20e1652b76f
+          4:
+            url_poster: https://api.mediux.pro/assets/00b28357-101b-4f29-a36a-01053656496b
+          5:
+            url_poster: https://api.mediux.pro/assets/bc541a0f-c176-4d7b-bf79-4e4141937072
+          6:
+            url_poster: https://api.mediux.pro/assets/23960459-960c-4435-a1a3-ce9755e4225b
+          7:
+            url_poster: https://api.mediux.pro/assets/1905277b-b723-4026-b0be-7880afcca4ac
+          8:
+            url_poster: https://api.mediux.pro/assets/e2646a70-6db8-466b-ba63-fdbca77e5d88
+          9:
+            url_poster: https://api.mediux.pro/assets/31cb9493-ce96-4841-b7f0-75b87ad679f0
+          10:
+            url_poster: https://api.mediux.pro/assets/23c687c4-8d1f-442d-b08f-2e1bfa955543
+          11:
+            url_poster: https://api.mediux.pro/assets/2a78e5bb-df79-42f4-8c29-de47aee35de9
+
+      5:
+        title: "Hashira Training Arc"
+        url_poster: https://api.mediux.pro/assets/b104b1b1-334a-4cc8-90b5-1c3a2a741096
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/011450f5-c932-4a09-924b-2c426ff60b5e
+          2:
+            url_poster: https://api.mediux.pro/assets/23eef7e7-98c1-4d7d-a9cc-bcf28622dacf
+          3:
+            url_poster: https://api.mediux.pro/assets/ecca1770-383b-47f6-b557-d958b75cc766
+          4:
+            url_poster: https://api.mediux.pro/assets/c75d1a66-b488-4b04-bfd2-9265dea166f3
+          5:
+            url_poster: https://api.mediux.pro/assets/56160824-bf42-42e9-b2e6-5e3ed624dde4
+          6:
+            url_poster: https://api.mediux.pro/assets/6af8e79d-6cad-422c-aa4f-de7dfdd90df2
+          7:
+            url_poster: https://api.mediux.pro/assets/c0bd4d54-378e-4b9d-8271-ba789b980dd1
+          8:
+            url_poster: https://api.mediux.pro/assets/465597be-e7ce-4b77-8754-9bf0d0f426a4
+            
