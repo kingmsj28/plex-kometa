@@ -10,7 +10,7 @@ collections:
     collection_mode: hide
     collection_order: release
     sync_mode: sync
-    url_poster: https://theposterdb.com/api/assets/567743
+    url_poster: https://theposterdb.com/api/assets/274686
     
   ##################################################
   # Cowboy Bebop
@@ -152,3 +152,42 @@ collections:
     collection_order: release
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/445161
+
+  ##################################################
+  # Fullmetal Alchemist
+  ##################################################
+
+  Fullmetal Alchemist:
+    tmdb_movie:
+      - 14003   # Fullmetal Alchemist the Movie: Conqueror of Shamballa (2005)
+      - 80518   # Fullmetal Alchemist: The Sacred Star of Milos (2011)
+    collection_mode: hide
+    collection_order: release
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/169261
+  
+  ##################################################
+  # Hunter x Hunter
+  ##################################################
+
+  Hunter x Hunter:
+    tmdb_movie:
+      - 166076   # Hunter x Hunter: Phantom Rouge (2013)
+      - 192712   # Hunter x Hunter: The Last Mission (2013)
+    collection_mode: hide
+    collection_order: release
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/335016
+    
+  ##################################################
+  # Jujutsu Kaisen
+  ##################################################
+
+  Jujutsu Kaisen:
+    tmdb_movie:
+      - 810693   # Jujutsu Kaisen 0 (2021)
+    collection_mode: hide
+    collection_order: release
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/105445
+    

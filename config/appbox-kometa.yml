@@ -1,13 +1,5 @@
 libraries:
 
-  ANIME:
-    collection_files:
-    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-collections.yml
-
-    metadata_files:
-    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-metadata.yml
-    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/cowboy-bebop-fix.yml
-
   ANIME MOVIES:
     collection_files:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-movie-collections.yml
@@ -324,6 +316,15 @@ libraries:
     
     overlay_files: &tv_overlay_files
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-status-overlays.yml
+      
+  ANIME:
+    collection_files:
+    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-collections.yml
+
+    metadata_files:
+    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-metadata.yml
+    
+    overlay_files: *tv_overlay_files
 
   MATT MOVIES - 1080p:
     collection_files: *movie_collection_files

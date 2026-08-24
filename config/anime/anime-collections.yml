@@ -10,7 +10,7 @@ collections:
     collection_mode: hide
     collection_order: release
     sync_mode: sync
-    url_poster: https://theposterdb.com/api/assets/567743
+    url_poster: https://theposterdb.com/api/assets/274686
     
   ##################################################
   # Cowboy Bebop
@@ -104,3 +104,41 @@ collections:
     collection_order: release
     sync_mode: sync
     url_poster: https://api.mediux.pro/assets/2dca7a85-04cb-4ec1-b10c-d9191327bd14
+    
+  ##################################################
+  # Fullmetal Alchemist
+  ##################################################
+
+  Fullmetal Alchemist:
+    tvdb_show:
+      - 75579   # Fullmetal Alchemist (2003)
+      - 85249   # Fullmetal Alchemist: Brotherhood (2009)
+    collection_mode: hide
+    collection_order: release
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/169261
+    
+  ##################################################
+  # Hunter x Hunter
+  ##################################################
+
+  Hunter x Hunter:
+    tvdb_show:
+      - 252322   # Hunter x Hunter (2011)
+    collection_mode: hide
+    collection_order: release
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/335016
+ 
+  ##################################################
+  # Jujutsu Kaisen
+  ##################################################
+
+  Jujutsu Kaisen:
+    tvdb_show:
+      - 377543   # JUJUTSU KAISEN (2020)
+    collection_mode: hide
+    collection_order: release
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/105445
+    
