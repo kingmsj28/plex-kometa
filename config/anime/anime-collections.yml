@@ -36,3 +36,66 @@ collections:
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/31955
 
+  ##################################################
+  # Dragon Ball
+  ##################################################
+
+  Dragon Ball:
+    tvdb_show:
+      - 76666  # Dragon Ball (1986)
+    collection_mode: hide
+    collection_order: release
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/445206
+
+  ##################################################
+  # Dragon Ball Z
+  ##################################################
+
+  Dragon Ball Z:
+    tvdb_show:
+      - 81472  # Dragon Ball Z (1989)
+    collection_mode: hide
+    collection_order: release
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/445184
+
+  ##################################################
+  # Dragon Ball GT
+  ##################################################
+
+  Dragon Ball GT:
+    tvdb_show:
+      - 79275  # Dragon Ball GT (1996)
+    collection_mode: hide
+    collection_order: release
+    sync_mode: sync
+    #url_poster: PASTE_POSTER_URL_HERE
+
+  ##################################################
+  # Dragon Ball Super
+  ##################################################
+
+  Dragon Ball Super:
+    tvdb_show:
+      - 295068  # Dragon Ball Super (2015)
+    collection_mode: hide
+    collection_order: release
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/445161
+
+  ##################################################
+  # Dragon Ball Universe
+  ##################################################
+
+  Dragon Ball Universe:
+    tvdb_show:
+      - 76666   # Dragon Ball (1986)
+      - 81472   # Dragon Ball Z (1989)
+      - 79275   # Dragon Ball GT (1996)
+      - 295068  # Dragon Ball Super (2015)
+      - 440820  # Dragon Ball DAIMA (2024)
+    collection_mode: hide
+    collection_order: release
+    sync_mode: sync
+    url_poster: https://api.mediux.pro/assets/2dca7a85-04cb-4ec1-b10c-d9191327bd14
