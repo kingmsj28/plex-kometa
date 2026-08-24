@@ -6186,6 +6186,8 @@ metadata:
             url_poster: https://api.mediux.pro/assets/ce3ce717-c7dc-4a27-951d-b52359c2ae3c
           28:
             url_poster: https://api.mediux.pro/assets/d346058c-9390-4149-8970-5d29632cb9c0
+          29:
+            url_poster: https://api.mediux.pro/assets/27729cc0-905a-4ee5-88b7-8f1acec732b3
       1:
         url_poster: https://api.mediux.pro/assets/e1310d8f-6980-4f48-a652-b8dd77b581af
         episodes:
@@ -7954,37 +7956,37 @@ metadata:
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/411454
-      1:
+      2003:
         url_poster: https://theposterdb.com/api/assets/411455
-      2:
+      2004:
         url_poster: https://theposterdb.com/api/assets/411456
-      3:
+      2005:
         url_poster: https://theposterdb.com/api/assets/411457
-      4:
+      2006:
         url_poster: https://theposterdb.com/api/assets/411458
-      5:
+      2007:
         url_poster: https://theposterdb.com/api/assets/411459
-      6:
+      2008:
         url_poster: https://theposterdb.com/api/assets/411460
-      7:
+      2009:
         url_poster: https://theposterdb.com/api/assets/411461
-      8:
+      2010:
         url_poster: https://theposterdb.com/api/assets/411462
-      9:
+      2011:
         url_poster: https://theposterdb.com/api/assets/411463
-      10:
+      2012:
         url_poster: https://theposterdb.com/api/assets/411464
-      11:
+      2013:
         url_poster: https://theposterdb.com/api/assets/411465
-      12:
+      2014:
         url_poster: https://theposterdb.com/api/assets/411466
-      13:
+      2015:
         url_poster: https://theposterdb.com/api/assets/411467
-      14:
+      2016:
         url_poster: https://theposterdb.com/api/assets/411468
-      15:
+      2017:
         url_poster: https://theposterdb.com/api/assets/411469
-      16:
+      2018:
         url_poster: https://theposterdb.com/api/assets/411470
         
   84912: # Parks and Recreation (2009)
@@ -8194,9 +8196,9 @@ metadata:
           1:
             url_poster: https://api.mediux.pro/assets/72400cf7-0345-4fb8-b712-baa883b65466
           2:
-            url_poster: https://api.mediux.pro/assets/26e1f292-812f-4f4c-8c73-b4c507859ebd
+            url_poster: https://api.mediux.pro/assets/72400cf7-0345-4fb8-b712-baa883b65466
           3:
-            url_poster: https://api.mediux.pro/assets/f4b75d4a-274a-44d9-9b39-5c631ccea85b
+            url_poster: https://api.mediux.pro/assets/26e1f292-812f-4f4c-8c73-b4c507859ebd
           4:
             url_poster: https://api.mediux.pro/assets/0c31a8d9-cf30-469b-a9bb-69938414f78e
           5:
@@ -12141,13 +12143,24 @@ metadata:
       4:
         url_poster: https://api.mediux.pro/assets/80c39981-0661-4184-bc00-2da049440b19
         episodes:
-          1: #Fun Run (1)
+          1: # Fun Run (1)
+            title: "Fun Run (1)"
+            summary: "After a freak accident, Michael thinks the office is cursed; as the promotion dust settles, Kevin smells a romance."
             url_poster: https://api.mediux.pro/assets/5d010814-f831-45e4-8e14-bb53489a5f63
-          2: #Fun Run (2)
+
+          2: # Fun Run (2)
+            title: "Fun Run (2)"
+            summary: "Michael holds a 5K charity run to try to lift the branch's curse; Angela regrets entrusting her ailing cat to Dwight."
             url_poster: https://api.mediux.pro/assets/5d010814-f831-45e4-8e14-bb53489a5f63
-          3: #Dunder Mifflin Infinity (1)
+
+          3: # Dunder Mifflin Infinity (1)
+            title: "Dunder Mifflin Infinity (1)"
+            summary: "The older employees struggle as Ryan brings the company into the digital age; Angela gives Dwight a reality check."
             url_poster: https://api.mediux.pro/assets/a67737f9-39fd-4951-af7f-ae29e9728707
-          4: #Dunder Mifflin Infinity (2)
+
+          4: # Dunder Mifflin Infinity (2)
+            title: "Dunder Mifflin Infinity (2)"
+            summary: "Michael sets out to prove he can win back clients without any fancy new technology; Ryan asks Pam to design a logo."
             url_poster: https://api.mediux.pro/assets/a67737f9-39fd-4951-af7f-ae29e9728707
           5: #Launch Party (1) 
             url_poster: https://api.mediux.pro/assets/adfdebc3-d80b-4c40-85c0-2e3ccd889c0c
