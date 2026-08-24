@@ -137,6 +137,7 @@ collections:
     collection_mode: hide
     collection_order: release
     sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/444521
 
   ##################################################
   # Dragon Ball Super

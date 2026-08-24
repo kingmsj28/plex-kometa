@@ -19,19 +19,6 @@ collections:
 #    item_label.remove: Art*
 
   ##################################################
-  # Needs Artwork
-  ##################################################
-
-  Needs Artwork*:
-    sort_title: "!998_Needs Artwork"
-    collection_mode: hide
-    plex_search:
-      all:
-        label.not: Art*
-    sync_mode: sync
-    collection_order: alpha
-
-  ##################################################
   # Random Unwatched Movies
   ##################################################
 

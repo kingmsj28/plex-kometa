@@ -41,6 +41,7 @@ collections:
   ##################################################
 
   Dragon Ball:
+    sort_title: "Dragon Ball 01"
     tvdb_show:
       - 76666  # Dragon Ball (1986)
     collection_mode: hide
@@ -53,6 +54,7 @@ collections:
   ##################################################
 
   Dragon Ball Z:
+    sort_title: "Dragon Ball 02"
     tvdb_show:
       - 81472  # Dragon Ball Z (1989)
     collection_mode: hide
@@ -65,18 +67,20 @@ collections:
   ##################################################
 
   Dragon Ball GT:
+    sort_title: "Dragon Ball 03"
     tvdb_show:
       - 79275  # Dragon Ball GT (1996)
     collection_mode: hide
     collection_order: release
     sync_mode: sync
-    #url_poster: PASTE_POSTER_URL_HERE
+    url_poster: https://theposterdb.com/api/assets/444521
 
   ##################################################
   # Dragon Ball Super
   ##################################################
 
   Dragon Ball Super:
+    sort_title: "Dragon Ball 04"
     tvdb_show:
       - 295068  # Dragon Ball Super (2015)
     collection_mode: hide
@@ -89,6 +93,7 @@ collections:
   ##################################################
 
   Dragon Ball Universe:
+    sort_title: "Dragon Ball 00"
     tvdb_show:
       - 76666   # Dragon Ball (1986)
       - 81472   # Dragon Ball Z (1989)

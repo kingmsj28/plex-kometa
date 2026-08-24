@@ -1,13 +1,4 @@
 collections:
-
-  Needs Artwork*:
-    sort_title: "!998_Needs Artwork"
-    collection_mode: hide
-    plex_search:
-      all:
-        label.not: Art*
-    sync_mode: sync
-    collection_order: alpha
     
   Adult Animation*:
     sort_title: "!060_Adult Animation"
