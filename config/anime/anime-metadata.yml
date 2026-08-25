@@ -260,7 +260,6 @@ metadata:
         url_poster: https://api.mediux.pro/assets/afc16df6-4fcb-43ca-b162-9694e9a9d0ee
 
       1:
-        title: "Tanjiro Kamado, Unwavering Resolve Arc"
         url_poster: https://api.mediux.pro/assets/23d711dd-fdfb-4372-b4a2-03e92efdb45a
         episodes:
           1:
@@ -317,7 +316,6 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e5c6b405-7b5e-4cbc-ae98-a21b51fcda11
 
       2:
-        title: "Mugen Train Arc"
         url_poster: https://api.mediux.pro/assets/9e0fa2e9-e3d0-481e-96d6-ffd93a58b078
         episodes:
           1:
@@ -336,7 +334,6 @@ metadata:
             url_poster: https://api.mediux.pro/assets/2adbce8d-e611-4443-92b0-d9285c0b47f1
 
       3:
-        title: "Entertainment District Arc"
         url_poster: https://api.mediux.pro/assets/154f1440-c984-495a-b5da-836baea33249
         episodes:
           1:
@@ -363,7 +360,6 @@ metadata:
             url_poster: https://api.mediux.pro/assets/24e20d9b-0c3f-46f5-9a72-39f4829ae6ac
 
       4:
-        title: "Swordsmith Village Arc"
         url_poster: https://api.mediux.pro/assets/42f1a7ff-f0e7-4707-992b-c1d684c34d7d
         episodes:
           1:
@@ -390,7 +386,6 @@ metadata:
             url_poster: https://api.mediux.pro/assets/2a78e5bb-df79-42f4-8c29-de47aee35de9
 
       5:
-        title: "Hashira Training Arc"
         url_poster: https://api.mediux.pro/assets/b104b1b1-334a-4cc8-90b5-1c3a2a741096
         episodes:
           1:
