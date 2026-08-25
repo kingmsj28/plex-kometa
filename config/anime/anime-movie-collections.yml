@@ -173,7 +173,7 @@ collections:
   Hunter x Hunter:
     tmdb_movie:
       - 166076   # Hunter x Hunter: Phantom Rouge (2013)
-      - 192712   # Hunter x Hunter: The Last Mission (2013)
+      - 239523   # Hunter x Hunter: The Last Mission (2013)
     collection_mode: hide
     collection_order: release
     sync_mode: sync
