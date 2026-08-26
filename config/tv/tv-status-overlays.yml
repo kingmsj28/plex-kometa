@@ -42,4 +42,4 @@ overlays:
     plex_all: true
     filters:
       tmdb_status: canceled
-      last_episode_aired.after: current_year-1
+      last_episode_aired: 365
