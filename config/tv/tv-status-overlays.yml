@@ -29,14 +29,17 @@ overlays:
       weight: 700
     plex_all: true
     filters:
-      tmdb_status: ended
+      tmdb_status:
+        - ended
+        - canceled
 
   Canceled:
     overlay:
       name: canceled
       url: https://raw.githubusercontent.com/Entree3k/Plex/refs/heads/main/Plex%20Meta%20Manager%20Configs/Overlays/images/Status/Lower%20Small/canceled_small.png
       group: STATUS
-      weight: 600
+      weight: 750
     plex_all: true
     filters:
       tmdb_status: canceled
+      last_episode_aired.after: current_year-1
