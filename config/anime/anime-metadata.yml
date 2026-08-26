@@ -418,25 +418,18 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/444280
     seasons:
       0:
-        title: "Specials"
         url_poster: https://theposterdb.com/api/assets/444281
       1:
-        title: "Emperor Pilaf Saga"
         url_poster: https://theposterdb.com/api/assets/444282
       2:
-        title: "Tournament Saga"
         url_poster: https://theposterdb.com/api/assets/444283
       3:
-        title: "Red Ribbon Army Saga"
         url_poster: https://theposterdb.com/api/assets/444284
       4:
-        title: "22nd Tenkaichi Budokai Saga"
         url_poster: https://theposterdb.com/api/assets/444285
       5:
-        title: "King Piccolo Saga"
         url_poster: https://theposterdb.com/api/assets/444286
       6:
-        title: "Piccolo Jr. Saga"
         url_poster: https://theposterdb.com/api/assets/444287
         
   81472: # Dragon Ball Z (1989)
@@ -446,10 +439,8 @@ metadata:
     url_poster: https://api.mediux.pro/assets/b9e8fe6a-5e44-45af-8f37-fc5310d72728
     seasons:
       0:
-        title: "Specials"
         url_poster: https://api.mediux.pro/assets/d73c58f3-4ba3-46e6-ba9d-15d63c3709d6
       1:
-        title: "Saiyan Saga"
         url_poster: https://api.mediux.pro/assets/c75f7299-dab1-42bc-8427-5d63a937b0f0
         episodes:
           1:
@@ -531,7 +522,6 @@ metadata:
           39:
             url_poster: https://api.mediux.pro/assets/88517c7d-cf1f-480b-bf0d-fb03bf228fbb
       2:
-        title: "Namek Saga"
         url_poster: https://api.mediux.pro/assets/07065133-a775-469b-a6c6-3433e550749b
         episodes:
           1:
@@ -605,7 +595,6 @@ metadata:
           35:
             url_poster: https://api.mediux.pro/assets/2fbf6c3b-0dc8-424c-a65d-d5b384f7b37b
       3:
-        title: "Frieza Saga"
         url_poster: https://api.mediux.pro/assets/0a316f01-67b8-49f7-aab3-1d188375f76c
         episodes:
           1:
@@ -675,7 +664,6 @@ metadata:
           33:
             url_poster: https://api.mediux.pro/assets/826feef4-1414-476e-b771-68c336101447
       4:
-        title: "Android Saga"
         url_poster: https://api.mediux.pro/assets/9c48e401-f602-4d6d-b2c3-8cb76be322ff
         episodes:
           1:
@@ -743,7 +731,6 @@ metadata:
           32:
             url_poster: https://api.mediux.pro/assets/b3b5764a-cc44-4492-a3f1-bf50ceed3573
       5:
-        title: "Cell Saga"
         url_poster: https://api.mediux.pro/assets/0e9e31d6-bc80-4a49-8e46-f65d99933a23
         episodes:
           1:
@@ -799,7 +786,6 @@ metadata:
           26:
             url_poster: https://api.mediux.pro/assets/2ef4e75a-b513-4ad7-9eb8-1680315a02f8
       6:
-        title: "Cell Games Saga"
         url_poster: https://api.mediux.pro/assets/98fd3134-88f9-4a2f-8a74-2517787d2b87
         episodes:
           1:
@@ -861,7 +847,6 @@ metadata:
           29:
             url_poster: https://api.mediux.pro/assets/89571c11-a1ec-407f-b392-7dbb4164a73c
       7:
-        title: "World Tournament Saga"
         url_poster: https://api.mediux.pro/assets/a7af710a-86c8-42a7-89ee-748c9af10491
         episodes:
           1:
@@ -915,7 +900,6 @@ metadata:
           25:
             url_poster: https://api.mediux.pro/assets/efdddb57-3f17-4738-8b53-638117b7239d
       8:
-        title: "Majin Buu Saga"
         url_poster: https://api.mediux.pro/assets/96a31543-cada-4c02-bb18-f8fe87200bd8
         episodes:
           1:
@@ -987,7 +971,6 @@ metadata:
           34:
             url_poster: https://api.mediux.pro/assets/093f5dd4-f664-4182-81c6-23f46facc550
       9:
-        title: "Kid Buu Saga"
         url_poster: https://api.mediux.pro/assets/22ce7104-7204-4d21-bc5b-5f17f106588b
         episodes:
           1:

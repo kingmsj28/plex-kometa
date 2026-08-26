@@ -1,12 +1,27 @@
 collections:
     
   Adult Animation*:
-    sort_title: "!060_Adult Animation"
+    sort_title: "!030_Adult Animation"
     collection_order: alpha
     collection_mode: show_items
     sync_mode: sync
     tmdb_discover:
       with_keywords: 161919
+      
+  ##################################################
+  # Anime Collection
+  ##################################################
+
+  Anime*:
+    sort_title: "!030_Anime"
+
+    plex_search:
+      all:
+        label: Anime*
+
+    sync_mode: sync
+    collection_mode: show_items
+    collection_order: title
 
   ##################################################
   # Marvel Television Universe
@@ -114,7 +129,7 @@ collections:
   ##################################################
 
   WWE Television:
-    sort_title: "!040_WWE Television"
+    sort_title: "!035_WWE Television"
 
     tmdb_show:
       - 4656      # WWE Raw (1993)

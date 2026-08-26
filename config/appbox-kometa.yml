@@ -12,17 +12,17 @@ libraries:
     - default: franchise
       template_variables:
 
-        movie_9735:
+        movie_9735: #F13 Franchise
           - 6466      # Freddy vs. Jason
           - 13207     # Friday the 13th (2009)
 
-        movie_10:
+        movie_10: #Star-Wars
           - 12180     # Star Wars: The Clone Wars
           - 330459     # Rogue One: A Star Wars Story
           - 348350     # Solo: A Star Wars Story
           - 1228710     # The Mandalorian and Grogu)
         
-        movie_1960:
+        movie_1960: Evil Dead Combo
           - 109428     # Evil Dead (2013)
           - 713704     # Evil Dead Rise (2023)
           - 1212763    # Evil Dead Burn (2026)
