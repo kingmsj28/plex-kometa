@@ -14511,7 +14511,7 @@ metadata:
           13:
             url_poster: https://api.mediux.pro/assets/273d34de-def4-4fea-a538-179f49b16134
             
-  258210: # Brickleberry (2012)
+  259569: # Brickleberry (2012)
     label: Art*
     url_poster: https://theposterdb.com/api/assets/101384
     seasons:
@@ -14754,7 +14754,7 @@ metadata:
           16:
             url_poster: https://api.mediux.pro/assets/33a65d26-9ba0-41be-914e-5750757dc9e1
             
-  392256: # TThe Last of Us
+  392256: # The Last of Us
     label: Art*
     url_poster: https://api.mediux.pro/assets/d30da1b0-06dd-4226-8b86-13534eaac845
     url_background: https://api.mediux.pro/assets/75dc3640-fed4-4a4f-9317-41cd1c7d9bae
@@ -15206,17 +15206,6 @@ metadata:
           9:
             url_poster: https://api.mediux.pro/assets/d30ed4e3-7569-45dc-bf2d-d3e92d48ad9b
             
-  258210: # Brickleberry (2012)
-    label: Art*
-    url_poster: https://theposterdb.com/api/assets/101384
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/101385
-      2:
-        url_poster: https://theposterdb.com/api/assets/101386
-      3:
-        url_poster: https://theposterdb.com/api/assets/101387
-        
   305288: # Stranger Things (2016)
     label: Art*
     url_poster: https://api.mediux.pro/assets/0d1abe67-92ad-4dec-bdd3-7685942fa6ff
