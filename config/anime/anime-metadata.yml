@@ -1,7 +1,9 @@
 metadata:
 
   267440: # Attack on Titan
-    label: Art*
+    label:
+      - Art*
+      - Anime*
     url_poster: https://api.mediux.pro/assets/67edaaa3-c413-4859-b339-34e97696fde0
     seasons:
       0: # Specials
@@ -219,7 +221,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/31f959e9-a917-47cf-8fae-88e0b35fe831
             
   397934: # Chainsaw Man
-    label: Art*
+    label:
+      - Art*
+      - Anime*
     url_poster: https://theposterdb.com/api/assets/254024
     seasons:
       0:
@@ -253,7 +257,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/3e20d1d1-bd71-4a05-8da5-b70b818194ec
                    
   348545: # Demon Slayer: Kimetsu no Yaiba (2019)
-    label: Art*
+    label:
+      - Art*
+      - Anime*
     url_poster: https://api.mediux.pro/assets/b1aa898d-ebce-44c6-8a9a-b00c3f3c419d
     seasons:
       0:
@@ -406,7 +412,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/465597be-e7ce-4b77-8754-9bf0d0f426a4
             
   76666: # Dragon Ball (1986)
-    label: Art*
+    label:
+      - Art*
+      - Anime*
     url_poster: https://theposterdb.com/api/assets/444280
     seasons:
       0:
@@ -432,7 +440,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/444287
         
   81472: # Dragon Ball Z (1989)
-    label: Art*
+    label:
+      - Art*
+      - Anime*
     url_poster: https://api.mediux.pro/assets/b9e8fe6a-5e44-45af-8f37-fc5310d72728
     seasons:
       0:
@@ -1058,7 +1068,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e6d04e76-1084-4171-9c74-d74192afe1f6
             
   79275: # Dragon Ball GT (1996)
-    label: Art*
+    label:
+      - Art*
+      - Anime*
     url_poster: https://theposterdb.com/api/assets/444289
     seasons:
       0:
@@ -1071,7 +1083,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/444293
         
   295068: # Dragon Ball Super (2015)
-    label: Art*
+    label:
+      - Art*
+      - Anime*
     url_poster: https://theposterdb.com/api/assets/444294
     seasons:
       0:
@@ -1088,7 +1102,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/444300
         
   440820: # Dragon Ball DAIMA (2024)
-    label: Art*
+    label:
+      - Art*
+      - Anime*
     url_poster: https://api.mediux.pro/assets/95f14df7-2915-4460-8eed-46b74830ce30
     seasons:
       1:
@@ -1136,7 +1152,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/64d96c6e-a5fe-4c31-a62d-e1d39d93a605
             
   88031: # Dragon Ball Z Kai (2009)
-    label: Art*
+    label:
+      - Art*
+      - Anime*
     url_poster: https://theposterdb.com/api/assets/444314
     url_background: https://api.mediux.pro/assets/397937e5-081e-47ec-8a8c-e0f66438cd46
     seasons:
@@ -1485,7 +1503,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e9a2386a-d750-48ab-b607-c6440f6aec6a
             
   75579: # Fullmetal Alchemist (2003)
-    label: Art*
+    label:
+      - Art*
+      - Anime*
     url_poster: https://theposterdb.com/api/assets/169268
     seasons:
       0:
@@ -1494,7 +1514,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/169270
 
   85249: # Fullmetal Alchemist: Brotherhood (2009)
-    label: Art*
+    label:
+      - Art*
+      - Anime*
     url_poster: https://theposterdb.com/api/assets/169265
     seasons:
       0:
@@ -1503,7 +1525,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/180256
         
   252322: # Hunter x Hunter (2011)
-    label: Art*
+    label:
+      - Art*
+      - Anime*
     url_poster: https://theposterdb.com/api/assets/335025
     seasons:
       0:
@@ -1516,7 +1540,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/335029
         
   293088: # One-Punch Man (2015)
-    label: Art*
+    label:
+      - Art*
+      - Anime*
     url_poster: https://api.mediux.pro/assets/1c624a68-b1ee-4b47-a12d-b178b7c2c8ab
     url_background: https://api.mediux.pro/assets/f09f3dc2-d911-4fce-a9f4-0a93d69e6121
     seasons:
@@ -1639,7 +1665,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/feaae6fb-6cf4-4508-8d06-bfc119afa949
             
   389597: # Solo Leveling (2024)
-    label: Art*
+    label:
+      - Art*
+      - Anime*
     url_poster: https://api.mediux.pro/assets/eb3006df-9557-4dce-ab5b-b9e0a077eb6e
     url_background: https://api.mediux.pro/assets/4c5f7671-b2b2-48f6-9020-8ba19018cef7
     seasons:
@@ -1705,7 +1733,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/81ed17d6-9cfb-4440-b8da-b5fa3cccd4a0
             
   79481: # Death Note (2006)
-    label: Art*
+    label:
+      - Art*
+      - Anime*
     url_poster: https://theposterdb.com/api/assets/335133
     seasons:
       0:
@@ -1789,7 +1819,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/af795c73-fd27-4474-a786-41657413a9c1
             
   377543: # JUJUTSU KAISEN (2020)
-    label: Art*
+    label:
+      - Art*
+      - Anime*
     url_poster: https://theposterdb.com/api/assets/288496
     seasons:
       0:
@@ -1802,7 +1834,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/683427
         
   76885: # Cowboy Bebop
-    label: Art*
+    label:
+      - Art*
+      - Anime*
     url_poster: https://api.mediux.pro/assets/a0dbf36c-c41f-41f1-b172-9f19c2987f70
     seasons:
       0:

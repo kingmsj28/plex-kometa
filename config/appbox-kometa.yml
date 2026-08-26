@@ -309,22 +309,24 @@ libraries:
       #- default: streaming
 
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-collections.yml
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-collections.yml
 
     metadata_files: &tv_metadata_files
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-metadata.yml
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/kim-tv-metadata.yml
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-metadata.yml
     
     overlay_files: &tv_overlay_files
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-status-overlays.yml
       
-  ANIME:
-    collection_files:
-    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-collections.yml
-
-    metadata_files:
-    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-metadata.yml
-    
-    overlay_files: *tv_overlay_files
+  #ANIME:
+  #  collection_files:
+  #  - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-collections.yml
+  #
+  #  metadata_files:
+  #  - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-metadata.yml
+  #  
+  #  overlay_files: *tv_overlay_files
 
   MATT MOVIES - 1080p:
     collection_files: *movie_collection_files
