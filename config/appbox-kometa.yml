@@ -280,9 +280,9 @@ libraries:
         - fast
         - xmen
 
-    - default: streaming
-      template_variables:
-        minimum_items: 10    
+    #- default: streaming
+      #template_variables:
+        #minimum_items: 10    
 
     #My Collection Overides
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-collections.yml
@@ -306,7 +306,7 @@ libraries:
         managed: true
 
     collection_files: &tv_collection_files
-      - default: streaming
+      #- default: streaming
 
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-collections.yml
 
@@ -335,6 +335,7 @@ libraries:
     operations: *tv_operations
     collection_files: *tv_collection_files
     metadata_files: *tv_metadata_files
+    overlay_files: *tv_overlay_files
     
   Kim TV:
     operations: *tv_operations

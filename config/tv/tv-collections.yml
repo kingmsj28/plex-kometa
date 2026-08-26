@@ -5,8 +5,8 @@ collections:
     collection_order: alpha
     collection_mode: show_items
     sync_mode: sync
-    imdb_list:
-      list_id: ls4117985634
+    tmdb_discover:
+      with_keywords: 161919
 
   ##################################################
   # Marvel Television Universe
