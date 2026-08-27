@@ -22,7 +22,7 @@ libraries:
           - 348350     # Solo: A Star Wars Story
           - 1228710     # The Mandalorian and Grogu)
         
-        movie_1960: Evil Dead Combo
+        movie_1960: #Evil Dead Combo
           - 109428     # Evil Dead (2013)
           - 713704     # Evil Dead Rise (2023)
           - 1212763    # Evil Dead Burn (2026)
