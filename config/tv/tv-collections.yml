@@ -11,9 +11,7 @@ collections:
         label: Adult Animation*
 
     smart_label: random
-
     collection_mode: show_items
-
     url_poster: https://theposterdb.com/api/assets/581522
 
   Anime*:
@@ -25,7 +23,6 @@ collections:
         label.is: Anime*
 
     collection_mode: show_items
-
     url_poster: https://theposterdb.com/api/assets/126754
     
   Random TV Shows*:
