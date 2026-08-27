@@ -234,18 +234,18 @@ metadata:
             
   82083: # 1000 Ways to Die (2008)
     label: Art*
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/1000-ways-to-die.png
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/1000-ways-to-die.png
     seasons:
       0:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/1000-ways-to-die-specials.png
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/1000-ways-to-die-specials.png
       1:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/1000-ways-to-die-season-1.png
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/1000-ways-to-die-season-1.png
       2:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/1000-ways-to-die-season-2.png
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/1000-ways-to-die-season-2.png
       3:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/1000-ways-to-die-season-3.png
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/1000-ways-to-die-season-3.png
       4:
-        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/tv/1000-ways-to-die-season-4.png
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/1000-ways-to-die-season-4.png
         
   412429: # Agatha All Along (2024)
     label: Art*
