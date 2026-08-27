@@ -292,18 +292,18 @@ libraries:
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/stand-up-metadata.yml
 
     operations: &movie_operations
-      delete_collections:
-        configured: false
-        managed: true
+      #delete_collections:
+        #configured: false
+        #managed: true
 
     #overlay_files:
     #- default: resolution
 
   MATT TV:
     operations: &tv_operations
-      delete_collections:
-        configured: false
-        managed: true
+      #delete_collections:
+        #configured: false
+        #managed: true
 
     collection_files: &tv_collection_files
       #- default: streaming
@@ -331,16 +331,16 @@ libraries:
   MATT MOVIES - 1080p:
     collection_files: *movie_collection_files
     metadata_files: *movie_metadata_files
-    operations: *movie_operations
+    #operations: *movie_operations
 
   MATT TV - 1080p:
-    operations: *tv_operations
+    #operations: *tv_operations
     collection_files: *tv_collection_files
     metadata_files: *tv_metadata_files
     overlay_files: *tv_overlay_files
     
   Kim TV:
-    operations: *tv_operations
+    #operations: *tv_operations
     collection_files: *tv_collection_files
     metadata_files: *tv_metadata_files
     overlay_files: *tv_overlay_files
