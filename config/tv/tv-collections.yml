@@ -1,27 +1,43 @@
 collections:
-    
+
   Adult Animation*:
     sort_title: "!030_Adult Animation"
-    collection_order: alpha
-    collection_mode: show_items
-    sync_mode: sync
+
     tmdb_discover:
       with_keywords: 161919
-      
-  ##################################################
-  # Anime Collection
-  ##################################################
+
+    plex_search:
+      all:
+        label: Adult Animation*
+
+    smart_label: random
+
+    collection_mode: show_items
+
+    url_poster: https://theposterdb.com/api/assets/581522
 
   Anime*:
     sort_title: "!030_Anime"
 
-    plex_search:
+    smart_filter:
+      sort_by: random
       all:
-        label: Anime*
+        label.is: Anime*
 
-    sync_mode: sync
     collection_mode: show_items
-    collection_order: title
+
+    url_poster: https://theposterdb.com/api/assets/126754
+    
+  Random TV Shows*:
+    sort_title: "!020_Random TV Shows"
+
+    smart_filter:
+      sort_by: random
+      all:
+        title.not: ""
+
+    collection_mode: show_items
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/random-tv.png
 
   ##################################################
   # Marvel Television Universe

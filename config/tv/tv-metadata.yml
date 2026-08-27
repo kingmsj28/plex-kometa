@@ -1,7 +1,9 @@
 metadata:
 
   268592: # The 100 (2014)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/adc4c4c2-57e4-4bc2-9a11-e50c7e62e92f
     seasons:
       1:
@@ -275,7 +277,10 @@ metadata:
             url_poster: https://api.mediux.pro/assets/a5203bb6-fc03-47f3-9711-98ec243da6c3
 
   73141: # American Dad! (2005)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
+      - Adult Animation*
     url_poster: https://api.mediux.pro/assets/e1c70451-8a75-4dd9-9b15-25f8688c9f50
     url_background: https://api.mediux.pro/assets/27bf90ed-a896-42cb-9b0c-1a7656ad490a
     seasons:
@@ -1150,7 +1155,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/54bb10cb-3321-4007-900a-5e6c2e20628d
 
   250487: # American Horror Story (2011)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/36605d04-1540-417f-9dac-4f5d96d5d7e5
     url_background: https://api.mediux.pro/assets/cc21bad9-e5a9-4f6f-92b6-5d23e2f3cb6c
     seasons:
@@ -1467,7 +1474,10 @@ metadata:
             url_poster: https://api.mediux.pro/assets/d30ed4e3-7569-45dc-bf2d-d3e92d48ad9b
             
   110381: # Archer (2009)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
+      - Adult Animation*
     url_poster: https://api.mediux.pro/assets/7c0a9d99-8ae4-4591-ba8f-0381031924a9
     url_background: https://api.mediux.pro/assets/32b8fd78-7cd3-4b42-9923-a928571d6c24
     seasons:
@@ -1834,7 +1844,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/4d47ff5b-902a-40f5-8a21-27d736a5883c
             
   296295: # Ash vs Evil Dead (2015)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/fc0260f7-5bea-48d2-81b6-e8362648a82e
     seasons:
       0:
@@ -1913,7 +1925,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/37851fd0-dc92-466a-bf8b-497c9408f218
             
   74852: # Avatar: The Last Airbender (2005)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/95bad6b6-e7d6-473d-a5bd-77f94338e6cd
     seasons:
       0:
@@ -2054,7 +2068,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/77d99414-e2a3-4fad-9132-1cfa68bd38a7
             
   76168: # Batman: The Animated Series (1992)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/f7204949-d5c7-43f9-a9e1-a7b57e177f2b
     seasons:
       0:
@@ -2247,7 +2263,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/a8bc0c7d-9f8b-49f4-9cda-4338498dd422
             
   273181: # Better Call Saul (2015)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://theposterdb.com/api/assets/123779
     url_background: https://api.mediux.pro/assets/5e5e4983-a090-4154-b65e-b9d3e6ae895c
 
@@ -2406,7 +2424,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/26a9abda-4958-431c-809d-b7b860c5ca6f
 
   253463: # Black Mirror (2011)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/1b00e7b3-f5e2-4748-9ae7-961ff64e119e
     url_background: https://api.mediux.pro/assets/bae9d5d9-35ba-4be4-9d53-6b626be9741b
     seasons:
@@ -2502,7 +2522,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/14ea2721-3653-47cb-b4a5-5e7e9b5f126c
 
   134511: # Blue Mountain State (2010)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/e6a6e558-21bf-4df0-b010-5f0516fc5d23
     seasons:
       1:
@@ -2596,7 +2618,10 @@ metadata:
             url_poster: https://api.mediux.pro/assets/949c7191-943f-4710-aedb-f59c00ee277a
             
   194031: # Bob's Burgers (2011)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
+      - Adult Animation*
     url_poster: https://api.mediux.pro/assets/11e0da9f-46f4-4392-b864-3c6e8c1e971f
     seasons:
       0:
@@ -3284,7 +3309,10 @@ metadata:
             url_poster: https://api.mediux.pro/assets/950143e7-d95c-4e9e-a149-5bf91e1f89a5
 
   74413: # The Boondocks (2005)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
+      - Adult Animation*
     url_poster: https://api.mediux.pro/assets/a7f31d98-050e-44f8-8045-50a64f3e8be8
     seasons:
       1:
@@ -3414,7 +3442,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/1b12ce37-c866-47a5-8a9e-e328b5d0df4d
             
   355567: # The Boys (2019)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/efb42144-50a0-4ddc-9ef1-b6df5784dd2a
     url_background: https://api.mediux.pro/assets/a1f5ef06-65e8-44ed-85b9-de0e35d1a9d9
 
@@ -3523,7 +3553,10 @@ metadata:
             url_poster: https://api.mediux.pro/assets/5d5fc7cf-c510-43f4-9325-d137a3cb73d1
 
   413188: # The Boys Presents: Diabolical (2022)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
+      - Adult Animation*
     url_poster: https://api.mediux.pro/assets/9d7dafb7-fe93-498e-a3b4-3f88c6e8647a
     url_background: https://api.mediux.pro/assets/05544b65-e462-4d0c-90ae-621683f55dcf
     seasons:
@@ -3548,7 +3581,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/31bd0c04-d08b-41cd-a072-a4616a0cfdee
             
   81189: # Breaking Bad (2008)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/5f37f2cd-0bde-40de-acf9-02b8c3efc209
     url_background: https://api.mediux.pro/assets/0dac4b78-0d8d-41d9-8cef-d2e51fc1f8ef
 
@@ -3701,7 +3736,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/24699207-fd3a-4998-a492-868a7ed4ed2c
 
   259569: # Brickleberry (2012)
-    label: Art*
+    label:
+      - Art*
+      - Adult Animation*
     url_poster: https://theposterdb.com/api/assets/101384
     seasons:
       1:
@@ -3712,7 +3749,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/101387
         
   269586: # Brooklyn Nine-Nine (2013)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/38dff8bf-b3aa-4bd2-b7af-3e1522891110
     url_background: https://api.mediux.pro/assets/95442f47-bf5e-435f-ad6c-6c08d64a5504
     seasons:
@@ -4078,7 +4117,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/145009
         
   74186: # Celebrity Deathmatch (1998)
-    label: Art*
+    label:
+      - Art*
+      - Adult Animation*
     url_poster: https://theposterdb.com/api/assets/723437
     seasons:
       1:
@@ -4095,7 +4136,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/723444
         
   71862: # Chappelle's Show (2003)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/84c72865-0872-4cda-aa02-5e54d413af49
     seasons:
       0:
@@ -4170,7 +4213,10 @@ metadata:
             url_poster: https://api.mediux.pro/assets/fc9b21c2-d89c-4d8e-9487-475f646d0b63
             
   93991: # The Cleveland Show (2009)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
+      - Adult Animation*
     url_poster: https://api.mediux.pro/assets/2ba16248-caed-4dd6-ab7e-255ed3756568
     seasons:
       1:
@@ -4381,7 +4427,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/90d9df68-e4ab-43cc-819c-62991261a49f
             
   422712: # Daredevil: Born Again (2025)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/0a605fac-e1ff-446c-93bb-4a80194f3525
     url_background: https://api.mediux.pro/assets/e0abe2bd-a36b-4214-8ba3-0bfbd6791aec
     seasons:
@@ -4428,7 +4476,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/bccabd0a-1280-4781-984c-012383bdf338
 
   89211: # Deadliest Warrior (2009)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/6e63454a-7be6-4022-b2cc-10be4443e2f5
     seasons:
       0:
@@ -4511,7 +4561,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/edebaa00-94e9-4282-9c18-3b53796f14d7
 
   79349: # Dexter (2006)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/c0ba8682-15eb-4147-b7fb-47d939161d0f
     url_background: https://api.mediux.pro/assets/cea65984-f9b5-4c21-8c75-28ee68f03698
 
@@ -4759,7 +4811,9 @@ metadata:
         url_poster: https://api.mediux.pro/assets/e854537b-7a80-4c44-ae2a-511685114ef0
 
   412366: # Dexter: New Blood (2021)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/65557dbc-262b-4dc8-a2e2-960b2b9a95e0
     url_background: https://api.mediux.pro/assets/2ae96d58-d86c-4351-9398-4577f7953bed
 
@@ -4790,7 +4844,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/9a0c36cf-3546-422c-92d0-1224e7f50549
 
   430780: # Dexter: Original Sin (2024)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/690e3e92-8e0c-4dd5-92b8-06db0f070b58
     url_background: https://api.mediux.pro/assets/8cc334c1-5921-49ca-a751-3f4b2fcfd18c
 
@@ -4821,7 +4877,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/ab5cc213-658f-49a9-8295-67d42ba7cf30
 
   452595: # Dexter: Resurrection (2025)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/d72706fe-fba8-4bf6-9787-1a0c052f8df9
     url_background: https://api.mediux.pro/assets/cea0427e-0b1b-4370-9615-6847e4ecff53
 
@@ -4909,7 +4967,10 @@ metadata:
             url_poster: https://api.mediux.pro/assets/08bb9ad2-dc28-425c-98c0-ec4bba1c5959
 
   75978: # Family Guy (1999)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
+      - Adult Animation*
     url_poster: https://api.mediux.pro/assets/840bd2dc-5345-4a3d-92b9-887ff4771909
     url_background: https://api.mediux.pro/assets/6cee4cc0-a836-40e2-a8cc-05417587bd53
     seasons:
@@ -5930,7 +5991,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/134840
         
   73871: # Futurama (1999)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
+      - Adult Animation*
     url_poster: https://api.mediux.pro/assets/1cc48713-327b-4bbf-99a4-1e5903d4e071
     url_background: https://api.mediux.pro/assets/1e25d8dd-8f82-411e-8881-0efd55b55d83
     seasons:
@@ -6287,7 +6351,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/4af2277d-8c02-49d8-832a-e0e71438792c
             
   121361: # Game of Thrones (2011)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/f9da1c31-ad8e-486c-af1f-93190be16b92
     url_background: https://api.mediux.pro/assets/97434e9e-ec85-4c5d-ae22-e61dae74a76b
 
@@ -6474,7 +6540,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e9b5e393-9f1d-43a3-b65a-087aecd4d97b
 
   417909: # Gen V (2023)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/1f8f6388-ccc3-4b14-9318-3e380f4a4112
     url_background: https://api.mediux.pro/assets/a3c2c5d8-49dd-4570-916f-8ef64197252d
 
@@ -6520,7 +6588,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/bcc1288c-bbd7-40d7-a828-a77309d4cf5e
 
   311711: # The Good Place (2016)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/60ea5226-9604-4736-9fff-41abd5b42fbd
     seasons:
       0:
@@ -6663,7 +6733,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e0f85f96-5204-4ca1-b0e8-0927bf0883cf
 
   371572: # House of the Dragon (2022)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/c4bfec16-3f7f-4b71-96fe-e4ff42fbbb88
     url_background: https://api.mediux.pro/assets/481cb43a-daca-4374-ab71-551341e5d977
 
@@ -6736,7 +6808,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/094c6149-ded3-4c84-a777-33a84fbe738c
 
   393201: # I Am Groot (2022)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/88aeedfd-7194-46e5-b1c9-d1285e8ef232
     url_background: https://api.mediux.pro/assets/166328a0-2aa8-4a13-890f-b55c0572a978
     seasons:
@@ -6769,7 +6843,10 @@ metadata:
             url_poster: https://api.mediux.pro/assets/ddccb6b7-604f-4490-8168-33aad7ed5510
 
   368207: # INVINCIBLE (2021)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
+      - Adult Animation*
     url_poster: https://api.mediux.pro/assets/7c0a01be-1f16-4006-aef9-5c128f825992
     url_background: https://api.mediux.pro/assets/ccd86eb6-ebdc-4c42-84fb-1ebf1714dd46
     seasons:
@@ -6860,7 +6937,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/246061b5-aeb0-44fc-9a37-2d04e4696c49
             
   393204: # Ironheart (2025)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/4ea967ba-c464-45d1-901b-28541519cc03
     url_background: https://api.mediux.pro/assets/3e4d9d90-2995-4e0b-ab22-34cbeef36d55
     seasons:
@@ -6881,7 +6960,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/f23eb020-e841-4b31-8c24-150a6cb22484
 
   75805: # It's Always Sunny in Philadelphia (2005)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/cacbdd92-a97a-475e-970d-a24c4e5e0de7
     url_background: https://api.mediux.pro/assets/30d581b4-e1b8-4205-84b6-dbc298f9d575
     seasons:
@@ -7299,7 +7380,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/b258fb3d-5ada-4d29-81f9-a2b002f36c2e
             
   78111: # Jackass (2000)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/7a0d5393-9aac-4ac6-922b-6ce37f45ce90
     seasons:
       1:
@@ -7365,7 +7448,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/14aff882-99f1-44fe-b414-3c1bdf081341
             
   392256: # The Last of Us
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/d30da1b0-06dd-4226-8b86-13534eaac845
     url_background: https://api.mediux.pro/assets/75dc3640-fed4-4a4f-9317-41cd1c7d9bae
     seasons:
@@ -7409,7 +7494,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/5023818a-35a9-408e-a83a-5f248af4034e
 
   302938: # Letterkenny (2016)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/cfd6748c-683a-467a-9c9e-a0a48afe2b4a
     url_background: https://api.mediux.pro/assets/005d4bd5-12ea-4435-ae74-f7747a44a924
     seasons:
@@ -7628,7 +7715,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/8be82168-3c52-4351-ba01-e7402c34c962
 
   362472: # Loki (2021)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/a5e5dbc8-cf93-434e-8948-b4230f78ecba
     url_background: https://api.mediux.pro/assets/53e27fbc-2fdb-4961-80e6-ad1180a7a1f9
     seasons:
@@ -7665,7 +7754,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e7e5df06-e011-42bb-8f54-1fec5bae6437
 
   73838: # Malcolm in the Middle (2000)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/69013567-1288-4da6-87e7-224b88042420
     seasons:
       0:
@@ -8002,7 +8093,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/a8e2abf8-c68b-4055-a58e-b53fcfcc8e0c
 
   361753: # The Mandalorian (2019)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/ddaabbfc-a28f-4554-b8ae-7f066e571b21
     url_background: https://api.mediux.pro/assets/8b04da39-4d96-4eb1-9a57-f074875068e1
     seasons:
@@ -8083,7 +8176,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/7cff39d7-6b81-4cfb-8bf8-6121ee64a2b5
 
   281485: # Marvel's Agent Carter (2015)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/d4009e9e-87f8-46f1-8045-31b5b7619cfa
     url_background: https://api.mediux.pro/assets/531042c7-a81a-495c-93ed-4d53d6d714f9
     seasons:
@@ -8132,7 +8227,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/8cd49019-9839-4338-b572-b420b6b18749
 
   263365: # Marvel's Agents of S.H.I.E.L.D. (2013)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/7a8a54b3-b0db-44c8-9622-9a080c63d110
     url_background: https://api.mediux.pro/assets/42695c85-b27c-4dc5-b956-1654420d05e5
     seasons:
@@ -8433,7 +8530,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/906a9eb9-47d1-46cb-a111-67b3481c7fcc
 
   341455: # Marvel's Cloak & Dagger (2018)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/1970713f-8a89-4f4b-b337-67853871a9cd
     url_background: https://api.mediux.pro/assets/aa533a74-1280-43f4-ab87-5473f97aab90
     seasons:
@@ -8486,7 +8585,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/5e94a719-8f59-49fa-9cdd-63c25be2a57d
 
   281662: # Marvel's Daredevil (2015)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/1f9e6591-9c0f-4df4-929a-ebb92bf128ac
     url_background: https://api.mediux.pro/assets/f0e93eec-68c8-42ec-acf3-ef066b05458b
     seasons:
@@ -8581,7 +8682,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/18a5172d-14b6-4dfd-a607-2d814408e242
 
   320558: # Marvel's Inhumans (2017)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/b08d86bc-ed9c-448c-b859-9de96d731979
     url_background: https://api.mediux.pro/assets/6ac1b449-0d12-4bc4-ae27-8f2061142661
     seasons:
@@ -8606,7 +8709,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/a63e301f-1976-427d-ad09-ee75e7557b9b
 
   317953: # Marvel's Iron Fist (2017)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/f9b76d10-5074-479d-89f1-4977f43baa20
     url_background: https://api.mediux.pro/assets/5ccacdb5-6c43-464e-84b1-4e5c03b28777
     seasons:
@@ -8665,7 +8770,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e8a27935-b46c-4a6b-b6a9-a613aa75a226
 
   284190: # Marvel's Jessica Jones (2015)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/96b6ebe6-2edf-4732-8f9f-f2b75c44a007
     url_background: https://api.mediux.pro/assets/a6b14929-2328-4117-96fe-3e0cd6110b75
     seasons:
@@ -8760,7 +8867,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/5cb784fa-fc4b-492a-a341-56745c6d5214
 
   304219: # Marvel's Luke Cage (2016)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/2c1da89c-2335-47b9-82f5-e1779264a618
     url_background: https://api.mediux.pro/assets/0c6d8d0b-14a9-40a0-ad93-32a302797131
     seasons:
@@ -8825,7 +8934,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/8a287d44-a060-4a9e-a701-bf758b475748
 
   332027: # Marvel's Runaways (2017)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/8698e836-c06d-4d39-a543-71429d916361
     url_background: https://api.mediux.pro/assets/296cf1a1-369e-431b-a246-0951f54a08f6
     seasons:
@@ -8908,7 +9019,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/04cda5fd-24db-49aa-97ac-5e8df4f35028
 
   326490: # Marvel's The Defenders (2017)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/f1f5ce66-985f-4935-a698-512ee26a9d99
     url_background: https://api.mediux.pro/assets/05ae695b-e769-4019-85a2-5f0db6d14617
     seasons:
@@ -8933,7 +9046,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/a8da0858-ac92-4810-b70d-883d95c71b93
 
   331980: # Marvel's The Punisher (2017)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/331c4bcb-b314-483e-b596-bc77f6848b25
     url_background: https://api.mediux.pro/assets/e9348573-6da9-4ab6-a9cb-d987b3dc0005
     seasons:
@@ -9000,7 +9115,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e6956034-8f40-436b-b743-84c19e906f85
 
   368611: # Moon Knight (2022)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/655d7b6f-9c7a-4b68-ac46-e0d9fdc468b7
     url_background: https://api.mediux.pro/assets/a7387803-dc59-482d-9543-50a2d70abadd
     seasons:
@@ -9021,7 +9138,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/9d52f592-6c9b-4f18-bd27-58e4bb9996df
 
   368612: # Ms. Marvel (2022)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/b6386b75-e0d4-4140-a3fd-7a923e22f333
     url_background: https://api.mediux.pro/assets/4c46c0fa-b5c9-4226-9270-a0cdc3ff7f83
     seasons:
@@ -9042,7 +9161,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/1821f8b4-5d86-4d97-9eb6-2ff04e64e42d
 
   75397: # My Name Is Earl (2005)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/ff31eba1-bbd3-45bc-b2ed-4f21f5b9ceb7
     seasons:
       0:
@@ -9297,7 +9418,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/411470
         
   73244: # The Office (2005)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/e13cf8b9-9fa7-4939-90d9-36692459f5eb
     url_background: https://api.mediux.pro/assets/df10f480-0c0d-4998-9314-221093f637c9
     seasons:
@@ -9733,7 +9856,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/9bd75b0f-27a9-462c-b044-d4e4641cf7a0
 
   328487: # The Orville (2017)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/7ddcf0ce-0434-481a-9e8b-34c1285a81f6
     seasons:
       0:
@@ -9824,7 +9949,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/5d8162f3-6d08-40e2-9100-a6efea7f264d
             
   84912: # Parks and Recreation (2009)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/fc5cecc9-99e5-4cb6-8532-28ee433cbb9f
     seasons:
       0:
@@ -10102,7 +10229,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/514dc0ee-4983-4b02-b097-16387971f77d
 
   79335: # Psych (2006)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/ae75ad6f-7760-4ae8-8fd0-75f813971070
     url_background: https://api.mediux.pro/assets/2ca44fdb-0df0-40bf-ad26-6e6c3469d439
     seasons:
@@ -10401,7 +10530,9 @@ metadata:
         url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/punkd-2003/punkd-s10.jpg
         
   366924: # Reacher (2022)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/40a8a531-3f28-4957-8dbd-ba923feb7aec
     url_background: https://api.mediux.pro/assets/0ecf2dd0-24ab-451d-b2fe-108892e3cf61
     seasons:
@@ -10498,7 +10629,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/409633
         
   275274: # Rick and Morty (2013)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
+      - Adult Animation*
     url_poster: https://api.mediux.pro/assets/c335de63-3d15-4533-a8d7-f5a669fbaaed
     seasons:
       0:
@@ -10742,8 +10876,10 @@ metadata:
       7:
         url_poster: https://api.mediux.pro/assets/81e72d84-d6d8-444c-aee9-b3b0bceaea04
       
-  465690: # Scrubs
-    label: Art*
+  465690: # Scrubs (2026)
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/dd3ee764-fe51-4a07-b9ce-82e25193fd3e
     url_background: https://api.mediux.pro/assets/62aa0bde-7528-42d8-99b3-40cc1de07bbe
     seasons:
@@ -10770,7 +10906,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/696c7945-287c-409f-8a68-3f6b574cdbb3
 
   76156: # Scrubs (2001)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/e7962d0a-4395-4b72-93c6-8a96c0d58866
     url_background: https://api.mediux.pro/assets/61d6f0a2-f8d3-4082-9c46-8c5daae794b5
     seasons:
@@ -11216,7 +11354,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/6739d997-3d51-4cc5-97ba-67470b09f0ac
 
   161511: # Shameless (2011)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/74ff468f-fa58-4cd7-817d-55fc32038967
     url_background: https://api.mediux.pro/assets/145513fe-d47f-4a28-8e43-cb391f1363dd
     seasons:
@@ -11525,7 +11665,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/91c01533-4d5d-4085-ba77-1beee234b857
 
   368613: # She-Hulk: Attorney at Law (2022)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/086209be-f952-4f57-bef7-0e6929613a5f
     url_background: https://api.mediux.pro/assets/e0b55fa2-e17c-4fe7-acfd-698d6e23a2be
     seasons:
@@ -11552,7 +11694,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e7a5f66f-692b-4045-91fa-781b29d46a70
 
   409902: # Shoresy (2022)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/0766d7fa-60e9-4476-a750-d2ed792e9149
     seasons:
       1:
@@ -11645,7 +11789,10 @@ metadata:
         url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/silent-library-2006/silent-library-s4.png
         
   71663: # The Simpsons (1989)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
+      - Adult Animation*
     url_poster: https://api.mediux.pro/assets/c80f31ac-6c65-4285-83c7-1f5cf4e9ff2a
     seasons:
       0:
@@ -11728,7 +11875,10 @@ metadata:
         url_poster: https://api.mediux.pro/assets/8125d199-b29b-4a5e-9d58-2472856f4433
 
   75897: # South Park (1997)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
+      - Adult Animation*
     url_poster: https://api.mediux.pro/assets/005d3c43-96a5-4022-ad28-31be44051dd3
     seasons:
       0:
@@ -12488,7 +12638,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/c2ec777e-f83e-4786-bf4b-09d8d1834501
             
   129261: # Spartacus (2010)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/884cd492-63b3-4ec0-b482-499ffc8a9a87
     url_background: https://api.mediux.pro/assets/5741f5f2-594b-4e7e-b227-5ef994c70407
     seasons:
@@ -12584,7 +12736,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/401acefb-d7e9-40cb-a801-a951502ac57f
 
   465189: # Spartacus: House of Ashur (2025)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/512aae10-4e49-4754-b3aa-a8389d553d68
     url_background: https://api.mediux.pro/assets/be751812-e81f-4a8b-937f-d4a58745ca88
     seasons:
@@ -12613,7 +12767,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/da1a6f06-1dd6-432c-9d53-a24d765753ac
 
   83268: # Star Wars: The Clone Wars (2008)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/a03b085c-8d4f-4eb2-88de-029defbf6d97
     seasons:
       1:
@@ -12905,7 +13061,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/c133da9c-c445-4dc5-a495-35ae726557dc
             
   305288: # Stranger Things (2016)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/0d1abe67-92ad-4dec-bdd3-7685942fa6ff
     url_background: https://api.mediux.pro/assets/25b8e961-1351-46e7-b658-c273a04f6d5f
     seasons:
@@ -13014,7 +13172,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e6a3d9dd-60f1-46f1-80cc-6cceab5fb0e3
             
   78901: # Supernatural (2005)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/d62f3e18-b73a-4970-a37f-6f633282e242
     seasons:
       0:
@@ -13735,7 +13895,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e8ae3c68-b449-4160-949c-1eedf6eb5926
             
   295648: # Superstore (2015)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/83585f40-52b4-45ee-b72d-846b33995c78
     url_background: https://api.mediux.pro/assets/cbd92f1b-162d-4a2e-be67-6e3391bc4c93
     seasons:
@@ -13994,7 +14156,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/dc96e7d7-dd13-4887-bae4-870f424166cc
             
   383203: # Ted Lasso (2020)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/076cafad-cfcd-4c9b-a88d-4fa914d88036
     url_background: https://api.mediux.pro/assets/bcc97b36-c00d-4944-9b8f-e73937ad5bcc
     seasons:
@@ -14093,7 +14257,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/dfc0f662-dfe6-4167-8d6a-f7a9b3579c76
 
   446718: # Tires (2024)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/63ab9810-ed46-4752-92b7-918d46a24e55
     seasons:
       1:
@@ -14144,7 +14310,9 @@ metadata:
         url_poster: https://api.mediux.pro/assets/15f64630-f321-4151-9702-e4304ed641d0
         
   70566: # Trailer Park Boys (2001)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/31e30589-6df3-4271-8908-c8367d532d64
     seasons:
       0:
@@ -14409,7 +14577,10 @@ metadata:
             url_poster: https://api.mediux.pro/assets/379c2f2f-fcda-4c38-8219-83db99e1969e
             
   361544: # Trailer Park Boys: The Animated Series (2019)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
+      - Adult Animation*
     url_poster: https://theposterdb.com/api/assets/305764
     seasons:
       1:
@@ -14476,7 +14647,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/256447
         
   73193: # Viva La Bam (2003)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/5af6fd7d-dff7-4037-8a9a-c6c67dfc0dcb
     seasons:
       0:
@@ -14583,7 +14756,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/aa83a5a3-9e1e-4892-9df2-812eac608e3c
             
   362392: # WandaVision (2021)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/60da8bdf-35f5-4197-8eda-aa3889c36cee
     url_background: https://api.mediux.pro/assets/0c0ce36e-130f-4897-9775-961ab59dcf20
     seasons:
@@ -14610,7 +14785,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/1be34836-438f-4bbc-ae10-754054944151
 
   367147: # What If...? (2021)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/3f62947d-bd03-40d5-b9cf-0791a3070898
     url_background: https://api.mediux.pro/assets/0ed27830-a764-460a-adad-56024d3c37f8
     seasons:
@@ -14679,7 +14856,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/1d9d3798-30c9-481b-b698-b0d8af9c5e3b
 
   79126: # The Wire (2002)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/bff4cd46-3d9a-457a-bb6b-1f25c153f5e9
     url_background: https://api.mediux.pro/assets/e644bbab-c1da-49d0-bae9-ae445f50e9ee
     seasons:
@@ -14822,7 +15001,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/094c8459-02df-4d39-acb2-d3616a74b753
 
   362696: # The Witcher (2019)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/4ba6f774-5b65-4b33-a9db-b294dd894890
     url_background: https://api.mediux.pro/assets/297405a8-84fb-4dcc-824e-cfd3971578cf
     seasons:
@@ -14907,7 +15088,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/f4144b82-c605-4705-bf3f-7e7c73be6239
             
   428629: # Wonder Man (2026)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/7131599d-7866-434d-be1b-c0abf973b9fa
     seasons:
       1:
@@ -14931,7 +15114,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/1bbeaca3-ddbc-4aba-86d9-2ff2ecaaf68c
 
   211751: # Workaholics (2011)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/709e2b79-0df1-48fe-907f-bfc3c530c904
     seasons:
       0:
@@ -15336,7 +15521,9 @@ metadata:
         url_poster: https://api.mediux.pro/assets/6497c0fc-9ecf-4a24-8ac3-460adaa1040a
 
   412432: # X-Men '97 (2024)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/eb0072bf-9227-4fed-8168-5526812eeaf6
     url_background: https://api.mediux.pro/assets/dcbcc46d-b541-406e-a9aa-7eb2e9fc8d5a
     seasons:
@@ -15387,7 +15574,9 @@ metadata:
             url_poster: https://api.mediux.pro/assets/8ea30d30-3a33-4427-a252-a85b658bb707
             
   412427: # Your Friendly Neighborhood Spider-Man (2025)
-    label: Art*
+    label:
+      - Art*
+      - Title Cards*
     url_poster: https://api.mediux.pro/assets/dfc2f391-35d5-4c2c-80a1-d9a85efbd292
     url_background: https://api.mediux.pro/assets/9d0ad5fb-0279-4ae3-9dd5-1c3bff4b50c8
     seasons:
@@ -15415,3 +15604,220 @@ metadata:
           10:
             url_poster: https://api.mediux.pro/assets/b6540bde-2da0-4a1a-bfe4-4f44b0207b22
 
+  77120: # Aqua Teen Hunger Force (2000)
+    label:
+      - Art*
+      - Title Cards*
+      - Adult Animation*
+    url_poster: https://theposterdb.com/api/assets/78647
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/55850
+      1:
+        url_poster: https://theposterdb.com/api/assets/55851
+      2:
+        url_poster: https://theposterdb.com/api/assets/55852
+      3:
+        url_poster: https://theposterdb.com/api/assets/55853
+      4:
+        url_poster: https://theposterdb.com/api/assets/55854
+      5:
+        url_poster: https://theposterdb.com/api/assets/55855
+      6:
+        url_poster: https://theposterdb.com/api/assets/55856
+      7:
+        url_poster: https://theposterdb.com/api/assets/55857
+      8:
+        url_poster: https://theposterdb.com/api/assets/55858
+      9:
+        url_poster: https://theposterdb.com/api/assets/55859
+      10:
+        url_poster: https://theposterdb.com/api/assets/55860
+      11:
+        url_poster: https://theposterdb.com/api/assets/55861
+      12:
+        url_poster: https://theposterdb.com/api/assets/491842
+        
+  282254: # BoJack Horseman (2014)
+    label:
+      - Art*
+      - Title Cards*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/f53ed80a-9851-451f-a4e0-13b2d488ebe9
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/609d96f9-0cfe-44ae-8a4e-8b23a146fead
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/0372b0d9-614f-48b7-a152-f01d5275b97d
+      1:
+        url_poster: https://api.mediux.pro/assets/e01519e7-e915-44f7-84e8-cebf7a3e37e6
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/faac26e6-8e2e-452b-a997-d58630a4f814
+          2:
+            url_poster: https://api.mediux.pro/assets/1fceece4-b033-439e-af2a-bd3052d17855
+          3:
+            url_poster: https://api.mediux.pro/assets/c4640607-ce72-44ce-88cc-460aa7bf76ce
+          4:
+            url_poster: https://api.mediux.pro/assets/b45361a4-3454-42e2-aab6-6b55e9236206
+          5:
+            url_poster: https://api.mediux.pro/assets/23f1048e-d3c0-4ae4-b882-e70d336184d5
+          6:
+            url_poster: https://api.mediux.pro/assets/f513ed15-3d66-44d8-b95a-04ed4a171aac
+          7:
+            url_poster: https://api.mediux.pro/assets/48e24d84-b67d-4874-894b-94169d70e383
+          8:
+            url_poster: https://api.mediux.pro/assets/deb22a1f-2207-44f7-ad7b-6347132f1709
+          9:
+            url_poster: https://api.mediux.pro/assets/d082b30b-0f3b-41dd-b422-661d39927759
+          10:
+            url_poster: https://api.mediux.pro/assets/e4da5aa4-73b9-4031-a50e-6fda3295320a
+          11:
+            url_poster: https://api.mediux.pro/assets/cecc44c7-3a36-4d03-97b3-5808dcbb42f9
+          12:
+            url_poster: https://api.mediux.pro/assets/1f20d663-3d46-4c79-8c5d-90d2ea550a3d
+      2:
+        url_poster: https://api.mediux.pro/assets/3128682a-8e73-43bf-9ace-3ae01a448886
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/51774f4f-c275-4a9c-ae71-48104cfb1b9a
+          2:
+            url_poster: https://api.mediux.pro/assets/f7ba3181-83dc-47b8-a17c-8304329d4ed5
+          3:
+            url_poster: https://api.mediux.pro/assets/bd332a68-11a1-41b3-b849-4088713653c4
+          4:
+            url_poster: https://api.mediux.pro/assets/5bbad015-007b-43a8-a75e-4f2a75a660c9
+          5:
+            url_poster: https://api.mediux.pro/assets/12e01fc5-205a-45fa-943d-65192b8f5847
+          6:
+            url_poster: https://api.mediux.pro/assets/2e7c6b44-28ec-4e78-a42d-92b6ab098853
+          7:
+            url_poster: https://api.mediux.pro/assets/17895347-aecf-434f-8b0d-1aa460e1ffab
+          8:
+            url_poster: https://api.mediux.pro/assets/c86d76f4-b190-4fdb-9fdc-b575c89748ed
+          9:
+            url_poster: https://api.mediux.pro/assets/b288b625-620a-4fe3-94d6-45115a3945f8
+          10:
+            url_poster: https://api.mediux.pro/assets/caecfce5-abfc-4a1c-b117-a2e84d7edda6
+          11:
+            url_poster: https://api.mediux.pro/assets/6d151498-b598-4a26-9fad-3ee65351979b
+          12:
+            url_poster: https://api.mediux.pro/assets/50423253-ad91-4c96-b9e5-31d58ffe5c5e
+      3:
+        url_poster: https://api.mediux.pro/assets/c8be7ae5-daed-485d-a901-450d932c7f8c
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/d77e87cf-79ad-49b1-8b97-a33221aebca1
+          2:
+            url_poster: https://api.mediux.pro/assets/565cdec8-041a-4061-bc2d-3ac13039059d
+          3:
+            url_poster: https://api.mediux.pro/assets/723d2e21-88a9-4ef0-9544-93d90f02c63e
+          4:
+            url_poster: https://api.mediux.pro/assets/66076c8d-dd2b-4cd1-9c61-b5469a52927e
+          5:
+            url_poster: https://api.mediux.pro/assets/ba4559b2-5adf-4a83-a885-fc28c6a7bd37
+          6:
+            url_poster: https://api.mediux.pro/assets/9a8b6807-b8e6-4c03-b4a8-afaf7c02a765
+          7:
+            url_poster: https://api.mediux.pro/assets/0ba4844e-8c02-4f77-b8de-1fe4c3cb4744
+          8:
+            url_poster: https://api.mediux.pro/assets/b06dfcf8-32f0-449c-b36b-6d90c08bbc04
+          9:
+            url_poster: https://api.mediux.pro/assets/521512a6-ecd9-415d-86fa-d72d19413259
+          10:
+            url_poster: https://api.mediux.pro/assets/3802a8c6-c2a7-4d9f-b5cb-4f97bee6e7a8
+          11:
+            url_poster: https://api.mediux.pro/assets/fa4d2e32-579b-4fea-9e27-51fa7947f97f
+          12:
+            url_poster: https://api.mediux.pro/assets/39673dae-b24f-45bb-9f35-d69c02fda208
+      4:
+        url_poster: https://api.mediux.pro/assets/3259c2c4-53f8-48e1-8cd7-347e6bf8f6c7
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/320a1c36-c85c-4913-a2ad-46caa14e8081
+          2:
+            url_poster: https://api.mediux.pro/assets/74f4e837-309e-4a0d-a197-82c7b7dc67a9
+          3:
+            url_poster: https://api.mediux.pro/assets/54eae6c7-a61f-4a27-bb4c-7895dc44b7d1
+          4:
+            url_poster: https://api.mediux.pro/assets/35b6c7da-f3e7-4037-8fda-0f00306ee9c7
+          5:
+            url_poster: https://api.mediux.pro/assets/e4d0060d-538f-46e6-b396-876131606b49
+          6:
+            url_poster: https://api.mediux.pro/assets/893127d7-55a4-49ce-8963-4f6c4a0422df
+          7:
+            url_poster: https://api.mediux.pro/assets/8d4554b4-eb20-42c9-bf12-72a807a60383
+          8:
+            url_poster: https://api.mediux.pro/assets/777e71b8-4998-47aa-8e63-0b727488286b
+          9:
+            url_poster: https://api.mediux.pro/assets/3be413ad-9627-4493-a1ae-a6ef78eca2a3
+          10:
+            url_poster: https://api.mediux.pro/assets/2f6166a4-63e5-4d58-b5db-16139424d81a
+          11:
+            url_poster: https://api.mediux.pro/assets/b0a051fb-5d9d-41f3-af92-e1402e67a8be
+          12:
+            url_poster: https://api.mediux.pro/assets/518ef53b-a54f-4746-a73f-e90ba5ed0240
+      5:
+        url_poster: https://api.mediux.pro/assets/220dbe46-ac66-4b86-af58-f284b2853947
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/d3e32391-5f17-4078-a75b-3b48e4ff418d
+          2:
+            url_poster: https://api.mediux.pro/assets/d37e378a-3e93-405a-ad29-e5df75dd8e4d
+          3:
+            url_poster: https://api.mediux.pro/assets/f036bf3c-a880-4425-a992-28f49c8db5f6
+          4:
+            url_poster: https://api.mediux.pro/assets/583c9e5d-a3dd-405f-b596-2adfbe6e2d1e
+          5:
+            url_poster: https://api.mediux.pro/assets/9cb4759c-5284-4e0a-baab-0768a0af5103
+          6:
+            url_poster: https://api.mediux.pro/assets/2815dcf3-8a3e-4f83-9f3c-7e48d9824805
+          7:
+            url_poster: https://api.mediux.pro/assets/2706baaa-a52d-4f82-9f0d-4e192e55e933
+          8:
+            url_poster: https://api.mediux.pro/assets/ee05ea24-a777-45db-8e70-252773c6713c
+          9:
+            url_poster: https://api.mediux.pro/assets/ee4fb661-48cf-49f1-97e4-211fbe78aae9
+          10:
+            url_poster: https://api.mediux.pro/assets/d014fafe-4744-4f7a-b02e-2e7968b9377e
+          11:
+            url_poster: https://api.mediux.pro/assets/25191073-7321-4c51-b63f-0977c3c74aaa
+          12:
+            url_poster: https://api.mediux.pro/assets/eaadaab2-eadb-4e7d-a6cc-6bc9934a48e7
+      6:
+        url_poster: https://api.mediux.pro/assets/8fd3e8d5-b9c5-4e39-8741-9cf49a405a22
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/e4d99481-89ad-4f7e-9596-5b589ea5b7a3
+          2:
+            url_poster: https://api.mediux.pro/assets/89900b3b-42c2-48e1-8ba9-5c9e578829b2
+          3:
+            url_poster: https://api.mediux.pro/assets/b435a1af-de9a-4c07-91a9-cce364c5b67c
+          4:
+            url_poster: https://api.mediux.pro/assets/6b7bec41-f7e4-499c-a900-0471fbe90caf
+          5:
+            url_poster: https://api.mediux.pro/assets/ef93919f-571e-4b3b-beb6-5ed7cb510524
+          6:
+            url_poster: https://api.mediux.pro/assets/3c9002e3-ac99-4c5a-8ce4-2699fe4ef360
+          7:
+            url_poster: https://api.mediux.pro/assets/4a233c73-6334-4ae6-8afb-9a3c5562f238
+          8:
+            url_poster: https://api.mediux.pro/assets/cfcbf803-d4ad-4fb8-b88a-13a8d1f5e609
+          9:
+            url_poster: https://api.mediux.pro/assets/80d63ab0-3c52-44fd-8189-73ec92932993
+          10:
+            url_poster: https://api.mediux.pro/assets/2e569e1c-9b74-48dd-9725-362fac2c0b2d
+          11:
+            url_poster: https://api.mediux.pro/assets/db6a67df-3fc7-48cb-a904-4b4331ae0520
+          12:
+            url_poster: https://api.mediux.pro/assets/0c5ec26e-f415-4e68-bbcb-52624402e6ea
+          13:
+            url_poster: https://api.mediux.pro/assets/3acc2454-7958-4c7b-931a-702e843e6af5
+          14:
+            url_poster: https://api.mediux.pro/assets/92115212-5c3b-497a-ab73-64b7793b3d9a
+          15:
+            url_poster: https://api.mediux.pro/assets/3ca27f26-ecc0-4447-96ad-bf825efd48f1
+          16:
+            url_poster: https://api.mediux.pro/assets/f2a8a148-5cc9-4533-b745-151bf5850a4f
+    
