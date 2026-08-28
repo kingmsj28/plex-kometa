@@ -22,7 +22,7 @@ collections:
     collection_mode: hide
     collection_order: release
     sync_mode: sync
-    url_poster: https://api.mediux.pro/assets/a0dbf36c-c41f-41f1-b172-9f19c2987f70
+    url_poster: https://theposterdb.com/api/assets/24546
     
   ##################################################
   # Demon Slayer
@@ -40,53 +40,53 @@ collections:
   # Dragon Ball
   ##################################################
 
-  Dragon Ball:
-    sort_title: "Dragon Ball 01"
-    tvdb_show:
-      - 76666  # Dragon Ball (1986)
-    collection_mode: hide
-    collection_order: release
-    sync_mode: sync
-    url_poster: https://theposterdb.com/api/assets/445206
+  #Dragon Ball:
+  #  sort_title: "Dragon Ball 01"
+  #  tvdb_show:
+  #    - 76666  # Dragon Ball (1986)
+  #  collection_mode: hide
+  #  collection_order: release
+  #  sync_mode: sync
+  #  url_poster: https://theposterdb.com/api/assets/445206
 
   ##################################################
   # Dragon Ball Z
   ##################################################
 
-  Dragon Ball Z:
-    sort_title: "Dragon Ball 02"
-    tvdb_show:
-      - 81472  # Dragon Ball Z (1989)
-    collection_mode: hide
-    collection_order: release
-    sync_mode: sync
-    url_poster: https://theposterdb.com/api/assets/445184
+  #Dragon Ball Z:
+  #  sort_title: "Dragon Ball 02"
+  #  tvdb_show:
+  #    - 81472  # Dragon Ball Z (1989)
+  #  collection_mode: hide
+  #  collection_order: release
+  #  sync_mode: sync
+  #  url_poster: https://theposterdb.com/api/assets/445184
 
   ##################################################
   # Dragon Ball GT
   ##################################################
 
-  Dragon Ball GT:
-    sort_title: "Dragon Ball 03"
-    tvdb_show:
-      - 79275  # Dragon Ball GT (1996)
-    collection_mode: hide
-    collection_order: release
-    sync_mode: sync
-    url_poster: https://theposterdb.com/api/assets/444521
+  #Dragon Ball GT:
+  #  sort_title: "Dragon Ball 03"
+  #  tvdb_show:
+  #    - 79275  # Dragon Ball GT (1996)
+  #  collection_mode: hide
+  #  collection_order: release
+  #  sync_mode: sync
+  #  url_poster: https://theposterdb.com/api/assets/444521
 
   ##################################################
   # Dragon Ball Super
   ##################################################
 
-  Dragon Ball Super:
-    sort_title: "Dragon Ball 04"
-    tvdb_show:
-      - 295068  # Dragon Ball Super (2015)
-    collection_mode: hide
-    collection_order: release
-    sync_mode: sync
-    url_poster: https://theposterdb.com/api/assets/445161
+  #Dragon Ball Super:
+  #  sort_title: "Dragon Ball 04"
+  #  tvdb_show:
+  #    - 295068  # Dragon Ball Super (2015)
+  #  collection_mode: hide
+  #  collection_order: release
+  #  sync_mode: sync
+  #  url_poster: https://theposterdb.com/api/assets/445161
 
   ##################################################
   # Dragon Ball Universe
@@ -116,7 +116,7 @@ collections:
     collection_mode: hide
     collection_order: release
     sync_mode: sync
-    url_poster: https://theposterdb.com/api/assets/169261
+    url_poster: https://theposterdb.com/api/assets/320388
     
   ##################################################
   # Hunter x Hunter
@@ -128,7 +128,7 @@ collections:
     collection_mode: hide
     collection_order: release
     sync_mode: sync
-    url_poster: https://theposterdb.com/api/assets/335016
+    url_poster: https://theposterdb.com/api/assets/38847
  
   ##################################################
   # Jujutsu Kaisen
