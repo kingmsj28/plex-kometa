@@ -20,7 +20,7 @@ collections:
     smart_filter:
       sort_by: random
       all:
-        label.is: Anime*
+        label: Anime*
 
     collection_mode: show_items
     url_poster: https://theposterdb.com/api/assets/126754
