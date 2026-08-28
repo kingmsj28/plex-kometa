@@ -7,6 +7,8 @@ overlays:
       group: STATUS
       weight: 950
     tmdb_on_the_air: 2000
+    filters:
+      label: Art*
 
   Returning:
     overlay:
@@ -16,6 +18,7 @@ overlays:
       weight: 800
     plex_all: true
     filters:
+      label: Art*
       tmdb_status:
         - returning
         - planned
@@ -29,6 +32,7 @@ overlays:
       weight: 700
     plex_all: true
     filters:
+      label: Art*
       tmdb_status:
         - ended
         - canceled
@@ -41,5 +45,6 @@ overlays:
       weight: 750
     plex_all: true
     filters:
+      label: Art*
       tmdb_status: canceled
       last_episode_aired: 365
