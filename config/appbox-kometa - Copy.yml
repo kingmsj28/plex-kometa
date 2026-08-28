@@ -1,5 +1,12 @@
 libraries:
 
+  ANIME MOVIES:
+    collection_files:
+    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-movie-collections.yml
+
+    metadata_files:
+    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-movies-metadata.yml
+
   MATT MOVIES:
     collection_files: &movie_collection_files
     - default: franchise
@@ -271,15 +278,18 @@ libraries:
         url_poster_avp: https://theposterdb.com/api/assets/576790   # Alien / Predator Universe
         exclude:
         - fast
-        - xmen   
-        
+        - xmen
+
+    #- default: streaming
+      #template_variables:
+        #minimum_items: 10    
+
+    #My Collection Overides
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-collections.yml
-    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-movie-collections.yml
 
     metadata_files: &movie_metadata_files
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/movie-metadata.yml
     - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/movie/stand-up-metadata.yml
-    - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-movies-metadata.yml
 
     operations: &movie_operations
       #delete_collections:
@@ -308,6 +318,15 @@ libraries:
     
     overlay_files: &tv_overlay_files
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-status-overlays.yml
+      
+  #ANIME:
+  #  collection_files:
+  #  - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-collections.yml
+  #
+  #  metadata_files:
+  #  - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-metadata.yml
+  #  
+  #  overlay_files: *tv_overlay_files
 
   MATT MOVIES - 1080p:
     collection_files: *movie_collection_files

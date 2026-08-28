@@ -191,3 +191,15 @@ collections:
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/105445
     
+  ##################################################
+  # Steins;Gate
+  ##################################################
+
+  Steins;Gate*:
+    sort_title: "Steins;Gate 00"
+    tmdb_movie:
+      - 225745 # Steins;Gate: The Movie - Load Region of Déjà Vu (2013)
+    sync_mode: sync
+    collection_mode: show_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/49053

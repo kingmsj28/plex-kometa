@@ -142,3 +142,16 @@ collections:
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/105445
     
+  ##################################################
+  # Steins;Gate
+  ##################################################
+
+  Steins;Gate*:
+    sort_title: "Steins;Gate 00"
+    tvdb_show:
+      - 244061 # Steins;Gate (2011)
+      - 339268 # Steins;Gate 0 (2018)
+    sync_mode: sync
+    collection_mode: show_items
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/49053

@@ -3,11 +3,12 @@ metadata:
   267440: # Attack on Titan
     label:
       - Art*
+      - Title Cards*
       - Anime*
-    url_poster: https://api.mediux.pro/assets/67edaaa3-c413-4859-b339-34e97696fde0
+    url_poster: https://api.mediux.pro/assets/67edaaa3-c413-4859-b339-34e97696fde0?retry=1
     seasons:
       0: # Specials
-        url_poster: https://api.mediux.pro/assets/7513e17d-29a3-4592-a585-cbe156802e4d
+        url_poster: https://api.mediux.pro/assets/7513e17d-29a3-4592-a585-cbe156802e4d?retry=1
         episodes:
           7:
             url_poster: https://api.mediux.pro/assets/72a0c6f6-17e2-47b0-8c30-00b7b0932d72
@@ -27,7 +28,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/07721a80-eece-4f6f-ae87-5c99a96f8875
 
       1:
-        url_poster: https://api.mediux.pro/assets/8945e871-808d-4dec-a49d-4ecee38ff28d
+        url_poster: https://api.mediux.pro/assets/8945e871-808d-4dec-a49d-4ecee38ff28d?retry=1
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/58249f94-b486-4565-8c0f-6b54c0131996
@@ -81,7 +82,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/13866a26-8e81-4187-8300-55b650ef7078
 
       2:
-        url_poster: https://api.mediux.pro/assets/d09cc807-2a19-47f0-9d1a-355226caa6f9
+        url_poster: https://api.mediux.pro/assets/d09cc807-2a19-47f0-9d1a-355226caa6f9?retry=1
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/85452c6d-e645-4483-925f-0ad31817b108
@@ -109,7 +110,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/f9b62287-5553-4e87-8808-5d57cac0f933
 
       3:
-        url_poster: https://api.mediux.pro/assets/f076aee1-bb1e-40e4-a1c8-4b527c61e8f2
+        url_poster: https://api.mediux.pro/assets/f076aee1-bb1e-40e4-a1c8-4b527c61e8f2?retry=1
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/b6b6abd5-d8ae-4897-be06-406390ef193c
@@ -157,7 +158,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/d8006ca8-fc88-41ed-b34d-827bacde7835
 
       4:
-        url_poster: https://api.mediux.pro/assets/e524e5c2-9e03-42d4-a2a3-e44993d4d315
+        url_poster: https://api.mediux.pro/assets/e524e5c2-9e03-42d4-a2a3-e44993d4d315?retry=1
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/7ed2d977-8053-45ec-a35c-681c08ade3b4
@@ -259,14 +260,15 @@ metadata:
   348545: # Demon Slayer: Kimetsu no Yaiba (2019)
     label:
       - Art*
+      - Title Cards*
       - Anime*
-    url_poster: https://api.mediux.pro/assets/b1aa898d-ebce-44c6-8a9a-b00c3f3c419d
+    url_poster: https://api.mediux.pro/assets/b1aa898d-ebce-44c6-8a9a-b00c3f3c419d?retry=1
     seasons:
       0:
-        url_poster: https://api.mediux.pro/assets/afc16df6-4fcb-43ca-b162-9694e9a9d0ee
+        url_poster: https://api.mediux.pro/assets/afc16df6-4fcb-43ca-b162-9694e9a9d0ee?retry=1
 
       1:
-        url_poster: https://api.mediux.pro/assets/23d711dd-fdfb-4372-b4a2-03e92efdb45a
+        url_poster: https://api.mediux.pro/assets/23d711dd-fdfb-4372-b4a2-03e92efdb45a?retry=1
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/78417bdb-400c-405e-8fcc-8e9c19105e42
@@ -322,7 +324,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e5c6b405-7b5e-4cbc-ae98-a21b51fcda11
 
       2:
-        url_poster: https://api.mediux.pro/assets/9e0fa2e9-e3d0-481e-96d6-ffd93a58b078
+        url_poster: https://api.mediux.pro/assets/9e0fa2e9-e3d0-481e-96d6-ffd93a58b078?retry=1
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/e617fcfc-6d5d-4003-becb-3a66e8778244
@@ -340,7 +342,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/2adbce8d-e611-4443-92b0-d9285c0b47f1
 
       3:
-        url_poster: https://api.mediux.pro/assets/154f1440-c984-495a-b5da-836baea33249
+        url_poster: https://api.mediux.pro/assets/154f1440-c984-495a-b5da-836baea33249?retry=1
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/01d412a5-a5fd-4832-b961-0c82f203595a
@@ -366,7 +368,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/24e20d9b-0c3f-46f5-9a72-39f4829ae6ac
 
       4:
-        url_poster: https://api.mediux.pro/assets/42f1a7ff-f0e7-4707-992b-c1d684c34d7d
+        url_poster: https://api.mediux.pro/assets/42f1a7ff-f0e7-4707-992b-c1d684c34d7d?retry=1
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/6f239f6f-a9ca-4111-a03f-d822828f0e9f
@@ -392,7 +394,7 @@ metadata:
             url_poster: https://api.mediux.pro/assets/2a78e5bb-df79-42f4-8c29-de47aee35de9
 
       5:
-        url_poster: https://api.mediux.pro/assets/b104b1b1-334a-4cc8-90b5-1c3a2a741096
+        url_poster: https://api.mediux.pro/assets/b104b1b1-334a-4cc8-90b5-1c3a2a741096?retry=1
         episodes:
           1:
             url_poster: https://api.mediux.pro/assets/011450f5-c932-4a09-924b-2c426ff60b5e
@@ -1899,3 +1901,159 @@ metadata:
           26:
             url_poster: https://api.mediux.pro/assets/18d35506-148e-49be-b3d5-23b05e10a482
 
+  244061: # Steins;Gate (2011)
+    label:
+      - Art*
+      - Title Cards*
+      - Anime*
+    url_poster: https://theposterdb.com/api/assets/181812
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/181813
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/80556cce-c8f8-4da2-a687-6a78f226dee0
+          2:
+            url_poster: https://api.mediux.pro/assets/9104d298-b1f9-4c68-b1dd-b591a79bd00d
+          3:
+            url_poster: https://api.mediux.pro/assets/f2bd5592-074d-4008-bfb4-ddf4d74f320d
+          4:
+            url_poster: https://api.mediux.pro/assets/69133183-2775-4b02-ba19-f7e96e24d5e4
+          5:
+            url_poster: https://api.mediux.pro/assets/9e7b6f93-2309-4f51-86d6-62ad523ca1e4
+          6:
+            url_poster: https://api.mediux.pro/assets/37dff113-56d1-48be-a3c9-5c366f9d3b8b
+      1:
+        url_poster: https://theposterdb.com/api/assets/181814
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/d4178ecb-5c10-412f-9bda-e791fedcac92
+          2:
+            url_poster: https://api.mediux.pro/assets/56e8ef2e-a932-4910-8273-411ce865a1a5
+          3:
+            url_poster: https://api.mediux.pro/assets/e34184b4-6bf0-4f6e-b3f4-2f31000279c4
+          4:
+            url_poster: https://api.mediux.pro/assets/0824b7b5-213e-45bb-a167-a65cbc5c0ac3
+          5:
+            url_poster: https://api.mediux.pro/assets/96dca915-ae6f-4fdf-ba70-61d53b0d4849
+          6:
+            url_poster: https://api.mediux.pro/assets/3c014a82-3a7a-493e-8ff3-9a210553b304
+          7:
+            url_poster: https://api.mediux.pro/assets/f882401d-bf33-4032-82b4-ef04e806fa9a
+          8:
+            url_poster: https://api.mediux.pro/assets/4709b2fa-4329-48d1-a3ab-49bba200b109
+          9:
+            url_poster: https://api.mediux.pro/assets/53f1d3c0-fa4c-4c69-8f50-f79f74f0f1f8
+          10:
+            url_poster: https://api.mediux.pro/assets/494a2fee-4fb8-4968-bc57-1009ea1d26b0
+          11:
+            url_poster: https://api.mediux.pro/assets/d9d9b1c2-3244-44f5-8f2b-057ae0b5e23e
+          12:
+            url_poster: https://api.mediux.pro/assets/5dfbc352-9dcb-43f4-84fe-8c65511462c0
+          13:
+            url_poster: https://api.mediux.pro/assets/90dbf0b7-4c2b-4b5c-ab69-747f4711207f
+          14:
+            url_poster: https://api.mediux.pro/assets/2418d5f3-fecf-41ab-b530-4a9bbbe860ee
+          15:
+            url_poster: https://api.mediux.pro/assets/21ca967d-2aec-4130-b5f2-a1afd9ab0bb9
+          16:
+            url_poster: https://api.mediux.pro/assets/2b077dae-fc25-4688-9be8-b17c913f6c64
+          17:
+            url_poster: https://api.mediux.pro/assets/867cf5bd-f92a-4402-909f-a713af2ccc23
+          18:
+            url_poster: https://api.mediux.pro/assets/9ddf4595-50bd-4dd9-9492-fa7d84e5b71e
+          19:
+            url_poster: https://api.mediux.pro/assets/fecb347f-f0d3-4aad-afab-f1328c2adea1
+          20:
+            url_poster: https://api.mediux.pro/assets/c7a67d8b-407f-4656-9dfc-1397d754ecd4
+          21:
+            url_poster: https://api.mediux.pro/assets/f4f545d7-9246-46de-bdd9-59c973980610
+          22:
+            url_poster: https://api.mediux.pro/assets/ffa7cd06-7708-42ef-aebb-4527a62f897e
+          23:
+            url_poster: https://api.mediux.pro/assets/586f988c-82c2-4c44-981f-55260921fbba
+          24:
+            url_poster: https://api.mediux.pro/assets/83d9bc73-a645-4325-9888-a03381478690
+
+  339268: # Steins;Gate 0 (2018)
+    label:
+      - Art*
+      - Title Cards*
+      - Anime*
+    url_poster: https://theposterdb.com/api/assets/181809
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/181810
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/65fb7a33-69b2-47ca-acc9-8e2472d851ec
+      1:
+        url_poster: https://theposterdb.com/api/assets/181811
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/c19eab81-dd70-4ece-bf97-87946f8a44ef
+          2:
+            url_poster: https://api.mediux.pro/assets/bdf9e658-08a5-405d-8a41-0961b7294153
+          3:
+            url_poster: https://api.mediux.pro/assets/efabcb58-c29b-4085-b800-d9172a46b8ee
+          4:
+            url_poster: https://api.mediux.pro/assets/b7e9e1e8-ea58-4d5f-a2db-6c09e3415884
+          5:
+            url_poster: https://api.mediux.pro/assets/edf899cd-8b0f-4fcc-b6a1-1c94a06b719a
+          6:
+            url_poster: https://api.mediux.pro/assets/a9ebe15d-2b4e-4834-a4da-10d097f67b97
+          7:
+            url_poster: https://api.mediux.pro/assets/6744f731-f6a1-49d4-8af2-9d9668bd8525
+          8:
+            url_poster: https://api.mediux.pro/assets/29cdf1f1-f9c0-4af6-beac-0b22fcca2fca
+          9:
+            url_poster: https://api.mediux.pro/assets/0e0b8fa7-e69a-44fc-a047-af66448ad239
+          10:
+            url_poster: https://api.mediux.pro/assets/661089f1-5a83-43b8-af8d-b1ed8b1e55ee
+          11:
+            url_poster: https://api.mediux.pro/assets/9d51dede-7d4c-4e68-bfad-bd1d1684ea86
+          12:
+            url_poster: https://api.mediux.pro/assets/2b72dff9-92b3-47a1-a616-0a677e69c277
+          13:
+            url_poster: https://api.mediux.pro/assets/752e3bb9-70b9-45c4-a0e8-4781f7b03077
+          14:
+            url_poster: https://api.mediux.pro/assets/de72e912-0c61-4821-b921-9b4aee353acb
+          15:
+            url_poster: https://api.mediux.pro/assets/80921001-fe79-49a3-b641-343754cf8a6c
+          16:
+            url_poster: https://api.mediux.pro/assets/6aa9bab6-dbce-4174-b93d-efe9e1ca61fa
+          17:
+            url_poster: https://api.mediux.pro/assets/f8201d89-9087-4dfd-bc19-a725cacf452e
+          18:
+            url_poster: https://api.mediux.pro/assets/3ce61443-d0b0-4b04-a656-19e793272bd9
+          19:
+            url_poster: https://api.mediux.pro/assets/231e5be6-1c7d-4c08-ab9b-ad3717f26b26
+          20:
+            url_poster: https://api.mediux.pro/assets/521fdd99-8390-44a2-8108-750efec4b65b
+          21:
+            url_poster: https://api.mediux.pro/assets/39f6a38f-a717-4bfd-b484-e9d99d7cac46
+          22:
+            url_poster: https://api.mediux.pro/assets/5d71f863-427b-428e-af86-84ccfe7cf246
+          23:
+            url_poster: https://api.mediux.pro/assets/bf35c641-57b2-4cf5-9d41-c3f14634f023
+  70900: # Initial D (1998)
+    label:
+      - Art*
+      - Anime*
+    url_poster: https://api.mediux.pro/assets/cf2d30ba-c2fa-4a6d-8e79-159de51682fa
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/c24e9561-0188-439a-80c7-8c568bc7bc5c
+      1:
+        url_poster: https://api.mediux.pro/assets/e7289eff-ba11-46b2-8dc6-09a811834b47
+      2:
+        url_poster: https://api.mediux.pro/assets/aaf1eab4-88d2-4320-94c1-3f9663288cb4
+      3:
+        url_poster: https://api.mediux.pro/assets/dac4597f-85f3-4fd4-9c26-a1e8166ccada
+      4:
+        url_poster: https://api.mediux.pro/assets/5ca5bdd1-d58b-4434-b2ec-1c0b8d791e85
+      5:
+        url_poster: https://api.mediux.pro/assets/96314b94-face-4474-876c-15af162c688e
+      6:
+        url_poster: https://api.mediux.pro/assets/48e99270-6239-4647-b5b5-a022baf4f1c9
+        
