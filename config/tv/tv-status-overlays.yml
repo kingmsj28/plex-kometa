@@ -3,7 +3,7 @@ overlays:
   Airing:
     overlay:
       name: airing
-      url: https://raw.githubusercontent.com/Entree3k/Plex/refs/heads/main/Plex%20Meta%20Manager%20Configs/Overlays/images/Status/Lower%20Small/airing_small.png
+      url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/overlays/tv-status/airing_small.png
       group: STATUS
       weight: 950
     tmdb_on_the_air: 2000
@@ -13,7 +13,7 @@ overlays:
   Returning:
     overlay:
       name: returning
-      url: https://raw.githubusercontent.com/Entree3k/Plex/refs/heads/main/Plex%20Meta%20Manager%20Configs/Overlays/images/Status/Lower%20Small/returning_small.png
+      url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/overlays/tv-status/returning_small.png
       group: STATUS
       weight: 800
     plex_all: true
@@ -27,7 +27,7 @@ overlays:
   Ended:
     overlay:
       name: ended
-      url: https://raw.githubusercontent.com/Entree3k/Plex/refs/heads/main/Plex%20Meta%20Manager%20Configs/Overlays/images/Status/Lower%20Small/ended_small.png
+      url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/overlays/tv-status/ended_small.png
       group: STATUS
       weight: 700
     plex_all: true
@@ -40,7 +40,7 @@ overlays:
   Canceled:
     overlay:
       name: canceled
-      url: https://raw.githubusercontent.com/Entree3k/Plex/refs/heads/main/Plex%20Meta%20Manager%20Configs/Overlays/images/Status/Lower%20Small/canceled_small.png
+      url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/overlays/tv-status/canceled_small.png
       group: STATUS
       weight: 750
     plex_all: true

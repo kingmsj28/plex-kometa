@@ -19834,7 +19834,7 @@ metadata:
           14:
             url_poster: https://api.mediux.pro/assets/ff3a5f84-7e1a-4297-b73d-345ab0015dd9
             
-  79178: # Ed, Edd n Eddy (1999)
+  77466: # Ed, Edd n Eddy (1999)
     label:
       - Art*
     url_poster: https://theposterdb.com/api/assets/14231
@@ -19870,3 +19870,64 @@ metadata:
       4:
         url_poster: https://api.mediux.pro/assets/cf647838-ce62-4b31-ba3e-64353eb6b760
         
+  85352: # Bar Rescue (2011)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/159509
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/159510
+      1:
+        url_poster: https://theposterdb.com/api/assets/159511
+      2:
+        url_poster: https://theposterdb.com/api/assets/159512
+      3:
+        url_poster: https://theposterdb.com/api/assets/159513
+      4:
+        url_poster: https://theposterdb.com/api/assets/159514
+      5:
+        url_poster: https://theposterdb.com/api/assets/159515
+      6:
+        url_poster: https://theposterdb.com/api/assets/159516
+      7:
+        url_poster: https://theposterdb.com/api/assets/159517
+      8:
+        url_poster: https://theposterdb.com/api/assets/159518
+      9:
+        url_poster: https://theposterdb.com/api/assets/497933
+      10:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/bar-rescue/bar-rescue-s10.png
+        
+  78282: # Rocket Power (1999)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/610238
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/610239
+      1:
+        url_poster: https://theposterdb.com/api/assets/610240
+      2:
+        url_poster: https://theposterdb.com/api/assets/610241
+      3:
+        url_poster: https://theposterdb.com/api/assets/610242
+      4:
+        url_poster: https://theposterdb.com/api/assets/610243
+        
+  81252: # Pros vs. Joes (2006)
+    label:
+      - Art*
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/pros-vs-joes/pros-vs-joes.png
+    seasons:
+      1:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/pros-vs-joes/pros-vs-joes-season-1.png
+      2:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/pros-vs-joes/pros-vs-joes-season-2.png
+      3:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/pros-vs-joes/pros-vs-joes-season-3.png
+      4:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/pros-vs-joes/pros-vs-joes-season-4.png
+      5:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/pros-vs-joes/pros-vs-joes-season-5.png
+        
+g
