@@ -30,7 +30,8 @@ libraries:
 
         exclude:
         - 135416     # Prometheus
-        - 1149208     # Commando
+        - 1149208    # Commando
+        - 1725885    # Evil Dead Standalone
 
         append_addons:
           8091:

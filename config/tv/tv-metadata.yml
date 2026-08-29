@@ -2298,7 +2298,7 @@ metadata:
           21:
             url_poster: https://api.mediux.pro/assets/77d99414-e2a3-4fad-9132-1cfa68bd38a7
 
-  85352: # Bar Rescue (2011)
+  250071: # Bar Rescue (2011)
     label:
       - Art*
     url_poster: https://theposterdb.com/api/assets/159509
@@ -20170,7 +20170,7 @@ metadata:
   77995: # CatDog (1998)
     label:
       - Art*
-    url_poster: https://api.mediux.pro/assets/dc4e256c-b6c2-4d8a-a41a-d63906f38f10
+    url_poster: https://theposterdb.com/api/assets/69237
     url_background: https://api.mediux.pro/assets/d3f1cc1d-031f-4559-a841-38b02f1af10d
     seasons:
       0:
@@ -20202,3 +20202,34 @@ metadata:
       5:
         url_poster: https://api.mediux.pro/assets/5ed2fac1-e6b7-4f82-a856-8eaab03255f4
         
+  97731: # Tosh.0 (2009)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/634984
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/551019
+      1:
+        url_poster: https://theposterdb.com/api/assets/551020
+      2:
+        url_poster: https://theposterdb.com/api/assets/551021
+      3:
+        url_poster: https://theposterdb.com/api/assets/551022
+      4:
+        url_poster: https://theposterdb.com/api/assets/551023
+      5:
+        url_poster: https://theposterdb.com/api/assets/551024
+      6:
+        url_poster: https://theposterdb.com/api/assets/551025
+      7:
+        url_poster: https://theposterdb.com/api/assets/551026
+      8:
+        url_poster: https://theposterdb.com/api/assets/551027
+      9:
+        url_poster: https://theposterdb.com/api/assets/551028
+      10:
+        url_poster: https://theposterdb.com/api/assets/551029
+      11:
+        url_poster: https://theposterdb.com/api/assets/551030
+      12:
+        url_poster: https://theposterdb.com/api/assets/551031
