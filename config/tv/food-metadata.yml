@@ -1,6 +1,6 @@
 metadata:
 
-  83224: # Kitchen Nightmares (2007)
+  80552: # Kitchen Nightmares (US)(2007)
     label:
       - Art*
       - Food*
@@ -20,3 +20,688 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/396857
       7:
         url_poster: https://theposterdb.com/api/assets/396858
+        
+  338893: # Gordon Ramsay's 24 Hours to Hell and Back (2018)
+    label:
+      - Art*
+      - Food*
+    url_poster: https://theposterdb.com/api/assets/46644
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/93520
+      2:
+        url_poster: https://theposterdb.com/api/assets/93521
+      3:
+        url_poster: https://theposterdb.com/api/assets/93522
+        
+  167751: # MasterChef (2010)
+    label:
+      - Art*
+      - Title Cards*
+      - Food*
+    url_poster: https://theposterdb.com/api/assets/308972
+    url_background: https://api.mediux.pro/assets/ff9c6eb2-fe9f-4ec9-979b-a037e2bd4826
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/7d01e64f-bad4-42df-8eea-0a34342184ce
+      1:
+        url_poster: https://api.mediux.pro/assets/602c7209-8c4f-45d5-a0c9-b87b68e497e2
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/055ed429-b8b0-4477-955b-30bdfdf2448e
+          2:
+            url_poster: https://api.mediux.pro/assets/1b5d3681-bfb8-4445-82d4-05ff7a490b76
+          3:
+            url_poster: https://api.mediux.pro/assets/8182581e-1d6c-49da-b554-079df235123f
+          4:
+            url_poster: https://api.mediux.pro/assets/65470e6e-5891-43f9-98e0-d74d4bc933d2
+          5:
+            url_poster: https://api.mediux.pro/assets/2f6faf1f-8c19-4bb6-833d-c731f3638d70
+          6:
+            url_poster: https://api.mediux.pro/assets/7374f8cb-5b0a-4957-a7cb-1de7392498a6
+          7:
+            url_poster: https://api.mediux.pro/assets/21fffbd8-ad2f-4345-9c49-8199ece20c79
+          8:
+            url_poster: https://api.mediux.pro/assets/199ba38b-05ad-4b44-9823-7e86d3b97cf9
+          9:
+            url_poster: https://api.mediux.pro/assets/381d5d9a-0dc1-4cb3-b056-4db5824547d1
+          10:
+            url_poster: https://api.mediux.pro/assets/20daa417-52bd-49ee-b68a-6388c9b411e9
+          11:
+            url_poster: https://api.mediux.pro/assets/f084827f-44b6-466c-bf32-10670684a0ae
+          12:
+            url_poster: https://api.mediux.pro/assets/5275c1d8-3cfd-49b9-9ff3-3c8f9f5e00e8
+          13:
+            url_poster: https://api.mediux.pro/assets/1f2c2d80-0e0a-4d50-86be-ea1ac20824e4
+      2:
+        url_poster: https://api.mediux.pro/assets/770a494e-c974-4e75-8d94-26e2c7c73cd9
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/5ccea4d2-9623-432d-9e3a-ef46ce514abe
+          2:
+            url_poster: https://api.mediux.pro/assets/ae3dc57c-004d-4d82-b97e-66cf04250435
+          3:
+            url_poster: https://api.mediux.pro/assets/45297d04-6676-4d74-b34c-18e38fa0120e
+          4:
+            url_poster: https://api.mediux.pro/assets/76450b74-2ded-47ec-ad69-b0f8c88900c6
+          5:
+            url_poster: https://api.mediux.pro/assets/4981a11d-b2e9-4f82-a2ce-16de9a543fb0
+          6:
+            url_poster: https://api.mediux.pro/assets/a9c0d736-8657-4c9b-9c1f-514ab91ffe7c
+          7:
+            url_poster: https://api.mediux.pro/assets/1fefe1d4-f3e0-4031-be92-a9ec5bc74c9a
+          8:
+            url_poster: https://api.mediux.pro/assets/ff2cb38e-9ce9-4485-a771-81724eeca523
+          9:
+            url_poster: https://api.mediux.pro/assets/8fe41e80-51d6-4666-b053-69932cfdbe1a
+          10:
+            url_poster: https://api.mediux.pro/assets/513ec230-9a81-4ed1-a67d-f3f167be1dd3
+          11:
+            url_poster: https://api.mediux.pro/assets/969f2806-7232-4973-89ef-f98cda5069d1
+          12:
+            url_poster: https://api.mediux.pro/assets/2f5bc9ff-c098-4487-a944-b5e57e6b60b9
+          13:
+            url_poster: https://api.mediux.pro/assets/9b6bffad-923e-4655-ba3a-8ab82d502971
+          14:
+            url_poster: https://api.mediux.pro/assets/87bcd0c0-2560-4c01-85aa-2e461ab287ba
+          15:
+            url_poster: https://api.mediux.pro/assets/2fea0ba0-f252-4f16-a467-7ad508f3a7bd
+          16:
+            url_poster: https://api.mediux.pro/assets/b03ad38e-10c8-4a61-85e9-e8859a533d2f
+          17:
+            url_poster: https://api.mediux.pro/assets/f7967bd5-7925-46a6-ab02-69c86f7dc8f2
+          18:
+            url_poster: https://api.mediux.pro/assets/85343d1f-fbab-4da9-b7b6-db139b352a43
+          19:
+            url_poster: https://api.mediux.pro/assets/1d564844-3e67-4179-8fa8-c70c43afd6fc
+          20:
+            url_poster: https://api.mediux.pro/assets/54624df5-c060-4220-9785-69e64a7fd6d6
+      3:
+        url_poster: https://api.mediux.pro/assets/9189cfff-8c08-4d96-8807-01e04e5646dd
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/db1a7e62-582c-4008-8006-fd1e38bc6cea
+          2:
+            url_poster: https://api.mediux.pro/assets/ffeaeb8e-30c4-48f1-a1b9-cd2a0b006416
+          3:
+            url_poster: https://api.mediux.pro/assets/b96cdc6a-ebe1-4809-81c7-37e6c119639d
+          4:
+            url_poster: https://api.mediux.pro/assets/235794e4-d025-4d5a-8cfc-fdba4240c32e
+          5:
+            url_poster: https://api.mediux.pro/assets/7402e8b9-44b7-4d88-a0fa-89587ced1538
+          6:
+            url_poster: https://api.mediux.pro/assets/076f183b-51dc-4c98-a2d5-ef39b64942f4
+          7:
+            url_poster: https://api.mediux.pro/assets/7bccf952-917b-4428-a121-21373be2aabd
+          8:
+            url_poster: https://api.mediux.pro/assets/cd42423e-4627-4af5-9af8-f32367e212ce
+          9:
+            url_poster: https://api.mediux.pro/assets/b1fbb8e2-196e-41bd-a082-e04e874fad42
+          10:
+            url_poster: https://api.mediux.pro/assets/9874ff59-7cbf-4d64-86b9-a51d9c8f8f50
+          11:
+            url_poster: https://api.mediux.pro/assets/82a9637c-988a-4e2f-b6fe-fb1ed0cb1846
+          12:
+            url_poster: https://api.mediux.pro/assets/330f07f1-88cc-41bc-9ad4-0f3caf930cb5
+          13:
+            url_poster: https://api.mediux.pro/assets/3e40413d-ca63-4ef8-857f-de35d6284870
+          14:
+            url_poster: https://api.mediux.pro/assets/eecb8922-e69a-4aba-adcb-07ebf4785ee0
+          15:
+            url_poster: https://api.mediux.pro/assets/105fb26b-dad8-4eb9-8897-51c66b9252a4
+          16:
+            url_poster: https://api.mediux.pro/assets/c97f9fe3-dad7-4069-a16b-36fe6a863bbf
+          17:
+            url_poster: https://api.mediux.pro/assets/616db89d-7a9e-4777-b339-aee02ea426d4
+          18:
+            url_poster: https://api.mediux.pro/assets/34617860-4ec6-4c38-9e3f-8303aab399a8
+          19:
+            url_poster: https://api.mediux.pro/assets/ef6c2244-1d9e-4665-9ca1-c3ac7f57ff92
+          20:
+            url_poster: https://api.mediux.pro/assets/f9875700-f22d-40b4-b5eb-bf695faf736c
+      4:
+        url_poster: https://api.mediux.pro/assets/6b6a0d06-2842-4b77-b260-51a7a531ce8f
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/72427d97-9802-4bb9-a0c9-768d6c8ff14b
+          2:
+            url_poster: https://api.mediux.pro/assets/b4a33bd1-fbe5-4681-b4d3-bdfc3e4a8bcc
+          3:
+            url_poster: https://api.mediux.pro/assets/54064877-a7b6-43f2-83b5-1c75e215cafa
+          4:
+            url_poster: https://api.mediux.pro/assets/a617ee63-4a36-47f0-afea-3cc2cf2171da
+          5:
+            url_poster: https://api.mediux.pro/assets/e92947a4-4f14-47ad-9153-83aaee53f71b
+          6:
+            url_poster: https://api.mediux.pro/assets/c11ccb7b-dd83-4351-ab3f-29b6e213b1e6
+          7:
+            url_poster: https://api.mediux.pro/assets/6356543d-c4f1-4990-b2a1-6f46adc85043
+          8:
+            url_poster: https://api.mediux.pro/assets/21d7fb52-383f-4ebe-aed8-f2ee43ab5513
+          9:
+            url_poster: https://api.mediux.pro/assets/0b9355e6-204d-406e-b96a-06de5f1ef03c
+          10:
+            url_poster: https://api.mediux.pro/assets/e6e20560-979c-4180-a410-459407a51652
+          11:
+            url_poster: https://api.mediux.pro/assets/bab933eb-cde3-451b-932a-6dacfedf17fd
+          12:
+            url_poster: https://api.mediux.pro/assets/3373a272-72f1-4a2d-8b30-b1dc50d08c1f
+          13:
+            url_poster: https://api.mediux.pro/assets/b82071a4-ada6-4e77-924b-37cb24309c8c
+          14:
+            url_poster: https://api.mediux.pro/assets/8e0037f2-2200-42c1-bec8-758f011fc1c4
+          15:
+            url_poster: https://api.mediux.pro/assets/805b705e-27fb-4c2b-8f90-7e791e8ea6cd
+          16:
+            url_poster: https://api.mediux.pro/assets/74f11c58-bbf4-466e-a7aa-e0f0add6ed41
+          17:
+            url_poster: https://api.mediux.pro/assets/ea6372d3-6ed2-47c5-b08e-129ad9928e3e
+          18:
+            url_poster: https://api.mediux.pro/assets/cda6884a-3e1a-460e-af15-ede648ee1ea9
+          19:
+            url_poster: https://api.mediux.pro/assets/3a0f18b0-aa5c-4589-8715-ddaf824284f9
+          20:
+            url_poster: https://api.mediux.pro/assets/fdabfde1-4806-40fb-820d-b798ec404e47
+          21:
+            url_poster: https://api.mediux.pro/assets/83d7dc5d-8624-4ab5-8077-b543b31cefe3
+          22:
+            url_poster: https://api.mediux.pro/assets/0f53f566-d44d-492a-b766-646923e22d28
+          23:
+            url_poster: https://api.mediux.pro/assets/3bca6e4d-69fd-4366-b01b-74968213ef7c
+          24:
+            url_poster: https://api.mediux.pro/assets/c55807df-4921-4047-94e8-a7720aec93a7
+          25:
+            url_poster: https://api.mediux.pro/assets/c65c8080-d74b-49e9-83d8-e614c2bf01e0
+      5:
+        url_poster: https://api.mediux.pro/assets/11d925f7-21c6-458b-a24d-3ab9af02e778
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/867ac174-b428-40e9-b34c-fb3cf8191e56
+          2:
+            url_poster: https://api.mediux.pro/assets/e17e94e2-f8ee-4bf4-8fd4-999161401acb
+          3:
+            url_poster: https://api.mediux.pro/assets/2a0ce8ce-9717-4932-8521-b3f17edcefc1
+          4:
+            url_poster: https://api.mediux.pro/assets/9a1db381-a370-4cb5-b171-313a39f0b1f0
+          5:
+            url_poster: https://api.mediux.pro/assets/3a06e1c7-9139-47f4-956f-37d5fa941ed1
+          6:
+            url_poster: https://api.mediux.pro/assets/01d05c8a-e85f-4a9c-b40e-4b5a83a43200
+          7:
+            url_poster: https://api.mediux.pro/assets/fa901d5c-f0b7-4467-9250-3b59046c8924
+          8:
+            url_poster: https://api.mediux.pro/assets/1584fd15-9291-4e51-a638-1720c46776ef
+          9:
+            url_poster: https://api.mediux.pro/assets/2fc4df14-8168-4c94-b247-da1536bb2ba5
+          10:
+            url_poster: https://api.mediux.pro/assets/a1855e3f-30fa-496e-af46-a0c828edaec7
+          11:
+            url_poster: https://api.mediux.pro/assets/0a6eaefb-3326-46cb-b8a7-ebbaf282049b
+          12:
+            url_poster: https://api.mediux.pro/assets/94911346-cd0b-40f3-846f-7714345a5876
+          13:
+            url_poster: https://api.mediux.pro/assets/fbcab24e-4379-4c52-add6-d69c8c99dfa1
+          14:
+            url_poster: https://api.mediux.pro/assets/8911ef35-461c-4ab0-abb9-b35b7546198c
+          15:
+            url_poster: https://api.mediux.pro/assets/91c9d969-ebc0-488e-ad3b-b7ee62a58541
+          16:
+            url_poster: https://api.mediux.pro/assets/08368641-b053-4c27-ada6-5e0193cecd8f
+          17:
+            url_poster: https://api.mediux.pro/assets/f1f8993a-b5a0-480a-8aad-2ea0c6ba07b5
+          18:
+            url_poster: https://api.mediux.pro/assets/bc4a94f2-5777-44ee-8373-9e8b587c6ca7
+          19:
+            url_poster: https://api.mediux.pro/assets/17abec33-7154-4de3-a2b8-d9d744b5a506
+      6:
+        url_poster: https://api.mediux.pro/assets/b4d96553-8a67-4179-b1f4-516b3684c4ee
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/5f3efa81-78ad-412d-ad8d-059a57205b82
+          2:
+            url_poster: https://api.mediux.pro/assets/ed2627f9-cb35-4873-a160-dcd008a8032d
+          3:
+            url_poster: https://api.mediux.pro/assets/455ef56d-852e-4e6b-ba33-99c2576e6b25
+          4:
+            url_poster: https://api.mediux.pro/assets/5323ad64-300a-48dd-b1ab-c3e6c18431a8
+          5:
+            url_poster: https://api.mediux.pro/assets/caa42de8-1690-4218-bf5e-3ea856ed82b3
+          6:
+            url_poster: https://api.mediux.pro/assets/5960ee38-b3ca-4289-bbdf-d689e9bd1496
+          7:
+            url_poster: https://api.mediux.pro/assets/f67d208b-42c2-4295-baaa-3bde06f03b24
+          8:
+            url_poster: https://api.mediux.pro/assets/23e40976-4c3e-4e7d-a15b-800153119f1a
+          9:
+            url_poster: https://api.mediux.pro/assets/9be24a20-85f9-4dd3-8ede-71b6f7c2d594
+          10:
+            url_poster: https://api.mediux.pro/assets/fc2f7b70-4afa-47a0-ae22-d6f8de6d44b7
+          11:
+            url_poster: https://api.mediux.pro/assets/e486bb1d-967a-4032-9b28-066f3495612c
+          12:
+            url_poster: https://api.mediux.pro/assets/a1faf38a-67c9-4197-ada1-accd77081d38
+          13:
+            url_poster: https://api.mediux.pro/assets/a08b68cf-b0fe-4909-9bb3-7556a6f226a7
+          14:
+            url_poster: https://api.mediux.pro/assets/92a91b54-0607-4d0c-9915-51fcc3729c5d
+          15:
+            url_poster: https://api.mediux.pro/assets/f677e536-fe85-4cb8-831f-dcd285a53e97
+          16:
+            url_poster: https://api.mediux.pro/assets/0b6de6ec-9c38-49f6-8d12-011c2a08370c
+          17:
+            url_poster: https://api.mediux.pro/assets/add5c2d4-295a-42c3-a8e6-1162934f2f58
+          18:
+            url_poster: https://api.mediux.pro/assets/aac89b17-25c4-4727-a877-4c6c36488508
+          19:
+            url_poster: https://api.mediux.pro/assets/0fec0b0d-70d6-4567-a97a-fc97bfd129be
+          20:
+            url_poster: https://api.mediux.pro/assets/99b7c101-725f-411e-9c72-52748210d802
+      7:
+        url_poster: https://api.mediux.pro/assets/947b9ce8-88ff-4de2-b5a4-8512c25ecdfa
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/6f579285-a8b7-4867-980a-7a7b1da300a1
+          2:
+            url_poster: https://api.mediux.pro/assets/d4b0dfd3-9a0a-4e2c-824e-db266091007c
+          3:
+            url_poster: https://api.mediux.pro/assets/f8667fcd-99e7-4ea4-a0d8-a02dfd7e2d69
+          4:
+            url_poster: https://api.mediux.pro/assets/9f0cfec3-37b2-499c-9750-0132bdfe74d7
+          5:
+            url_poster: https://api.mediux.pro/assets/6370d791-de9a-486b-9a6d-acbdbccdb237
+          6:
+            url_poster: https://api.mediux.pro/assets/170c3ba2-4853-4f6b-adb3-3fd6125c19e1
+          7:
+            url_poster: https://api.mediux.pro/assets/779e6dab-d6a4-4036-bd17-292ebf6e3a1d
+          8:
+            url_poster: https://api.mediux.pro/assets/86f3aa2b-1a80-4e2e-b7d4-71d89b8c1586
+          9:
+            url_poster: https://api.mediux.pro/assets/8e24a54f-cca6-49ae-a2a0-6d43b786e4c6
+          10:
+            url_poster: https://api.mediux.pro/assets/05463a4b-12d2-4d3b-95f7-51be9259868c
+          11:
+            url_poster: https://api.mediux.pro/assets/b67a08f9-6ecc-4b87-8738-7fbdd56501d3
+          12:
+            url_poster: https://api.mediux.pro/assets/d21a6ce1-2905-4ca0-82e8-181398e3e91d
+          13:
+            url_poster: https://api.mediux.pro/assets/68edebe9-a68a-4ebb-9b90-23eb5a0c310d
+          14:
+            url_poster: https://api.mediux.pro/assets/65d0ab02-19d4-4311-8a38-e3ce5dbb3754
+          15:
+            url_poster: https://api.mediux.pro/assets/c9b47426-bd53-4008-a061-8a2f16fceaba
+          16:
+            url_poster: https://api.mediux.pro/assets/0270864e-c525-46de-ad96-ef8f0cfd49b8
+          17:
+            url_poster: https://api.mediux.pro/assets/9c850aa9-4fdd-44d2-ab31-7edcafc7e126
+          18:
+            url_poster: https://api.mediux.pro/assets/6fbf64d7-f5fc-45ce-8c23-29c2c04d222c
+          19:
+            url_poster: https://api.mediux.pro/assets/d8e4d133-5402-4140-8ce0-597d0c3e0cd0
+      8:
+        url_poster: https://api.mediux.pro/assets/8bb276d0-4c19-44b4-95c7-cc446ead4c95
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/88702bfd-5f69-4d66-aefd-dc74a8f868af
+          2:
+            url_poster: https://api.mediux.pro/assets/b76e0140-d89f-470b-be61-0ba5075a9ca4
+          3:
+            url_poster: https://api.mediux.pro/assets/76b0a201-f56a-45c1-9f34-28f855110db6
+          4:
+            url_poster: https://api.mediux.pro/assets/e59ce216-3ad7-4997-8c39-e476633ddda5
+          5:
+            url_poster: https://api.mediux.pro/assets/0df1590d-55ec-4aa0-b07b-17f743cc84f7
+          6:
+            url_poster: https://api.mediux.pro/assets/62034238-8693-4d0a-8bc2-3caebcebba2d
+          7:
+            url_poster: https://api.mediux.pro/assets/5ffc2dcf-998b-4f0d-8397-413372fb9e38
+          8:
+            url_poster: https://api.mediux.pro/assets/079fd531-35f2-4b69-94d8-f5ea73fffd41
+          9:
+            url_poster: https://api.mediux.pro/assets/478df594-ab6c-4c52-a5b5-e4c18fb07331
+          10:
+            url_poster: https://api.mediux.pro/assets/3218ec36-a725-4cf7-a9cb-acd0c9406806
+          11:
+            url_poster: https://api.mediux.pro/assets/1b6fd008-cda7-4918-bd76-1f3018893d10
+          12:
+            url_poster: https://api.mediux.pro/assets/10d4f33e-b40c-4254-bd60-a23045277a44
+          13:
+            url_poster: https://api.mediux.pro/assets/af9bde4c-92ac-43bd-b224-eb4409f84e37
+          14:
+            url_poster: https://api.mediux.pro/assets/66326147-8c6b-4c79-be8f-40c029f7567e
+          15:
+            url_poster: https://api.mediux.pro/assets/6434fb8b-2056-46eb-bb8c-ff1c872b5bef
+          16:
+            url_poster: https://api.mediux.pro/assets/9e9bdab6-eef2-4640-a91f-1be3f048671c
+          17:
+            url_poster: https://api.mediux.pro/assets/f717e435-688b-483c-a512-c59e3f7a4fc6
+          18:
+            url_poster: https://api.mediux.pro/assets/d77bb182-ab10-49bd-baef-b7a2d420e6e2
+          19:
+            url_poster: https://api.mediux.pro/assets/e37a8ddf-8c91-4843-975d-1af77a591b1f
+          20:
+            url_poster: https://api.mediux.pro/assets/62280677-db89-4849-8626-82c8e9e5ea30
+          21:
+            url_poster: https://api.mediux.pro/assets/27875ede-2775-440f-a06c-52c44b233965
+      9:
+        url_poster: https://api.mediux.pro/assets/b6a5e1d1-d424-44f0-987f-36c522a88c8b
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/419d83bf-3280-4481-bdb3-13d978454a06
+          2:
+            url_poster: https://api.mediux.pro/assets/68f735c2-9581-4c91-bfa1-23a8c9c17e85
+          3:
+            url_poster: https://api.mediux.pro/assets/e79607f4-2fee-4569-bfc9-64085ac57942
+          4:
+            url_poster: https://api.mediux.pro/assets/5c88ab97-ae72-4eab-999e-bc9d8619d8a9
+          5:
+            url_poster: https://api.mediux.pro/assets/63f46fdb-2dd7-41df-b51f-0ca2d354a6e1
+          6:
+            url_poster: https://api.mediux.pro/assets/e4467b25-eb04-4d56-9177-d4729ed4ab81
+          7:
+            url_poster: https://api.mediux.pro/assets/66a07345-f41c-493a-ab88-859c4de8c197
+          8:
+            url_poster: https://api.mediux.pro/assets/acd17716-bd94-4ea6-8c4a-25e6329cb0f7
+          9:
+            url_poster: https://api.mediux.pro/assets/8f39778c-10db-43a3-ac28-06935b717eac
+          10:
+            url_poster: https://api.mediux.pro/assets/f2212380-1001-4bdf-b3f1-2e24ba49c597
+          11:
+            url_poster: https://api.mediux.pro/assets/0db27bdf-1563-40a8-b1e9-fb8f7ff4e306
+          12:
+            url_poster: https://api.mediux.pro/assets/a1ccc6d2-26ce-4ffe-b0a5-adb24dc13d40
+          13:
+            url_poster: https://api.mediux.pro/assets/d052487c-91ff-4a3c-ae5b-f71a561da046
+          14:
+            url_poster: https://api.mediux.pro/assets/abbbd459-b9d6-4400-9c82-2e3f31d1a061
+          15:
+            url_poster: https://api.mediux.pro/assets/ad593878-0bdf-49d0-b2fb-f92dec6a94c6
+          16:
+            url_poster: https://api.mediux.pro/assets/89670dcf-bbcf-43a9-8dc4-8b15ce644d69
+          17:
+            url_poster: https://api.mediux.pro/assets/f81edc87-2511-4cde-b81e-11085d583151
+          18:
+            url_poster: https://api.mediux.pro/assets/d03d5e2d-fe34-4870-a743-798d67e74c85
+          19:
+            url_poster: https://api.mediux.pro/assets/f18839a3-b6b9-4ebc-8ca1-eab23a1867ab
+          20:
+            url_poster: https://api.mediux.pro/assets/0de1b87c-452f-4fb1-bb19-312f4df23932
+          21:
+            url_poster: https://api.mediux.pro/assets/e245753c-4b8c-48cc-8e58-588be9746879
+          22:
+            url_poster: https://api.mediux.pro/assets/f879d710-5968-4774-929e-d7b73aa11cb4
+          23:
+            url_poster: https://api.mediux.pro/assets/92aa6e92-b312-46b7-a2d3-a8e9c15ddd40
+      10:
+        url_poster: https://api.mediux.pro/assets/b391806d-11c7-4d56-a90b-6338e899296c
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/9581e2c2-85ea-48e6-9c13-a39704e9fa14
+          2:
+            url_poster: https://api.mediux.pro/assets/a2a15878-bd7a-4dec-9c83-4e09dd59fecd
+          3:
+            url_poster: https://api.mediux.pro/assets/b66c4411-9615-4934-94ff-e28e62e6558c
+          4:
+            url_poster: https://api.mediux.pro/assets/226032c1-47ea-4a4e-b875-d380f0317b93
+          5:
+            url_poster: https://api.mediux.pro/assets/a7f44fea-c51a-4e87-a8d9-bcdf092893a9
+          6:
+            url_poster: https://api.mediux.pro/assets/c9f8dc18-252d-49d9-b46a-701f07d962b6
+          7:
+            url_poster: https://api.mediux.pro/assets/e30731b6-c94c-46e3-9763-69630919298f
+          8:
+            url_poster: https://api.mediux.pro/assets/84298fe9-f444-4865-bac9-4c7ebb93d6a2
+          9:
+            url_poster: https://api.mediux.pro/assets/f9ac6b25-ad0d-49f0-b0a4-ac342942f3a8
+          10:
+            url_poster: https://api.mediux.pro/assets/8d2f7647-ebc9-42ce-9fb9-1c5f4288fa08
+          11:
+            url_poster: https://api.mediux.pro/assets/ec58b041-d831-4a3d-b25e-7be26babca80
+          12:
+            url_poster: https://api.mediux.pro/assets/0cac508f-250d-445e-87d8-3437d464d9ca
+          13:
+            url_poster: https://api.mediux.pro/assets/65416113-6985-4573-a17d-342063d91155
+          14:
+            url_poster: https://api.mediux.pro/assets/d64ed4b2-fa20-4581-b82f-d44b18cde153
+          15:
+            url_poster: https://api.mediux.pro/assets/0a1c3642-15cc-4e8e-bdfa-efd92de357c5
+          16:
+            url_poster: https://api.mediux.pro/assets/5445277f-77a8-4d6a-94f9-8249e7068707
+          17:
+            url_poster: https://api.mediux.pro/assets/889cd6ca-204b-41b1-895f-e03940344302
+          18:
+            url_poster: https://api.mediux.pro/assets/b28cd7db-3fb1-4237-8a4f-2034fb2181af
+          19:
+            url_poster: https://api.mediux.pro/assets/4d15290f-db0d-487e-bfbe-6e46e69e59ea
+          20:
+            url_poster: https://api.mediux.pro/assets/080a7ee2-c0c7-4f79-bf38-701d73f62b49
+          21:
+            url_poster: https://api.mediux.pro/assets/b9791323-d8a0-473c-9627-049ff049b467
+          22:
+            url_poster: https://api.mediux.pro/assets/1596eabb-4106-4eac-8be7-1eb729b4a91b
+          23:
+            url_poster: https://api.mediux.pro/assets/18c2fc11-7896-4c8e-90af-a32f70549fc6
+          24:
+            url_poster: https://api.mediux.pro/assets/29ce6e56-2007-4839-8840-362dff0312da
+          25:
+            url_poster: https://api.mediux.pro/assets/9b667d57-fe80-444e-96dd-34836dbc3344
+      11:
+        url_poster: https://api.mediux.pro/assets/93f8adfe-50a6-4829-86c0-fa350ab68f66
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/dd40b1e1-55a9-495e-a581-0ae6497be673
+          2:
+            url_poster: https://api.mediux.pro/assets/dc81f1be-f19c-4a33-bdd7-db4c06166766
+          3:
+            url_poster: https://api.mediux.pro/assets/444619f7-aafa-4184-929e-89e56b171f2e
+          4:
+            url_poster: https://api.mediux.pro/assets/a8b3a970-75fb-4e99-8f5d-fd2694283870
+          5:
+            url_poster: https://api.mediux.pro/assets/10fef035-9522-485c-ae1a-e41022344a0b
+          6:
+            url_poster: https://api.mediux.pro/assets/e73f838f-ded3-4fb5-b1f2-322f6e13b9f8
+          7:
+            url_poster: https://api.mediux.pro/assets/ace6907b-0f30-4f46-a49b-bcdaf93a3234
+          8:
+            url_poster: https://api.mediux.pro/assets/226fc529-da9c-46df-9fce-a3541e4e65a2
+          9:
+            url_poster: https://api.mediux.pro/assets/9a489f53-8dd3-4801-afff-2cfad5f72a95
+          10:
+            url_poster: https://api.mediux.pro/assets/8c2f2f6f-2223-437e-b80c-6ebe51e897a6
+          11:
+            url_poster: https://api.mediux.pro/assets/73cb891f-bd81-4b82-a3bf-14a385e45be6
+          12:
+            url_poster: https://api.mediux.pro/assets/e8b02f52-aa52-4d1f-8733-088678902a13
+          13:
+            url_poster: https://api.mediux.pro/assets/bc9638ef-1de9-42c9-b941-24d12b86baff
+          14:
+            url_poster: https://api.mediux.pro/assets/3d5ab719-d821-4619-8d12-7f95d1250223
+          15:
+            url_poster: https://api.mediux.pro/assets/1a8e49da-3322-420a-bca9-153c5b2c4587
+          16:
+            url_poster: https://api.mediux.pro/assets/f28fdd14-e8bc-4f6f-9712-ce5cec47d1a5
+          17:
+            url_poster: https://api.mediux.pro/assets/5fae6116-ba78-48d4-9f83-d7134dd7c1d0
+          18:
+            url_poster: https://api.mediux.pro/assets/dbfbba48-c1de-4f0d-8bcb-cdcac3b3cfbb
+      12:
+        url_poster: https://api.mediux.pro/assets/0e4a796c-e820-4215-b441-761bcbff918a
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/bec94719-a871-4235-a4cb-bfc8f69f19d8
+          2:
+            url_poster: https://api.mediux.pro/assets/0c774a73-deff-4107-94aa-cf79ff9b9983
+          3:
+            url_poster: https://api.mediux.pro/assets/97186c9b-95c0-45a6-aa5d-83767d89679d
+          4:
+            url_poster: https://api.mediux.pro/assets/c80ac476-958b-4c3a-bad5-e998f85df581
+          5:
+            url_poster: https://api.mediux.pro/assets/d675fd97-8214-4613-8c8a-0628e12e2671
+          6:
+            url_poster: https://api.mediux.pro/assets/918445e3-3dbf-465b-aa6e-1cafc75842f8
+          7:
+            url_poster: https://api.mediux.pro/assets/e20fe500-9347-432b-a30b-c5e55d8e8711
+          8:
+            url_poster: https://api.mediux.pro/assets/91f0607b-8538-464b-8462-23a856e731b1
+          9:
+            url_poster: https://api.mediux.pro/assets/e94b7d9f-97c0-4386-9034-5bb30750221e
+          10:
+            url_poster: https://api.mediux.pro/assets/bf1ccdc7-eed0-4ac2-a654-8e0bae274877
+          11:
+            url_poster: https://api.mediux.pro/assets/fc6b7b7e-3418-4e5d-8163-c31704199f3c
+          12:
+            url_poster: https://api.mediux.pro/assets/3bac8fd2-3b1c-4259-9b67-4a3f09d7506a
+          13:
+            url_poster: https://api.mediux.pro/assets/83d14768-5236-4420-988d-f66b8f32c1de
+          14:
+            url_poster: https://api.mediux.pro/assets/3862d04f-facf-4d7c-9b0b-cd02865bd5ed
+          15:
+            url_poster: https://api.mediux.pro/assets/801b82d3-6425-4a3b-a811-0fafad1a091b
+          16:
+            url_poster: https://api.mediux.pro/assets/fa52beea-0e28-4fd0-9dea-43a33afae6a0
+          17:
+            url_poster: https://api.mediux.pro/assets/7150be06-6879-4bb1-b798-6a2828eb9551
+          18:
+            url_poster: https://api.mediux.pro/assets/d75598bb-d221-489b-bd71-960950d3c67b
+          19:
+            url_poster: https://api.mediux.pro/assets/e8019cd2-358a-4ed9-b750-64a3e192dc00
+          20:
+            url_poster: https://api.mediux.pro/assets/58244d49-0349-4f0e-9baa-00dc7660a8b0
+      13:
+        url_poster: https://api.mediux.pro/assets/7a1ae6d0-a27d-4da9-8d8b-7a8d2d5db25f
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/6366b4bf-02b7-4a8d-b5c8-189e97ef96a4
+          2:
+            url_poster: https://api.mediux.pro/assets/31e68304-32db-4998-a261-efbcb3ef715a
+          3:
+            url_poster: https://api.mediux.pro/assets/b2d7af5a-3503-4cbd-9497-214e9e00bfb0
+          4:
+            url_poster: https://api.mediux.pro/assets/a240b2ca-3fc6-4f78-be2f-a79dd733ad31
+          5:
+            url_poster: https://api.mediux.pro/assets/ef011fff-066a-4c19-8a1b-7635a2f9d382
+          6:
+            url_poster: https://api.mediux.pro/assets/17fbccb2-23cb-4882-9716-c564d5768c8e
+          7:
+            url_poster: https://api.mediux.pro/assets/da727ab5-338d-41cd-90f4-e41c6f6c7170
+          8:
+            url_poster: https://api.mediux.pro/assets/64742449-d99f-4099-aa4a-acb10956c164
+          9:
+            url_poster: https://api.mediux.pro/assets/c0e5d613-bdcd-4eab-b2a4-4142182c55f0
+          10:
+            url_poster: https://api.mediux.pro/assets/0ad7e1fd-369c-49a3-be23-d11e77d5b172
+          11:
+            url_poster: https://api.mediux.pro/assets/3b70c98e-9c2e-463b-b484-cf311cc64abb
+          12:
+            url_poster: https://api.mediux.pro/assets/ade6c721-4324-4a63-8d82-33c13100d281
+          13:
+            url_poster: https://api.mediux.pro/assets/d34e6c83-942c-47e3-a1c7-2d03622b165c
+          14:
+            url_poster: https://api.mediux.pro/assets/6b72a976-4761-4823-adee-6aa05dd1de70
+          15:
+            url_poster: https://api.mediux.pro/assets/cb587c3b-ae07-4c27-b6dc-4b4726e961e5
+          16:
+            url_poster: https://api.mediux.pro/assets/1d485ef7-99f1-4be7-904e-8a60c365f017
+          17:
+            url_poster: https://api.mediux.pro/assets/63946bea-1cf4-4132-8b37-56b01f0366c7
+          18:
+            url_poster: https://api.mediux.pro/assets/8125f921-b961-4a25-aac5-ffdd6bb14e01
+          19:
+            url_poster: https://api.mediux.pro/assets/83fda270-18eb-4e92-9f8a-a5c32b564aa9
+          20:
+            url_poster: https://api.mediux.pro/assets/19f60da3-25a4-46aa-a99f-5a825e85a90a
+      14:
+        url_poster: https://api.mediux.pro/assets/01948b22-a1da-4cd3-bc66-724deee0a3ed
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/092aa530-66d5-469a-8702-7182a5f59176
+          2:
+            url_poster: https://api.mediux.pro/assets/b6725d82-f0dc-4a32-9638-7e289f601b79
+          3:
+            url_poster: https://api.mediux.pro/assets/1a496299-1248-4c83-aa78-d2b94d2e60f4
+          4:
+            url_poster: https://api.mediux.pro/assets/9c6061f8-bf0f-4221-8822-3f3c18aad5d8
+          5:
+            url_poster: https://api.mediux.pro/assets/7225945c-50f3-4f5d-9864-732b5dcd3b86
+          6:
+            url_poster: https://api.mediux.pro/assets/cc90987f-85a9-4df9-8d42-759a7ae46435
+          7:
+            url_poster: https://api.mediux.pro/assets/e5597870-2506-4896-8542-e649807ffe95
+          8:
+            url_poster: https://api.mediux.pro/assets/d2e1d428-8e19-4b8c-b0e2-332d1171799b
+          9:
+            url_poster: https://api.mediux.pro/assets/99a49176-bee3-439e-931d-813faf8811b5
+          10:
+            url_poster: https://api.mediux.pro/assets/de92f351-abe6-4dee-be94-090fc04eaa9e
+          11:
+            url_poster: https://api.mediux.pro/assets/7b6990b2-e3d4-4ab7-8049-3b6163df6229
+          12:
+            url_poster: https://api.mediux.pro/assets/2cb663cc-597b-417e-88e3-6b6defabeb4e
+          13:
+            url_poster: https://api.mediux.pro/assets/01d3f5f6-3648-48d0-bf1e-142e4b5d3ce2
+          14:
+            url_poster: https://api.mediux.pro/assets/68794b12-3e38-44d1-bcf8-ae2a51063e58
+          15:
+            url_poster: https://api.mediux.pro/assets/2329b98b-a545-4a86-8113-3515a49a08b3
+          16:
+            url_poster: https://api.mediux.pro/assets/f945f9b9-d874-46fd-8a1a-31d70df887b0
+          17:
+            url_poster: https://api.mediux.pro/assets/787a6ccc-5734-46fa-835e-f3dd4f8d3a14
+          18:
+            url_poster: https://api.mediux.pro/assets/6291130a-4b9c-49fb-ba1e-91aeac5e7b3c
+          19:
+            url_poster: https://api.mediux.pro/assets/b7554857-57f3-48ee-90b8-02f1e0df33ee
+      15:
+        url_poster: https://api.mediux.pro/assets/df5a55b1-bda7-4dd8-8ccb-a740733b4253
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/02602186-ef52-4295-ac23-dddf9949894e
+          2:
+            url_poster: https://api.mediux.pro/assets/e93bcf06-3bef-4fc4-b847-e86fa81daf35
+          3:
+            url_poster: https://api.mediux.pro/assets/a3e6d628-ca11-4c20-b283-419a5a7a23a8
+          4:
+            url_poster: https://api.mediux.pro/assets/7b44037f-ec95-49f6-a8d2-8663968a65ab
+          5:
+            url_poster: https://api.mediux.pro/assets/ab96b25e-9b8a-4a31-9df8-53f2ec06a95c
+          6:
+            url_poster: https://api.mediux.pro/assets/68cd1bb4-991b-4aca-ba4c-911a4fa64666
+          7:
+            url_poster: https://api.mediux.pro/assets/a75e954d-97a3-4559-b57e-433a1a30d536
+          8:
+            url_poster: https://api.mediux.pro/assets/b3b08606-d602-40a1-a854-a379dc86725c
+          9:
+            url_poster: https://api.mediux.pro/assets/2c073c41-8178-4f15-9f70-71474e2b57f9
+          10:
+            url_poster: https://api.mediux.pro/assets/e7e0ca1e-913e-483f-a0e2-4dbce4a8f28e
+          11:
+            url_poster: https://api.mediux.pro/assets/6ac42d48-5919-4371-8222-e5bce9a75909
+          12:
+            url_poster: https://api.mediux.pro/assets/9e3947a3-3bd5-49fe-a317-ec5cfaaea7c5
+          13:
+            url_poster: https://api.mediux.pro/assets/d08e4600-3340-42f9-8868-e6be9a04cc84
+          14:
+            url_poster: https://api.mediux.pro/assets/27af3483-bdd8-4169-ad55-090d33b25c44
+          15:
+            url_poster: https://api.mediux.pro/assets/94e07441-37eb-402e-a417-d0dda2367a50
+          16:
+            url_poster: https://api.mediux.pro/assets/00b307f5-aa4a-406d-8b74-b6271408a9f3
+          17:
+            url_poster: https://api.mediux.pro/assets/b89ba925-dbd0-4370-a071-117d4b276668
+          18:
+            url_poster: https://api.mediux.pro/assets/f9ab90d1-5575-4f78-b139-9872faf865fc
+            
+  417112: # Is It Cake? (2022)
+    label:
+      - Art*
+      - Food*
+    url_poster: https://theposterdb.com/api/assets/653237
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/653238
+      1:
+        url_poster: https://theposterdb.com/api/assets/653239
+      2:
+        url_poster: https://theposterdb.com/api/assets/653240
+      3:
+        url_poster: https://theposterdb.com/api/assets/653241
+        
