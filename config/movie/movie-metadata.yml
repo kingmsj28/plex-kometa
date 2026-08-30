@@ -574,10 +574,12 @@ metadata:
     label: Art*
 
   496: # Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006)
+    sort_title: Borat Moviefilms 01
     label: Art*
     url_poster: https://api.mediux.pro/assets/bba1dbb8-99b3-4528-8f14-cbd94ef0aa1e
 
   740985: # Borat Subsequent Moviefilm (2020)
+    sort_title: Borat Moviefilms 02
     label: Art*
     url_poster: https://api.mediux.pro/assets/9cb3b9a5-5ae4-4d7d-9065-8bd6e92ea107
 
@@ -2508,6 +2510,121 @@ metadata:
     label: Art*
 
   326423: # Barbershop: The Next Cut (2016)
-    sort_title: "Barbershop 03"
+    sort_title: "Barbershop 04"
     url_poster: https://api.mediux.pro/assets/ef8e2537-a344-4352-ac44-b8a492f33e18
     label: Art*
+    
+  268: # Batman (1989)
+    sort_title: Batman 01
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/7d0dd51a-fd22-4c98-9c41-ca207d40b622
+
+  364: # Batman Returns (1992)
+    sort_title: Batman 02
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/a0e0b0f5-8d51-475f-87e1-74e5aae536f3
+
+  414: # Batman Forever (1995)
+    sort_title: Batman 03
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/69213d9d-fa9c-44a1-aa6a-6050fc2d5502
+
+  415: # Batman & Robin (1997)
+    sort_title: Batman 04
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/a6433a9d-5919-4586-a71c-39ebd0ab8772
+    
+  7340: # Carrie (1976)
+    sort_title: Carrie 01
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/680437
+
+  7341: # The Rage: Carrie 2 (1999)
+    sort_title: Carrie 02
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/683671
+
+  7342: # Carrie (2002)
+    sort_title: Carrie 03
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/680434
+
+  133805: # Carrie (2013)
+    sort_title: Carrie 04
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/680433
+    
+  4327: # Charlie's Angels (2000)
+    sort_title: Charlie's Angels 01
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/15410
+
+  9471: # Charlie's Angels: Full Throttle (2003)
+    sort_title: Charlie's Angels 02
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/15411
+
+  458897: # Charlie's Angels (2019)
+    sort_title: Charlie's Angels 03
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/15412
+    
+  14177: # Beauty Shop (2005)
+    sort_title: "Barbershop 03"
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/9a6924ce-294d-47a2-bb13-cd47295022cc
+
+  2667: # The Blair Witch Project (1999)
+    sort_title: Blair Witch 01
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/102331
+
+  11531: # Book of Shadows: Blair Witch 2 (2000)
+    sort_title: Blair Witch 02
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/102332
+
+  351211: # Blair Witch (2016)
+    sort_title: Blair Witch 03
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/102333
+    
+  525: # The Blues Brothers (1980)
+    sort_title: Blues Brothers 01
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/610201
+
+  11568: # Blues Brothers 2000 (1998)
+    sort_title: Blues Brothers 02
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/610200
+    
+  8374: # The Boondock Saints (1999)
+    sort_title: Boondock Saints 01
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/14745
+
+  22821: # The Boondock Saints II: All Saints Day (2009)
+    sort_title: Boondock Saints 02
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/14746
+    

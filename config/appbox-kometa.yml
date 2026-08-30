@@ -27,6 +27,13 @@ libraries:
           - 109428     # Evil Dead (2013)
           - 713704     # Evil Dead Rise (2023)
           - 1212763    # Evil Dead Burn (2026)
+          
+        movie_257053: # Carrie
+          - 7342      # Carrie (2002)
+          - 133805    # Carrie (2013)
+          
+        movie_86029: # Charlie's Angels
+          - 458897    # Charlie's Angels (2019)
 
         exclude:
         - 135416     # Prometheus
@@ -66,11 +73,15 @@ libraries:
         url_poster_115762: https://theposterdb.com/api/assets/13908   # AVP
         url_poster_264: https://theposterdb.com/api/assets/14631   # Back to the Future
         url_poster_14890: https://theposterdb.com/api/assets/2887   # Bad Boys
+        url_poster_629669: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/the-bad-guys.png # The Bad Guys
+        url_poster_487376: https://theposterdb.com/api/assets/2888 # Bad Moms
+        url_poster_423173: https://theposterdb.com/api/assets/75340 # Bad Santa
         url_poster_945475: https://theposterdb.com/api/assets/536944   # Beetlejuice
         url_poster_91746: https://theposterdb.com/api/assets/2891   # Bill & Ted
         url_poster_529892: https://theposterdb.com/api/assets/282450   # Black Panther
         url_poster_735: https://theposterdb.com/api/assets/139554   # Blade
         url_poster_747168: https://theposterdb.com/api/assets/133008   # Borat
+        url_poster_257053: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/movies/carrie-collection.png # Carrie
         url_poster_131295: https://theposterdb.com/api/assets/114048   # Captain America
         url_poster_623911: https://theposterdb.com/api/assets/114049   # Captain Marvel
         url_poster_10455: https://theposterdb.com/api/assets/2903   # Chucky
