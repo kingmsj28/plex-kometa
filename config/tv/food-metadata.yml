@@ -1,0 +1,22 @@
+metadata:
+
+  83224: # Kitchen Nightmares (2007)
+    label:
+      - Art*
+      - Food*
+    url_poster: https://theposterdb.com/api/assets/396851
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/396852
+      2:
+        url_poster: https://theposterdb.com/api/assets/396853
+      3:
+        url_poster: https://theposterdb.com/api/assets/396854
+      4:
+        url_poster: https://theposterdb.com/api/assets/396855
+      5:
+        url_poster: https://theposterdb.com/api/assets/396856
+      6:
+        url_poster: https://theposterdb.com/api/assets/396857
+      7:
+        url_poster: https://theposterdb.com/api/assets/396858

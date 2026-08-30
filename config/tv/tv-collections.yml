@@ -25,6 +25,14 @@ collections:
     collection_mode: show_items
     url_poster: https://theposterdb.com/api/assets/126754
     
+  Cooking & Food*:
+    sort_title: "!030_Cooking & Food"
+    smart_filter:
+      sort_by: random
+      all:
+        label: Food*
+    collection_mode: show_items
+    
   Random TV Shows*:
     sort_title: "!020_Random TV Shows"
 

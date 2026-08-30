@@ -23,11 +23,6 @@ libraries:
           - 348350     # Solo: A Star Wars Story
           - 1228710     # The Mandalorian and Grogu)
         
-        movie_1960: #Evil Dead Combo
-          - 109428     # Evil Dead (2013)
-          - 713704     # Evil Dead Rise (2023)
-          - 1212763    # Evil Dead Burn (2026)
-          
         movie_257053: # Carrie
           - 7342      # Carrie (2002)
           - 133805    # Carrie (2013)
@@ -41,8 +36,12 @@ libraries:
         - 1725885    # Evil Dead Standalone
 
         append_addons:
-          8091:
-          - 135416     # Prometheus -> Alien
+           1960:
+           - 1725885
+
+        #append_addons:
+        #  8091:
+        #  - 135416     # Prometheus -> Alien
 
         remove_addons:
           91361:
@@ -315,6 +314,7 @@ libraries:
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-metadata.yml
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/kim-tv-metadata.yml
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-metadata.yml
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/food-metadata.yml
     
     overlay_files: &tv_overlay_files
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-status-overlays.yml
