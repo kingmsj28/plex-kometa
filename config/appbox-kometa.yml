@@ -308,6 +308,8 @@ libraries:
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-collections.yml
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-collections.yml
       - default: genre
+        template_variables:
+          minimum_items: 10
 
     metadata_files: &tv_metadata_files
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-metadata.yml
