@@ -705,3 +705,222 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/653241
         
+  74584: # Ramsay's Kitchen Nightmares (2004)
+    label:
+      - Art*
+      - Food*
+    url_poster: https://api.mediux.pro/assets/186d49db-b647-4c8e-9e93-1d3ef12e84ef
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/d4142b98-01ce-4a49-a8b7-371472b683c6
+      2:
+        url_poster: https://api.mediux.pro/assets/44e53985-2a12-4b51-b9fa-ae3988b108ca
+      3:
+        url_poster: https://api.mediux.pro/assets/788a00d8-35ea-4e06-8757-da99fbb63c3b
+      4:
+        url_poster: https://api.mediux.pro/assets/c0b11b24-209b-4cd9-823c-e2d203c18d35
+      5:
+        url_poster: https://api.mediux.pro/assets/424d0713-2bc0-4b08-8b3b-0264f5ba2da9
+        
+  82918: # Diners, Drive-Ins and Dives (2007)
+    label:
+      - Art*
+      - Food*
+    url_poster: https://theposterdb.com/api/assets/712415
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/712416
+      1:
+        url_poster: https://theposterdb.com/api/assets/712417
+      2:
+        url_poster: https://theposterdb.com/api/assets/712418
+      3:
+        url_poster: https://theposterdb.com/api/assets/712419
+      4:
+        url_poster: https://theposterdb.com/api/assets/712420
+      5:
+        url_poster: https://theposterdb.com/api/assets/712421
+      6:
+        url_poster: https://theposterdb.com/api/assets/712422
+      7:
+        url_poster: https://theposterdb.com/api/assets/712423
+      8:
+        url_poster: https://theposterdb.com/api/assets/712424
+      9:
+        url_poster: https://theposterdb.com/api/assets/712425
+      10:
+        url_poster: https://theposterdb.com/api/assets/712426
+      11:
+        url_poster: https://theposterdb.com/api/assets/712427
+      12:
+        url_poster: https://theposterdb.com/api/assets/712428
+      13:
+        url_poster: https://theposterdb.com/api/assets/712429
+      14:
+        url_poster: https://theposterdb.com/api/assets/712430
+      15:
+        url_poster: https://theposterdb.com/api/assets/712431
+      16:
+        url_poster: https://theposterdb.com/api/assets/712432
+      17:
+        url_poster: https://theposterdb.com/api/assets/712433
+      18:
+        url_poster: https://theposterdb.com/api/assets/712434
+      19:
+        url_poster: https://theposterdb.com/api/assets/712435
+      20:
+        url_poster: https://theposterdb.com/api/assets/712436
+      21:
+        url_poster: https://theposterdb.com/api/assets/712437
+      22:
+        url_poster: https://theposterdb.com/api/assets/712438
+      23:
+        url_poster: https://theposterdb.com/api/assets/712439
+      24:
+        url_poster: https://theposterdb.com/api/assets/712440
+      25:
+        url_poster: https://theposterdb.com/api/assets/712441
+      26:
+        url_poster: https://theposterdb.com/api/assets/712442
+      27:
+        url_poster: https://theposterdb.com/api/assets/712443
+      28:
+        url_poster: https://theposterdb.com/api/assets/712444
+      29:
+        url_poster: https://theposterdb.com/api/assets/712445
+      30:
+        url_poster: https://theposterdb.com/api/assets/712446
+      31:
+        url_poster: https://theposterdb.com/api/assets/712447
+      32:
+        url_poster: https://theposterdb.com/api/assets/712448
+      33:
+        url_poster: https://theposterdb.com/api/assets/712449
+      34:
+        url_poster: https://theposterdb.com/api/assets/712450
+      35:
+        url_poster: https://theposterdb.com/api/assets/712451
+      36:
+        url_poster: https://theposterdb.com/api/assets/712452
+      37:
+        url_poster: https://theposterdb.com/api/assets/712453
+      38:
+        url_poster: https://theposterdb.com/api/assets/712454
+      39:
+        url_poster: https://theposterdb.com/api/assets/712455
+      40:
+        url_poster: https://theposterdb.com/api/assets/712456
+      41:
+        url_poster: https://theposterdb.com/api/assets/712457
+      42:
+        url_poster: https://theposterdb.com/api/assets/712458
+      43:
+        url_poster: https://theposterdb.com/api/assets/712459
+      44:
+        url_poster: https://theposterdb.com/api/assets/712460
+      45:
+        url_poster: https://theposterdb.com/api/assets/712461
+      46:
+        url_poster: https://theposterdb.com/api/assets/712462
+      47:
+        url_poster: https://theposterdb.com/api/assets/712463
+      48:
+        url_poster: https://theposterdb.com/api/assets/712464
+      49:
+        url_poster: https://theposterdb.com/api/assets/712465
+      50:
+        url_poster: https://theposterdb.com/api/assets/712466
+      51:
+        url_poster: https://theposterdb.com/api/assets/712467
+      52:
+        url_poster: https://theposterdb.com/api/assets/712468
+      53:
+        url_poster: https://theposterdb.com/api/assets/712469
+      54:
+        url_poster: https://theposterdb.com/api/assets/712470
+      55:
+        url_poster: https://theposterdb.com/api/assets/712471
+        
+  74897: # Hell's Kitchen (2005)
+    label:
+      - Art*
+      - Food*
+    url_poster: https://api.mediux.pro/assets/c59ad6f2-cb66-48bf-85c6-7ceb021ce174
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/eb744c2e-f99d-4527-92e1-4d770f842ad9
+      2:
+        url_poster: https://api.mediux.pro/assets/69583005-d895-4dee-aa54-e15078b10369
+      3:
+        url_poster: https://api.mediux.pro/assets/f87860e0-e58d-4d78-bf2d-56d31a54b612
+      4:
+        url_poster: https://api.mediux.pro/assets/f415cd56-0354-43e5-87f2-d685d48e0c31
+      5:
+        url_poster: https://api.mediux.pro/assets/bb25916d-9f89-4be1-8027-934fd286a024
+      6:
+        url_poster: https://api.mediux.pro/assets/df3e538d-1bf3-49e2-a64c-96b48d356072
+      7:
+        url_poster: https://api.mediux.pro/assets/695315b6-c291-42e1-88ca-5147156f07c0
+      8:
+        url_poster: https://api.mediux.pro/assets/fac6319b-cbac-4cdf-8b7a-4e908d71c90d
+      9:
+        url_poster: https://api.mediux.pro/assets/07b99ac8-fd18-430a-a876-3acd6a83bdb2
+      10:
+        url_poster: https://api.mediux.pro/assets/71728cb9-8432-4a38-bf38-0e153ff73393
+      11:
+        url_poster: https://api.mediux.pro/assets/f8c03638-e42e-42af-ab0a-26489967e392
+      12:
+        url_poster: https://api.mediux.pro/assets/c0ed4b17-d7aa-41b9-9022-3ea61c2a95f1
+      13:
+        url_poster: https://api.mediux.pro/assets/fccb64f0-b7b1-4341-b564-e7b1b95b8ac9
+      14:
+        url_poster: https://api.mediux.pro/assets/08d095c9-74aa-49bd-a605-8788b0383448
+      15:
+        url_poster: https://api.mediux.pro/assets/3c64d21f-af8a-4b7b-9aaa-ea39386df868
+      16:
+        url_poster: https://api.mediux.pro/assets/5f027af6-9195-462b-9a73-942b8f69443a
+      17:
+        url_poster: https://api.mediux.pro/assets/6f093477-b798-47cd-b196-50298a21c3e7
+      18:
+        url_poster: https://api.mediux.pro/assets/91261e86-2a79-44e6-8ac1-3344ff212d35
+      19:
+        url_poster: https://api.mediux.pro/assets/0c3d1dbf-0d03-46dc-96ec-79a57d957a60
+      20:
+        url_poster: https://api.mediux.pro/assets/896cbd6e-8204-4d56-b571-4190b383978c
+      21:
+        url_poster: https://api.mediux.pro/assets/b8b614c9-6f2e-40ef-9605-3bcfc02d9263
+      22:
+        url_poster: https://api.mediux.pro/assets/363edac3-3ed5-4f3d-aa13-6651d0931ec1
+      23:
+        url_poster: https://api.mediux.pro/assets/a40c6609-2f0c-4aca-925a-37ab542393bf
+      24:
+        url_poster: https://api.mediux.pro/assets/7925bee3-6e99-4229-a75a-e29f4dbcf360
+        
+  271863: # MasterChef Junior (2013)
+    label:
+      - Art*
+      - Food*
+    url_poster: https://theposterdb.com/api/assets/308986
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/308987
+      1:
+        url_poster: https://theposterdb.com/api/assets/308988
+      2:
+        url_poster: https://theposterdb.com/api/assets/308989
+      3:
+        url_poster: https://theposterdb.com/api/assets/308990
+      4:
+        url_poster: https://theposterdb.com/api/assets/308991
+      5:
+        url_poster: https://theposterdb.com/api/assets/308992
+      6:
+        url_poster: https://theposterdb.com/api/assets/308993
+      7:
+        url_poster: https://theposterdb.com/api/assets/308994
+      8:
+        url_poster: https://theposterdb.com/api/assets/308995
+      9:
+        url_poster: https://theposterdb.com/api/assets/484175
+        
+h
