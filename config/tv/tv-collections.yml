@@ -2,31 +2,26 @@ collections:
 
   Adult Animation*:
     sort_title: "!030_Adult Animation"
-
     tmdb_discover:
       with_keywords: 161919
-
     plex_search:
       all:
         label: Adult Animation*
-
     smart_label: random
     collection_mode: show_items
     url_poster: https://theposterdb.com/api/assets/581522
 
   Anime*:
     sort_title: "!030_Anime"
-
     smart_filter:
       sort_by: random
       all:
         label: Anime*
-
     collection_mode: show_items
     url_poster: https://theposterdb.com/api/assets/126754
     
   Cooking & Food*:
-    sort_title: "!030_Cooking & Food"
+    sort_title: "!030_Cooking & Food"  
     smart_filter:
       sort_by: random
       all:
@@ -35,12 +30,8 @@ collections:
     
   Random TV Shows*:
     sort_title: "!020_Random TV Shows"
-
-    smart_filter:
-      sort_by: random
-      all:
-        title.not: ""
-
+    plex_all: true
+    smart_label: random
     collection_mode: show_items
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/random-tv.png
 
