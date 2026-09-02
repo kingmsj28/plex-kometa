@@ -24,13 +24,11 @@ collections:
 
   Random Unwatched Movies*:
     sort_title: "!015_Random Unwatched Movies"
-    plex_search:
+    smart_filter:
       all:
         unplayed: true
       sort_by: random
-    sync_mode: sync
-    collection_order: custom
-    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/random-unwatched-movies.png
+    url_poster: https://raw.githubusercontent.com/...
 
  ##################################################
  # Decades
