@@ -320,13 +320,13 @@ libraries:
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-status-overlays.yml
 
   MATT MOVIES - 1080p:
-    operations: *movie_operations
-    collection_files: *movie_collection_files
+    #operations: *movie_operations
+    #collection_files: *movie_collection_files
     metadata_files: *movie_metadata_files
 
   MATT TV - 1080p:
-    operations: *tv_operations
-    collection_files: *tv_collection_files
+    #operations: *tv_operations
+    #collection_files: *tv_collection_files
     metadata_files:
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-1080p.yml
       - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-metadata.yml
