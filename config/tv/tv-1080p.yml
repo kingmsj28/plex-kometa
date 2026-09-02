@@ -799,7 +799,6 @@ metadata:
   295640: # Chicago Med
     label:
       - Art*
-      - Title Cards**
     url_poster: https://api.mediux.pro/assets/ad699e65-026c-4de4-bc4e-a266a5ff00b5
     url_background: https://api.mediux.pro/assets/37db9e83-4cd9-4d4f-8a89-ddb9e45b7e21
     seasons:
@@ -827,6 +826,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/f1b60b89-8a44-4f4f-8287-30ed8fc72310
 
   269641: # Chicago P.D.
+    label:
       - Art*
     url_poster: https://api.mediux.pro/assets/9749f5bb-afe3-4c71-9af6-cf18324cd479
     url_background: https://api.mediux.pro/assets/204011e6-d19f-42ee-bd74-d13acacfbc25
