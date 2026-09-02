@@ -28,7 +28,7 @@ collections:
       all:
         unplayed: true
       sort_by: random
-    url_poster: https://raw.githubusercontent.com/...
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/random-unwatched-movies.png
 
  ##################################################
  # Decades
