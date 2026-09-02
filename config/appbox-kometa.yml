@@ -327,7 +327,9 @@ libraries:
   MATT TV - 1080p:
     operations: *tv_operations
     collection_files: *tv_collection_files
-    metadata_files: *tv_metadata_files
+    metadata_files:
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/tv/tv-1080p.yml
+      - url: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/config/anime/anime-metadata.yml
     overlay_files: *tv_overlay_files
     
   Kim TV:

@@ -28,7 +28,6 @@ collections:
       all:
         unplayed: true
       sort_by: random
-      limit: 100
     sync_mode: sync
     collection_order: custom
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/random-unwatched-movies.png

@@ -1,0 +1,4439 @@
+metadata:
+
+  268592: # The 100 (2014)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/adc4c4c2-57e4-4bc2-9a11-e50c7e62e92f
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a3efcfad-9a96-4794-9fdf-8cced73e74a7
+      2:
+        url_poster: https://api.mediux.pro/assets/04a1dda2-3a3c-47e6-9a99-7f4be7416f35
+      3:
+        url_poster: https://api.mediux.pro/assets/d10c5625-53ef-4cc5-9c85-560b0bba624f
+      4:
+        url_poster: https://api.mediux.pro/assets/ed550fb5-3a30-4e1f-9a2b-5660f82dd118
+      5:
+        url_poster: https://api.mediux.pro/assets/9e32357d-1c82-4e43-919c-1306c25341f7
+      6:
+        url_poster: https://api.mediux.pro/assets/edbe0c04-5bd6-4783-b624-67a27c68c2d2
+      7:
+        url_poster: https://api.mediux.pro/assets/6b3ad695-eea3-4761-9864-2c7d21d84dce
+
+  82083: # 1000 Ways to Die (2008)
+    label: Art*
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/1000-ways-to-die-2008/1000-ways-to-die.png
+    seasons:
+      0:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/1000-ways-to-die-2008/specials.png
+      1:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/1000-ways-to-die-2008/season-1.png
+      2:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/1000-ways-to-die-2008/season-2.png
+      3:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/1000-ways-to-die-2008/season-3.png
+      4:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/1000-ways-to-die-2008/season-4.png
+
+  337907: # 9-1-1
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/9beb2bfa-249b-4fba-9f7b-16f21b107c13
+    url_background: https://api.mediux.pro/assets/7a539d46-8d9e-44a1-9f1c-dee6c016d78d
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/292eb04a-af3d-45d4-a7f8-02f50a448617
+      2:
+        url_poster: https://api.mediux.pro/assets/6ebdebb9-34f6-413a-a365-704b8c60c1a1
+      3:
+        url_poster: https://api.mediux.pro/assets/335b5426-17fc-4d55-bb21-c5050ae257b9
+      4:
+        url_poster: https://api.mediux.pro/assets/7b7f879a-8101-4cdc-b110-6da0fb90f78e
+      5:
+        url_poster: https://api.mediux.pro/assets/0bb6518f-0746-4f7a-940c-f91fd5906bbf
+      6:
+        url_poster: https://api.mediux.pro/assets/32ef0a53-c043-408f-bef2-2d24440b3a79
+      7:
+        url_poster: https://api.mediux.pro/assets/82f38526-8f87-496d-8bbb-d1e236746662
+      8:
+        url_poster: https://api.mediux.pro/assets/261b7f1d-0565-4da6-a88c-d082813901af
+      9:
+        url_poster: https://api.mediux.pro/assets/7d78e873-ce85-4a5c-bba7-630e95fcc44f
+
+  364080: # 9-1-1: Lone Star
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/85a44b19-b83b-45cc-9577-05f23e2f051d
+    url_background: https://api.mediux.pro/assets/558c3b0d-9d8b-4733-9a08-965ed2d4bd6d
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/1e300e3b-ad8d-4cd0-9586-64bd60307759
+      2:
+        url_poster: https://api.mediux.pro/assets/a31fd737-af86-481e-81aa-87864cfbd00d
+      3:
+        url_poster: https://api.mediux.pro/assets/d5cfdad3-445e-4b46-ac3c-aaf5dbdf9863
+      4:
+        url_poster: https://api.mediux.pro/assets/66af423c-53d8-4f26-8d82-165b3e919ee3
+      5:
+        url_poster: https://api.mediux.pro/assets/abd34661-181b-4192-aa6f-1693ebb6d3d0
+
+  460463: # 9-1-1: Nashville
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/66394432-03eb-4a3f-9213-7310a70e815b
+    url_background: https://api.mediux.pro/assets/dc6aa72d-cbc1-4bcf-9524-6b6a6034d756
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/54c3c970-353d-447e-9e5f-ad7838982917
+
+  412429: # Agatha All Along (2024)
+    label: Art*
+    url_poster: https://api.mediux.pro/assets/06b81957-0df9-4909-bf9f-f3ffd5cea280
+    url_background: https://api.mediux.pro/assets/bd190d4e-2fbc-4c9d-99e5-51ff7ac38167
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/f7bea214-45a4-4c39-84aa-db4b1742d9e5
+
+  77666: # The Amazing Race (2001)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/f82e84ae-6624-4f3f-9ed9-a7f505ab797d
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/653750
+      1:
+        url_poster: https://theposterdb.com/api/assets/653751
+      2:
+        url_poster: https://theposterdb.com/api/assets/653752
+      3:
+        url_poster: https://theposterdb.com/api/assets/653753
+      4:
+        url_poster: https://theposterdb.com/api/assets/653754
+      5:
+        url_poster: https://theposterdb.com/api/assets/653755
+      6:
+        url_poster: https://theposterdb.com/api/assets/653756
+      7:
+        url_poster: https://theposterdb.com/api/assets/653757
+      8:
+        url_poster: https://theposterdb.com/api/assets/653758
+      9:
+        url_poster: https://theposterdb.com/api/assets/653759
+      10:
+        url_poster: https://theposterdb.com/api/assets/653760
+      11:
+        url_poster: https://theposterdb.com/api/assets/653761
+      12:
+        url_poster: https://theposterdb.com/api/assets/653762
+      13:
+        url_poster: https://theposterdb.com/api/assets/653763
+      14:
+        url_poster: https://theposterdb.com/api/assets/653764
+      15:
+        url_poster: https://theposterdb.com/api/assets/653765
+      16:
+        url_poster: https://theposterdb.com/api/assets/653766
+      17:
+        url_poster: https://theposterdb.com/api/assets/653767
+      18:
+        url_poster: https://theposterdb.com/api/assets/653768
+      19:
+        url_poster: https://theposterdb.com/api/assets/653769
+      20:
+        url_poster: https://theposterdb.com/api/assets/653770
+      21:
+        url_poster: https://theposterdb.com/api/assets/653771
+      22:
+        url_poster: https://theposterdb.com/api/assets/653772
+      23:
+        url_poster: https://theposterdb.com/api/assets/653773
+      24:
+        url_poster: https://theposterdb.com/api/assets/653774
+      25:
+        url_poster: https://theposterdb.com/api/assets/653775
+      26:
+        url_poster: https://theposterdb.com/api/assets/653776
+      27:
+        url_poster: https://theposterdb.com/api/assets/653777
+      28:
+        url_poster: https://theposterdb.com/api/assets/653778
+      29:
+        url_poster: https://theposterdb.com/api/assets/653779
+      30:
+        url_poster: https://theposterdb.com/api/assets/653780
+      31:
+        url_poster: https://theposterdb.com/api/assets/653781
+      32:
+        url_poster: https://theposterdb.com/api/assets/653782
+      33:
+        url_poster: https://theposterdb.com/api/assets/653783
+      34:
+        url_poster: https://theposterdb.com/api/assets/653784
+      35:
+        url_poster: https://theposterdb.com/api/assets/653785
+      36:
+        url_poster: https://theposterdb.com/api/assets/653786
+      37:
+        url_poster: https://theposterdb.com/api/assets/653787
+      38:
+        url_poster: https://theposterdb.com/api/assets/653788
+
+  73141: # American Dad! (2005)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/e1c70451-8a75-4dd9-9b15-25f8688c9f50
+    url_background: https://api.mediux.pro/assets/27bf90ed-a896-42cb-9b0c-1a7656ad490a
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/ef1b03c9-b87f-48a6-a7be-55241ce479ec
+      1:
+        url_poster: https://api.mediux.pro/assets/ad44e6da-7460-4971-bc22-aa31f4b12bae
+      2:
+        url_poster: https://api.mediux.pro/assets/c03b3ff7-2e71-4ac7-ac97-501e435d8548
+      3:
+        url_poster: https://api.mediux.pro/assets/f5f5e5e3-eeae-4841-a85d-15ccb78100ea
+      4:
+        url_poster: https://api.mediux.pro/assets/c43517d0-6872-431c-9787-7f7854e730ee
+      5:
+        url_poster: https://api.mediux.pro/assets/41507a7f-9e32-41b9-8593-2bc987532e3d
+      6:
+        url_poster: https://api.mediux.pro/assets/e486f769-2e47-4cdf-878d-312e81d2d28d
+      7:
+        url_poster: https://api.mediux.pro/assets/632c63db-2b5c-4d59-b48e-4d2bf38cc448
+      8:
+        url_poster: https://api.mediux.pro/assets/a000a4af-a624-407e-9f91-f018ca9cbbf1
+      9:
+        url_poster: https://api.mediux.pro/assets/e1114095-7481-46f8-98a3-7ed3eb76f374
+      10:
+        url_poster: https://api.mediux.pro/assets/a65a907b-0e0a-4a06-8642-9702144956bb
+      11:
+        url_poster: https://api.mediux.pro/assets/51462738-c975-460c-9594-6d4954288fa3
+      12:
+        url_poster: https://api.mediux.pro/assets/8231e69d-119b-49eb-be83-fccf68124bbd
+      13:
+        url_poster: https://api.mediux.pro/assets/233e1bfa-7f68-4993-8225-e6ed07e8cd2d
+      14:
+        url_poster: https://api.mediux.pro/assets/00f8aedc-3e10-43e5-b0c2-45c803714404
+      15:
+        url_poster: https://api.mediux.pro/assets/29e2a99f-66cb-4248-88f8-9b9824d0f6dc
+      16:
+        url_poster: https://api.mediux.pro/assets/910112d5-71ae-4d0e-8d6f-ccd21e867f45
+      17:
+        url_poster: https://api.mediux.pro/assets/a2992eb6-5b24-4414-bcc8-535b9934fa16
+      18:
+        url_poster: https://api.mediux.pro/assets/a1730b23-9032-4db4-a0f7-f84c35236a22
+      19:
+        url_poster: https://api.mediux.pro/assets/89b3ab15-9d2d-4efd-9aeb-6085f0569473
+      20:
+        url_poster: https://api.mediux.pro/assets/966ca32a-ca27-4b7f-856c-7fd6fb377b2d
+      21:
+        url_poster: https://api.mediux.pro/assets/0bba1799-bc3e-4b5d-8b99-515bcbf6dac1
+      22:
+        url_poster: https://api.mediux.pro/assets/4e6cee3e-ea73-4cac-bb74-986266a4e1d2
+
+  250487: # American Horror Story (2011)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/36605d04-1540-417f-9dac-4f5d96d5d7e5
+    url_background: https://api.mediux.pro/assets/cc21bad9-e5a9-4f6f-92b6-5d23e2f3cb6c
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/0693be8d-408f-45b8-9b83-f3047807d83b
+      2:
+        url_poster: https://api.mediux.pro/assets/cfc98764-9c41-4d89-976f-f9a593926fac
+      3:
+        url_poster: https://api.mediux.pro/assets/c1611dc7-059c-4a6b-ae52-c85d8ceb4f5b
+      4:
+        url_poster: https://api.mediux.pro/assets/b959d282-2dde-4d13-a8b0-e2857e029b3c
+      5:
+        url_poster: https://api.mediux.pro/assets/23f07f4b-38ce-40ba-bac6-9964c8f615d9
+      6:
+        url_poster: https://api.mediux.pro/assets/a4ee6f49-1289-4d9f-b7a9-ae366ce7d1bb
+      7:
+        url_poster: https://api.mediux.pro/assets/2b269cb2-fd6d-41be-9521-a89ca24b11c9
+      8:
+        url_poster: https://api.mediux.pro/assets/c9a50f53-eef2-48d1-bb35-668dc2bbeb0a
+      9:
+        url_poster: https://api.mediux.pro/assets/5ac049fc-dadb-400a-800c-643efa92bff0
+      10:
+        url_poster: https://api.mediux.pro/assets/2814bbbe-e837-4bbb-92c6-c715beb8fb55
+      11:
+        url_poster: https://api.mediux.pro/assets/c38ffea7-52e3-45e9-9a43-9783c2379437
+      12:
+        url_poster: https://api.mediux.pro/assets/702d973f-4f78-464e-a497-5937c64a758d
+
+  77120: # Aqua Teen Hunger Force (2000)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://theposterdb.com/api/assets/78647
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/55850
+      1:
+        url_poster: https://theposterdb.com/api/assets/55851
+      2:
+        url_poster: https://theposterdb.com/api/assets/55852
+      3:
+        url_poster: https://theposterdb.com/api/assets/55853
+      4:
+        url_poster: https://theposterdb.com/api/assets/55854
+      5:
+        url_poster: https://theposterdb.com/api/assets/55855
+      6:
+        url_poster: https://theposterdb.com/api/assets/55856
+      7:
+        url_poster: https://theposterdb.com/api/assets/55857
+      8:
+        url_poster: https://theposterdb.com/api/assets/55858
+      9:
+        url_poster: https://theposterdb.com/api/assets/55859
+      10:
+        url_poster: https://theposterdb.com/api/assets/55860
+      11:
+        url_poster: https://theposterdb.com/api/assets/55861
+      12:
+        url_poster: https://theposterdb.com/api/assets/491842
+
+  110381: # Archer (2009)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/7c0a9d99-8ae4-4591-ba8f-0381031924a9
+    url_background: https://api.mediux.pro/assets/32b8fd78-7cd3-4b42-9923-a928571d6c24
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/f02ebe4e-32dc-4b9f-a1ad-e2ba72bef201
+      1:
+        url_poster: https://api.mediux.pro/assets/140140e6-4d3a-4fd6-8796-58e87c143f95
+      2:
+        url_poster: https://api.mediux.pro/assets/bf3a6711-8629-40fe-9cf9-4cefb5cfdd22
+      3:
+        url_poster: https://api.mediux.pro/assets/6dabed9f-c8e4-4f17-a50b-8c0a955d0257
+      4:
+        url_poster: https://api.mediux.pro/assets/0d78238d-687b-4550-ada8-2f9763f2b793
+      5:
+        url_poster: https://api.mediux.pro/assets/21ada06a-eb99-407a-aa82-623ded55500d
+      6:
+        url_poster: https://api.mediux.pro/assets/ffbca378-6e7a-4078-9b7f-cde31a248101
+      7:
+        url_poster: https://api.mediux.pro/assets/8dc282a5-afb4-4abc-b5ec-7c54657598b0
+      8:
+        url_poster: https://api.mediux.pro/assets/70c9730a-3dfc-4b38-9cbd-8fdbfc997681
+      9:
+        url_poster: https://api.mediux.pro/assets/20c27ec3-f43a-463f-8a54-29e5ffc5f2f3
+      10:
+        url_poster: https://api.mediux.pro/assets/abfab6fa-c64e-4880-832f-0157dba01f96
+      11:
+        url_poster: https://api.mediux.pro/assets/f4edeeeb-9f63-415f-9d48-a625bdbbbba7
+      12:
+        url_poster: https://api.mediux.pro/assets/775d4fc4-cd40-4deb-837c-ea9bd381cafa
+      13:
+        url_poster: https://api.mediux.pro/assets/6171a421-d56a-4185-88b1-63e4330c3a8d
+      14:
+        url_poster: https://api.mediux.pro/assets/35d04f1c-71ad-4c66-8043-06b97cc6013d
+
+  72173: # Arrested Development (2003)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/7c39f92b-3b1d-4b6b-8fb2-11393ef4e54f
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/0b098cdc-feec-43eb-bd79-abc4430ed54e
+      1:
+        url_poster: https://api.mediux.pro/assets/931daa72-fa61-4fb0-9f13-40b2e0a924fd
+      2:
+        url_poster: https://api.mediux.pro/assets/f70bc443-23d4-4165-ad88-ac90ba2a4184
+      3:
+        url_poster: https://api.mediux.pro/assets/7ea64388-2015-49ff-b1e7-ecf62ae968b7
+      4:
+        url_poster: https://api.mediux.pro/assets/1f435006-55b0-4e20-ba95-24480c82e6b2
+      5:
+        url_poster: https://api.mediux.pro/assets/0ce9a258-994e-4ff1-87ea-42c1c16a8833
+
+  296295: # Ash vs Evil Dead (2015)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/fc0260f7-5bea-48d2-81b6-e8362648a82e
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/a428c355-b231-4483-8cbf-d491b127c420
+      1:
+        url_poster: https://api.mediux.pro/assets/3cd81b11-185a-4020-b3a7-57fbb7f617ba
+      2:
+        url_poster: https://api.mediux.pro/assets/2ebe042e-f867-4d51-a6f9-7e1ddec983a7
+      3:
+        url_poster: https://api.mediux.pro/assets/acc2a9c6-28c8-4a61-844f-352209659819
+
+  74852: # Avatar: The Last Airbender (2005)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/95bad6b6-e7d6-473d-a5bd-77f94338e6cd
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/bd0f6cab-208d-41d8-908c-43e54637dd9f
+      1:
+        url_poster: https://api.mediux.pro/assets/a6cd18eb-d2fc-4a5f-99b3-823ae058cf39
+      2:
+        url_poster: https://api.mediux.pro/assets/eba52931-7907-4f53-bf98-798d11b39f84
+      3:
+        url_poster: https://api.mediux.pro/assets/8bdf8e6a-757a-47b6-9ccb-05f539940655
+
+  250071: # Bar Rescue (2011)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/159509
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/159510
+      1:
+        url_poster: https://theposterdb.com/api/assets/159511
+      2:
+        url_poster: https://theposterdb.com/api/assets/159512
+      3:
+        url_poster: https://theposterdb.com/api/assets/159513
+      4:
+        url_poster: https://theposterdb.com/api/assets/159514
+      5:
+        url_poster: https://theposterdb.com/api/assets/159515
+      6:
+        url_poster: https://theposterdb.com/api/assets/159516
+      7:
+        url_poster: https://theposterdb.com/api/assets/159517
+      8:
+        url_poster: https://theposterdb.com/api/assets/159518
+      9:
+        url_poster: https://theposterdb.com/api/assets/497933
+      10:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/bar-rescue/bar-rescue-s10.png
+
+  76168: # Batman: The Animated Series (1992)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/f7204949-d5c7-43f9-a9e1-a7b57e177f2b
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/cdf5855b-def7-49b3-8663-e172132e3150
+      1:
+        url_poster: https://api.mediux.pro/assets/e31b091b-3496-42e9-809a-e954209e1a2e
+      2:
+        url_poster: https://api.mediux.pro/assets/117e0f85-bd78-4eec-a529-2d7b6555b818
+      3:
+        url_poster: https://api.mediux.pro/assets/d0022484-c34b-4b8a-82d9-e56abdbfc540
+      4:
+        url_poster: https://api.mediux.pro/assets/b5e8fc7e-0af6-4512-83d2-11e2f5319048
+
+  273181: # Better Call Saul (2015)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/123779
+    url_background: https://api.mediux.pro/assets/5e5e4983-a090-4154-b65e-b9d3e6ae895c
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/6c16f2af-f36f-4aa6-9963-01a950feae6f
+      1:
+        url_poster: https://api.mediux.pro/assets/6611d5ff-c857-45c1-86a7-cef09d1112d4
+      2:
+        url_poster: https://api.mediux.pro/assets/71bf07ba-d528-4a29-970a-1385eff0c00b
+      3:
+        url_poster: https://api.mediux.pro/assets/59e7a04f-c091-4652-ac39-f356c823a376
+      4:
+        url_poster: https://api.mediux.pro/assets/e9a66bee-9bf3-409d-bef6-dab66eade986
+      5:
+        url_poster: https://api.mediux.pro/assets/d1fcb25c-4fb5-4439-b1ab-f6f9778347ed
+      6:
+        url_poster: https://api.mediux.pro/assets/887ce447-0d77-4deb-8b8c-3a2d5c9b696d
+
+  253463: # Black Mirror (2011)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/1b00e7b3-f5e2-4748-9ae7-961ff64e119e
+    url_background: https://api.mediux.pro/assets/bae9d5d9-35ba-4be4-9d53-6b626be9741b
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/4d9f91ff-6370-4243-a913-e0a58b03a58a
+      1:
+        url_poster: https://api.mediux.pro/assets/2eb3c008-0bad-4072-bb0b-9835cb53a462
+      2:
+        url_poster: https://api.mediux.pro/assets/413dfb8d-a6cb-4957-a08f-63d261a7f769
+      3:
+        url_poster: https://api.mediux.pro/assets/f96b42ff-a086-402b-876e-15ef1665e9bb
+      4:
+        url_poster: https://api.mediux.pro/assets/b37e3252-3722-42c7-8ce8-3b71c975b00e
+      5:
+        url_poster: https://api.mediux.pro/assets/5f854f9a-ac07-4965-a6b0-473e48f6564b
+      6:
+        url_poster: https://api.mediux.pro/assets/a71565c7-ef03-4182-a372-45c32d9df09c
+      7:
+        url_poster: https://api.mediux.pro/assets/ae1e8b17-ed1e-4e0f-af9d-94a293aac5f5
+
+  134511: # Blue Mountain State (2010)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/e6a6e558-21bf-4df0-b010-5f0516fc5d23
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/cc1ff431-caa4-4349-bd19-bfccf5288f7c
+      2:
+        url_poster: https://api.mediux.pro/assets/53edfbe9-afa7-4995-9d07-ecfe58b3f236
+      3:
+        url_poster: https://api.mediux.pro/assets/b7afdce0-f169-4b99-bfe6-b660ab22fe17
+
+  194031: # Bob's Burgers (2011)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/11e0da9f-46f4-4392-b864-3c6e8c1e971f
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/3d91f87a-9a9d-49b2-928e-09c7a342394f
+      1:
+        url_poster: https://api.mediux.pro/assets/5a92508b-3c6d-4b74-8d28-dc467c8d5ef6
+      2:
+        url_poster: https://api.mediux.pro/assets/03cc34b5-5348-47e5-b366-c3f98dffe263
+      3:
+        url_poster: https://api.mediux.pro/assets/74c342f5-0734-4cff-8f29-a0232f8873fc
+      4:
+        url_poster: https://api.mediux.pro/assets/648406cc-0a6d-45d4-aa68-7271cabb9db6
+      5:
+        url_poster: https://api.mediux.pro/assets/6daaa8fa-67ab-4a63-ab02-2e72a077b80a
+      6:
+        url_poster: https://api.mediux.pro/assets/00675696-822c-45f7-bfde-fa5664e22857
+      7:
+        url_poster: https://api.mediux.pro/assets/2e0363e8-8604-4f71-8d1a-aa65febb1ab6
+      8:
+        url_poster: https://api.mediux.pro/assets/cd8b47e5-ef35-4ef7-8b85-57871cd5c128
+      9:
+        url_poster: https://api.mediux.pro/assets/81cb9c9a-c569-4595-9e48-e0b3787d0598
+      10:
+        url_poster: https://api.mediux.pro/assets/6a2879f8-e6e5-4ea5-b533-5cd9f87da259
+      11:
+        url_poster: https://api.mediux.pro/assets/d4fadecc-8652-457f-bbfa-6e7f5b0ebb73
+      12:
+        url_poster: https://api.mediux.pro/assets/c11c8d3b-1687-4029-8633-df42f22ade7a
+      13:
+        url_poster: https://api.mediux.pro/assets/218e311b-d4a0-4dc7-bdad-9e2561086a4f
+      14:
+        url_poster: https://api.mediux.pro/assets/a8ef38d0-9048-4fd8-892d-eeef229dc911
+      15:
+        url_poster: https://api.mediux.pro/assets/fd461868-e35d-45aa-a3a9-1dc06e95f9e8
+      16:
+        url_poster: https://api.mediux.pro/assets/4f80cefa-8c3e-42ce-83c8-411c39de77de
+
+  282254: # BoJack Horseman (2014)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/f53ed80a-9851-451f-a4e0-13b2d488ebe9
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/609d96f9-0cfe-44ae-8a4e-8b23a146fead
+      1:
+        url_poster: https://api.mediux.pro/assets/e01519e7-e915-44f7-84e8-cebf7a3e37e6
+      2:
+        url_poster: https://api.mediux.pro/assets/3128682a-8e73-43bf-9ace-3ae01a448886
+      3:
+        url_poster: https://api.mediux.pro/assets/c8be7ae5-daed-485d-a901-450d932c7f8c
+      4:
+        url_poster: https://api.mediux.pro/assets/3259c2c4-53f8-48e1-8cd7-347e6bf8f6c7
+      5:
+        url_poster: https://api.mediux.pro/assets/220dbe46-ac66-4b86-af58-f284b2853947
+      6:
+        url_poster: https://api.mediux.pro/assets/8fd3e8d5-b9c5-4e39-8741-9cf49a405a22
+
+  74413: # The Boondocks (2005)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/a7f31d98-050e-44f8-8045-50a64f3e8be8
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a10db756-8fe7-44f8-821a-9fd6c0a1a72c
+      2:
+        url_poster: https://api.mediux.pro/assets/a5d88c8e-5ad3-401f-b035-8db22ad28c87
+      3:
+        url_poster: https://api.mediux.pro/assets/bbfd341a-dbe2-46f6-8beb-37fab5bcd58a
+      4:
+        url_poster: https://api.mediux.pro/assets/9247525b-b23e-48e0-8140-f6b487d598ab
+
+  355567: # The Boys (2019)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/efb42144-50a0-4ddc-9ef1-b6df5784dd2a
+    url_background: https://api.mediux.pro/assets/a1f5ef06-65e8-44ed-85b9-de0e35d1a9d9
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/9ba90c0b-c130-4adc-89f6-ef67775b71fd
+      1:
+        url_poster: https://api.mediux.pro/assets/d15abb9f-6ae3-4089-b3ab-f94ccd125b34
+      2:
+        url_poster: https://api.mediux.pro/assets/9661aa72-75a5-427c-b5a9-56578389a5fb
+      3:
+        url_poster: https://api.mediux.pro/assets/3f2087dc-ef1e-4d20-abac-18ecc809bd7b
+      4:
+        url_poster: https://api.mediux.pro/assets/b71dd5d3-9fea-45c0-b08c-9997253908f5
+      5:
+        url_poster: https://api.mediux.pro/assets/6b118733-e249-4b0c-8c81-1e71482a0bd0
+
+  413188: # The Boys Presents: Diabolical (2022)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/9d7dafb7-fe93-498e-a3b4-3f88c6e8647a
+    url_background: https://api.mediux.pro/assets/05544b65-e462-4d0c-90ae-621683f55dcf
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/b1d66e7c-3525-4913-beeb-c19208c85669
+
+  81189: # Breaking Bad (2008)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/5f37f2cd-0bde-40de-acf9-02b8c3efc209
+    url_background: https://api.mediux.pro/assets/0dac4b78-0d8d-41d9-8cef-d2e51fc1f8ef
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/91b13cc3-45b7-466a-8437-f3ecf37be7a3
+      1:
+        url_poster: https://api.mediux.pro/assets/e3646e4f-9b1f-4479-b88b-1482699ce3b8
+      2:
+        url_poster: https://api.mediux.pro/assets/9c43bce5-1fe5-4868-a629-e7775f75b4dd
+      3:
+        url_poster: https://api.mediux.pro/assets/6444fe7c-ff7d-4b94-acea-dcd590ef8fed
+      4:
+        url_poster: https://api.mediux.pro/assets/78d5f577-26e2-4551-9704-909537fa0e1a
+      5:
+        url_poster: https://api.mediux.pro/assets/3ef75bab-8f02-40f9-b8af-e7d1646bdc84
+
+  259569: # Brickleberry (2012)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://theposterdb.com/api/assets/101384
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/101385
+      2:
+        url_poster: https://theposterdb.com/api/assets/101386
+      3:
+        url_poster: https://theposterdb.com/api/assets/101387
+
+  269586: # Brooklyn Nine-Nine (2013)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/38dff8bf-b3aa-4bd2-b7af-3e1522891110
+    url_background: https://api.mediux.pro/assets/95442f47-bf5e-435f-ad6c-6c08d64a5504
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/234e1861-5ad2-4cc2-9d62-13978775d737
+      1:
+        url_poster: https://api.mediux.pro/assets/aaf87660-f134-4ee8-a0e5-383d23063eb2
+      2:
+        url_poster: https://api.mediux.pro/assets/5ded528f-4fd6-436b-91f2-0ce2e1723da9
+      3:
+        url_poster: https://api.mediux.pro/assets/96538eeb-9e81-459e-9427-c5bc2c7f1368
+      4:
+        url_poster: https://api.mediux.pro/assets/c680c836-40e8-4f1e-a3cd-70f92ad542b1
+      5:
+        url_poster: https://api.mediux.pro/assets/b730204b-827d-4b11-b039-583e622f19d0
+      6:
+        url_poster: https://api.mediux.pro/assets/2dd7d0f3-b005-4fde-b286-f7f83366151e
+      7:
+        url_poster: https://api.mediux.pro/assets/c961bb14-bdee-4606-8bd8-e4e681bd76f6
+      8:
+        url_poster: https://api.mediux.pro/assets/ae33ebbd-b57f-46de-bc89-c014f3847264
+
+  70327: # Buffy the Vampire Slayer (1997)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/5be206bf-febb-4cc0-aa6b-c3451a14e152
+    url_background: https://api.mediux.pro/assets/a579f7b0-517b-4930-ade5-28fea9d4668a
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/2fe81986-714e-49f6-840b-c18d7bc86402
+      1:
+        url_poster: https://api.mediux.pro/assets/6d77c3e6-3957-43a8-8025-bab76811b5e3
+      2:
+        url_poster: https://api.mediux.pro/assets/6b635ddd-0d09-48fe-8bdf-2bef55cfcdbc
+      3:
+        url_poster: https://api.mediux.pro/assets/366b7c9b-8a78-45f0-b08a-527d2e3374cf
+      4:
+        url_poster: https://api.mediux.pro/assets/57e6ac92-e3dd-44b9-8c5d-9a003139786c
+      5:
+        url_poster: https://api.mediux.pro/assets/6095d839-139f-4126-ac2b-07b3cca9f3cd
+      6:
+        url_poster: https://api.mediux.pro/assets/9884688d-ea5a-4ca9-abb3-8d341af8a6c1
+      7:
+        url_poster: https://api.mediux.pro/assets/11790842-482d-4fac-bb00-7092b7f9d139
+
+  80270: # Burn Notice (2007)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/145001
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/145002
+      1:
+        url_poster: https://theposterdb.com/api/assets/145003
+      2:
+        url_poster: https://theposterdb.com/api/assets/145004
+      3:
+        url_poster: https://theposterdb.com/api/assets/145005
+      4:
+        url_poster: https://theposterdb.com/api/assets/145006
+      5:
+        url_poster: https://theposterdb.com/api/assets/145007
+      6:
+        url_poster: https://theposterdb.com/api/assets/145008
+      7:
+        url_poster: https://theposterdb.com/api/assets/145009
+
+  77995: # CatDog (1998)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/69237
+    url_background: https://api.mediux.pro/assets/d3f1cc1d-031f-4559-a841-38b02f1af10d
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/2053da53-3b0d-46cd-9656-b1c73578ab2e
+      1:
+        url_poster: https://api.mediux.pro/assets/970e846e-2eaa-4f93-a30e-bfc20a823dca
+      2:
+        url_poster: https://api.mediux.pro/assets/f1f184b1-5a20-424b-bca2-970f068e7228
+      3:
+        url_poster: https://api.mediux.pro/assets/64503879-12fd-4a00-9b1e-0005ba78443a
+      4:
+        url_poster: https://api.mediux.pro/assets/bb5f8a27-f094-4274-93c1-51617da6531e
+
+  74186: # Celebrity Deathmatch (1998)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://theposterdb.com/api/assets/723437
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/723438
+      2:
+        url_poster: https://theposterdb.com/api/assets/723439
+      3:
+        url_poster: https://theposterdb.com/api/assets/723440
+      4:
+        url_poster: https://theposterdb.com/api/assets/723442
+      5:
+        url_poster: https://theposterdb.com/api/assets/723443
+      6:
+        url_poster: https://theposterdb.com/api/assets/723444
+
+  71862: # Chappelle's Show (2003)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/84c72865-0872-4cda-aa02-5e54d413af49
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/9eb8ecb5-e1e1-4301-ac3a-369c1155f8ba
+      1:
+        url_poster: https://api.mediux.pro/assets/511bd8cc-fa6e-4a91-b657-386c9642977c
+      2:
+        url_poster: https://api.mediux.pro/assets/692838de-2acc-4e72-82a9-477f3377635e
+      3:
+        url_poster: https://api.mediux.pro/assets/6636d499-8cce-4df3-88cd-6be17801efc8
+
+  70626: # Charmed (1998)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/2bb76fef-839b-414e-ae3b-1166c2b1589c
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/78d826d6-bc2b-435b-9300-69d7f5b6100a
+      2:
+        url_poster: https://api.mediux.pro/assets/f5946b98-776f-4d86-ab8a-9a78bc76967e
+      3:
+        url_poster: https://api.mediux.pro/assets/695999a8-adab-4d88-98c7-18d8928db5ed
+      4:
+        url_poster: https://api.mediux.pro/assets/a6527e5d-b586-4b8c-b3f4-a35a8d8eeed5
+      5:
+        url_poster: https://api.mediux.pro/assets/361877f6-f41f-4e0c-bd90-25fd7e20caac
+      6:
+        url_poster: https://api.mediux.pro/assets/3f8c7e65-8747-4e80-92cd-1142247e44a3
+      7:
+        url_poster: https://api.mediux.pro/assets/6bdcf34f-6827-4ed5-8897-a122cbef9a88
+      8:
+        url_poster: https://api.mediux.pro/assets/248ffe53-fde7-48f9-992b-f0b80f7dae27
+
+  258541: # Chicago Fire
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/8150fd75-8bab-4908-a22a-d6520ee9e68c
+    url_background: https://api.mediux.pro/assets/d3f3e123-c190-4417-a95f-2254949aee51
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/ce15d799-5736-4332-8dad-19a7adb39db8
+      1:
+        url_poster: https://api.mediux.pro/assets/84f19e6a-6303-4746-978d-38461b9b4bb3
+      2:
+        url_poster: https://api.mediux.pro/assets/dee25095-ceba-4e09-a735-19dd6b4d90b1
+      3:
+        url_poster: https://api.mediux.pro/assets/99d8cd3c-07b8-435b-ad55-33f265e54b54
+      4:
+        url_poster: https://api.mediux.pro/assets/cf784e49-39bf-4a37-9d3e-53d20586f666
+      5:
+        url_poster: https://api.mediux.pro/assets/3f1e7c54-8009-43bb-bc64-656a8c8d8b73
+      6:
+        url_poster: https://api.mediux.pro/assets/21f18137-1bd5-4cb2-8236-a831dc01d8f9
+      7:
+        url_poster: https://api.mediux.pro/assets/baa3fb16-966e-48b5-ab21-d4c57a8f31e5
+      8:
+        url_poster: https://api.mediux.pro/assets/007c7ccd-d64e-4dd9-8535-7ad057a1fd0f
+      9:
+        url_poster: https://api.mediux.pro/assets/1e3e9281-ae55-415f-9f27-218e18a3f876
+      10:
+        url_poster: https://api.mediux.pro/assets/32bc5919-2386-408b-9ca8-5fd9bed311b2
+      11:
+        url_poster: https://api.mediux.pro/assets/741232ff-dcf3-4fa8-8e9c-203f93a7be3a
+      12:
+        url_poster: https://api.mediux.pro/assets/d34658a6-4598-445d-be1b-e2f9512064ee
+      13:
+        url_poster: https://api.mediux.pro/assets/640dd095-356f-41c1-a44d-0683d9988920
+      14:
+        url_poster: https://api.mediux.pro/assets/bf77dcbf-a084-47ad-a35e-411a9dbb96fc
+
+  295640: # Chicago Med
+    label:
+      - Art*
+      - Title Cards**
+    url_poster: https://api.mediux.pro/assets/ad699e65-026c-4de4-bc4e-a266a5ff00b5
+    url_background: https://api.mediux.pro/assets/37db9e83-4cd9-4d4f-8a89-ddb9e45b7e21
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/acdf9c34-db53-4066-b73a-d40e389a0c3e
+      2:
+        url_poster: https://api.mediux.pro/assets/4c7c1bd9-627b-4dfe-9ec4-9dbb9457e82a
+      3:
+        url_poster: https://api.mediux.pro/assets/40cff731-9607-42d3-9e71-620c34d5ac9b
+      4:
+        url_poster: https://api.mediux.pro/assets/f9f8b3d1-5330-4071-acef-820653206f19
+      5:
+        url_poster: https://api.mediux.pro/assets/9b715a03-3024-40b8-b84a-2d22e6557e2e
+      6:
+        url_poster: https://api.mediux.pro/assets/db2afa65-a39a-4ecc-8d57-4daadf450ca0
+      7:
+        url_poster: https://api.mediux.pro/assets/61359f05-fc43-4668-be4d-cf619268cb62
+      8:
+        url_poster: https://api.mediux.pro/assets/130c7802-65ae-4ddf-ab10-faec0cb25bed
+      9:
+        url_poster: https://api.mediux.pro/assets/8b0cb966-aa9b-427c-b665-3fc2da848769
+      10:
+        url_poster: https://api.mediux.pro/assets/d6066b3d-3f7d-497a-8dac-b92f69ba4640
+      11:
+        url_poster: https://api.mediux.pro/assets/f1b60b89-8a44-4f4f-8287-30ed8fc72310
+
+  269641: # Chicago P.D.
+      - Art*
+    url_poster: https://api.mediux.pro/assets/9749f5bb-afe3-4c71-9af6-cf18324cd479
+    url_background: https://api.mediux.pro/assets/204011e6-d19f-42ee-bd74-d13acacfbc25
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/46d56538-a539-4443-ab81-99bcecff064f
+      2:
+        url_poster: https://api.mediux.pro/assets/4dd1a292-0614-4b42-9a89-362b1741e277
+      3:
+        url_poster: https://api.mediux.pro/assets/63f4f41f-becc-44e3-8229-4db39200e718
+      4:
+        url_poster: https://api.mediux.pro/assets/30f32853-626c-4020-b204-e82ed03807bb
+      5:
+        url_poster: https://api.mediux.pro/assets/0c35b422-e25b-4e52-a259-83447feb325d
+      6:
+        url_poster: https://api.mediux.pro/assets/b1dd4c68-e5ac-4e3f-a6ca-09de95b879f1
+      7:
+        url_poster: https://api.mediux.pro/assets/de1f06c0-4f76-42d5-bf8e-f6a85f9bf371
+      8:
+        url_poster: https://api.mediux.pro/assets/fae7f8a1-20ef-4a76-ac40-eced7f82a544
+      9:
+        url_poster: https://api.mediux.pro/assets/66009ff1-43c0-46ea-8b4d-acb5fb3ddcd3
+      10:
+        url_poster: https://api.mediux.pro/assets/35bb64c1-5ddc-4738-8b5c-097128e54275
+      11:
+        url_poster: https://api.mediux.pro/assets/c710c265-2696-405d-8250-48293a267d08
+      12:
+        url_poster: https://api.mediux.pro/assets/e71c3794-0ab0-418e-a63f-2c661e4107ff
+      13:
+        url_poster: https://api.mediux.pro/assets/9f0ddecc-a9d2-4161-b0ca-91816fe4796e
+
+  85019: # Chopped (2009)
+    label:
+      - Art*
+      - Food*
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+    seasons:
+      1:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      2:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      3:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      4:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      5:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      6:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      7:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      8:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      9:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      10:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      11:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      12:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      13:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      14:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      15:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      16:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      17:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      18:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      19:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      20:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      21:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      22:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      23:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      24:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      25:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      26:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      27:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      28:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      29:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      30:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      31:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      32:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      33:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      34:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      35:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      36:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      37:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      38:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      39:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      40:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      41:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      42:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      43:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      44:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      45:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      46:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      47:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      48:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      49:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      50:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      51:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      52:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      53:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      54:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      55:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      56:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      57:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      58:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      59:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      60:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      61:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      62:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      63:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+      64:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/chopped-2009/chopped-2009.jpg
+
+  93991: # The Cleveland Show (2009)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/2ba16248-caed-4dd6-ab7e-255ed3756568
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/4deaa9c0-83c9-4b59-9858-49f17a0983e6
+      2:
+        url_poster: https://api.mediux.pro/assets/5ec889d6-29ff-4231-b155-a8838049da1e
+      3:
+        url_poster: https://api.mediux.pro/assets/37cbc016-69cd-4a85-a74b-2a1d71c34468
+      4:
+        url_poster: https://api.mediux.pro/assets/24e0db76-9dfe-4797-abae-d7e1c980d376
+
+  94571: # Community (2009)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/f3608786-3f68-4ff6-a185-df5937ea5f40
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/6a549fe3-e85a-4955-a138-e0dad8ad3170
+      2:
+        url_poster: https://api.mediux.pro/assets/085de410-5cd6-470c-82fb-00e24918a0be
+      3:
+        url_poster: https://api.mediux.pro/assets/7156895c-c621-4550-a8b9-6f6e606b74c7
+      4:
+        url_poster: https://api.mediux.pro/assets/8b5f88dd-60d4-43e9-8f89-279f9ce4ff9b
+      5:
+        url_poster: https://api.mediux.pro/assets/9b68b716-38f0-478f-b0c3-1d1cf644d77a
+      6:
+        url_poster: https://api.mediux.pro/assets/cfd155be-f217-4d83-9286-172c5d830142
+
+  77435: # Courage the Cowardly Dog (1999)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/a97b9c22-5c9a-42d0-b6f3-5712641b8f12
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/e38d415b-5b3a-4a12-ac8f-b7d4bfbff4e4
+      1:
+        url_poster: https://api.mediux.pro/assets/d2cedfa5-45f0-4add-9f03-0c81f783e40e
+      2:
+        url_poster: https://api.mediux.pro/assets/4c31c54f-9478-4a11-b021-4170d1a7926d
+      3:
+        url_poster: https://api.mediux.pro/assets/58df9045-4d7e-468a-8a18-f35e87bebc2b
+      4:
+        url_poster: https://api.mediux.pro/assets/ccd52875-66b3-4f32-aa28-2e47ef1289e4
+
+  79009: # Crank Yankers (2002)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/0473d741-1ca9-42dd-87a5-5917306acc31
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/ff9fb7c9-2cce-44f3-ad9f-7fff93bf8f16
+      1:
+        url_poster: https://api.mediux.pro/assets/a1ae70a1-6a1f-4103-8785-e9b1f0de9649
+      2:
+        url_poster: https://api.mediux.pro/assets/3652b3a5-ed01-4014-88ff-4312bbfc8beb
+      3:
+        url_poster: https://api.mediux.pro/assets/410f4f4e-d8c7-486c-96e9-88264030609a
+      4:
+        url_poster: https://api.mediux.pro/assets/72eb78a0-77c7-4812-9621-20996f46d1e6
+      5:
+        url_poster: https://api.mediux.pro/assets/ebfe0cde-ec28-4718-9d29-8a0bcaee9c37
+      6:
+        url_poster: https://api.mediux.pro/assets/fc3d3116-81b8-4589-8cdf-6a9f9153996f
+
+  75710: # Criminal Minds (2005)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/3828d6c2-af50-42b5-b60f-ee8563102e14
+    url_background: https://api.mediux.pro/assets/4a2292d1-bafa-45df-8e24-88cb06545b5c
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a8c2a75f-ab7e-4e7e-afff-0d2737d6be57
+      2:
+        url_poster: https://api.mediux.pro/assets/9bf924e7-da63-4cb9-adcb-8cae51203abf
+      3:
+        url_poster: https://api.mediux.pro/assets/654e58a9-f55f-4291-8df7-bc49fd25337e
+      4:
+        url_poster: https://api.mediux.pro/assets/aeb8240a-0073-4544-a260-e3e38e18ad05
+      5:
+        url_poster: https://api.mediux.pro/assets/0b06b053-d918-4643-8ae6-757efad792a8
+      6:
+        url_poster: https://api.mediux.pro/assets/4126e437-1784-4021-8e59-9752b9bb429f
+      7:
+        url_poster: https://api.mediux.pro/assets/1f4ba4ac-b297-44b3-b522-ad33fcf30a8a
+      8:
+        url_poster: https://api.mediux.pro/assets/54f56e89-6b1b-4af7-959e-d9030463a08f
+      9:
+        url_poster: https://api.mediux.pro/assets/f1475254-552b-45e0-a8be-9d44b738d008
+      10:
+        url_poster: https://api.mediux.pro/assets/ce651df3-9f0b-4c31-9699-d298de34dafa
+      11:
+        url_poster: https://api.mediux.pro/assets/ec13c2f1-c607-4cd4-bd68-03d0607fb11c
+      12:
+        url_poster: https://api.mediux.pro/assets/bdb7d9a4-ea81-4929-a4b2-4bcc71609ff8
+      13:
+        url_poster: https://api.mediux.pro/assets/08b44605-f582-4bd1-9443-71e55256f686
+      14:
+        url_poster: https://api.mediux.pro/assets/1256588e-c7d3-48b0-abdb-86b13ac64b72
+      15:
+        url_poster: https://api.mediux.pro/assets/5269e147-4a62-441e-9eae-2d82bd8d2cba
+      16:
+        url_poster: https://api.mediux.pro/assets/8f90a521-f457-463d-806d-cc76aa68185c
+      17:
+        url_poster: https://api.mediux.pro/assets/b02f7ae9-42be-48b9-a42b-e7f23b36d952
+      18:
+        url_poster: https://api.mediux.pro/assets/56e46a99-0203-4e81-957b-d0abad2bb21f
+      19:
+        url_poster: https://api.mediux.pro/assets/6e8e1e36-1965-4bb6-a53c-59e4a3e59998
+
+  72546: # CSI: Crime Scene Investigation (2000)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/d9bd0c8e-4fa3-4110-b50a-14930dba320f
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/27707b3c-25b8-4bc4-94bb-ac511b98bebd
+      1:
+        url_poster: https://api.mediux.pro/assets/ebc41765-ec9a-4794-9aee-735a683ce3d1
+      2:
+        url_poster: https://api.mediux.pro/assets/4fabdc32-1c40-4ade-bb89-80ca0d2a525d
+      3:
+        url_poster: https://api.mediux.pro/assets/904b57a7-48d6-4640-bd4a-c164e77f4edb
+      4:
+        url_poster: https://api.mediux.pro/assets/7fea1e89-3c9b-464d-84f9-8e4ae01664b8
+      5:
+        url_poster: https://api.mediux.pro/assets/f61371a1-e8f7-47e7-bb49-dc48f86a7c89
+      6:
+        url_poster: https://api.mediux.pro/assets/edf417bb-aa3f-4493-90f3-941b7b86fd7f
+      7:
+        url_poster: https://api.mediux.pro/assets/06c5240b-a106-4cf5-885c-e93c7ed56f0e
+      8:
+        url_poster: https://api.mediux.pro/assets/92fcdb01-4c97-42be-823a-64463caed619
+      9:
+        url_poster: https://api.mediux.pro/assets/ddfb6cb1-2f3e-4cd6-8d6d-041d8db654dc
+      10:
+        url_poster: https://api.mediux.pro/assets/f5241cdb-00d6-4f60-8ae6-9aacd4db1a13
+      11:
+        url_poster: https://api.mediux.pro/assets/1746ea13-8587-4cbc-8660-734163989ec1
+      12:
+        url_poster: https://api.mediux.pro/assets/9e4cf04a-b91d-4fce-9050-c3f8daa41ada
+      13:
+        url_poster: https://api.mediux.pro/assets/c97e9c24-d486-409d-81bb-95f6c6c41477
+      14:
+        url_poster: https://api.mediux.pro/assets/93ad3474-2c60-44dd-b4a1-9e26e410a1e9
+      15:
+        url_poster: https://api.mediux.pro/assets/3c5eb7b1-7fe8-4f2f-9ac7-ebf45d465aae
+
+  78310: # CSI: Miami (2002)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/180333
+    url_background: https://api.mediux.pro/assets/e3eacc9b-6279-4585-8e5f-033429f82008
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/5f86cbb7-47bf-4de8-a0a4-917632ac58e1
+      2:
+        url_poster: https://api.mediux.pro/assets/9d942f15-4b38-4075-9286-a54db7b36152
+      3:
+        url_poster: https://api.mediux.pro/assets/134ae051-12c7-40f7-9d27-db289ec7efb8
+      4:
+        url_poster: https://api.mediux.pro/assets/e301517e-0e85-4bfc-a05a-e9cedfe90569
+      5:
+        url_poster: https://api.mediux.pro/assets/74efa618-dadd-43e4-ad81-97dc780f01c2
+      6:
+        url_poster: https://api.mediux.pro/assets/6259f9e0-f08f-4a53-b13c-682064162126
+      7:
+        url_poster: https://api.mediux.pro/assets/b0974654-8b66-4dc3-bf05-8ed3065f8084
+      8:
+        url_poster: https://api.mediux.pro/assets/973d4cac-387d-4fae-8866-bf80745631a8
+      9:
+        url_poster: https://api.mediux.pro/assets/5d195aaa-e8c5-4711-9bd2-d0dd299b7996
+      10:
+        url_poster: https://api.mediux.pro/assets/3274e4b7-0169-40a2-a2e4-655836a34eb0
+
+  73696: # CSI: NY (2004)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/180334
+    url_background: https://api.mediux.pro/assets/0f421e6a-98ca-457a-83dd-5df192eb8fcf
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/0780527b-0357-426b-98a6-11c581cfe70f
+      2:
+        url_poster: https://api.mediux.pro/assets/6bfe199b-58e9-417a-8811-30f703d091e2
+      3:
+        url_poster: https://api.mediux.pro/assets/4fed1204-c795-4aa9-83ce-5dbf0aeeaef5
+      4:
+        url_poster: https://api.mediux.pro/assets/1da8e946-5467-41a9-945e-9b1bc89dca33
+      5:
+        url_poster: https://api.mediux.pro/assets/29605731-d33a-4e3b-8f62-dc2d39e88e02
+      6:
+        url_poster: https://api.mediux.pro/assets/7fc14018-28ef-4cb7-8d9b-d8a0dda14b02
+      7:
+        url_poster: https://api.mediux.pro/assets/6f5556a8-f671-4c6c-b42b-12cf9f0ef6d8
+      8:
+        url_poster: https://api.mediux.pro/assets/04991306-0374-4608-83b4-bdd33f74e45d
+      9:
+        url_poster: https://api.mediux.pro/assets/1e052cba-6fb3-4c1e-abb5-276fe54dd23d
+
+  422712: # Daredevil: Born Again (2025)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/0a605fac-e1ff-446c-93bb-4a80194f3525
+    url_background: https://api.mediux.pro/assets/e0abe2bd-a36b-4214-8ba3-0bfbd6791aec
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/70c8ca62-ebcd-4716-9985-044850e17dbc
+      2:
+        url_poster: https://api.mediux.pro/assets/a46e39e0-a333-475a-b04c-794de3ce24be
+
+  89211: # Deadliest Warrior (2009)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/6e63454a-7be6-4022-b2cc-10be4443e2f5
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/1ccde6cb-ab41-46fd-82f9-edb029028e0c
+      1:
+        url_poster: https://api.mediux.pro/assets/b6fa309a-6dd3-48e7-a18d-81546afb03fa
+      2:
+        url_poster: https://api.mediux.pro/assets/d253b2d4-776c-41b9-8019-8e47a3675bbe
+      3:
+        url_poster: https://api.mediux.pro/assets/5335c7aa-b082-4f8f-94bb-b0b906a74dbf
+
+  79349: # Dexter (2006)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/c0ba8682-15eb-4147-b7fb-47d939161d0f
+    url_background: https://api.mediux.pro/assets/cea65984-f9b5-4c21-8c75-28ee68f03698
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/8291c07d-f21b-4dc6-a0f4-6d4582b3e668
+      1:
+        url_poster: https://api.mediux.pro/assets/4365d61b-5988-4511-8de6-4d15eb6b348e
+      2:
+        url_poster: https://api.mediux.pro/assets/801cb988-c10c-4a73-b841-06e827f3f9fc
+      3:
+        url_poster: https://api.mediux.pro/assets/9f478c0a-5d94-4d04-9b78-9cfde65ccdb0
+      4:
+        url_poster: https://api.mediux.pro/assets/f8e9384d-8186-4401-820d-0052edc05a71
+      5:
+        url_poster: https://api.mediux.pro/assets/91c7defc-af73-4f42-b6b0-899080feebd7
+      6:
+        url_poster: https://api.mediux.pro/assets/93126f94-245e-4c29-94db-0f922cb8e6e0
+      7:
+        url_poster: https://api.mediux.pro/assets/2f065b2d-6fb0-4880-8987-2b937d1ddabb
+      8:
+        url_poster: https://api.mediux.pro/assets/8aa21c30-4842-451b-8381-f1de42c10e5a
+
+  412366: # Dexter: New Blood (2021)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/65557dbc-262b-4dc8-a2e2-960b2b9a95e0
+    url_background: https://api.mediux.pro/assets/2ae96d58-d86c-4351-9398-4577f7953bed
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/7c50fb63-663f-4d62-8498-1689821e7912
+
+  430780: # Dexter: Original Sin (2024)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/690e3e92-8e0c-4dd5-92b8-06db0f070b58
+    url_background: https://api.mediux.pro/assets/8cc334c1-5921-49ca-a751-3f4b2fcfd18c
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/61ad8e51-73f0-4171-8520-cb017303b058
+
+  452595: # Dexter: Resurrection (2025)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/d72706fe-fba8-4bf6-9787-1a0c052f8df9
+    url_background: https://api.mediux.pro/assets/cea0427e-0b1b-4370-9615-6847e4ecff53
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/e3620ccf-e75d-439a-a0f5-7025df1b5bb6
+
+  77992: # Dexter's Laboratory (1996)
+    label: Art*
+    url_poster: https://api.mediux.pro/assets/23bc713e-5765-4b41-97d1-aa67d44f1873
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/b5ba3fbf-c1e6-4393-a133-5ec5189a4668
+      1:
+        url_poster: https://api.mediux.pro/assets/ea6bab76-c6f7-4513-ac7d-28f0c993d8c2
+      2:
+        url_poster: https://api.mediux.pro/assets/71c24348-5f7d-4cf7-a9bb-321f632aa261
+      3:
+        url_poster: https://api.mediux.pro/assets/17fc2d92-76eb-49a3-8604-fd2800868f02
+      4:
+        url_poster: https://api.mediux.pro/assets/e854537b-7a80-4c44-ae2a-511685114ef0
+
+  82918: # Diners, Drive-Ins and Dives (2007)
+    label:
+      - Art*
+      - Food*
+    url_poster: https://theposterdb.com/api/assets/712415
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/712416
+      1:
+        url_poster: https://theposterdb.com/api/assets/712417
+      2:
+        url_poster: https://theposterdb.com/api/assets/712418
+      3:
+        url_poster: https://theposterdb.com/api/assets/712419
+      4:
+        url_poster: https://theposterdb.com/api/assets/712420
+      5:
+        url_poster: https://theposterdb.com/api/assets/712421
+      6:
+        url_poster: https://theposterdb.com/api/assets/712422
+      7:
+        url_poster: https://theposterdb.com/api/assets/712423
+      8:
+        url_poster: https://theposterdb.com/api/assets/712424
+      9:
+        url_poster: https://theposterdb.com/api/assets/712425
+      10:
+        url_poster: https://theposterdb.com/api/assets/712426
+      11:
+        url_poster: https://theposterdb.com/api/assets/712427
+      12:
+        url_poster: https://theposterdb.com/api/assets/712428
+      13:
+        url_poster: https://theposterdb.com/api/assets/712429
+      14:
+        url_poster: https://theposterdb.com/api/assets/712430
+      15:
+        url_poster: https://theposterdb.com/api/assets/712431
+      16:
+        url_poster: https://theposterdb.com/api/assets/712432
+      17:
+        url_poster: https://theposterdb.com/api/assets/712433
+      18:
+        url_poster: https://theposterdb.com/api/assets/712434
+      19:
+        url_poster: https://theposterdb.com/api/assets/712435
+      20:
+        url_poster: https://theposterdb.com/api/assets/712436
+      21:
+        url_poster: https://theposterdb.com/api/assets/712437
+      22:
+        url_poster: https://theposterdb.com/api/assets/712438
+      23:
+        url_poster: https://theposterdb.com/api/assets/712439
+      24:
+        url_poster: https://theposterdb.com/api/assets/712440
+      25:
+        url_poster: https://theposterdb.com/api/assets/712441
+      26:
+        url_poster: https://theposterdb.com/api/assets/712442
+      27:
+        url_poster: https://theposterdb.com/api/assets/712443
+      28:
+        url_poster: https://theposterdb.com/api/assets/712444
+      29:
+        url_poster: https://theposterdb.com/api/assets/712445
+      30:
+        url_poster: https://theposterdb.com/api/assets/712446
+      31:
+        url_poster: https://theposterdb.com/api/assets/712447
+      32:
+        url_poster: https://theposterdb.com/api/assets/712448
+      33:
+        url_poster: https://theposterdb.com/api/assets/712449
+      34:
+        url_poster: https://theposterdb.com/api/assets/712450
+      35:
+        url_poster: https://theposterdb.com/api/assets/712451
+      36:
+        url_poster: https://theposterdb.com/api/assets/712452
+      37:
+        url_poster: https://theposterdb.com/api/assets/712453
+      38:
+        url_poster: https://theposterdb.com/api/assets/712454
+      39:
+        url_poster: https://theposterdb.com/api/assets/712455
+      40:
+        url_poster: https://theposterdb.com/api/assets/712456
+      41:
+        url_poster: https://theposterdb.com/api/assets/712457
+      42:
+        url_poster: https://theposterdb.com/api/assets/712458
+      43:
+        url_poster: https://theposterdb.com/api/assets/712459
+      44:
+        url_poster: https://theposterdb.com/api/assets/712460
+      45:
+        url_poster: https://theposterdb.com/api/assets/712461
+      46:
+        url_poster: https://theposterdb.com/api/assets/712462
+      47:
+        url_poster: https://theposterdb.com/api/assets/712463
+      48:
+        url_poster: https://theposterdb.com/api/assets/712464
+      49:
+        url_poster: https://theposterdb.com/api/assets/712465
+      50:
+        url_poster: https://theposterdb.com/api/assets/712466
+      51:
+        url_poster: https://theposterdb.com/api/assets/712467
+      52:
+        url_poster: https://theposterdb.com/api/assets/712468
+      53:
+        url_poster: https://theposterdb.com/api/assets/712469
+      54:
+        url_poster: https://theposterdb.com/api/assets/712470
+      55:
+        url_poster: https://theposterdb.com/api/assets/712471
+
+  340234: # Disenchantment (2018)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/7d10e3b2-e7eb-4408-9595-8875f53fe661
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/02909ee1-3fe6-49ad-bf2b-74999463b5d4
+      2:
+        url_poster: https://api.mediux.pro/assets/a7122fa1-0c9e-479a-bd8d-525a5c563bed
+      3:
+        url_poster: https://api.mediux.pro/assets/8feb8a13-d452-484a-bb13-58249d871b87
+
+  78831: # Drawn Together (2004)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://theposterdb.com/api/assets/598499
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/598500
+      1:
+        url_poster: https://theposterdb.com/api/assets/598501
+      2:
+        url_poster: https://theposterdb.com/api/assets/598502
+      3:
+        url_poster: https://theposterdb.com/api/assets/598503
+
+  82467: # Eastbound & Down (2009)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/522a3f90-0db0-4e2b-90f9-6cebd540f78d
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/40c0d3b5-5b44-4b50-9a86-ab0d5e5e32c7
+      2:
+        url_poster: https://api.mediux.pro/assets/92f3134b-30fa-4971-a538-7324edf79406
+      3:
+        url_poster: https://api.mediux.pro/assets/5835d38c-2065-48f1-8f3c-ec2da3c43001
+      4:
+        url_poster: https://api.mediux.pro/assets/e4186742-2b8b-4fa8-8794-0fa36a134e9d
+
+  412431: # Echo (2024)
+    label: Art*
+    url_poster: https://api.mediux.pro/assets/82f33034-011a-4366-878e-7fb8cccaa974
+    url_background: https://api.mediux.pro/assets/fc0630cc-4373-4658-b180-4cebbfdd0a54
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/4d382da9-65fe-4a8f-9eb8-0c2318d0e548
+
+  77466: # Ed, Edd n Eddy (1999)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/14231
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/433752
+      1:
+        url_poster: https://theposterdb.com/api/assets/433753
+      2:
+        url_poster: https://theposterdb.com/api/assets/433754
+      3:
+        url_poster: https://theposterdb.com/api/assets/433755
+      4:
+        url_poster: https://theposterdb.com/api/assets/433756
+      5:
+        url_poster: https://theposterdb.com/api/assets/433757
+      6:
+        url_poster: https://theposterdb.com/api/assets/433758
+
+  382327: # The Equalizer
+    label: Art*
+    url_poster: https://api.mediux.pro/assets/3c73d3c3-a33a-4bda-9438-828818414ce0
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/9cc8e9ac-b86d-4173-a346-366bb53fcaab
+      2:
+        url_poster: https://api.mediux.pro/assets/a16584ee-fd8a-4de2-88e2-fc9b0b9adc6b
+      3:
+        url_poster: https://api.mediux.pro/assets/e1e5ad26-a3c8-4f4e-9cdd-ba2b0293a357
+      4:
+        url_poster: https://api.mediux.pro/assets/fd580f98-683c-47b3-b082-b9c196352a9e
+      5:
+        url_poster: https://api.mediux.pro/assets/74f27443-b537-493a-a0ef-d98e24167f4c
+
+  73663: # Everybody Loves Raymond (1996)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/60fef4dd-1cd8-4ae5-ac84-25ec335eaab8
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/011022c3-fe68-4fb2-97d0-47fabf629db0
+      1:
+        url_poster: https://api.mediux.pro/assets/dc56a3b1-9a12-4853-abbe-a61c76722166
+      2:
+        url_poster: https://api.mediux.pro/assets/ba0ff89a-78d5-485e-9037-3b2b31def7f6
+      3:
+        url_poster: https://api.mediux.pro/assets/5c5f46b1-d2da-45a6-83e5-291859ef0a5c
+      4:
+        url_poster: https://api.mediux.pro/assets/ba505022-7dc6-4ffd-a9c1-35dd968333e3
+      5:
+        url_poster: https://api.mediux.pro/assets/5440a955-6752-40c3-85cc-f6084c648eba
+      6:
+        url_poster: https://api.mediux.pro/assets/f01fba6f-b1f1-4919-9150-b3848b85e13f
+      7:
+        url_poster: https://api.mediux.pro/assets/c2e498e8-1bfc-47c3-bbc4-92c5e7419343
+      8:
+        url_poster: https://api.mediux.pro/assets/dc8e8b75-a05e-4efb-b199-495f93e4e1eb
+      9:
+        url_poster: https://api.mediux.pro/assets/5ad4245c-1bab-414b-88e5-09a18a6cc35c
+
+  443358: # Eyes of Wakanda (2025)
+    label: Art*
+    url_poster: https://api.mediux.pro/assets/97c3aeef-2ae7-415f-bda5-52054f3e06c6
+    url_background: https://api.mediux.pro/assets/aa119124-f885-4157-8657-5734f6d88454
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/df4a5207-0754-4d21-8de2-cc1a7387c96e
+
+  287299: # F Is for Family (2015)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/115351a4-158b-43f0-9474-ef215593cce9
+    url_background: https://api.mediux.pro/assets/08a7f311-9488-407f-b4f9-5103a2244ef9
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/d45373f0-c948-4966-a0e2-606b2d82f2f9
+      2:
+        url_poster: https://api.mediux.pro/assets/51566856-04a9-4ecc-b6df-48c65ffd5acb
+      3:
+        url_poster: https://api.mediux.pro/assets/082e834d-3c18-4a7c-a60c-ba9f29944167
+      4:
+        url_poster: https://api.mediux.pro/assets/3958ec81-7c74-48fe-b18a-03968009c5be
+      5:
+        url_poster: https://api.mediux.pro/assets/e5f1680a-25ee-437e-8519-6bbecd56d5b3
+
+  362496: # The Falcon and the Winter Soldier (2021)
+    label: Art*
+    url_poster: https://api.mediux.pro/assets/76de1801-963e-4a44-b4ac-f8d04944ef75
+    url_background: https://api.mediux.pro/assets/6deb3e33-3193-46fc-8c1e-9a89ac505a42
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/5212beb0-25a3-4f98-aaed-b8f628589fd3
+
+  75978: # Family Guy (1999)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/840bd2dc-5345-4a3d-92b9-887ff4771909
+    url_background: https://api.mediux.pro/assets/6cee4cc0-a836-40e2-a8cc-05417587bd53
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/4bd6c68f-8ee7-4db0-ac36-13818d3ffb9d
+      1:
+        url_poster: https://api.mediux.pro/assets/a9b6e658-5f62-4c48-b3a2-6325f8b41640
+      2:
+        url_poster: https://api.mediux.pro/assets/4619a1c3-4019-410f-bd97-ee9fc001608d
+      3:
+        url_poster: https://api.mediux.pro/assets/493235c6-a846-40f7-af57-0cc54590f747
+      4:
+        url_poster: https://api.mediux.pro/assets/59301b32-10bc-471f-a27a-c321379a5ae6
+      5:
+        url_poster: https://api.mediux.pro/assets/6a2e7742-3da6-4d0c-804f-eb7172c7e66e
+      6:
+        url_poster: https://api.mediux.pro/assets/247eba1d-0444-4609-947c-d680b642680a
+      7:
+        url_poster: https://api.mediux.pro/assets/184ca7e7-0e91-4825-a97a-ea6ac0fd37d9
+      8:
+        url_poster: https://api.mediux.pro/assets/e4f665fc-ed41-45ef-a37f-fd9187f05e0e
+      9:
+        url_poster: https://api.mediux.pro/assets/2a92cf8b-e5d7-4f7f-861d-094ee135c2a4
+      10:
+        url_poster: https://api.mediux.pro/assets/7b5f1fc0-d66d-4c6c-bccc-6c023d97920e
+      11:
+        url_poster: https://api.mediux.pro/assets/aaffed52-949f-44ad-9ee8-3cacf736423b
+      12:
+        url_poster: https://api.mediux.pro/assets/d775001e-36d7-42f4-87f8-7652c144e7e8
+      13:
+        url_poster: https://api.mediux.pro/assets/72226f4c-9c4c-447a-b2c6-9392bee4bec1
+      14:
+        url_poster: https://api.mediux.pro/assets/3df225e3-18ba-4073-b446-7940d9f71877
+      15:
+        url_poster: https://api.mediux.pro/assets/3ff457ad-2542-4cc8-8f08-fe540fdd661f
+      16:
+        url_poster: https://api.mediux.pro/assets/b8f90953-1dbe-4295-877b-5910ec7583ba
+      17:
+        url_poster: https://api.mediux.pro/assets/c4c4edb0-6054-4dcb-82e6-95920e9b33e8
+      18:
+        url_poster: https://api.mediux.pro/assets/0169667e-5809-4360-9f87-956daafd0d7f
+      19:
+        url_poster: https://api.mediux.pro/assets/86ad514f-65c1-48a4-b321-a84a16d4bda2
+      20:
+        url_poster: https://api.mediux.pro/assets/3f6dff9d-aafa-4d5b-8d3e-1133f63a2917
+      21:
+        url_poster: https://api.mediux.pro/assets/14cd54ec-7844-4ce0-a449-898efc00869c
+      22:
+        url_poster: https://api.mediux.pro/assets/dd893402-b242-4a31-9697-28c0c4c0d842
+      23:
+        url_poster: https://api.mediux.pro/assets/5f2cd162-bdbf-47be-b993-0eea3cfe3986
+      24:
+        url_poster: https://api.mediux.pro/assets/ac6dc1a1-ac26-4db2-9e01-15f54515464b
+
+  82438: # Flashpoint (2008)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/134835
+    url_background: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/flashpoint-2008/flashpoint-2008.jpg
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/134836
+      2:
+        url_poster: https://theposterdb.com/api/assets/134837
+      3:
+        url_poster: https://theposterdb.com/api/assets/134838
+      4:
+        url_poster: https://theposterdb.com/api/assets/134839
+      5:
+        url_poster: https://theposterdb.com/api/assets/134840
+
+  401003: # FROM (2022)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/b6e8bcbb-36cb-4bd8-b389-05d610fe1ec0
+    url_background: https://api.mediux.pro/assets/b7d1d3e4-9b80-4112-a14b-7ea6c01b76ab
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/d029011f-45ce-4e29-9fee-eed980f4ab4d
+      2:
+        url_poster: https://api.mediux.pro/assets/81c78a73-30cb-4b4e-8fe4-62eeb0a55711
+      3:
+        url_poster: https://api.mediux.pro/assets/19a8dd53-d172-4932-998f-38a8ff1f1be2
+      4:
+        url_poster: https://api.mediux.pro/assets/709e84ae-e62a-4f7b-8d46-09b51b0eb379
+
+  73871: # Futurama (1999)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/1cc48713-327b-4bbf-99a4-1e5903d4e071
+    url_background: https://api.mediux.pro/assets/1e25d8dd-8f82-411e-8881-0efd55b55d83
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/0ce23ece-7f36-4b7f-9ad4-d22c1fb8cb25
+      1:
+        url_poster: https://api.mediux.pro/assets/cbd15671-fa72-4c00-bb2c-3c03af900985
+      2:
+        url_poster: https://api.mediux.pro/assets/34b11b87-2ac4-40cd-9250-30b7c0130be5
+      3:
+        url_poster: https://api.mediux.pro/assets/a6456057-3e70-4948-a944-c06b4668251d
+      4:
+        url_poster: https://api.mediux.pro/assets/35519f22-59ac-49f2-8fe3-b63ec6814e8e
+      5:
+        url_poster: https://api.mediux.pro/assets/4e524a3b-3d6b-4f10-acbc-5f39e883e697
+      6:
+        url_poster: https://api.mediux.pro/assets/a02ee4f7-d9b5-4188-a912-12c6b0e54034
+      7:
+        url_poster: https://api.mediux.pro/assets/31bd53ec-ab5a-400b-a661-25f39f761770
+      8:
+        url_poster: https://api.mediux.pro/assets/f5907277-0a15-40d9-b79d-0435261f2733
+      9:
+        url_poster: https://api.mediux.pro/assets/afe97655-26f5-47aa-acfd-8a8ea4d2b53c
+      10:
+        url_poster: https://api.mediux.pro/assets/9ca8c2a5-465c-4858-984e-e03ce771237a
+      11:
+        url_poster: https://api.mediux.pro/assets/8465988f-d397-4712-acc4-dd2f7e4200af
+
+  121361: # Game of Thrones (2011)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/f9da1c31-ad8e-486c-af1f-93190be16b92
+    url_background: https://api.mediux.pro/assets/97434e9e-ec85-4c5d-ae22-e61dae74a76b
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/a668acda-5a09-4dbc-b002-964daf27d64f
+      1:
+        url_poster: https://api.mediux.pro/assets/cf4bea8d-b489-4bbc-8f3f-73810ea26054
+      2:
+        url_poster: https://api.mediux.pro/assets/9ea4fc9e-6677-4d5c-9530-a11a2df63233
+      3:
+        url_poster: https://api.mediux.pro/assets/714820d9-6fe2-436b-8be4-499d8ee7c602
+      4:
+        url_poster: https://api.mediux.pro/assets/66ca33c5-2165-45db-bb85-0fa44754d289
+      5:
+        url_poster: https://api.mediux.pro/assets/f5890e1b-5f1f-4614-89ad-e66bafb978bb
+      6:
+        url_poster: https://api.mediux.pro/assets/42540812-b3b5-49e8-b59d-0e3c71ff5833
+      7:
+        url_poster: https://api.mediux.pro/assets/3ba91ba0-924a-4cac-b8df-86624dc3fef6
+      8:
+        url_poster: https://api.mediux.pro/assets/c77217d3-be5b-4d6f-a974-87b0ba247c70
+
+  417909: # Gen V (2023)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/1f8f6388-ccc3-4b14-9318-3e380f4a4112
+    url_background: https://api.mediux.pro/assets/a3c2c5d8-49dd-4570-916f-8ef64197252d
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/18a36dfa-ee2d-4679-88ef-82c8dbf7c9b1
+      2:
+        url_poster: https://api.mediux.pro/assets/c7b2ca84-e900-4890-9324-da9cbb001b9c
+
+  311711: # The Good Place (2016)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/60ea5226-9604-4736-9fff-41abd5b42fbd
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/eb280117-cc50-4438-aad7-f40d35a76e26
+      1:
+        url_poster: https://api.mediux.pro/assets/fdba5c06-28e8-49bd-b048-eeb460a544f4
+      2:
+        url_poster: https://api.mediux.pro/assets/194b4110-40fb-46b2-a5b6-8da170faa93a
+      3:
+        url_poster: https://api.mediux.pro/assets/6e4b0aa1-4d93-4da3-8b19-f51313cb249c
+      4:
+        url_poster: https://api.mediux.pro/assets/53e42b9d-99d8-4c2b-81b3-3c7d65ef44d8
+
+  338893: # Gordon Ramsay's 24 Hours to Hell and Back (2018)
+    label:
+      - Art*
+      - Food*
+    url_poster: https://theposterdb.com/api/assets/46644
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/93520
+      2:
+        url_poster: https://theposterdb.com/api/assets/93521
+      3:
+        url_poster: https://theposterdb.com/api/assets/93522
+
+  187741: # The Great Food Truck Race (2010)
+    label:
+      - Art*
+      - Food*
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/the-great-food-truck-race.png
+    seasons:
+      1:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/The%20Great%20Food%20Truck%20Race%20-%20Season%2001.png
+      2:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/The%20Great%20Food%20Truck%20Race%20-%20Season%2002.png
+      3:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/The%20Great%20Food%20Truck%20Race%20-%20Season%2003.png
+      4:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/The%20Great%20Food%20Truck%20Race%20-%20Season%2004.png
+      5:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/The%20Great%20Food%20Truck%20Race%20-%20Season%2005.png
+      6:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/The%20Great%20Food%20Truck%20Race%20-%20Season%2006.png
+      7:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/The%20Great%20Food%20Truck%20Race%20-%20Season%2007.png
+      8:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/The%20Great%20Food%20Truck%20Race%20-%20Season%2008.png
+      9:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/The%20Great%20Food%20Truck%20Race%20-%20Season%2009.png
+      10:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/The%20Great%20Food%20Truck%20Race%20-%20Season%2010.png
+      11:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/The%20Great%20Food%20Truck%20Race%20-%20Season%2011.png
+      12:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/The%20Great%20Food%20Truck%20Race%20-%20Season%2012.png
+      13:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/The%20Great%20Food%20Truck%20Race%20-%20Season%2013.png
+      14:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/The%20Great%20Food%20Truck%20Race%20-%20Season%2014.png
+      15:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/The%20Great%20Food%20Truck%20Race%20-%20Season%2015.png
+      16:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/The%20Great%20Food%20Truck%20Race%20-%20Season%2016.png
+      17:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/The%20Great%20Food%20Truck%20Race%20-%20Season%2017.png
+      18:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/The%20Great%20Food%20Truck%20Race%20-%20Season%2018.png
+      19:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/the-great-food-truck-race/The%20Great%20Food%20Truck%20Race%20-%20Season%2019.png
+
+  274453: # Guy's Grocery Games (2013)
+    label:
+      - Art*
+      - Food*
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+    seasons:
+      1:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      2:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      3:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      4:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      5:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      6:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      7:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      8:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      9:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      10:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      11:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      12:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      13:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      14:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      15:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      16:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      17:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      18:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      19:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      20:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      21:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      22:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      23:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      24:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      25:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      26:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      27:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      28:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      29:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      30:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      31:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      32:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      33:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      34:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      35:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      36:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      37:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      38:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      39:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      40:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      41:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      42:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+      43:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
+
+  367146: # Hawkeye (2021)
+    label: Art*
+    url_poster: https://api.mediux.pro/assets/2b500bfe-7623-4934-be22-bde58e2eae66
+    url_background: https://api.mediux.pro/assets/ad8c5343-68d0-485a-aa7e-2e0338cb769e
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/3da09d36-f162-4b28-b53c-75a6b9998c23
+
+  74897: # Hell's Kitchen (2005)
+    label:
+      - Art*
+      - Food*
+    url_poster: https://api.mediux.pro/assets/c59ad6f2-cb66-48bf-85c6-7ceb021ce174
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/eb744c2e-f99d-4527-92e1-4d770f842ad9
+      2:
+        url_poster: https://api.mediux.pro/assets/69583005-d895-4dee-aa54-e15078b10369
+      3:
+        url_poster: https://api.mediux.pro/assets/f87860e0-e58d-4d78-bf2d-56d31a54b612
+      4:
+        url_poster: https://api.mediux.pro/assets/f415cd56-0354-43e5-87f2-d685d48e0c31
+      5:
+        url_poster: https://api.mediux.pro/assets/bb25916d-9f89-4be1-8027-934fd286a024
+      6:
+        url_poster: https://api.mediux.pro/assets/df3e538d-1bf3-49e2-a64c-96b48d356072
+      7:
+        url_poster: https://api.mediux.pro/assets/695315b6-c291-42e1-88ca-5147156f07c0
+      8:
+        url_poster: https://api.mediux.pro/assets/fac6319b-cbac-4cdf-8b7a-4e908d71c90d
+      9:
+        url_poster: https://api.mediux.pro/assets/07b99ac8-fd18-430a-a876-3acd6a83bdb2
+      10:
+        url_poster: https://api.mediux.pro/assets/71728cb9-8432-4a38-bf38-0e153ff73393
+      11:
+        url_poster: https://api.mediux.pro/assets/f8c03638-e42e-42af-ab0a-26489967e392
+      12:
+        url_poster: https://api.mediux.pro/assets/c0ed4b17-d7aa-41b9-9022-3ea61c2a95f1
+      13:
+        url_poster: https://api.mediux.pro/assets/fccb64f0-b7b1-4341-b564-e7b1b95b8ac9
+      14:
+        url_poster: https://api.mediux.pro/assets/08d095c9-74aa-49bd-a605-8788b0383448
+      15:
+        url_poster: https://api.mediux.pro/assets/3c64d21f-af8a-4b7b-9aaa-ea39386df868
+      16:
+        url_poster: https://api.mediux.pro/assets/5f027af6-9195-462b-9a73-942b8f69443a
+      17:
+        url_poster: https://api.mediux.pro/assets/6f093477-b798-47cd-b196-50298a21c3e7
+      18:
+        url_poster: https://api.mediux.pro/assets/91261e86-2a79-44e6-8ac1-3344ff212d35
+      19:
+        url_poster: https://api.mediux.pro/assets/0c3d1dbf-0d03-46dc-96ec-79a57d957a60
+      20:
+        url_poster: https://api.mediux.pro/assets/896cbd6e-8204-4d56-b571-4190b383978c
+      21:
+        url_poster: https://api.mediux.pro/assets/b8b614c9-6f2e-40ef-9605-3bcfc02d9263
+      22:
+        url_poster: https://api.mediux.pro/assets/363edac3-3ed5-4f3d-aa13-6651d0931ec1
+      23:
+        url_poster: https://api.mediux.pro/assets/a40c6609-2f0c-4aca-925a-37ab542393bf
+      24:
+        url_poster: https://api.mediux.pro/assets/7925bee3-6e99-4229-a75a-e29f4dbcf360
+
+  257609: # Hotel Hell (2012)
+    label:
+      - Art*
+      - Food*
+    url_poster: https://theposterdb.com/api/assets/85222
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/412792
+      2:
+        url_poster: https://theposterdb.com/api/assets/412793
+      3:
+        url_poster: https://theposterdb.com/api/assets/412794
+
+  371572: # House of the Dragon (2022)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/c4bfec16-3f7f-4b71-96fe-e4ff42fbbb88
+    url_background: https://api.mediux.pro/assets/481cb43a-daca-4374-ab71-551341e5d977
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/465bd3a5-6261-4a66-a779-14cb1dfe34ee
+      1:
+        url_poster: https://api.mediux.pro/assets/92f6ffb2-36ab-4191-8ce1-f0b3cf6c02f1
+      2:
+        url_poster: https://api.mediux.pro/assets/989a6a87-cce4-4bbf-96a4-9dca3b75987f
+      3:
+        url_poster: https://api.mediux.pro/assets/f6fab754-57df-4883-9b4b-2833284f4fea
+
+  393201: # I Am Groot (2022)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/88aeedfd-7194-46e5-b1c9-d1285e8ef232
+    url_background: https://api.mediux.pro/assets/166328a0-2aa8-4a13-890f-b55c0572a978
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/4eea0de5-cee0-4b1b-a6f9-74455ed2aa60
+      2:
+        url_poster: https://api.mediux.pro/assets/de270344-94a9-430a-8408-77a0e3e99af7
+
+  254243: # Impractical Jokers (2011)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/166973
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/166974
+      1:
+        url_poster: https://theposterdb.com/api/assets/166975
+      2:
+        url_poster: https://theposterdb.com/api/assets/166976
+      3:
+        url_poster: https://theposterdb.com/api/assets/166977
+      4:
+        url_poster: https://theposterdb.com/api/assets/166978
+      5:
+        url_poster: https://theposterdb.com/api/assets/166979
+      6:
+        url_poster: https://theposterdb.com/api/assets/166980
+      7:
+        url_poster: https://theposterdb.com/api/assets/166981
+      8:
+        url_poster: https://theposterdb.com/api/assets/166982
+      9:
+        url_poster: https://theposterdb.com/api/assets/166983
+      10:
+        url_poster: https://theposterdb.com/api/assets/242867
+      11:
+        url_poster: https://theposterdb.com/api/assets/499902
+      12:
+        url_poster: https://theposterdb.com/api/assets/625251
+      13:
+        url_poster: https://theposterdb.com/api/assets/733031
+
+  368207: # INVINCIBLE (2021)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/7c0a01be-1f16-4006-aef9-5c128f825992
+    url_background: https://api.mediux.pro/assets/ccd86eb6-ebdc-4c42-84fb-1ebf1714dd46
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/7d90012f-9942-4574-aa85-8e8d346df4d0
+      1:
+        url_poster: https://api.mediux.pro/assets/1c28c1d3-8805-4c07-ac02-8596fee5e141
+      2:
+        url_poster: https://api.mediux.pro/assets/0de137f5-d9ff-472b-9c67-aae9f44a5bd8
+      3:
+        url_poster: https://api.mediux.pro/assets/f36faff2-757a-45d9-979c-7dcf29721313
+      4:
+        url_poster: https://api.mediux.pro/assets/2f9769bf-e5ec-4267-9cc9-afb2732aa55b
+
+  393204: # Ironheart (2025)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/4ea967ba-c464-45d1-901b-28541519cc03
+    url_background: https://api.mediux.pro/assets/3e4d9d90-2995-4e0b-ab22-34cbeef36d55
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/1d920b99-ff53-493d-a846-411f98a685a8
+
+  417112: # Is It Cake? (2022)
+    label:
+      - Art*
+      - Food*
+    url_poster: https://theposterdb.com/api/assets/653237
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/653238
+      1:
+        url_poster: https://theposterdb.com/api/assets/653239
+      2:
+        url_poster: https://theposterdb.com/api/assets/653240
+      3:
+        url_poster: https://theposterdb.com/api/assets/653241
+
+  457049: # Is It Cake? Holiday (2024)
+    match:
+      title: "Is It Cake? Holiday"
+      year: 2024
+    label:
+      - Art*
+      - Food*
+    url_poster: https://theposterdb.com/api/assets/653238
+
+  75805: # It's Always Sunny in Philadelphia (2005)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/cacbdd92-a97a-475e-970d-a24c4e5e0de7
+    url_background: https://api.mediux.pro/assets/30d581b4-e1b8-4205-84b6-dbc298f9d575
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/5d5951b9-9a81-439c-a24d-8e19a3f04657
+      2:
+        url_poster: https://api.mediux.pro/assets/56a15f43-a789-4b35-bf9f-69327a5a60d3
+      3:
+        url_poster: https://api.mediux.pro/assets/43f04c6f-27be-4eb9-8600-3552a6aac2c2
+      4:
+        url_poster: https://api.mediux.pro/assets/6d861565-1c8b-4f94-9024-2c3e889d3c82
+      5:
+        url_poster: https://api.mediux.pro/assets/7601375c-c3f1-4810-9f50-8f574c868fe5
+      6:
+        url_poster: https://api.mediux.pro/assets/a4b2e9ae-f92b-4be5-ad5e-3a6affaa9ea1
+      7:
+        url_poster: https://api.mediux.pro/assets/7f6c9f35-6e28-44ed-8cf5-35dbe8435a63
+      8:
+        url_poster: https://api.mediux.pro/assets/ecdf7f78-0a61-418e-8b3b-41ba96b8a0c6
+      9:
+        url_poster: https://api.mediux.pro/assets/5ad3e801-8766-4975-bce9-2d30ca30b0c5
+      10:
+        url_poster: https://api.mediux.pro/assets/8fa6a7cf-a125-441a-9d0d-78a3e128d974
+      11:
+        url_poster: https://api.mediux.pro/assets/e5c92d13-3bcb-4ef1-a236-e97ee1a0cf19
+      12:
+        url_poster: https://api.mediux.pro/assets/05932e3d-853b-4b18-b8f9-9f649169cfc4
+      13:
+        url_poster: https://api.mediux.pro/assets/fc7689f7-f7e8-4eca-9b77-f4c685032250
+      14:
+        url_poster: https://api.mediux.pro/assets/de2fe655-e0d7-4fa3-aa29-c54b04d159d5
+      15:
+        url_poster: https://api.mediux.pro/assets/2214bee8-e28d-4d88-b45e-b3dd72cc119d
+      16:
+        url_poster: https://api.mediux.pro/assets/9eed6ae5-d026-4619-92c2-996af4086a5b
+      17:
+        url_poster: https://api.mediux.pro/assets/530aa4f8-31c7-4f41-8a3e-45744307c3d0
+      18:
+        url_poster: https://api.mediux.pro/assets/baba7fb5-508b-4916-8559-66fcb755a56f
+
+  78111: # Jackass (2000)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/7a0d5393-9aac-4ac6-922b-6ce37f45ce90
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/5a5058f3-d709-4f8c-90f0-b46dc39d0101
+      2:
+        url_poster: https://api.mediux.pro/assets/fccf3154-74b1-4d67-b931-87665fe5f85e
+      3:
+        url_poster: https://api.mediux.pro/assets/4adab952-845e-40d6-b2e3-25bfa425c272
+
+  255325: # Key & Peele (2012)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/58c26aac-2eeb-410b-9ac6-b614c8ee9c22
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/72a902c7-6b6b-4599-83bb-bfab46da91e5
+      1:
+        url_poster: https://api.mediux.pro/assets/9d1382fe-b1c6-4f63-b48a-f1f6c108a447
+      2:
+        url_poster: https://api.mediux.pro/assets/b8bfbb48-ae0f-4f4a-8bf2-8610f4dc8f66
+      3:
+        url_poster: https://api.mediux.pro/assets/11f393dd-a2c3-4eda-9615-da57d0f8eb21
+      4:
+        url_poster: https://api.mediux.pro/assets/2a875f6b-c134-49d1-9fb2-3567bd32a051
+      5:
+        url_poster: https://api.mediux.pro/assets/f31fdc00-d5a8-459a-9e65-fe97f0c4ced9
+
+  73903: # King of the Hill (1997)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/00a28003-40e7-4bcd-96ea-7804a4c4dd9d?retry=1
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/52ec8fc6-adb4-4846-a46d-3f15d7125b75
+      1:
+        url_poster: https://api.mediux.pro/assets/dfc4b52c-72a0-49fd-9ee3-21ffc7299f5a
+      2:
+        url_poster: https://api.mediux.pro/assets/f109015b-7aa7-4f79-b501-c39bd7dce95a
+      3:
+        url_poster: https://api.mediux.pro/assets/ac65039a-da00-44e6-93b5-219bdd51922d
+      4:
+        url_poster: https://api.mediux.pro/assets/1cbfa46e-11d2-4135-8d48-04dd3cd8805d
+      5:
+        url_poster: https://api.mediux.pro/assets/b219d443-68a0-4bc0-befc-351555c183b5
+      6:
+        url_poster: https://api.mediux.pro/assets/737f8f12-22b7-438f-8f4d-1b804817961f
+      7:
+        url_poster: https://api.mediux.pro/assets/df8f99f4-0ed0-447e-a451-42cc9a4c7172
+      8:
+        url_poster: https://api.mediux.pro/assets/8eb7754f-c22f-4a89-8400-9a674d46c2e6
+      9:
+        url_poster: https://api.mediux.pro/assets/325852c9-4151-4bb1-9043-2fb0c113b69e
+      10:
+        url_poster: https://api.mediux.pro/assets/4ea85c96-aebc-44e9-941a-3ba9d85ddf88
+      11:
+        url_poster: https://api.mediux.pro/assets/52c852ee-e8d2-46b8-aacf-727c9013fba4
+      12:
+        url_poster: https://api.mediux.pro/assets/36d79bf3-5885-4bf8-92f1-c24c7fec5563
+      13:
+        url_poster: https://api.mediux.pro/assets/7e4fb3bd-5495-4399-99ca-b28f2e45c70c
+      14:
+        url_poster: https://api.mediux.pro/assets/1c2d9637-186a-4d34-8c80-94f3cab73491
+      15:
+        url_poster: https://api.mediux.pro/assets/646ad3f4-e05d-4d0a-80f9-326e9f627eab
+
+  80552: # Kitchen Nightmares (US)(2007)
+    label:
+      - Art*
+      - Food*
+    url_poster: https://theposterdb.com/api/assets/396851
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/396852
+      2:
+        url_poster: https://theposterdb.com/api/assets/396853
+      3:
+        url_poster: https://theposterdb.com/api/assets/396854
+      4:
+        url_poster: https://theposterdb.com/api/assets/396855
+      5:
+        url_poster: https://theposterdb.com/api/assets/396856
+      6:
+        url_poster: https://theposterdb.com/api/assets/396857
+      7:
+        url_poster: https://theposterdb.com/api/assets/396858
+
+  376098: # Lanterns (2026)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/83d1f7c8-abcc-4e07-b55e-e157c98b5f05
+    url_background: https://api.mediux.pro/assets/7b12505f-6f7f-4148-af55-951b9abb58de
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/6858e558-6cec-45fa-9320-f134c65191ea
+
+  392256: # The Last of Us
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/d30da1b0-06dd-4226-8b86-13534eaac845
+    url_background: https://api.mediux.pro/assets/75dc3640-fed4-4a4f-9317-41cd1c7d9bae
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/342001
+      1:
+        url_poster: https://api.mediux.pro/assets/bb2a6a79-31cf-4ff6-a00b-d84357eca31c
+      2:
+        url_poster: https://api.mediux.pro/assets/1eb1a317-61bc-4b54-9497-e7f4d9a34628
+
+  71489: # Law & Order: Criminal Intent (2001)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/6303b4a4-7f4a-46f9-b842-fbc1f91044c0
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/174c163f-620b-4d3b-a6df-10df9c1a7cb1
+      1:
+        url_poster: https://api.mediux.pro/assets/0371d098-4beb-45ef-8fd9-bc8dc6583d4d
+      2:
+        url_poster: https://api.mediux.pro/assets/b487ba78-eaa0-4db4-a8b9-1a081ea5e3a0
+      3:
+        url_poster: https://api.mediux.pro/assets/bedee344-8d7a-4c7f-b7e2-6ac2a3ef889a
+      4:
+        url_poster: https://api.mediux.pro/assets/2d7bb528-4050-4826-93d9-95072e247b7a
+      5:
+        url_poster: https://api.mediux.pro/assets/aae9a4c6-13a7-43dc-bb40-a426a99d4462
+      6:
+        url_poster: https://api.mediux.pro/assets/235ed62c-f1a7-4ddc-84c7-ab40750ebfbc
+      7:
+        url_poster: https://api.mediux.pro/assets/67fdb4e0-fd5c-4e3c-a7fe-66d5d69ad179
+      8:
+        url_poster: https://api.mediux.pro/assets/0c6d97f7-b3a5-427a-8e08-0260b450a7f9
+      9:
+        url_poster: https://api.mediux.pro/assets/f6456470-f0b9-42a9-adb0-00b6ce9bb9c2
+      10:
+        url_poster: https://api.mediux.pro/assets/75e15b08-27e0-4e43-9e97-2e0645582178
+
+  383397: # Law & Order: Organized Crime (2021)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/4385b1f6-981d-45f0-bf62-69241c009898
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/11627a0f-d85f-46c7-8356-48332be0204b
+      2:
+        url_poster: https://api.mediux.pro/assets/9ca797c6-f7dc-4252-89cc-8c945a61d4cd
+      3:
+        url_poster: https://api.mediux.pro/assets/174d8d8b-7c68-49b0-bd63-1e66705f56ae
+      4:
+        url_poster: https://api.mediux.pro/assets/1995774d-6921-43ba-a27a-1448e142bb3e
+      5:
+        url_poster: https://api.mediux.pro/assets/af0f4340-8f0e-4f93-b114-0143fbb52bc5
+
+  75692: # Law & Order: Special Victims Unit (1999)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/a36122b9-dc01-419a-a7e2-05d175f93d5c
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/e2709b70-ecee-4943-82d1-7e4578073479
+      1:
+        url_poster: https://api.mediux.pro/assets/8456f661-47e9-48eb-a857-594519df3925
+      2:
+        url_poster: https://api.mediux.pro/assets/317e0bde-855f-49c9-963c-1158d31e3320
+      3:
+        url_poster: https://api.mediux.pro/assets/3417c008-1e16-4f5e-a092-34cc375bacc1
+      4:
+        url_poster: https://api.mediux.pro/assets/e7211338-992a-4820-bdb3-ede598506a3e
+      5:
+        url_poster: https://api.mediux.pro/assets/6a0dbf3d-3feb-4b0d-aef3-dfc6101d3a34
+      6:
+        url_poster: https://api.mediux.pro/assets/257b48d5-830e-4691-861a-22e5a4e1311b
+      7:
+        url_poster: https://api.mediux.pro/assets/c927c8b8-80b5-430c-8a2f-df917cfed51a
+      8:
+        url_poster: https://api.mediux.pro/assets/257bd9f3-71f8-47fe-8aee-e933b36d4e09
+      9:
+        url_poster: https://api.mediux.pro/assets/ca659d3d-a40e-494d-b327-f2d6f17bdc94
+      10:
+        url_poster: https://api.mediux.pro/assets/e287f806-2eff-493c-969f-288ec3cbd592
+      11:
+        url_poster: https://api.mediux.pro/assets/37f08e27-abd0-4f67-9a9f-4a08f02bf8af
+      12:
+        url_poster: https://api.mediux.pro/assets/1a7eaa39-996f-4c90-9e91-b8b2f019394e
+      13:
+        url_poster: https://api.mediux.pro/assets/262bc15a-e864-46ce-b942-9eba581ab90a
+      14:
+        url_poster: https://api.mediux.pro/assets/188cb1a4-3f66-4db1-8ba3-d9f722d7427c
+      15:
+        url_poster: https://api.mediux.pro/assets/05addbb1-560c-431f-ae21-c413879d4782
+      16:
+        url_poster: https://api.mediux.pro/assets/18e5aeb1-36dd-4819-ba6d-f2c308aa1f8b
+      17:
+        url_poster: https://api.mediux.pro/assets/8956c6c0-7bdd-4d31-90cc-67a990f385bc
+      18:
+        url_poster: https://api.mediux.pro/assets/68cdee37-c8d5-431d-a94a-69f6005acd9e
+      19:
+        url_poster: https://api.mediux.pro/assets/8313fd75-5186-43d3-b185-5ddc19876b76
+      20:
+        url_poster: https://api.mediux.pro/assets/e1f575e2-db7f-4754-af2f-5f68d5a710d2
+      21:
+        url_poster: https://api.mediux.pro/assets/24435c8c-8c73-4aec-9302-f887572a7f96
+      22:
+        url_poster: https://api.mediux.pro/assets/6476a3c7-fb47-424e-881d-4d7d3bbe7d03
+      23:
+        url_poster: https://api.mediux.pro/assets/5d3bd870-c2e1-438e-8bbf-7e09e078181f
+      24:
+        url_poster: https://api.mediux.pro/assets/f317b3a6-8874-4000-9d16-984957bb439c
+      25:
+        url_poster: https://api.mediux.pro/assets/d8fdf550-1c5f-44c3-93df-14d4b401ad0d
+      26:
+        url_poster: https://api.mediux.pro/assets/daec4340-3594-45b9-8f0d-cebfbef406e8
+      27:
+        url_poster: https://api.mediux.pro/assets/f90931b6-05a6-469a-8672-8c1c27c39f9b
+
+  302938: # Letterkenny (2016)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/cfd6748c-683a-467a-9c9e-a0a48afe2b4a
+    url_background: https://api.mediux.pro/assets/005d4bd5-12ea-4435-ae74-f7747a44a924
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/8cd45d7a-c327-4e67-a14e-1e6a407f7e55
+      1:
+        url_poster: https://api.mediux.pro/assets/e1310d8f-6980-4f48-a652-b8dd77b581af
+      2:
+        url_poster: https://api.mediux.pro/assets/833f7093-ee3e-4d73-9bb3-8075d18b3c2d
+      3:
+        url_poster: https://api.mediux.pro/assets/1e86f9f3-4535-4607-9137-029ee1c218cc
+      4:
+        url_poster: https://api.mediux.pro/assets/485fad54-754c-4111-91de-528d2c4da264
+      5:
+        url_poster: https://api.mediux.pro/assets/61a7f9b4-140c-4675-9f9c-898d1dfbd4e9
+      6:
+        url_poster: https://api.mediux.pro/assets/1948a89c-4cc3-4c5e-954d-46e81d9ce1fe
+      7:
+        url_poster: https://api.mediux.pro/assets/96033141-1936-49a7-affd-16a6ce981c68
+      8:
+        url_poster: https://api.mediux.pro/assets/50d80f5b-f64c-4076-b339-e2822da3eac6
+      9:
+        url_poster: https://api.mediux.pro/assets/a0c0037d-3194-4570-aec2-0e56c82ee0b9
+      10:
+        url_poster: https://api.mediux.pro/assets/78b24ff2-f61e-41de-bfaf-96abb78f8800
+      11:
+        url_poster: https://api.mediux.pro/assets/235c560f-fb66-489b-8199-8172e1fe979a
+      12:
+        url_poster: https://api.mediux.pro/assets/1d151191-914c-4274-afaf-a91ceae86299
+
+  362472: # Loki (2021)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/a5e5dbc8-cf93-434e-8948-b4230f78ecba
+    url_background: https://api.mediux.pro/assets/53e27fbc-2fdb-4961-80e6-ad1180a7a1f9
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/99c56cf3-bd62-4f6e-bf70-b6834a74ba83
+      2:
+        url_poster: https://api.mediux.pro/assets/81a71ce7-72b6-41fa-ada4-d077f7724ca5
+
+  73838: # Malcolm in the Middle (2000)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/69013567-1288-4da6-87e7-224b88042420
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/81931843-f633-4fd9-8078-832d72c48536
+      1:
+        url_poster: https://api.mediux.pro/assets/f7bf2a49-40a8-4716-8b70-62308ef9508d
+      2:
+        url_poster: https://api.mediux.pro/assets/0731c6fc-f314-45d7-857b-87679be66dd2
+      3:
+        url_poster: https://api.mediux.pro/assets/58a2d8cb-dc3a-437f-9d84-b9f31688edcf
+      4:
+        url_poster: https://api.mediux.pro/assets/c1b99707-a1af-483a-aab4-60f9da92ce87
+      5:
+        url_poster: https://api.mediux.pro/assets/43c2a006-5a06-49ca-baaa-73d1fc4dea18
+      6:
+        url_poster: https://api.mediux.pro/assets/d1fc41eb-e754-45eb-9242-c715f9af21e9
+      7:
+        url_poster: https://api.mediux.pro/assets/c6d22350-e856-4a0a-bdcd-2c40448e7c0d
+
+  361753: # The Mandalorian (2019)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/ddaabbfc-a28f-4554-b8ae-7f066e571b21
+    url_background: https://api.mediux.pro/assets/8b04da39-4d96-4eb1-9a57-f074875068e1
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/af451ddd-36a2-4577-9260-670c8c0591a2
+      2:
+        url_poster: https://api.mediux.pro/assets/19fcae82-c2e0-4389-8492-98de16fab94b
+      3:
+        url_poster: https://api.mediux.pro/assets/2df41f2e-0af3-4283-a469-8917fc1c139d
+
+  412428: # Marvel Zombies (2025)
+    label: Art*
+    url_poster: https://api.mediux.pro/assets/92ec6728-79a9-406d-a989-aa68fb2a88a9
+    url_background: https://api.mediux.pro/assets/185f9fd6-05f8-406d-a83d-8525ac740f1d
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/6b7d6e28-cc7d-486d-a99a-708b778af8c2
+
+  281485: # Marvel's Agent Carter (2015)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/d4009e9e-87f8-46f1-8045-31b5b7619cfa
+    url_background: https://api.mediux.pro/assets/531042c7-a81a-495c-93ed-4d53d6d714f9
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/526a3cf4-c2f8-418c-b33b-8be113012b5a
+      2:
+        url_poster: https://api.mediux.pro/assets/49c221f5-dd29-46d3-902b-2d569c83a958
+
+  263365: # Marvel's Agents of S.H.I.E.L.D. (2013)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/7a8a54b3-b0db-44c8-9622-9a080c63d110
+    url_background: https://api.mediux.pro/assets/42695c85-b27c-4dc5-b956-1654420d05e5
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/52d20dda-2f76-467a-950e-ccea452572e3
+      1:
+        url_poster: https://api.mediux.pro/assets/10fabc99-7ca9-499d-8663-3ca305b8ce68
+      2:
+        url_poster: https://api.mediux.pro/assets/31646d7a-37ba-4440-ad5e-7bc0c12e66f6
+      3:
+        url_poster: https://api.mediux.pro/assets/58ccb7ed-d5a0-40a7-9e46-cb806cead5f6
+      4:
+        url_poster: https://api.mediux.pro/assets/d150fb05-4df9-46c0-8a9a-c1811974d4e2
+      5:
+        url_poster: https://api.mediux.pro/assets/e7bd3038-1ac6-47d9-a783-a057f00dc76b
+      6:
+        url_poster: https://api.mediux.pro/assets/c957fdc3-095f-4e31-a34e-06a9ae772396
+      7:
+        url_poster: https://api.mediux.pro/assets/b14c7238-f96d-4190-bdd0-8f5acf259f8a
+
+  341455: # Marvel's Cloak & Dagger (2018)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/1970713f-8a89-4f4b-b337-67853871a9cd
+    url_background: https://api.mediux.pro/assets/aa533a74-1280-43f4-ab87-5473f97aab90
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/d4b8e695-f6bd-4aa8-b75b-51dffcdd9ed5
+      2:
+        url_poster: https://api.mediux.pro/assets/7e68474c-c927-49a2-9ccb-d05c67520d5d
+
+  281662: # Marvel's Daredevil (2015)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/1f9e6591-9c0f-4df4-929a-ebb92bf128ac
+    url_background: https://api.mediux.pro/assets/f0e93eec-68c8-42ec-acf3-ef066b05458b
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/b3eb396f-a5ec-4bb0-9d0a-46e6fc2104ac
+      2:
+        url_poster: https://api.mediux.pro/assets/a960bbee-0324-4d58-a54c-345a2a7477b5
+      3:
+        url_poster: https://api.mediux.pro/assets/72aca54a-d552-43c1-9265-f34d2d39f826
+
+  320558: # Marvel's Inhumans (2017)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/b08d86bc-ed9c-448c-b859-9de96d731979
+    url_background: https://api.mediux.pro/assets/6ac1b449-0d12-4bc4-ae27-8f2061142661
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/9e87d5e7-469b-4ba1-a5d8-b04ffcf03831
+
+  317953: # Marvel's Iron Fist (2017)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/f9b76d10-5074-479d-89f1-4977f43baa20
+    url_background: https://api.mediux.pro/assets/5ccacdb5-6c43-464e-84b1-4e5c03b28777
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/56de5fce-8ba8-42e3-b95c-a47b32103f6f
+      2:
+        url_poster: https://api.mediux.pro/assets/58f162ed-8a8f-4b1a-95bd-ab592fd60c07
+
+  284190: # Marvel's Jessica Jones (2015)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/96b6ebe6-2edf-4732-8f9f-f2b75c44a007
+    url_background: https://api.mediux.pro/assets/a6b14929-2328-4117-96fe-3e0cd6110b75
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/e412e0cd-f104-4e0d-a4d7-79b94f3174c4
+      2:
+        url_poster: https://api.mediux.pro/assets/ce6ee33e-f602-4969-9d14-c51b56e5503d
+      3:
+        url_poster: https://api.mediux.pro/assets/7a404d76-c4a4-475c-9cca-d60045e28626
+
+  304219: # Marvel's Luke Cage (2016)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/2c1da89c-2335-47b9-82f5-e1779264a618
+    url_background: https://api.mediux.pro/assets/0c6d8d0b-14a9-40a0-ad93-32a302797131
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/0322dc70-7613-4f19-9273-266bafa24648
+      2:
+        url_poster: https://api.mediux.pro/assets/be8475d0-e64b-492c-8e21-90c3ebc1b0f5
+
+  332027: # Marvel's Runaways (2017)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/8698e836-c06d-4d39-a543-71429d916361
+    url_background: https://api.mediux.pro/assets/296cf1a1-369e-431b-a246-0951f54a08f6
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/dd8f2b9e-ae3d-43af-82d7-e37a78ac95de
+      2:
+        url_poster: https://api.mediux.pro/assets/d315ed70-66cf-42b9-a432-cacef6d0b355
+      3:
+        url_poster: https://api.mediux.pro/assets/07aa166f-4db3-42e1-ab63-7d8617e6d0b7
+
+  326490: # Marvel's The Defenders (2017)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/f1f5ce66-985f-4935-a698-512ee26a9d99
+    url_background: https://api.mediux.pro/assets/05ae695b-e769-4019-85a2-5f0db6d14617
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/d59de34b-c0a5-4cb9-ae2d-934079829a29
+
+  331980: # Marvel's The Punisher (2017)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/331c4bcb-b314-483e-b596-bc77f6848b25
+    url_background: https://api.mediux.pro/assets/e9348573-6da9-4ab6-a9cb-d987b3dc0005
+    seasons:
+      0:
+            url_poster: https://api.mediux.pro/assets/46b391e2-5389-4df5-a1ac-ca3cac5a4981
+      1:
+        url_poster: https://api.mediux.pro/assets/62a2975a-b0ff-4709-9a9c-7d5202a51dd5
+      2:
+        url_poster: https://api.mediux.pro/assets/bb9ed778-8d3a-40d8-84c1-d2f4c8446ce6
+
+  167751: # MasterChef (2010)
+    label:
+      - Art*
+      - Food*
+    url_poster: https://theposterdb.com/api/assets/308972
+    url_background: https://api.mediux.pro/assets/ff9c6eb2-fe9f-4ec9-979b-a037e2bd4826
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/7d01e64f-bad4-42df-8eea-0a34342184ce
+      1:
+        url_poster: https://api.mediux.pro/assets/602c7209-8c4f-45d5-a0c9-b87b68e497e2
+      2:
+        url_poster: https://api.mediux.pro/assets/770a494e-c974-4e75-8d94-26e2c7c73cd9
+      3:
+        url_poster: https://api.mediux.pro/assets/9189cfff-8c08-4d96-8807-01e04e5646dd
+      4:
+        url_poster: https://api.mediux.pro/assets/6b6a0d06-2842-4b77-b260-51a7a531ce8f
+      5:
+        url_poster: https://api.mediux.pro/assets/11d925f7-21c6-458b-a24d-3ab9af02e778
+      6:
+        url_poster: https://api.mediux.pro/assets/b4d96553-8a67-4179-b1f4-516b3684c4ee
+      7:
+        url_poster: https://api.mediux.pro/assets/947b9ce8-88ff-4de2-b5a4-8512c25ecdfa
+      8:
+        url_poster: https://api.mediux.pro/assets/8bb276d0-4c19-44b4-95c7-cc446ead4c95
+      9:
+        url_poster: https://api.mediux.pro/assets/b6a5e1d1-d424-44f0-987f-36c522a88c8b
+      10:
+        url_poster: https://api.mediux.pro/assets/b391806d-11c7-4d56-a90b-6338e899296c
+      11:
+        url_poster: https://api.mediux.pro/assets/93f8adfe-50a6-4829-86c0-fa350ab68f66
+      12:
+        url_poster: https://api.mediux.pro/assets/0e4a796c-e820-4215-b441-761bcbff918a
+      13:
+        url_poster: https://api.mediux.pro/assets/7a1ae6d0-a27d-4da9-8d8b-7a8d2d5db25f
+      14:
+        url_poster: https://api.mediux.pro/assets/01948b22-a1da-4cd3-bc66-724deee0a3ed
+      15:
+        url_poster: https://api.mediux.pro/assets/df5a55b1-bda7-4dd8-8ccb-a740733b4253
+
+  271863: # MasterChef Junior (2013)
+    label:
+      - Art*
+      - Food*
+    url_poster: https://theposterdb.com/api/assets/308986
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/308987
+      1:
+        url_poster: https://theposterdb.com/api/assets/308988
+      2:
+        url_poster: https://theposterdb.com/api/assets/308989
+      3:
+        url_poster: https://theposterdb.com/api/assets/308990
+      4:
+        url_poster: https://theposterdb.com/api/assets/308991
+      5:
+        url_poster: https://theposterdb.com/api/assets/308992
+      6:
+        url_poster: https://theposterdb.com/api/assets/308993
+      7:
+        url_poster: https://theposterdb.com/api/assets/308994
+      8:
+        url_poster: https://theposterdb.com/api/assets/308995
+      9:
+        url_poster: https://theposterdb.com/api/assets/484175
+
+  368611: # Moon Knight (2022)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/655d7b6f-9c7a-4b68-ac46-e0d9fdc468b7
+    url_background: https://api.mediux.pro/assets/a7387803-dc59-482d-9543-50a2d70abadd
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/6123c284-b477-453c-a5d2-815c5c20479c
+
+  368612: # Ms. Marvel (2022)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/b6386b75-e0d4-4140-a3fd-7a923e22f333
+    url_background: https://api.mediux.pro/assets/4c46c0fa-b5c9-4226-9270-a0cdc3ff7f83
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/43ae5cdc-5cd7-4b49-983c-51b010f4bd7e
+
+  72693: # MXC (2003)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/4fd55a93-583b-460c-99c8-181ed96908a6
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/a74a885d-2071-4653-bf6b-5fc815d4ee1e
+      1:
+        url_poster: https://api.mediux.pro/assets/079fbeeb-c618-452b-b1b6-0409502c2940
+      2:
+        url_poster: https://api.mediux.pro/assets/d36715c3-2d68-4b1e-84f8-33f389b38184
+      3:
+        url_poster: https://api.mediux.pro/assets/17aa0024-4442-44c8-899d-37ac1c47e6c6
+      4:
+        url_poster: https://api.mediux.pro/assets/4535d1a1-2c02-45e9-834c-f64f96331011
+      5:
+        url_poster: https://api.mediux.pro/assets/5ed2fac1-e6b7-4f82-a856-8eaab03255f4
+
+  75397: # My Name Is Earl (2005)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/ff31eba1-bbd3-45bc-b2ed-4f21f5b9ceb7
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/66545a0f-6052-4cf1-b54b-eef373193c21
+      1:
+        url_poster: https://api.mediux.pro/assets/b5f0df11-fe3f-4ebc-82aa-e4a088350a70
+      2:
+        url_poster: https://api.mediux.pro/assets/c5f081a8-80a2-4799-8f89-11dd8d8e0bc7
+      3:
+        url_poster: https://api.mediux.pro/assets/6bede215-2da6-4762-89ea-c9f1c0df5e19
+      4:
+        url_poster: https://api.mediux.pro/assets/b0005083-6fe6-4d8d-b39e-4e4b8fc392ee
+
+  73388: # MythBusters (2003)
+    label: Art*
+    url_poster: https://api.mediux.pro/assets/60488206-d23f-4ed2-93e9-7e78e122c444
+    url_background: https://api.mediux.pro/assets/61829fc2-ce65-4f95-aa51-2663e9ab98d4
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/411454
+      2003:
+        url_poster: https://theposterdb.com/api/assets/411455
+      2004:
+        url_poster: https://theposterdb.com/api/assets/411456
+      2005:
+        url_poster: https://theposterdb.com/api/assets/411457
+      2006:
+        url_poster: https://theposterdb.com/api/assets/411458
+      2007:
+        url_poster: https://theposterdb.com/api/assets/411459
+      2008:
+        url_poster: https://theposterdb.com/api/assets/411460
+      2009:
+        url_poster: https://theposterdb.com/api/assets/411461
+      2010:
+        url_poster: https://theposterdb.com/api/assets/411462
+      2011:
+        url_poster: https://theposterdb.com/api/assets/411463
+      2012:
+        url_poster: https://theposterdb.com/api/assets/411464
+      2013:
+        url_poster: https://theposterdb.com/api/assets/411465
+      2014:
+        url_poster: https://theposterdb.com/api/assets/411466
+      2015:
+        url_poster: https://theposterdb.com/api/assets/411467
+      2016:
+        url_poster: https://theposterdb.com/api/assets/411468
+      2017:
+        url_poster: https://theposterdb.com/api/assets/411469
+      2018:
+        url_poster: https://theposterdb.com/api/assets/411470
+
+  72108: # NCIS
+    label: Art*
+    url_poster: https://api.mediux.pro/assets/57824ef3-3dd2-4cf7-8bbb-e40f137ce16e
+    url_background: https://api.mediux.pro/assets/3b894272-98a1-4147-a798-9dcff2359171
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/72e22e95-fe80-449b-9898-69e1eeef670e
+      1:
+        url_poster: https://api.mediux.pro/assets/1acc2a15-a278-40f4-b406-b9197811dd86
+      2:
+        url_poster: https://api.mediux.pro/assets/862b2a38-3fef-4aa7-8590-e98aee542811
+      3:
+        url_poster: https://api.mediux.pro/assets/d94b058b-e849-4f29-888a-4933308fc54e
+      4:
+        url_poster: https://api.mediux.pro/assets/552667f8-2710-4d39-bea0-76c29450751a
+      5:
+        url_poster: https://api.mediux.pro/assets/15e844e6-e1bb-435e-80b2-a2c198b44e29
+      6:
+        url_poster: https://api.mediux.pro/assets/bd67e29f-0b0e-4399-8fb8-f070e9cb89aa
+      7:
+        url_poster: https://api.mediux.pro/assets/f212c994-37ee-44ba-971c-d3ba08430d9f
+      8:
+        url_poster: https://api.mediux.pro/assets/16f3b738-f217-4a45-9402-e343d5d44ad5
+      9:
+        url_poster: https://api.mediux.pro/assets/03f84dcb-532e-4a26-88ff-fc27ead9a2a8
+      10:
+        url_poster: https://api.mediux.pro/assets/d0139c14-1102-4431-8ef6-e04fc37c7087
+      11:
+        url_poster: https://api.mediux.pro/assets/5af0c6b9-6327-4012-a138-d914a5582804
+      12:
+        url_poster: https://api.mediux.pro/assets/58a50138-7e89-4b82-a4b5-25450aa48773
+      13:
+        url_poster: https://api.mediux.pro/assets/7d892b5a-237c-463f-8eb2-19d97f476ff6
+      14:
+        url_poster: https://api.mediux.pro/assets/90533cff-c68b-4b6b-870f-dc369c673c3c
+      15:
+        url_poster: https://api.mediux.pro/assets/51a6af97-6621-4a8d-93b0-7d2815ef645e
+      16:
+        url_poster: https://api.mediux.pro/assets/eee06791-0db9-46d9-af76-fe46b35712a1
+      17:
+        url_poster: https://api.mediux.pro/assets/149f4907-328f-4092-91e2-629fe2330c75
+      18:
+        url_poster: https://api.mediux.pro/assets/d8216d3e-648a-449d-b8f2-403f39578338
+      19:
+        url_poster: https://api.mediux.pro/assets/a3fa379e-e283-4fa6-8fe9-b9e69a7c8264
+      20:
+        url_poster: https://api.mediux.pro/assets/5c8827a8-6a95-46a4-a01f-12b4f6ef24fd
+      21:
+        url_poster: https://api.mediux.pro/assets/dc11dd94-841e-40f9-ac9a-9ad58eda31ad
+      22:
+        url_poster: https://api.mediux.pro/assets/c5a187d5-80f4-495f-90fc-ff665cd1793c
+      23:
+        url_poster: https://api.mediux.pro/assets/b8c677b0-e36a-4e57-b04a-22671336d74c
+
+  80018: # Nick Cannon Presents: Wild 'N Out (2005)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/dc15c132-284e-4fbe-8b61-91cc57e023b9
+    url_background: https://api.mediux.pro/assets/a2811fae-c265-4a1f-9c0e-f01492aaea8f
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/1c201d90-ea81-43a5-95c4-a09c7fbdd666
+      1:
+        url_poster: https://api.mediux.pro/assets/1bfb22fa-4ada-4ecd-ba38-61d7f6b32473
+      2:
+        url_poster: https://api.mediux.pro/assets/b391d416-c55b-44a4-99af-efd8cae6f3a8
+      3:
+        url_poster: https://api.mediux.pro/assets/a4ac5e2c-7e2c-46bc-ab4f-5fea58baeff4
+      4:
+        url_poster: https://api.mediux.pro/assets/d251e513-3a95-4964-8a5b-2ec0727aa36c
+      5:
+        url_poster: https://api.mediux.pro/assets/7e76aa1b-ea7c-4ff7-b58f-367ff19d5e80
+      6:
+        url_poster: https://api.mediux.pro/assets/92f2e29f-1605-43f5-80af-b321892d2fc7
+      7:
+        url_poster: https://api.mediux.pro/assets/f19c7963-9839-4164-a6a0-c13b9b38e628
+      8:
+        url_poster: https://api.mediux.pro/assets/eb20902c-439a-44ab-a5c5-495c29b083f6
+      9:
+        url_poster: https://api.mediux.pro/assets/560b16e9-aa3c-4590-afad-c6e231441789
+      10:
+        url_poster: https://api.mediux.pro/assets/dc687a84-48f3-4c1b-a926-1dc1fd3ec93e
+      11:
+        url_poster: https://api.mediux.pro/assets/b23e2871-6dde-4bd1-a42d-f344d07cb0d9
+      12:
+        url_poster: https://api.mediux.pro/assets/7a25d256-9857-464f-af71-fb48eb0fd5b7
+      13:
+        url_poster: https://api.mediux.pro/assets/16a3c2a6-8771-4bef-ac8f-b5de4aff9a64
+      14:
+        url_poster: https://api.mediux.pro/assets/afa38183-7e2b-4220-9c6a-cac636aa4b95
+      15:
+        url_poster: https://api.mediux.pro/assets/5ed79f47-940b-48cd-b5ef-ce069086aaec
+      16:
+        url_poster: https://api.mediux.pro/assets/d5766291-03dc-4d09-a7a6-3f58b995c8b2
+      17:
+        url_poster: https://api.mediux.pro/assets/3c0770ce-7233-4e00-baca-f6c8566bd21a
+      18:
+        url_poster: https://api.mediux.pro/assets/3ffe2773-50ef-4df5-8e5e-a03bab1bd08a
+      19:
+        url_poster: https://api.mediux.pro/assets/af1f6664-b3f9-494a-8fab-1b8c2a362147
+      20:
+        url_poster: https://api.mediux.pro/assets/4c31498c-e229-43db-8020-7dd26d478a10
+      21:
+        url_poster: https://api.mediux.pro/assets/c571cd56-8290-4a77-a809-06be3a2bc239
+
+  73244: # The Office (2005)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/e13cf8b9-9fa7-4939-90d9-36692459f5eb
+    url_background: https://api.mediux.pro/assets/df10f480-0c0d-4998-9314-221093f637c9
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/b0e38fe6-8efe-4164-8d48-3b5b0854c547
+      1:
+        url_poster: https://api.mediux.pro/assets/b74899b1-9370-497a-aea4-f5726de6831e
+      2:
+        url_poster: https://api.mediux.pro/assets/cdf28b7a-6140-48e5-96d4-6fb2f2be8c8b
+      3:
+        url_poster: https://api.mediux.pro/assets/ea890f21-7f25-4797-bff9-5605264d9919
+      4:
+        url_poster: https://api.mediux.pro/assets/80c39981-0661-4184-bc00-2da049440b19
+      5:
+        url_poster: https://api.mediux.pro/assets/6b38fe8b-70b4-4461-90b4-d5d4d7858552
+      6:
+        url_poster: https://api.mediux.pro/assets/2a0ebe34-2f00-4c52-a822-75135fc4a73b
+      7:
+        url_poster: https://api.mediux.pro/assets/a1d27d5b-995f-4edc-9d45-707192d05302
+      8:
+        url_poster: https://api.mediux.pro/assets/8bbe0569-084d-4425-9974-cae1629003a4
+      9:
+        url_poster: https://api.mediux.pro/assets/d29b2626-9581-4eef-90e4-ac1f94f4d07d
+
+  328487: # The Orville (2017)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/7ddcf0ce-0434-481a-9e8b-34c1285a81f6
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/5d1b591b-2859-4603-968e-97f6d0159dee
+      1:
+        url_poster: https://api.mediux.pro/assets/fc7c48ed-69e7-413f-b3ad-585be3424cbf
+      2:
+        url_poster: https://api.mediux.pro/assets/59d3967d-fd69-401f-bfc0-e4eba4cfe605
+      3:
+        url_poster: https://api.mediux.pro/assets/e6192b16-8fef-4385-8769-6c1056a24474
+
+  348922: # Paradise PD (2018)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/387297d7-dfa4-4768-9894-32d289fadcf5
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/56b9e4e4-70b6-472e-865f-2b619ff54fde
+      2:
+        url_poster: https://api.mediux.pro/assets/f4fdf16b-b1c7-4f2e-8175-168926aa7803
+      3:
+        url_poster: https://api.mediux.pro/assets/9d0a036e-661b-46ea-851a-4611302528f0
+      4:
+        url_poster: https://api.mediux.pro/assets/28d82e25-de9d-467d-adb5-07037ce7a8e7
+
+  84912: # Parks and Recreation (2009)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/fc5cecc9-99e5-4cb6-8532-28ee433cbb9f
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/e179d9d7-1e05-421d-8421-ee95ce7190bc
+      1:
+        url_poster: https://api.mediux.pro/assets/f8cb8918-dd70-46fe-81a0-f1ef1e7f79d0
+      2:
+        url_poster: https://api.mediux.pro/assets/5d0fd7cb-380d-49f3-bdd3-e61bfa091574
+      3:
+        url_poster: https://api.mediux.pro/assets/d2538b7b-a469-45bb-8917-99010d853b08
+      4:
+        url_poster: https://api.mediux.pro/assets/49490231-3703-40c4-ae93-06e4252ee688
+      5:
+        url_poster: https://api.mediux.pro/assets/9aa18ea0-63d0-46ea-80cc-de282f1eded3
+      6:
+        url_poster: https://api.mediux.pro/assets/061aebab-8b05-4b80-a406-f81ac967032f
+      7:
+        url_poster: https://api.mediux.pro/assets/9e73d356-acf9-4f34-8109-209708d0d4ee
+
+  391153: # Peacemaker (2022)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/877b4c63-a546-48b4-9fa2-78f1b9fc1027
+    url_background: https://api.mediux.pro/assets/085f78e7-6a47-4e93-87e4-13e274886b7e
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/f4aff3ad-9273-4903-9efc-3695d01246d3
+      1:
+        url_poster: https://api.mediux.pro/assets/0a3bc928-93cd-4aa8-b953-d77f4779fa62
+      2:
+        url_poster: https://api.mediux.pro/assets/9d319c4c-0653-4736-9367-3cf29df77818
+
+  466198: # President Curtis (2025)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/feac2ffa-b31f-45be-98ea-33cc773574c8
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/2f49de94-d239-44d2-8355-33f9c89d3da7
+
+  81252: # Pros vs. Joes (2006)
+    label:
+      - Art*
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/pros-vs-joes/pros-vs-joes.png
+    seasons:
+      1:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/pros-vs-joes/pros-vs-joes-season-1.png
+      2:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/pros-vs-joes/pros-vs-joes-season-2.png
+      3:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/pros-vs-joes/pros-vs-joes-season-3.png
+      4:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/pros-vs-joes/pros-vs-joes-season-4.png
+      5:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/pros-vs-joes/pros-vs-joes-season-5.png
+
+  79335: # Psych (2006)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/ae75ad6f-7760-4ae8-8fd0-75f813971070
+    url_background: https://api.mediux.pro/assets/2ca44fdb-0df0-40bf-ad26-6e6c3469d439
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/f0c9a32e-0d07-47f8-8145-45fca416f0e2
+      1:
+        url_poster: https://api.mediux.pro/assets/6b2c3132-a8be-45c3-97b5-57ca14f9a6ff
+      2:
+        url_poster: https://api.mediux.pro/assets/1c90e909-4145-4ac4-aecc-4203858409a2
+      3:
+        url_poster: https://api.mediux.pro/assets/ba780db8-3f29-4a3a-a9ac-7277cb165b79
+      4:
+        url_poster: https://api.mediux.pro/assets/9a71f697-d894-4a23-a97e-00662398a1b8
+      5:
+        url_poster: https://api.mediux.pro/assets/3d7af929-f2f8-49c7-913f-7420e2fd5163
+      6:
+        url_poster: https://api.mediux.pro/assets/09828f51-e43a-430d-963b-da7ddb7f8c30
+      7:
+        url_poster: https://api.mediux.pro/assets/d8ff1a1a-7931-4c5d-ad94-a4b267fc2a6c
+      8:
+        url_poster: https://api.mediux.pro/assets/d4f5b0d8-6935-4c62-8b45-86b2df536813
+
+  72268: # Punk'd (2003)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/689225
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/689226
+      2:
+        url_poster: https://theposterdb.com/api/assets/689227
+      3:
+        url_poster: https://theposterdb.com/api/assets/689228
+      4:
+        url_poster: https://theposterdb.com/api/assets/689229
+      5:
+        url_poster: https://theposterdb.com/api/assets/689230
+      6:
+        url_poster: https://theposterdb.com/api/assets/689231
+      7:
+        url_poster: https://theposterdb.com/api/assets/689232
+      8:
+        url_poster: https://theposterdb.com/api/assets/689233
+      9:
+        url_poster: https://theposterdb.com/api/assets/689234
+      10:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/punkd-2003/punkd-s10.jpg
+
+  466025: # R.J. Decker
+    label: Art*
+    url_poster: https://api.mediux.pro/assets/182252b2-71cd-4cfd-9866-65f8fba4310f
+    url_background: https://api.mediux.pro/assets/0916eb21-a4ef-4ea2-9689-8724ff271f7d
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a219ca6f-2275-455d-97b3-3ad042bb8899
+
+  74584: # Ramsay's Kitchen Nightmares (2004)
+    label:
+      - Art*
+      - Food*
+    url_poster: https://api.mediux.pro/assets/186d49db-b647-4c8e-9e93-1d3ef12e84ef
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/d4142b98-01ce-4a49-a8b7-371472b683c6
+      2:
+        url_poster: https://api.mediux.pro/assets/44e53985-2a12-4b51-b9fa-ae3988b108ca
+      3:
+        url_poster: https://api.mediux.pro/assets/788a00d8-35ea-4e06-8757-da99fbb63c3b
+      4:
+        url_poster: https://api.mediux.pro/assets/c0b11b24-209b-4cd9-823c-e2d203c18d35
+      5:
+        url_poster: https://api.mediux.pro/assets/424d0713-2bc0-4b08-8b3b-0264f5ba2da9
+
+  366924: # Reacher (2022)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/40a8a531-3f28-4957-8dbd-ba923feb7aec
+    url_background: https://api.mediux.pro/assets/0ecf2dd0-24ab-451d-b2fe-108892e3cf61
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/523f8ca0-bfba-4dd9-9547-e0df2123a70e
+      2:
+        url_poster: https://api.mediux.pro/assets/9da700b9-f2fd-424f-94c6-e7c38cb44652
+      3:
+        url_poster: https://api.mediux.pro/assets/9dadcc38-9258-4f31-827a-5285017142b4
+      4:
+        url_poster: https://api.mediux.pro/assets/84340f55-2e34-4d37-a07d-d4a3ab9ebca5
+
+  76088: # The Ren & Stimpy Show (1991)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/c1d50b2f-e0ee-4f08-8cad-c50d8dde7a1e
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/d8a49c07-bc20-4475-800a-893047095b72
+      1:
+        url_poster: https://api.mediux.pro/assets/639072b2-2821-408a-852b-96494c7044cb
+      2:
+        url_poster: https://api.mediux.pro/assets/8797bd05-a731-4feb-bc48-a6300e3afd9e
+      3:
+        url_poster: https://api.mediux.pro/assets/a914bdbd-fd6c-4197-8978-b0b07bdd3afd
+      4:
+        url_poster: https://api.mediux.pro/assets/e043998b-2a6a-4058-a58a-ec4fb56cbc52
+      5:
+        url_poster: https://api.mediux.pro/assets/a36e2d33-46e4-4a9f-a7df-be6165a8acb2
+
+  72336: # Reno 911! (2003)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/409624
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/409625
+      1:
+        url_poster: https://theposterdb.com/api/assets/409626
+      2:
+        url_poster: https://theposterdb.com/api/assets/409627
+      3:
+        url_poster: https://theposterdb.com/api/assets/409628
+      4:
+        url_poster: https://theposterdb.com/api/assets/409629
+      5:
+        url_poster: https://theposterdb.com/api/assets/409630
+      6:
+        url_poster: https://theposterdb.com/api/assets/409631
+      7:
+        url_poster: https://theposterdb.com/api/assets/409632
+      8:
+        url_poster: https://theposterdb.com/api/assets/409633
+
+  275274: # Rick and Morty (2013)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/c335de63-3d15-4533-a8d7-f5a669fbaaed
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/3c5bba49-efe7-4d67-bd0f-f16099fc9cb0
+      1:
+        url_poster: https://api.mediux.pro/assets/2b4b20fe-62f8-4465-b62c-e5d8a24c67c3
+      2:
+        url_poster: https://api.mediux.pro/assets/62099114-2e88-4a70-824b-2f4338a66e15
+      3:
+        url_poster: https://api.mediux.pro/assets/2774c1ea-2527-41ce-9e8d-7808d74fc207
+      4:
+        url_poster: https://api.mediux.pro/assets/8041c617-e088-4dd1-ad58-ecc2914692ab
+      5:
+        url_poster: https://api.mediux.pro/assets/9c7e907b-6dad-4f57-a0c4-eeab8fea9d2f
+      6:
+        url_poster: https://api.mediux.pro/assets/0e159143-280f-47ff-ab5a-5fc653c8f65a
+      7:
+        url_poster: https://api.mediux.pro/assets/91a7bbe1-750e-41bb-b58e-6e4ae97856d0
+      8:
+        url_poster: https://api.mediux.pro/assets/d72f7a64-0207-44ac-8960-4b30f366df15
+      9:
+        url_poster: https://api.mediux.pro/assets/c9d734a5-33eb-4ea7-b668-11b6e791c97e
+
+  250793: # Ridiculousness (2011)
+    label: Art*
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/ridiculousness-2011/ridiculousness-2011.jpg
+
+  357223: # The Righteous Gemstones (2019)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/97e174f1-ff36-46bb-8cd8-f528ca7bb26f
+    url_background: https://api.mediux.pro/assets/77961fa6-e234-4947-9fa2-af53c1be7d8a
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a8edc13d-a919-4325-ba73-cdbe02ee9597
+      2:
+        url_poster: https://api.mediux.pro/assets/60a24a78-e6ac-4158-91c5-d7f705c5cc31
+      3:
+        url_poster: https://api.mediux.pro/assets/4846619b-aad0-4f9e-8329-564dbe8a8222
+      4:
+        url_poster: https://api.mediux.pro/assets/bd71a918-3028-460f-bf8e-b4ca4f2239fa
+
+  80193: # Rob & Big (2006)
+    label: Art*
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/rob-and-big-2006/rob-and-big.png
+
+  85038: # Rob Dyrdek's Fantasy Factory (2009)
+    label: Art*
+    url_poster: https://api.mediux.pro/assets/da1ef48e-376b-4440-9999-9c3ab289254b
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/336912cd-5851-4a7d-8196-369152bd5fe9
+      1:
+        url_poster: https://api.mediux.pro/assets/85dd86f5-0786-49d0-8dcb-4ab2b16ae4b8
+      2:
+        url_poster: https://api.mediux.pro/assets/f26eac8d-49ff-44c6-93e1-86b4b0a85683
+      3:
+        url_poster: https://api.mediux.pro/assets/7438f01f-dee2-4a21-b50f-9ffefc7ae74c
+      4:
+        url_poster: https://api.mediux.pro/assets/96f8d9e0-5dce-4fa0-897e-737e4279c278
+      5:
+        url_poster: https://api.mediux.pro/assets/a7734b75-a50e-4b07-9fe1-5782b13a5cfe
+      6:
+        url_poster: https://api.mediux.pro/assets/4a4aa57a-1fff-402b-b484-caac43206770
+      7:
+        url_poster: https://api.mediux.pro/assets/81e72d84-d6d8-444c-aee9-b3b0bceaea04
+
+  75734: # Robot Chicken (2005)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://theposterdb.com/api/assets/711177
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/711178
+      1:
+        url_poster: https://theposterdb.com/api/assets/711179
+      2:
+        url_poster: https://theposterdb.com/api/assets/711180
+      3:
+        url_poster: https://theposterdb.com/api/assets/711181
+      4:
+        url_poster: https://theposterdb.com/api/assets/711182
+      5:
+        url_poster: https://theposterdb.com/api/assets/711183
+      6:
+        url_poster: https://theposterdb.com/api/assets/711184
+      7:
+        url_poster: https://theposterdb.com/api/assets/711185
+      8:
+        url_poster: https://theposterdb.com/api/assets/711186
+      9:
+        url_poster: https://theposterdb.com/api/assets/711187
+      10:
+        url_poster: https://theposterdb.com/api/assets/711188
+      11:
+        url_poster: https://theposterdb.com/api/assets/711189
+
+  78282: # Rocket Power (1999)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/610238
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/610239
+      1:
+        url_poster: https://theposterdb.com/api/assets/610240
+      2:
+        url_poster: https://theposterdb.com/api/assets/610241
+      3:
+        url_poster: https://theposterdb.com/api/assets/610242
+      4:
+        url_poster: https://theposterdb.com/api/assets/610243
+
+  350665: # The Rookie
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/ba381f45-b506-48e0-a3b7-a956ef913e30
+    url_background: https://api.mediux.pro/assets/3dbd2840-1efc-44ed-8180-9de217a4369b
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/0bf4e722-ab98-404d-98c1-4e015f63c109
+      2:
+        url_poster: https://api.mediux.pro/assets/a7ec4267-f6d6-4d48-85b8-1739b988cdb1
+      3:
+        url_poster: https://api.mediux.pro/assets/4c17a6bb-ffdb-4cb5-9479-b783673709df
+      4:
+        url_poster: https://api.mediux.pro/assets/e912552a-c21f-45ee-82d5-d959a2bb24dc
+      5:
+        url_poster: https://api.mediux.pro/assets/aeac32d1-5a6d-4bd2-ba02-167904a2f8e1
+      6:
+        url_poster: https://api.mediux.pro/assets/f3b1a36b-c9ba-472f-a62c-16941abfb39c
+      7:
+        url_poster: https://api.mediux.pro/assets/9c89cfc8-da7c-4e42-85c6-441226ea358e
+      8:
+        url_poster: https://api.mediux.pro/assets/eff552f4-461a-45d1-93dc-3069f2fcea70
+
+  75164: # Samurai Jack (2001)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/d28645c9-2f28-4cca-860c-660719914515
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/b06874da-e51b-45a0-b464-9ac63bc9f3d5
+      1:
+        url_poster: https://api.mediux.pro/assets/a878ba0d-d099-49d4-93c8-69087215cde7
+      2:
+        url_poster: https://api.mediux.pro/assets/8d8d5dbd-eed1-401c-bba3-547b0681619d
+      3:
+        url_poster: https://api.mediux.pro/assets/323c3ce7-c602-473d-9078-297736eaff3e
+      4:
+        url_poster: https://api.mediux.pro/assets/55b3b47f-6f06-4ce8-b663-27f871573761
+      5:
+        url_poster: https://api.mediux.pro/assets/1f97e693-03ee-497f-ad47-41fd30cb6ed7
+
+  293302: # Scream Queens (2015)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/4587
+    url_background: https://api.mediux.pro/assets/ae1bd769-9947-4475-9292-0f23a3b21418
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/4588
+      2:
+        url_poster: https://theposterdb.com/api/assets/4589
+
+  294417: # Scream: The TV Series (2015)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/212924
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/927c21bc-20bf-47aa-a09b-21c7a9c984ad
+      1:
+        url_poster: https://api.mediux.pro/assets/21665082-9db2-48a8-a27e-919c16a3edc0
+      2:
+        url_poster: https://api.mediux.pro/assets/9dd2c8d6-8437-4c13-89cf-cba94bb3a6d9
+      3:
+        url_poster: https://api.mediux.pro/assets/a101781d-0556-4947-bdf4-f6b96d88558b
+
+  76156: # Scrubs (2001)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/e7962d0a-4395-4b72-93c6-8a96c0d58866
+    url_background: https://api.mediux.pro/assets/61d6f0a2-f8d3-4082-9c46-8c5daae794b5
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/66c84169-b83b-4e5b-ab4e-dd84bcfd74f2
+      1:
+        url_poster: https://api.mediux.pro/assets/247fb7d3-a0fd-4d8a-89bf-90832b2f78f1
+      2:
+        url_poster: https://api.mediux.pro/assets/5741db75-aebe-416a-a739-99de1aff7c40
+      3:
+        url_poster: https://api.mediux.pro/assets/7fb27878-4859-4e96-8cb9-71544d390cca
+      4:
+        url_poster: https://api.mediux.pro/assets/b20828bc-36fc-47e1-9d3e-6bd16ec2a433
+      5:
+        url_poster: https://api.mediux.pro/assets/77661ad7-1346-481a-abd4-7f41e09fc83d
+      6:
+        url_poster: https://api.mediux.pro/assets/853ad202-04e9-4a78-b0b1-9e4318645726
+      7:
+        url_poster: https://api.mediux.pro/assets/b4d254dc-3e7b-46c9-a3e9-e6b7875c9791
+      8:
+        url_poster: https://api.mediux.pro/assets/58cf964b-ad8e-49c9-9476-f9aaf93bf1a2
+      9:
+        url_poster: https://api.mediux.pro/assets/33c2270e-8b4c-49cd-9107-1a3e1131c428
+
+  465690: # Scrubs (2026)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/dd3ee764-fe51-4a07-b9ce-82e25193fd3e
+    url_background: https://api.mediux.pro/assets/62aa0bde-7528-42d8-99b3-40cc1de07bbe
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/71863834-b56b-40f0-b794-2407832855a8
+
+  393203: # Secret Invasion (2023)
+    label: Art*
+    url_poster: https://api.mediux.pro/assets/855f9184-67f2-4a9a-af40-afc854dfab20
+    url_background: https://api.mediux.pro/assets/f8b2046c-fd20-47f2-a782-57a028b921bb
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/b2b93c53-a533-4ecc-9e1f-33b3e8c6b891
+
+  161511: # Shameless (2011)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/74ff468f-fa58-4cd7-817d-55fc32038967
+    url_background: https://api.mediux.pro/assets/145513fe-d47f-4a28-8e43-cb391f1363dd
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/09c53884-027a-4e32-86df-efa43affcd27
+      1:
+        url_poster: https://api.mediux.pro/assets/6cc13bf7-732a-490c-96f6-ff4586c0e3e9
+      2:
+        url_poster: https://api.mediux.pro/assets/e95aba34-a215-47d7-8df2-1bd86a54e50d
+      3:
+        url_poster: https://api.mediux.pro/assets/08c863e6-7d0a-4ed8-ba2f-86c938867c95
+      4:
+        url_poster: https://api.mediux.pro/assets/7e8aef4d-ad88-44a9-9e67-501fd3779cb2
+      5:
+        url_poster: https://api.mediux.pro/assets/76600c91-e048-47ea-ac7f-4d4ffe00ecea
+      6:
+        url_poster: https://api.mediux.pro/assets/1560fe5e-b30e-479f-8820-fc48a199a87b
+      7:
+        url_poster: https://api.mediux.pro/assets/368e755a-db5b-4760-a079-695df5f639d7
+      8:
+        url_poster: https://api.mediux.pro/assets/0702e992-f8cc-4e41-b0e3-3e475a0f73a0
+      9:
+        url_poster: https://api.mediux.pro/assets/5ffafcb2-07bc-4189-9fa4-1decceda4fce
+      10:
+        url_poster: https://api.mediux.pro/assets/2ae608da-f475-4923-82b8-878c4523fdcc
+      11:
+        url_poster: https://api.mediux.pro/assets/b7f250b1-2c86-4a6d-b959-6ab68314add2
+
+  368613: # She-Hulk: Attorney at Law (2022)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/086209be-f952-4f57-bef7-0e6929613a5f
+    url_background: https://api.mediux.pro/assets/e0b55fa2-e17c-4fe7-acfd-698d6e23a2be
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/58b7fe6f-f757-46c3-a81a-8065d4a9f38e
+
+  409902: # Shoresy (2022)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/0766d7fa-60e9-4476-a750-d2ed792e9149
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/156e0d55-6716-4e29-ba14-c2e8c26780e3
+      2:
+        url_poster: https://api.mediux.pro/assets/4a7ed1e5-034e-430e-8fe0-fe47df259ab6
+      3:
+        url_poster: https://api.mediux.pro/assets/01be7fd6-02f0-4e15-8476-c2cc488ea0c3
+      4:
+        url_poster: https://api.mediux.pro/assets/19a58366-6cf6-4285-849a-97aa8ae03f73
+      5:
+        url_poster: https://api.mediux.pro/assets/ad47ea93-3db8-4f4e-accb-1b7aa540efc1
+
+  172381: # Silent Library (2009)
+    label: Art*
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/silent-library-2006/silent-library.jpg
+    seasons:
+      1:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/silent-library-2006/silent-library-s1.png
+      2:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/silent-library-2006/silent-library-s2.png
+      3:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/silent-library-2006/silent-library-s3.png
+      4:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/silent-library-2006/silent-library-s4.png
+
+  71663: # The Simpsons (1989)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/c80f31ac-6c65-4285-83c7-1f5cf4e9ff2a
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/b8278871-2468-40cf-bf70-194e2f9e2fe3
+      1:
+        url_poster: https://api.mediux.pro/assets/9778363d-e1d2-4b03-9347-c3f175217940
+      2:
+        url_poster: https://api.mediux.pro/assets/ede751e4-04a2-4b58-9201-5d21edbedde3
+      3:
+        url_poster: https://api.mediux.pro/assets/06e28dce-00ea-4cb7-8f36-09d3ec8e9647
+      4:
+        url_poster: https://api.mediux.pro/assets/41f87fea-cd69-45e1-bd70-3bcf50b8ec5a
+      5:
+        url_poster: https://api.mediux.pro/assets/3d7feddd-e5aa-4084-81d6-b8ea7d5fcf26
+      6:
+        url_poster: https://api.mediux.pro/assets/67669fdf-446e-43f8-9741-4faa7a7fc4dd
+      7:
+        url_poster: https://api.mediux.pro/assets/e1052db4-eb16-4011-8e52-9cd6f7881201
+      8:
+        url_poster: https://api.mediux.pro/assets/4eee0824-c81f-47a3-92a0-1fc9bd22901a
+      9:
+        url_poster: https://api.mediux.pro/assets/491c7465-c17b-4dfc-af4d-eaa7dd4ea0df
+      10:
+        url_poster: https://api.mediux.pro/assets/9762f862-626e-46f7-a700-d63c0a5c7740
+      11:
+        url_poster: https://api.mediux.pro/assets/304177ed-9ebd-4736-b899-ea31cd8e43ef
+      12:
+        url_poster: https://api.mediux.pro/assets/e6fa9947-f599-427b-ae68-696e85443087
+      13:
+        url_poster: https://api.mediux.pro/assets/68652af4-ed65-4e82-b707-424cd4339e76
+      14:
+        url_poster: https://api.mediux.pro/assets/8201c773-745c-4979-a22b-cea2dbd96392
+      15:
+        url_poster: https://api.mediux.pro/assets/8694e06d-1497-4ac6-9a37-360936567565
+      16:
+        url_poster: https://api.mediux.pro/assets/b4f254e8-7180-4e52-ba67-7d600becb9ca
+      17:
+        url_poster: https://api.mediux.pro/assets/85b319b8-8bdd-4fa0-a77d-3a0894432f16
+      18:
+        url_poster: https://api.mediux.pro/assets/b6c607de-62c7-4d3d-aefe-037c9aa3710a
+      19:
+        url_poster: https://api.mediux.pro/assets/2a5f9256-7bc7-4438-9d69-e8f8832032e7
+      20:
+        url_poster: https://api.mediux.pro/assets/8819e796-bbc3-4ced-b1f1-5211a7231075
+      21:
+        url_poster: https://api.mediux.pro/assets/ba90db33-6886-4058-8a0a-1b747fe4dd89
+      22:
+        url_poster: https://api.mediux.pro/assets/ea5e7fd7-56f1-41be-9705-9dd29aec8002
+      23:
+        url_poster: https://api.mediux.pro/assets/ac83c513-d942-4a09-8087-edaa010180fd
+      24:
+        url_poster: https://api.mediux.pro/assets/9c129794-3ad9-41e1-ad1b-ab83b9129259
+      25:
+        url_poster: https://api.mediux.pro/assets/96e04c69-3130-4eb0-a4b3-dbecd1c64202
+      26:
+        url_poster: https://api.mediux.pro/assets/25957a77-862f-476f-b086-f1f61ccb170f
+      27:
+        url_poster: https://api.mediux.pro/assets/61510836-a6be-4a5e-a5a6-4c2d1c342f5c
+      28:
+        url_poster: https://api.mediux.pro/assets/be5bedef-eb14-467d-9ec5-c81986b0b308
+      29:
+        url_poster: https://api.mediux.pro/assets/6e4f6da2-8d45-4e29-b008-0cfe589200b1
+      30:
+        url_poster: https://api.mediux.pro/assets/c2c18be6-dec0-457e-aec1-ed55efd50235
+      31:
+        url_poster: https://api.mediux.pro/assets/fff06754-05ef-4ef9-b2d6-dce8ca7aa20f
+      32:
+        url_poster: https://api.mediux.pro/assets/1f41ac9a-9932-44b9-9690-45c01885a278
+      33:
+        url_poster: https://api.mediux.pro/assets/28473085-784d-4ee8-9e99-00fdee612d1e
+      34:
+        url_poster: https://api.mediux.pro/assets/d1e9f475-9746-4459-9133-4f5f285e84c7
+      35:
+        url_poster: https://api.mediux.pro/assets/ed2fd497-f5bc-4613-ac3a-ffed10bb8751
+      36:
+        url_poster: https://api.mediux.pro/assets/5d96671a-f825-4253-bda5-fc0894a5bdf1
+      37:
+        url_poster: https://api.mediux.pro/assets/8167c9d3-0848-4bca-ae07-e80e93d70e50
+      38:
+        url_poster: https://api.mediux.pro/assets/8125d199-b29b-4a5e-9d58-2472856f4433
+
+  375892: # Solar Opposites (2020)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/eedad4f3-b058-4f52-8b57-7a66312bcde0
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/c5fa4a8a-4003-4360-8163-c0856089027f
+      1:
+        url_poster: https://api.mediux.pro/assets/73d818da-60dc-4ebb-9b4a-1964e39b7b1d
+      2:
+        url_poster: https://api.mediux.pro/assets/126340ee-eb1b-48b1-89ef-6a8755f1a93c
+      3:
+        url_poster: https://api.mediux.pro/assets/25e0ec93-d8db-483f-b35c-a7939d53247e
+      4:
+        url_poster: https://api.mediux.pro/assets/539499c9-733f-4803-bc69-23248b4d3a57
+      5:
+        url_poster: https://api.mediux.pro/assets/08376346-58a8-4e87-829f-89441311fad0
+      6:
+        url_poster: https://api.mediux.pro/assets/5edf1670-e62b-43fd-a2bd-4f1ac549563b
+
+  82696: # Sons of Anarchy (2008)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/192772
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/cb666f97-ad24-4f62-8ef4-f7578a96c76b
+      2:
+        url_poster: https://api.mediux.pro/assets/9a2f6575-ef8c-4c63-827b-d7e549149a26
+      3:
+        url_poster: https://api.mediux.pro/assets/897882e6-e2dc-427d-9cd5-a3d993090b7f
+      4:
+        url_poster: https://api.mediux.pro/assets/fef33a58-703c-423d-b868-1655012460eb
+      5:
+        url_poster: https://api.mediux.pro/assets/bbd9afef-b594-45e1-8dbe-be9f4cfe7fde
+      6:
+        url_poster: https://api.mediux.pro/assets/afb41f7d-ffef-4d77-a7d8-8b67ebdad60d
+      7:
+        url_poster: https://api.mediux.pro/assets/8efe7640-dc7d-4f56-8cea-e04074f4d767
+
+  75299: # The Sopranos (1999)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/7cad8ca5-316a-4fc4-8c60-c8ffe64a89dd
+    url_background: https://api.mediux.pro/assets/e069d143-2286-421f-ac4c-02c43086cc0a
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/166649
+      1:
+        url_poster: https://api.mediux.pro/assets/76f26289-b5ad-4a3a-bd4a-8a5a05a03e82
+      2:
+        url_poster: https://api.mediux.pro/assets/4e44e2c9-df13-4ce9-a5b8-ce28b1022c73
+      3:
+        url_poster: https://api.mediux.pro/assets/c47fa025-e7d8-4329-824d-d1a79148ee39
+      4:
+        url_poster: https://api.mediux.pro/assets/19847aa6-b822-4418-8a49-c238f5382566
+      5:
+        url_poster: https://api.mediux.pro/assets/4f73f4b3-9b43-4844-8ecf-9084e4259b51
+      6:
+        url_poster: https://api.mediux.pro/assets/82eff601-67e3-4c07-b210-e12d263f5f22
+
+  75897: # South Park (1997)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/005d3c43-96a5-4022-ad28-31be44051dd3
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/1e15e123-6595-47aa-9cef-f3cf7474ff99
+      1:
+        url_poster: https://api.mediux.pro/assets/635c9ea4-3b33-440e-b027-a84b9c8bd1f0
+      2:
+        url_poster: https://api.mediux.pro/assets/43869ccf-deff-4197-8d28-dfa07c7adbf5
+      3:
+        url_poster: https://api.mediux.pro/assets/5d4fe149-5b48-4e9a-88b3-e4f4a33331c2
+      4:
+        url_poster: https://api.mediux.pro/assets/8ec9c4f5-5465-4963-b37a-a63d11024e04
+      5:
+        url_poster: https://api.mediux.pro/assets/93956268-babb-429f-a158-93800bf84f12
+      6:
+        url_poster: https://api.mediux.pro/assets/100363bd-41bd-425c-84b0-02e09042726b
+      7:
+        url_poster: https://api.mediux.pro/assets/4b219fbf-b662-436d-ba0c-0940d3ceac59
+      8:
+        url_poster: https://api.mediux.pro/assets/a217c255-6672-4f18-8b1d-978d9bada27c
+      9:
+        url_poster: https://api.mediux.pro/assets/1b709344-bcd3-49f5-86f1-4f2f3d173d6f
+      10:
+        url_poster: https://api.mediux.pro/assets/74712446-0632-4f2e-ab36-4c9fc2b8d843
+      11:
+        url_poster: https://api.mediux.pro/assets/6907208d-53a2-456a-a345-c27c168f9e9d
+      12:
+        url_poster: https://api.mediux.pro/assets/5eb8a825-d2a2-4edb-a0be-79c06bc02961
+      13:
+        url_poster: https://api.mediux.pro/assets/90d814c9-0ed6-4074-a06c-7473b3a65520
+      14:
+        url_poster: https://api.mediux.pro/assets/deb9391b-554e-4abb-95dd-cda83992044c
+      15:
+        url_poster: https://api.mediux.pro/assets/da59fe07-d7d2-4a3d-80d3-be8b04056210
+      16:
+        url_poster: https://api.mediux.pro/assets/87de5b9c-b495-4768-b03e-cc615e7b1123
+      17:
+        url_poster: https://api.mediux.pro/assets/a428972b-e740-4ff3-a086-ca354f6e4ab6
+      18:
+        url_poster: https://api.mediux.pro/assets/f7658b4a-8568-44b8-9764-261ae498fb6d
+      19:
+        url_poster: https://api.mediux.pro/assets/9f563b75-a652-4378-b071-a07201309b00
+      20:
+        url_poster: https://api.mediux.pro/assets/fbb8540a-3089-45e4-954e-5507759336d1
+      21:
+        url_poster: https://api.mediux.pro/assets/3a848293-a53f-415a-b402-c77a620eb1da
+      22:
+        url_poster: https://api.mediux.pro/assets/03111116-b103-4909-af5d-464d2e055aa9
+      23:
+        url_poster: https://api.mediux.pro/assets/59059245-96f6-40eb-93d8-7283079f44cd
+      24:
+        url_poster: https://api.mediux.pro/assets/405fedf4-3f83-4e12-ad84-4ed50b0b8aa2
+      25:
+        url_poster: https://api.mediux.pro/assets/64e9a4cf-ad8f-4413-ae60-2acb1bc14d04
+      26:
+        url_poster: https://api.mediux.pro/assets/e838b45d-9178-4e7f-b71d-37c9bffc1627
+      27:
+        url_poster: https://api.mediux.pro/assets/824a3d5d-17c7-453a-9a62-aeddb6967459
+      28:
+        url_poster: https://api.mediux.pro/assets/aa418a78-e1bd-4ddc-a02f-b601b1461bc6
+
+  129261: # Spartacus (2010)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/884cd492-63b3-4ec0-b482-499ffc8a9a87
+    url_background: https://api.mediux.pro/assets/5741f5f2-594b-4e7e-b227-5ef994c70407
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/5e447f37-5b6e-4a9c-bece-898686b950c2
+      1:
+        url_poster: https://api.mediux.pro/assets/1dd4ad84-0959-4ea7-8346-0ac24fa7acfc
+      2:
+        url_poster: https://api.mediux.pro/assets/e917ee57-42ac-4cc2-85cc-a824c1c6f14e
+      3:
+        url_poster: https://api.mediux.pro/assets/87b77526-4f5c-485b-aef3-94d99f1955c1
+
+  465189: # Spartacus: House of Ashur (2025)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/512aae10-4e49-4754-b3aa-a8389d553d68
+    url_background: https://api.mediux.pro/assets/be751812-e81f-4a8b-937f-d4a58745ca88
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/df1a7a68-44a4-4737-8ec7-7300f8647744
+
+  79017: # Squidbillies (2005)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/squidbillies-2005/squidbillies-2005.jpg
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/79234
+      1:
+        url_poster: https://theposterdb.com/api/assets/79235
+      2:
+        url_poster: https://theposterdb.com/api/assets/79236
+      3:
+        url_poster: https://theposterdb.com/api/assets/79237
+      4:
+        url_poster: https://theposterdb.com/api/assets/79238
+      5:
+        url_poster: https://theposterdb.com/api/assets/79239
+      6:
+        url_poster: https://theposterdb.com/api/assets/79240
+      7:
+        url_poster: https://theposterdb.com/api/assets/79241
+      8:
+        url_poster: https://theposterdb.com/api/assets/79242
+      9:
+        url_poster: https://theposterdb.com/api/assets/79243
+      10:
+        url_poster: https://theposterdb.com/api/assets/79244
+      11:
+        url_poster: https://theposterdb.com/api/assets/79245
+      12:
+        url_poster: https://theposterdb.com/api/assets/79246
+      13:
+        url_poster: https://theposterdb.com/api/assets/189485
+
+  83268: # Star Wars: The Clone Wars (2008)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/a03b085c-8d4f-4eb2-88de-029defbf6d97
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/89f13d9e-65ba-40b7-975f-0ab14d94f106
+      2:
+        url_poster: https://api.mediux.pro/assets/27826ff1-d122-45f3-bcbf-8a53505d5947
+      3:
+        url_poster: https://api.mediux.pro/assets/8aa2a875-d7f5-4aaf-af8a-10341e7474ca
+      4:
+        url_poster: https://api.mediux.pro/assets/fcdf604f-5133-49c2-86aa-0cb4b329023e
+      5:
+        url_poster: https://api.mediux.pro/assets/ae96beb7-1ee5-440f-91a7-e8ddfce28ea0
+      6:
+        url_poster: https://api.mediux.pro/assets/147da59d-c875-40f0-8802-3906bfc2342f
+      7:
+        url_poster: https://api.mediux.pro/assets/64efed33-55d5-466d-8dfe-31550237bfbb
+
+  207621: # Storage Wars (2010)
+    label:
+      - Art*
+    url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/storage-wars/storage-wars.jpg
+    seasons:
+      1:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/storage-wars/storage-wars.jpg
+      2:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/storage-wars/storage-wars.jpg
+      3:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/storage-wars/storage-wars.jpg
+      4:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/storage-wars/storage-wars.jpg
+      5:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/storage-wars/storage-wars.jpg
+      6:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/storage-wars/storage-wars.jpg
+      7:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/storage-wars/storage-wars.jpg
+      8:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/storage-wars/storage-wars.jpg
+      9:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/storage-wars/storage-wars.jpg
+      10:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/storage-wars/storage-wars.jpg
+      11:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/storage-wars/storage-wars.jpg
+      12:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/storage-wars/storage-wars.jpg
+      13:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/storage-wars/storage-wars.jpg
+      14:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/storage-wars/storage-wars.jpg
+      15:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/storage-wars/storage-wars.jpg
+      16:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/storage-wars/storage-wars.jpg
+      17:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/storage-wars/storage-wars.jpg
+      18:
+        url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/storage-wars/storage-wars.jpg
+
+  305288: # Stranger Things (2016)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/0d1abe67-92ad-4dec-bdd3-7685942fa6ff
+    url_background: https://api.mediux.pro/assets/25b8e961-1351-46e7-b658-c273a04f6d5f
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/9ac3375c-1ef1-42f1-9042-1d0f24179d1c
+      2:
+        url_poster: https://api.mediux.pro/assets/42fa37a7-b622-4dea-a3a7-44c610703359
+      3:
+        url_poster: https://api.mediux.pro/assets/12b5cd54-130a-4114-91d9-73aa9b99f181
+      4:
+        url_poster: https://api.mediux.pro/assets/f1baa8b1-9815-4736-b95b-43fec468ed06
+      5:
+        url_poster: https://api.mediux.pro/assets/4b0b89c9-9da4-4333-b097-5da8305c0552
+
+  78901: # Supernatural (2005)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/d62f3e18-b73a-4970-a37f-6f633282e242
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/bacc10e4-e1b4-422a-a800-e062fa884a9e
+      1:
+        url_poster: https://api.mediux.pro/assets/23e8d78f-e5f5-46f7-9535-f996fe537ba4
+      2:
+        url_poster: https://api.mediux.pro/assets/ba725d54-6c82-4fbe-b2b7-de39e29546f8
+      3:
+        url_poster: https://api.mediux.pro/assets/2e08a1e4-36e7-4cbc-bed3-105bedf6419c
+      4:
+        url_poster: https://api.mediux.pro/assets/763d658d-9402-4f41-8d28-2da7ca1c58ae
+      5:
+        url_poster: https://api.mediux.pro/assets/e9c1248e-9b56-46a0-9d04-23447d34e450
+      6:
+        url_poster: https://api.mediux.pro/assets/333f6e14-bb14-4457-a681-32da4d65e571
+      7:
+        url_poster: https://api.mediux.pro/assets/a27d2bba-095a-46b9-89a6-c69270f8fc4d
+      8:
+        url_poster: https://api.mediux.pro/assets/06ca36ee-86fa-4d8e-b6b2-43ff47d16114
+      9:
+        url_poster: https://api.mediux.pro/assets/bdd67029-326a-44a8-9a2b-52a48389be40
+      10:
+        url_poster: https://api.mediux.pro/assets/6ff4288e-05d8-4c62-bc8f-55ccbeeb83c3
+      11:
+        url_poster: https://api.mediux.pro/assets/dbeb0c62-8eb4-4d72-ab3e-63c437e7ad23
+      12:
+        url_poster: https://api.mediux.pro/assets/64f915e1-4107-4195-9b1b-3cb4647c0401
+      13:
+        url_poster: https://api.mediux.pro/assets/5a24b122-92ca-4863-91eb-f0e4e524cee8
+      14:
+        url_poster: https://api.mediux.pro/assets/d057b2d8-fdc7-4305-a3b7-13f187ff0ab5
+      15:
+        url_poster: https://api.mediux.pro/assets/235b6ea5-6517-47da-ae23-48a36754ea2d
+
+  295648: # Superstore (2015)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/83585f40-52b4-45ee-b72d-846b33995c78
+    url_background: https://api.mediux.pro/assets/cbd92f1b-162d-4a2e-be67-6e3391bc4c93
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/70ec555b-991a-4abd-90a1-d2af1ba6d1e1
+      1:
+        url_poster: https://api.mediux.pro/assets/731dc425-24be-4548-8f9b-7293b5900d81
+      2:
+        url_poster: https://api.mediux.pro/assets/ada5889c-fa4a-47c4-8761-aa5c6b8e108e
+      3:
+        url_poster: https://api.mediux.pro/assets/bf2f7c67-123d-4191-a9ff-8c9a919e4c1b
+      4:
+        url_poster: https://api.mediux.pro/assets/7746b28d-d24b-4dcf-9480-791bee12962c
+      5:
+        url_poster: https://api.mediux.pro/assets/a1f762d1-2902-4fc3-8e81-921b701ba70b
+      6:
+        url_poster: https://api.mediux.pro/assets/b2df278d-62a7-4e04-a2c5-98ea891df1d0
+
+  76733: # Survivor (2000)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/220414
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/220415
+      2:
+        url_poster: https://theposterdb.com/api/assets/220416
+      3:
+        url_poster: https://theposterdb.com/api/assets/220417
+      4:
+        url_poster: https://theposterdb.com/api/assets/220418
+      5:
+        url_poster: https://theposterdb.com/api/assets/220419
+      6:
+        url_poster: https://theposterdb.com/api/assets/220420
+      7:
+        url_poster: https://theposterdb.com/api/assets/220421
+      8:
+        url_poster: https://theposterdb.com/api/assets/220422
+      9:
+        url_poster: https://theposterdb.com/api/assets/220423
+      10:
+        url_poster: https://theposterdb.com/api/assets/220424
+      11:
+        url_poster: https://theposterdb.com/api/assets/220425
+      12:
+        url_poster: https://theposterdb.com/api/assets/220426
+      13:
+        url_poster: https://theposterdb.com/api/assets/220427
+      14:
+        url_poster: https://theposterdb.com/api/assets/220428
+      15:
+        url_poster: https://theposterdb.com/api/assets/220429
+      16:
+        url_poster: https://theposterdb.com/api/assets/220430
+      17:
+        url_poster: https://theposterdb.com/api/assets/220431
+      18:
+        url_poster: https://theposterdb.com/api/assets/220432
+      19:
+        url_poster: https://theposterdb.com/api/assets/220433
+      20:
+        url_poster: https://theposterdb.com/api/assets/220434
+      21:
+        url_poster: https://theposterdb.com/api/assets/220435
+      22:
+        url_poster: https://theposterdb.com/api/assets/220436
+      23:
+        url_poster: https://theposterdb.com/api/assets/220437
+      24:
+        url_poster: https://theposterdb.com/api/assets/220438
+      25:
+        url_poster: https://theposterdb.com/api/assets/220439
+      26:
+        url_poster: https://theposterdb.com/api/assets/220440
+      27:
+        url_poster: https://theposterdb.com/api/assets/220441
+      28:
+        url_poster: https://theposterdb.com/api/assets/220442
+      29:
+        url_poster: https://theposterdb.com/api/assets/220443
+      30:
+        url_poster: https://theposterdb.com/api/assets/220444
+      31:
+        url_poster: https://theposterdb.com/api/assets/220445
+      32:
+        url_poster: https://theposterdb.com/api/assets/220446
+      33:
+        url_poster: https://theposterdb.com/api/assets/220447
+      34:
+        url_poster: https://theposterdb.com/api/assets/220448
+      35:
+        url_poster: https://theposterdb.com/api/assets/220449
+      36:
+        url_poster: https://theposterdb.com/api/assets/220450
+      37:
+        url_poster: https://theposterdb.com/api/assets/220451
+      38:
+        url_poster: https://theposterdb.com/api/assets/220452
+      39:
+        url_poster: https://theposterdb.com/api/assets/220453
+      40:
+        url_poster: https://theposterdb.com/api/assets/220454
+      41:
+        url_poster: https://theposterdb.com/api/assets/220455
+      42:
+        url_poster: https://theposterdb.com/api/assets/267860
+      43:
+        url_poster: https://theposterdb.com/api/assets/267861
+      44:
+        url_poster: https://theposterdb.com/api/assets/415721
+      45:
+        url_poster: https://theposterdb.com/api/assets/415722
+      46:
+        url_poster: https://theposterdb.com/api/assets/455282
+      47:
+        url_poster: https://theposterdb.com/api/assets/642288
+      48:
+        url_poster: https://theposterdb.com/api/assets/642289
+      49:
+        url_poster: https://theposterdb.com/api/assets/646562
+      50:
+        url_poster: https://theposterdb.com/api/assets/697946
+
+  73029: # Tales from the Crypt (1989)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/607483
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/607484
+      1:
+        url_poster: https://theposterdb.com/api/assets/607485
+      2:
+        url_poster: https://theposterdb.com/api/assets/607486
+      3:
+        url_poster: https://theposterdb.com/api/assets/607487
+      4:
+        url_poster: https://theposterdb.com/api/assets/607488
+      5:
+        url_poster: https://theposterdb.com/api/assets/607489
+      6:
+        url_poster: https://theposterdb.com/api/assets/607490
+      7:
+        url_poster: https://theposterdb.com/api/assets/607491
+
+  383203: # Ted Lasso (2020)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/076cafad-cfcd-4c9b-a88d-4fa914d88036
+    url_background: https://api.mediux.pro/assets/bcc97b36-c00d-4944-9b8f-e73937ad5bcc
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/201783f6-b77e-441d-bb46-9cbe1aa88e43
+      1:
+        url_poster: https://api.mediux.pro/assets/bcad929b-d280-49f0-990d-bc6436265204
+      2:
+        url_poster: https://api.mediux.pro/assets/068d7183-8b1e-4147-a7bb-ee4bf1553037
+      3:
+        url_poster: https://api.mediux.pro/assets/0edee228-e8bb-47e2-aa54-0b623ed11227
+      4:
+        url_poster: https://api.mediux.pro/assets/a8baa577-064c-45ce-bf67-34bb23d5e77d
+
+  73787: # That '70s Show (1998)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/2c6a1c4a-38f8-431a-85f8-8dad3d40dd47
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/185f7409-bca8-4666-8623-c7738a29e11f
+      1:
+        url_poster: https://api.mediux.pro/assets/cf76dcd2-c004-4f9e-a468-c410881aac53
+      2:
+        url_poster: https://api.mediux.pro/assets/c3ad66cb-7241-4490-8328-a73c599a13e6
+      3:
+        url_poster: https://api.mediux.pro/assets/c4be3f27-81ee-46c2-b220-306c874687e6
+      4:
+        url_poster: https://api.mediux.pro/assets/51276f8a-dfb9-4384-b8af-bad067eaeba4
+      5:
+        url_poster: https://api.mediux.pro/assets/af66317c-f13d-4d37-b07c-f5ca44fe65aa
+      6:
+        url_poster: https://api.mediux.pro/assets/afca4f95-14ec-4e55-81d9-176e3d41cf6b
+      7:
+        url_poster: https://api.mediux.pro/assets/eb0d9ccd-78f3-4243-ac9a-b00c14da9c56
+      8:
+        url_poster: https://api.mediux.pro/assets/a752c0a9-b6b3-4370-85eb-0ea452b07d01
+
+  411173: # That '90s Show (2023)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/8328232b-24ad-4898-871e-54729566e5f7
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/921e7e9e-30e3-47b8-8917-b098057fda6b
+      2:
+        url_poster: https://api.mediux.pro/assets/2d48ff68-20cd-4dfa-bc8e-d1dc65c8c464
+
+  446718: # Tires (2024)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/63ab9810-ed46-4752-92b7-918d46a24e55
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/c5834552-a57f-445d-9d26-666049d11e25
+      2:
+        url_poster: https://api.mediux.pro/assets/253d77aa-8645-4517-80e5-473e313ebb5a
+      3:
+        url_poster: https://api.mediux.pro/assets/15f64630-f321-4151-9702-e4304ed641d0
+
+  97731: # Tosh.0 (2009)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/634984
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/551019
+      1:
+        url_poster: https://theposterdb.com/api/assets/551020
+      2:
+        url_poster: https://theposterdb.com/api/assets/551021
+      3:
+        url_poster: https://theposterdb.com/api/assets/551022
+      4:
+        url_poster: https://theposterdb.com/api/assets/551023
+      5:
+        url_poster: https://theposterdb.com/api/assets/551024
+      6:
+        url_poster: https://theposterdb.com/api/assets/551025
+      7:
+        url_poster: https://theposterdb.com/api/assets/551026
+      8:
+        url_poster: https://theposterdb.com/api/assets/551027
+      9:
+        url_poster: https://theposterdb.com/api/assets/551028
+      10:
+        url_poster: https://theposterdb.com/api/assets/551029
+      11:
+        url_poster: https://theposterdb.com/api/assets/551030
+      12:
+        url_poster: https://theposterdb.com/api/assets/551031
+
+  428433: # Tracker
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/dcf377c6-59fa-494e-b8b9-2142551ccf9c
+    url_background: https://api.mediux.pro/assets/bd15a44b-f558-4e3c-ba51-97036925a061
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a3d855ef-3d8a-4de3-aa39-5c24ef8159f7
+      2:
+        url_poster: https://api.mediux.pro/assets/035c6940-b925-48e4-a488-497281687aa0
+      3:
+        url_poster: https://api.mediux.pro/assets/8101e614-5140-4015-a6bc-2815f333d940
+
+  70566: # Trailer Park Boys (2001)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/31e30589-6df3-4271-8908-c8367d532d64
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/6da40946-b1f2-4e56-b433-341a378f4e8e
+      1:
+        url_poster: https://api.mediux.pro/assets/18607aaf-58e5-4243-a943-4eacce090a0a
+      2:
+        url_poster: https://api.mediux.pro/assets/2b5d62df-83a7-4875-b98d-9a89aff50666
+      3:
+        url_poster: https://api.mediux.pro/assets/757e53b6-a4b9-4e5f-acf7-fc0cba4cc81d
+      4:
+        url_poster: https://api.mediux.pro/assets/82923429-a803-430f-b080-bd55d82944c4
+      5:
+        url_poster: https://api.mediux.pro/assets/e0918c19-fde7-45a0-923a-ccdc9777399e
+      6:
+        url_poster: https://api.mediux.pro/assets/5fc9c79d-12d3-49e1-bf64-be2a15a5798e
+      7:
+        url_poster: https://api.mediux.pro/assets/fac81cb5-b1a5-4c0f-a748-f70a7194ed77
+      8:
+        url_poster: https://api.mediux.pro/assets/1a4e23ae-4aeb-4bb2-b44a-73de2c010f0d
+      9:
+        url_poster: https://api.mediux.pro/assets/d3bae9a5-67df-487e-9fe0-360ca869b52f
+      10:
+        url_poster: https://api.mediux.pro/assets/f4cb8643-d267-45d8-93bc-55635376dacd
+      11:
+        url_poster: https://api.mediux.pro/assets/e9866aa6-2683-41b5-a187-1f55895ce95b
+      12:
+        url_poster: https://api.mediux.pro/assets/99f7f81b-1217-4b91-a535-8eb3577af165
+
+  361544: # Trailer Park Boys: The Animated Series (2019)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://theposterdb.com/api/assets/305764
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/305765
+      2:
+        url_poster: https://theposterdb.com/api/assets/305766
+
+  73587: # The Twilight Zone (1959)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/256442
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/256443
+      2:
+        url_poster: https://theposterdb.com/api/assets/256444
+      3:
+        url_poster: https://theposterdb.com/api/assets/256445
+      4:
+        url_poster: https://theposterdb.com/api/assets/256446
+      5:
+        url_poster: https://theposterdb.com/api/assets/256447
+
+  72306: # The Venture Bros. (2003)
+    label:
+      - Art*
+      - Adult Animation*
+    url_poster: https://api.mediux.pro/assets/461c3d64-66ad-4ce6-8641-e43f2617e744
+    url_background: https://api.mediux.pro/assets/62f0277d-2835-45d7-b83a-63c1a6c05523
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/02194578-bc77-43bf-af6f-1ed5183d4442
+      1:
+        url_poster: https://api.mediux.pro/assets/a396123a-9d75-4f23-9f01-01f7cbaf819f
+      2:
+        url_poster: https://api.mediux.pro/assets/fe2cc5e2-66e5-463b-bfa5-6551a1f4918c
+      3:
+        url_poster: https://api.mediux.pro/assets/c1cc3071-5a7c-47f9-b896-304e0899a80a
+      4:
+        url_poster: https://api.mediux.pro/assets/f0be421b-463b-42ba-ac31-e2af81c20323
+      5:
+        url_poster: https://api.mediux.pro/assets/d02ed54b-3e83-4607-baa4-7e12b169cfca
+      6:
+        url_poster: https://api.mediux.pro/assets/5b30ed36-b789-4be4-9704-96fff6eb9c97
+      7:
+        url_poster: https://api.mediux.pro/assets/677f5e47-70d2-4d87-874b-5ce8f444318d
+
+  73193: # Viva La Bam (2003)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/5af6fd7d-dff7-4037-8a9a-c6c67dfc0dcb
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/663a6fba-a94a-4ab7-b242-b2c464200e25
+      1:
+        url_poster: https://api.mediux.pro/assets/1d564a7a-83ff-41b3-838e-3bfa3ef7ed8c
+      2:
+        url_poster: https://api.mediux.pro/assets/24c9ecfd-7b61-4c53-ac7c-423311e78417
+      3:
+        url_poster: https://api.mediux.pro/assets/481f1771-a481-4a4a-85a6-542490a712b7
+      4:
+        url_poster: https://api.mediux.pro/assets/6ce809c3-b363-4e48-a13d-f13d1f028394
+      5:
+        url_poster: https://api.mediux.pro/assets/c2060961-8023-45df-b1d4-ed0bcfb61f5a
+
+  362392: # WandaVision (2021)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/60da8bdf-35f5-4197-8eda-aa3889c36cee
+    url_background: https://api.mediux.pro/assets/0c0ce36e-130f-4897-9775-961ab59dcf20
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/433a9078-a1eb-4193-964d-d37097c08145
+
+  367147: # What If...? (2021)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/3f62947d-bd03-40d5-b9cf-0791a3070898
+    url_background: https://api.mediux.pro/assets/0ed27830-a764-460a-adad-56024d3c37f8
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/821b4e4f-74d4-44f0-b4b6-df6a7bb08c38
+      2:
+        url_poster: https://api.mediux.pro/assets/477b6d00-6f37-4a48-97d3-405ebd81a909
+      3:
+        url_poster: https://api.mediux.pro/assets/e7d0a878-b176-442d-9332-7f1eb993967b
+
+  78825: # Wildboyz (2003)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/1f50b6b6-5631-4543-95ab-789725f4c189
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/3ea05132-3134-4849-ab5f-8f1dcee174d4
+      1:
+        url_poster: https://api.mediux.pro/assets/5622ba02-bbe7-4586-a87a-2b754fd3ec7c
+      2:
+        url_poster: https://api.mediux.pro/assets/f9cb6cc2-11e1-4edf-8e00-cf206123cb1e
+      3:
+        url_poster: https://api.mediux.pro/assets/d8e56075-5ff2-4cb3-a43f-3f3c6974186e
+      4:
+        url_poster: https://api.mediux.pro/assets/cf647838-ce62-4b31-ba3e-64353eb6b760
+
+  79126: # The Wire (2002)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/bff4cd46-3d9a-457a-bb6b-1f25c153f5e9
+    url_background: https://api.mediux.pro/assets/e644bbab-c1da-49d0-bae9-ae445f50e9ee
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/33a3b8c0-8cf1-4d5f-a3b3-aeeea44a2032
+      1:
+        url_poster: https://api.mediux.pro/assets/e3ec2cfe-b2b9-40db-8853-d89ef2a6b5ad
+      2:
+        url_poster: https://api.mediux.pro/assets/d1739609-aa15-476c-ac94-71d9c8872073
+      3:
+        url_poster: https://api.mediux.pro/assets/e56ad453-c6d4-4923-a5f9-0d329ec115aa
+      4:
+        url_poster: https://api.mediux.pro/assets/6e22adb5-383d-4882-91b4-edc0a20efca5
+      5:
+        url_poster: https://api.mediux.pro/assets/cd69a960-9613-4b1c-82c6-ba94be6e3c26
+
+  362696: # The Witcher (2019)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/4ba6f774-5b65-4b33-a9db-b294dd894890
+    url_background: https://api.mediux.pro/assets/297405a8-84fb-4dcc-824e-cfd3971578cf
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/02c8f1f4-cd18-4fca-a225-d1ea66b75682
+      2:
+        url_poster: https://api.mediux.pro/assets/8db11648-aed1-44d6-b2dc-a7ec794eab4a
+      3:
+        url_poster: https://api.mediux.pro/assets/8c9af882-c2ef-461e-850c-4c7bbae594fa
+      4:
+        url_poster: https://api.mediux.pro/assets/3325f80c-24e1-4dc9-9886-6cb31651c889
+
+  428629: # Wonder Man (2026)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/7131599d-7866-434d-be1b-c0abf973b9fa
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/23edc553-73e2-4e82-8c44-ed78b329ef0a
+
+  211751: # Workaholics (2011)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/709e2b79-0df1-48fe-907f-bfc3c530c904
+    seasons:
+      0:
+        url_poster: https://api.mediux.pro/assets/30762a58-4e9b-42d2-abc8-7aa0e9c800e4
+      1:
+        url_poster: https://api.mediux.pro/assets/37b73010-8bd8-4855-80b7-f44639a5367f
+      2:
+        url_poster: https://api.mediux.pro/assets/a9bf1097-626c-443b-8607-6c7e7581cd66
+      3:
+        url_poster: https://api.mediux.pro/assets/e2ec426a-0faa-432e-a2bc-8172c389c5eb
+      4:
+        url_poster: https://api.mediux.pro/assets/30636958-9f0b-4376-bcf2-abb71a6e236d
+      5:
+        url_poster: https://api.mediux.pro/assets/c6d15164-eb16-4398-aa24-439f1c28b33c
+      6:
+        url_poster: https://api.mediux.pro/assets/3fe63e6d-f241-4457-878e-c6f6677ffa14
+      7:
+        url_poster: https://api.mediux.pro/assets/e9d2e6d0-1b28-4a7f-b407-9a8cdd4007ca
+
+  75640: # WWE Friday Night SmackDown (1999)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/557944
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/617137
+      1:
+        url_poster: https://theposterdb.com/api/assets/617138
+      2:
+        url_poster: https://theposterdb.com/api/assets/617139
+      3:
+        url_poster: https://theposterdb.com/api/assets/617140
+      4:
+        url_poster: https://theposterdb.com/api/assets/617141
+      5:
+        url_poster: https://theposterdb.com/api/assets/617142
+      6:
+        url_poster: https://theposterdb.com/api/assets/617143
+      7:
+        url_poster: https://theposterdb.com/api/assets/617144
+      8:
+        url_poster: https://theposterdb.com/api/assets/617145
+      9:
+        url_poster: https://theposterdb.com/api/assets/617146
+      10:
+        url_poster: https://theposterdb.com/api/assets/617147
+      11:
+        url_poster: https://theposterdb.com/api/assets/617148
+      12:
+        url_poster: https://theposterdb.com/api/assets/617149
+      13:
+        url_poster: https://theposterdb.com/api/assets/617150
+      14:
+        url_poster: https://theposterdb.com/api/assets/617151
+      15:
+        url_poster: https://theposterdb.com/api/assets/617152
+      16:
+        url_poster: https://theposterdb.com/api/assets/617153
+      17:
+        url_poster: https://theposterdb.com/api/assets/617154
+      18:
+        url_poster: https://theposterdb.com/api/assets/617155
+      19:
+        url_poster: https://theposterdb.com/api/assets/617156
+      20:
+        url_poster: https://theposterdb.com/api/assets/617157
+      21:
+        url_poster: https://theposterdb.com/api/assets/617158
+      22:
+        url_poster: https://theposterdb.com/api/assets/617159
+      23:
+        url_poster: https://theposterdb.com/api/assets/617160
+      24:
+        url_poster: https://theposterdb.com/api/assets/617161
+      25:
+        url_poster: https://theposterdb.com/api/assets/617162
+      26:
+        url_poster: https://theposterdb.com/api/assets/617163
+      27:
+        url_poster: https://theposterdb.com/api/assets/617164
+      28:
+        url_poster: https://theposterdb.com/api/assets/681612
+
+  144541: # WWE NXT (2010)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/557947
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/617166
+      1:
+        url_poster: https://theposterdb.com/api/assets/617167
+      2:
+        url_poster: https://theposterdb.com/api/assets/617168
+      3:
+        url_poster: https://theposterdb.com/api/assets/617169
+      4:
+        url_poster: https://theposterdb.com/api/assets/617170
+      5:
+        url_poster: https://theposterdb.com/api/assets/617171
+      6:
+        url_poster: https://theposterdb.com/api/assets/617172
+      7:
+        url_poster: https://theposterdb.com/api/assets/617173
+      8:
+        url_poster: https://theposterdb.com/api/assets/617174
+      9:
+        url_poster: https://theposterdb.com/api/assets/617175
+      10:
+        url_poster: https://theposterdb.com/api/assets/617176
+      11:
+        url_poster: https://theposterdb.com/api/assets/617177
+      12:
+        url_poster: https://theposterdb.com/api/assets/617178
+      13:
+        url_poster: https://theposterdb.com/api/assets/617179
+      14:
+        url_poster: https://theposterdb.com/api/assets/617180
+      15:
+        url_poster: https://theposterdb.com/api/assets/617181
+      16:
+        url_poster: https://theposterdb.com/api/assets/617182
+      17:
+        url_poster: https://theposterdb.com/api/assets/617183
+      18:
+        url_poster: https://theposterdb.com/api/assets/617184
+      19:
+        url_poster: https://theposterdb.com/api/assets/617185
+      20:
+        url_poster: https://theposterdb.com/api/assets/680635
+
+  76779: # WWE Raw (1993)
+    label: Art*
+    url_poster: https://theposterdb.com/api/assets/557942
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/617101
+      1:
+        url_poster: https://theposterdb.com/api/assets/617102
+      2:
+        url_poster: https://theposterdb.com/api/assets/617103
+      3:
+        url_poster: https://theposterdb.com/api/assets/617104
+      4:
+        url_poster: https://theposterdb.com/api/assets/617105
+      5:
+        url_poster: https://theposterdb.com/api/assets/617106
+      6:
+        url_poster: https://theposterdb.com/api/assets/617107
+      7:
+        url_poster: https://theposterdb.com/api/assets/617108
+      8:
+        url_poster: https://theposterdb.com/api/assets/617109
+      9:
+        url_poster: https://theposterdb.com/api/assets/617110
+      10:
+        url_poster: https://theposterdb.com/api/assets/617111
+      11:
+        url_poster: https://theposterdb.com/api/assets/617112
+      12:
+        url_poster: https://theposterdb.com/api/assets/617113
+      13:
+        url_poster: https://theposterdb.com/api/assets/617114
+      14:
+        url_poster: https://theposterdb.com/api/assets/617115
+      15:
+        url_poster: https://theposterdb.com/api/assets/617116
+      16:
+        url_poster: https://theposterdb.com/api/assets/617117
+      17:
+        url_poster: https://theposterdb.com/api/assets/617118
+      18:
+        url_poster: https://theposterdb.com/api/assets/617119
+      19:
+        url_poster: https://theposterdb.com/api/assets/617121
+      20:
+        url_poster: https://theposterdb.com/api/assets/617122
+      21:
+        url_poster: https://theposterdb.com/api/assets/617123
+      22:
+        url_poster: https://theposterdb.com/api/assets/617124
+      23:
+        url_poster: https://theposterdb.com/api/assets/617125
+      24:
+        url_poster: https://theposterdb.com/api/assets/617126
+      25:
+        url_poster: https://theposterdb.com/api/assets/617127
+      26:
+        url_poster: https://theposterdb.com/api/assets/617128
+      27:
+        url_poster: https://theposterdb.com/api/assets/617129
+      28:
+        url_poster: https://theposterdb.com/api/assets/617130
+      29:
+        url_poster: https://theposterdb.com/api/assets/617131
+      30:
+        url_poster: https://theposterdb.com/api/assets/617132
+      31:
+        url_poster: https://theposterdb.com/api/assets/617133
+      32:
+        url_poster: https://theposterdb.com/api/assets/617134
+      33:
+        url_poster: https://theposterdb.com/api/assets/617135
+      34:
+        url_poster: https://theposterdb.com/api/assets/680636
+
+  462799: # WWE: Unreal (2025)
+    label: Art*
+    url_poster: https://api.mediux.pro/assets/4d9b2b2f-d30f-4ea5-961b-734318dc04ea
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/a189ccca-8c77-45de-b289-7d0c74e47646
+      2:
+        url_poster: https://api.mediux.pro/assets/1753843b-ac3d-4606-8d1f-69d0bffe4537
+      3:
+        url_poster: https://api.mediux.pro/assets/6497c0fc-9ecf-4a24-8ac3-460adaa1040a
+
+  412432: # X-Men '97 (2024)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/eb0072bf-9227-4fed-8168-5526812eeaf6
+    url_background: https://api.mediux.pro/assets/dcbcc46d-b541-406e-a9aa-7eb2e9fc8d5a
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/cb15a715-e789-46b2-bc33-e52a1b52c863
+      2:
+        url_poster: https://api.mediux.pro/assets/1168c606-2496-45ef-8b8b-d9ed18e597bf
+
+  341164: # Yellowstone (2018)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/77682bf7-54fe-4f7d-ad7a-066fce693413
+    url_background: https://api.mediux.pro/assets/3a33e741-fc37-467b-8429-e40cb7308262
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/5b284b1f-d37c-453a-9d9d-6965ab7734c1
+      2:
+        url_poster: https://api.mediux.pro/assets/5837c97b-5f5e-49bd-970d-a031237ad929
+      3:
+        url_poster: https://api.mediux.pro/assets/170c6ad1-9544-40c5-847c-ee72ec83a754
+      4:
+        url_poster: https://api.mediux.pro/assets/290e429d-df25-47b9-a60f-dcfbdf2adf92
+      5:
+        url_poster: https://api.mediux.pro/assets/641787dd-e796-40e6-ac39-de98e2d21d5f
+
+  412427: # Your Friendly Neighborhood Spider-Man (2025)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/dfc2f391-35d5-4c2c-80a1-d9a85efbd292
+    url_background: https://api.mediux.pro/assets/9d0ad5fb-0279-4ae3-9dd5-1c3bff4b50c8
+    seasons:
+      1:
+        url_poster: https://api.mediux.pro/assets/f59fdcb9-2ff0-4941-a79c-f44fb8fb72a9

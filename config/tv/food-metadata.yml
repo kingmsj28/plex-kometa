@@ -1210,6 +1210,9 @@ metadata:
         url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/tv/guys-grocery-games/guys-grocery-games.png
         
   457049: # Is It Cake? Holiday (2024)
+    match:
+      title: "Is It Cake? Holiday"
+      year: 2024
     label:
       - Art*
       - Food*
