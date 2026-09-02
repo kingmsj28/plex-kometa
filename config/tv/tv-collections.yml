@@ -30,8 +30,10 @@ collections:
     
   Random TV Shows*:
     sort_title: "!020_Random TV Shows"
-    plex_all: true
-    smart_label: random
+    smart_filter:
+      all:
+        year.gte: 1900
+      sort_by: random
     collection_mode: show_items
     url_poster: https://raw.githubusercontent.com/kingmsj28/plex-kometa/main/assets/collections/custom/random-tv.png
 

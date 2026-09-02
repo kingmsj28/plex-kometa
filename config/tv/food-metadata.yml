@@ -1,6 +1,7 @@
 metadata:
 
   80552: # Kitchen Nightmares (US)(2007)
+    sort_title: "Kitchen Nightmares (US)"
     label:
       - Art*
       - Food*
@@ -706,6 +707,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/653241
         
   74584: # Ramsay's Kitchen Nightmares (2004)
+    sort_title: "Kitchen Nightmares (UK)"
     label:
       - Art*
       - Food*
