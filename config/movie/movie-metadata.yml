@@ -804,6 +804,7 @@ metadata:
     label: Art*
 
   11932: # Bride of Chucky (1998)
+    sort_title: "Child's Play 04"
     label: Art*
     url_poster: https://api.mediux.pro/assets/77a547d2-42e0-4ddf-9c08-641eb77cabe4
 
@@ -956,14 +957,17 @@ metadata:
     url_poster: https://api.mediux.pro/assets/b27822b3-d501-4151-8753-ba5ae2163357
 
   10585: # Child's Play (1988)
+    sort_title: "Child's Play 01"
     label: Art*
     url_poster: https://api.mediux.pro/assets/5bc5e3e7-e728-4016-a920-f3e042362434
 
   11186: # Child's Play 2 (1990)
+    sort_title: "Child's Play 02"
     label: Art*
     url_poster: https://api.mediux.pro/assets/36087c9b-836c-4e28-8d91-c47cb04ed7cd
 
   11187: # Child's Play 3 (1991)
+    sort_title: "Child's Play 03"
     label: Art*
     url_poster: https://api.mediux.pro/assets/3c2c890d-b60e-4023-b5f5-255efe83e8c9
 
@@ -1052,10 +1056,12 @@ metadata:
     label: Art*
 
   393345: # Cult of Chucky (2017)
+    sort_title: "Child's Play 07"
     label: Art*
     url_poster: https://api.mediux.pro/assets/d4c1b7ba-2a85-4cdb-9e51-bed60e32811b
 
   167032: # Curse of Chucky (2013)
+    sort_title: "Child's Play 06"
     label: Art*
     url_poster: https://api.mediux.pro/assets/19c1804c-1134-4b4d-8c6a-9614c8c4a7c3
 
@@ -2307,6 +2313,7 @@ metadata:
     url_poster: https://api.mediux.pro/assets/09cbd717-0b6e-4096-8660-073ee2ff52a3
 
   11249: # Seed of Chucky (2004)
+    sort_title: "Child's Play 05"
     label: Art*
     url_poster: https://api.mediux.pro/assets/0ac68c27-c0e3-4f5b-b438-a7b805f9f370
 
@@ -2732,3 +2739,22 @@ metadata:
   1084242: # Zootopia 2 (2025)
     url_poster: https://api.mediux.pro/assets/da52d9da-7e5a-4090-999a-12cb381dde5a
     label: Art*
+  520758: # Chicken Run: Dawn of the Nugget (2023)
+    label:
+      - Art*
+    url_poster: https://api.mediux.pro/assets/991b2c3d-1b10-46c9-bfc8-fd0fafa87b01
+    
+  850: # A Christmas Story (1983)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/584836
+
+  125504: # A Christmas Story 2 (2012)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/584835
+
+  929340: # A Christmas Story Christmas (2022)
+    label:
+      - Art*
+    url_poster: https://theposterdb.com/api/assets/584833
