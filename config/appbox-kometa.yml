@@ -35,9 +35,9 @@ libraries:
         - 1149208    # Commando
         - 1725885    # Evil Dead Standalone
 
-        append_addons:
-           1960:
-           - 1725885
+        append_addons: 
+           1960:     # Evil Dead
+           - 1725885 # Evil Dead Standalone
 
         #append_addons:
         #  8091:
